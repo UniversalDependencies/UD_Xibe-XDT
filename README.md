@@ -1,10 +1,12 @@
 # Summary
 
-The UD Xibe Treebank is a corpus of the Xibe language (ISO 639-3: *sjo*) containing manually annotated syntactic trees under the Universal Dependencies. Sentences come from three sources: grammar book examples, newspaper (Cabcal News) and Xibe textbooks. 
+The UD Xibe Treebank is a corpus of the Xibe language (ISO 639-3: *sjo*) containing manually annotated syntactic trees under the Universal Dependencies. Sentences come from three sources: grammar book examples, newspaper (Cabcal News) and Xibe textbooks.
+
 
 # Introduction
 
-The treebank was manually annotated for lemmas, universal part-of-speech, morphological features and dependency relations. 
+The treebank was manually annotated for lemmas, universal part-of-speech, morphological features and dependency relations.
+
 
 # Acknowledgements
 
@@ -19,6 +21,13 @@ If you use this treebank in your work, please cite:
   year={2020}
 }
 </pre>
+
+
+# Changelog
+
+* 2021-11-15 v2.9
+  * Initial release in Universal Dependencies.
+
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
@@ -36,5 +45,3 @@ Contributing: elsewhere
 Contact: hzh1@iu.edu
 ===============================================================================
 </pre>
-
-
