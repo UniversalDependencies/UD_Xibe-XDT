@@ -131,7 +131,7 @@
 # text[phon] = ini hahajui beijing deri bedereme jihebi
 # text[eng] = His son came back from Beijing
 1	ᡞᠨᡞ	ᡞᠨᡞ	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=ini
-2	ᡥᠠᡥᠠᡪᡠᡞ	ᡥᠠᡥᠠᡪᡠᡞ	NOUN	_	Number=Sing	6	nsubj	_	Translit=hahajui
+2	ᡥᠠᡥᠠᡪᡠᡞ	ᡥᠠᡥᠠᡪᡠᡞ	NOUN	_	_	6	nsubj	_	Translit=hahajui
 3	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	5	obl	_	Translit=beijing
 4	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Abl	3	case	_	Translit=deri
 5	ᠪᡝᡩᡝᠷᡝᠮᡝ	ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	6	advcl	_	Translit=bedereme
@@ -516,7 +516,7 @@
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᠪᡞᠰᡞᠷᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	6	acl	_	Translit=bisire
 6	ᡫᠣᠨᡩᡝ	ᡫᠣᠨ	NOUN	_	Case=Dat	14	obl:tmod	_	Translit=fonde
-7	,	,	PUNCT	_	_	5	punct	_	Translit=,
+7	,	,	PUNCT	_	_	6	punct	_	Translit=,
 8	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	Translit=bi
 9	ᠶᠠᠶᠠᠮᡠ	ᠶᠠᠶᠠᠮᡠ	ADJ	_	Degree=Pos	10	amod	_	Translit=yayamu
 10	ᠪᠠᠷᡠᡢᡤᡞ	ᠪᠠᠷᡠᡢᡤᡞ	NOUN	_	_	14	obl	_	Translit=barunggi
@@ -3183,7 +3183,7 @@
 5	ᠰᡞᡩᡝᠨ	ᠰᡞᡩᡝᠨ	NOUN	_	_	6	nmod	_	Translit=siden
 6	ᡠᠴᡠᠨ	ᡠᠴᡠᠨ	NOUN	_	_	10	obj	_	Translit=ucun
 7	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	6	case	_	Translit=be
-8	ᡨᡝᠷᠠᠯᡞ	ᡨᡝᠷᠠᠯᡞ	ADV	_	PronType=Dem	9	advmod	_	Translit=terali
+8	ᡨᡝᠷᠠᠯᡞ	ᡨᡝᠷᠠᠯᡞ	ADV	_	_	9	advmod	_	Translit=terali
 9	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	10	advmod	_	Translit=sain
 10	ᡠᠴᡠᠯᡝᠮᠪᡞ	ᡠᠴᡠᠯᡝᠮᠪᡞ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=uculembi
 11	。	。	PUNCT	_	_	10	punct	_	Translit=.
@@ -3204,7 +3204,7 @@
 # text = ᡠᡨᡨᡠ ᡤᡞᠰᡠᠷᡝᠴᡞ ᠣᡪᠣᠷᠠᡣᡡ , ᡨᡠᡨᡨᡠ ᡤᡞᠰᡠᠷᡝᠴᡞ ᡞᠨᡠ ᠣᡪᠣᠷᠠᡣᡡ , ᡪᡞᡩᡠᡪᡞ ᠠᠪᠰᡞ ᠣᠴᡞ ᠣᠮᠪᡞᠣ ?
 # text[phon] = uttu gisureci ojorakv, tuttu gisureci inu ojorakv, jiduji absi oci ombio?
 # text[eng] = Talking like this is not good, talking like that is not good, then how am I supposed to talk?
-1	ᡠᡨᡨᡠ	ᡠᡨᡨᡠ	ADV	_	PronType=Dem	2	advmod	_	Translit=uttu
+1	ᡠᡨᡨᡠ	ᡠᡨᡨᡠ	ADV	_	_	2	advmod	_	Translit=uttu
 2	ᡤᡞᠰᡠᠷᡝᠴᡞ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Mood=Cnd|Tense=Pres|VerbForm=Fin	3	advcl	_	Translit=gisureci
 3	ᠣᡪᠣᠷᠠᡣᡡ	ᠣᡪᠣᠷᠠᡣᡡ	VERB	_	Polarity=Neg	13	advcl	_	Translit=ojorakv
 4	,	,	PUNCT	_	_	3	punct	_	Translit=,
@@ -3214,7 +3214,7 @@
 8	ᠣᡪᠣᠷᠠᡣᡡ	ᠣᡪᠣᠷᠠᡣᡡ	VERB	_	Polarity=Neg	3	conj	_	Translit=ojorakv
 9	,	,	PUNCT	_	_	8	punct	_	Translit=,
 10	ᡪᡞᡩᡠᡪᡞ	ᡪᡞᡩᡠᡪᡞ	ADV	_	_	12	advmod	_	Translit=jiduji
-11	ᠠᠪᠰᡞ	ᠠᠪᠰᡞ	ADV	_	PronType=Int	12	obl	_	Translit=absi
+11	ᠠᠪᠰᡞ	ᠠᠪᠰᡞ	ADV	_	_	12	obl	_	Translit=absi
 12	ᠣᠴᡞ	ᠣᠮᠪᡞ	VERB	_	Mood=Cnd|VerbForm=Conv	13	advcl	_	Translit=oci
 13	ᠣᠮᠪᡞᠣ	ᠣᠮᠪᡞ	VERB	_	VerbForm=Fin	0	root	_	Translit=ombio
 14	?	?	PUNCT	_	_	13	punct	_	Translit=?
@@ -3223,13 +3223,13 @@
 # text = ᠠᡨᡝᡣᡝ ᡠᡪᡝᠨ ᠣᠶᠣᡢᡤᠣ ᠪᠠᡞᡨᠠ ᠪᡝ , ᠠᡞᠨᡠ ᠮᡞᠨᡩᡝ ᠠᠯᠠᠷᠠᡣᡡ ?
 # text[phon] = ateke ujen oyonggo baita be, ainu minde alarakv?
 # text[eng] = Why don't you let me know this important thing?
-1	ᠠᡨᡝᡣᡝ	ᠠᡨᡝᡣᡝ	ADV	_	PronType=Dem	4	advmod	_	Translit=ateke
+1	ᠠᡨᡝᡣᡝ	ᠠᡨᡝᡣᡝ	ADV	_	_	4	advmod	_	Translit=ateke
 2	ᡠᡪᡝᠨ	ᡠᡪᡝᠨ	ADJ	_	_	4	amod	_	Translit=ujen
 3	ᠣᠶᠣᡢᡤᠣ	ᠣᠶᠣᡢᡤᠣ	ADJ	_	_	2	compound	_	Translit=oyonggo
 4	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	9	obj	_	Translit=baita
 5	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	4	case	_	Translit=be
 6	,	,	PUNCT	_	_	7	punct	_	Translit=,
-7	ᠠᡞᠨᡠ	ᠠᡞᠨᡠ	ADV	_	PronType=Int	9	advmod	_	Translit=ainu
+7	ᠠᡞᠨᡠ	ᠠᡞᠨᡠ	ADV	_	_	9	advmod	_	Translit=ainu
 8	ᠮᡞᠨᡩᡝ	ᠮᡞᠨᡩᡝ	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	obl	_	Translit=minde
 9	ᠠᠯᠠᠷᠠᡣᡡ	ᠠᠯᠠᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=alarakv
 10	?	?	PUNCT	_	_	9	punct	_	Translit=?
@@ -3309,7 +3309,7 @@
 1	ᡨᡝᠷᡝᡞ	ᡨᡝᠷᡝᡞ	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=terei
 2	ᠪᠠᠨᡞᠨ	ᠪᠠᠨᡞᠨ	NOUN	_	_	6	nsubj	_	Translit=banin
 3	ᡫᡝᡨᡝᠨ	ᡫᡝᡨᡝᠨ	NOUN	_	_	2	compound	_	Translit=feten
-4	ᠠᡨᡝᡣᡝ	ᠠᡨᡝᡣᡝ	ADV	_	PronType=Dem	6	advmod	_	Translit=ateke
+4	ᠠᡨᡝᡣᡝ	ᠠᡨᡝᡣᡝ	ADV	_	_	6	advmod	_	Translit=ateke
 5	ᡥᠠᡨᠠᠨ	ᡥᠠᡨᠠᠨ	ADJ	_	_	6	amod	_	Translit=hatan
 6	ᡫᡠᠷᡠ	ᡫᡠᠷᡠ	NOUN	_	_	16	advcl	_	Translit=furu
 7	ᠣᡫᡞ	ᠣᡫᡞ	SCONJ	_	_	6	mark	_	Translit=ofi
@@ -3318,7 +3318,7 @@
 10	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	16	obl	_	Translit=niyalma
 11	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	10	case	_	Translit=de
 12	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	16	advmod	_	Translit=inu
-13	ᡨᡝᠨᡨᡝᡣᡝ	ᡨᡝᠨᡨᡝᡣᡝ	ADV	_	PronType=Dem	16	advmod	_	Translit=tenteke
+13	ᡨᡝᠨᡨᡝᡣᡝ	ᡨᡝᠨᡨᡝᡣᡝ	ADV	_	_	16	advmod	_	Translit=tenteke
 14	ᡩᠣᠷᠣ	ᡩᠣᠷᠣ	NOUN	_	_	16	obj	_	Translit=doro
 15	ᠶᠣᠰᠣ	ᠶᠣᠰᠣ	NOUN	_	_	14	compound	_	Translit=yoso
 16	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	0	root	_	Translit=akv
@@ -3431,7 +3431,7 @@
 5	ᠰᡞᡩᡝᠨ	ᠰᡞᡩᡝᠨ	NOUN	_	_	6	nmod	_	Translit=siden
 6	ᡠᠴᡠᠨ	ᡠᠴᡠᠨ	NOUN	_	_	10	obj	_	Translit=ucun
 7	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	6	case	_	Translit=be
-8	ᡨᡝᠷᠠᠯᡞᡢᡤᡝ	ᡨᡝᠷᠠᠯᡞᡢᡤᡝ	ADV	_	PronType=Dem	9	advmod	_	Translit=teralingge
+8	ᡨᡝᠷᠠᠯᡞᡢᡤᡝ	ᡨᡝᠷᠠᠯᡞᡢᡤᡝ	ADV	_	_	9	advmod	_	Translit=teralingge
 9	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	10	advmod	_	Translit=sain
 10	ᡠᠴᡠᠯᡝᠮᠪᡞ	ᡠᠴᡠᠯᡝᠮᠪᡞ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	Translit=uculembi
 11	。	。	PUNCT	_	_	10	punct	_	Translit=.
@@ -4536,7 +4536,7 @@
 3	ᠮᠠᡢᡤᡞ	ᠮᠠᡢᡤᡞ	ADP	_	_	2	case	_	Translit=manggi
 4	ᡫᡠᡥᠠᠯᡞ	ᡫᡠᡥᠠᠯᡞ	ADV	_	_	5	advmod	_	Translit=fuhali
 5	ᡨᡝᠶᡝᠷᡝ	ᡨᡝᠶᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	6	acl	_	Translit=teyere
-6	ᠴᡞᡥᠠᡣᡡ	ᠴᡞᡥᠠᡣᡡ	NOUN	_	Polarity=Neg	19	obl	_	Translit=cihakv
+6	ᠴᡞᡥᠠᡣᡡ	ᠴᡞᡥᠠᡣᡡ	VERB	_	Aspect=Perf|Polarity=Neg|VerbForm=Part	19	obl	_	Translit=cihakv
 7	,	,	PUNCT	_	_	6	punct	_	Translit=,
 8	ᡠᡨᡥᠠᡞ	ᡠᡨᡥᠠᡞ	ADV	_	_	19	advmod	_	Translit=uthai
 9	ᠰᡠᠨᡪᠠ	ᠰᡠᠨᡪᠠ	NUM	_	NumType=Card	10	compound	_	Translit=sunja
@@ -5434,7 +5434,7 @@
 # text[phon] = kicebe serengge tacin fonjin i šanggara fulehe.
 # text[eng] = Diligence is foundation of the success of study.
 1	ᡣᡞᠴᡝᠪᡝ	ᡣᡞᠴᡝᠪᡝ	ADJ	_	_	7	nsubj	_	Translit=kicebe
-2	ᠰᡝᠷᡝᡢᡤᡝ	ᠰᡝᠮᠪᡞ	ADP	_	Aspect=Imp|VerbForm=Vnoun	1	case	_	Translit=serengge
+2	ᠰᡝᠷᡝᡢᡤᡝ	ᠰᡝᠮᠪᡞ	ADP	_	_	1	case	_	Translit=serengge
 3	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	6	nmod	_	Translit=tacin
 4	ᡫᠣᠨᡪᡞᠨ	ᡫᠣᠨᡪᡞᠨ	NOUN	_	_	3	compound	_	Translit=fonjin
 5	ᡞ	ᡞ	ADP	_	Case=Gen	3	case	_	Translit=i
@@ -7630,7 +7630,7 @@
 # text = ᠰᡞᠮᠪᡝ ᠮᡞᠨᡞ ᠰᡝᡪᡝᠨ ᠪᡝ ᠶᠠᠯᡠᡫᡞ ᠨᡝᠨᡝᠮᡝ ᠪᡝᡩᡝᠷᡝ ᠰᡝᠷᡝᡢᡤᡝ , ᠰᡠᠸᡝᠨᡞ ᠪᠣᡠ ᡞ ᡠᠷᠰᡝ ᡨᠠᡨᠠᡧᠠᠷᠠᡣᡡ ᠣᡣᡞᠨᡞ ᠰᡝᠷᡝ ᡪᠠᠯᡞᠨ 。
 # text[phon] = simbe mini sejen be yalufi neneme bedere serengge, suweni boo i urse tatašarakv okini sere jalin.
 # text[eng] = The reason why I asked you to ride my bicycle back first is not to make your parents worry about you.
-1	ᠰᡞᠮᠪᡝ	ᠰᡞᠮᠪᡝ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs|Voice=Cau	7	nsubj	_	Translit=simbe
+1	ᠰᡞᠮᠪᡝ	ᠰᡞᠮᠪᡝ	PRON	_	Case=Acc|Number=Sing|Person=2|PronType=Prs	7	nsubj	_	Translit=simbe
 2	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	Translit=mini
 3	ᠰᡝᡪᡝᠨ	ᠰᡝᡪᡝᠨ	NOUN	_	_	5	obj	_	Translit=sejen
 4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
@@ -9378,7 +9378,7 @@
 14	ᠨᡞᠶᠠᠯᠮᠠᠰᡠᡞ	ᠨᡞᠶᠠᠯᠮᠠᠰᡠ	NOUN	_	Case=Gen	15	nmod	_	Translit=niyalmasui
 15	ᡠᠪᡠ	ᡠᠪᡠ	NOUN	_	_	18	nmod	_	Translit=ubu
 16	ᡥᡝᠰᡝᠪᡠᠨ	ᡥᡝᠰᡝᠪᡠᠨ	NOUN	_	_	15	compound	_	Translit=hesebun
-17	ᡠᡥᡝᡞ	ᡠᡥᡝ	ADJ	_	Case=Gen	18	amod	_	Translit=uhei
+17	ᡠᡥᡝᡞ	ᡠᡥᡝ	ADJ	_	_	18	amod	_	Translit=uhei
 18	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	22	obj	_	Translit=dursun
 19	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	18	case	_	Translit=be
 20	ᠰᡞᠷᠠᠨᡩᡠᡥᠠᡞ	ᠰᡞᠷᠠᠨᡩᡠᡥᠠᡞ	ADV	_	_	22	advmod	_	Translit=siranduhai
@@ -10277,8 +10277,8 @@
 22	ᡨᠠᡨᠠᠮᡝ	ᡨᠠᡨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	82	advcl	_	Translit=tatame
 23	︐	︐	PUNCT	_	_	22	punct	_	Translit=,
 24	ᡩᠠᠶᡝ	ᡩᠠᠶᡝ	NOUN	_	_	27	nsubj	_	Translit=daye
-25	ᠠᠮᡣᡝ	ᠠᠮᡣᡝ	NOUN	_	_	24	conj	_	Translit=amke
-26	ᠰᠠ	ᠰᠠ	PART	_	Number=Plur	24	mark:plur	_	Translit=sa
+25	ᠠᠮᡣᡝ	ᠠᠮᡣᡝ	NOUN	_	Number=Plur	24	conj	_	Translit=amke
+26	ᠰᠠ	ᠰᠠ	PART	_	_	24	mark:plur	_	Translit=sa
 27	ᠮᠠᡣᠰᡞᠷᡝ	ᠮᠠᡣᠰᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	32	obl	_	Translit=maksire
 28	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	27	case	_	Translit=de
 29	ᠠᠰᡞᡤᠠᠨ	ᠠᠰᡞᡤᠠᠨ	ADJ	_	_	30	amod	_	Translit=asigan
@@ -11430,7 +11430,7 @@
 17	ᡪᠣᡩᠣᠮᡝ	ᡪᠣᡩᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	18	advcl	_	Translit=jodome
 18	ᡫᠣᠷᠣᠮᡝ	ᡫᠣᠷᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	20	advcl	_	Translit=forome
 19	ᡝᡨᡠᡣᡠ	ᡝᡨᡠᡣᡠ	NOUN	_	_	20	obj	_	Translit=etuku
-20	ᠠᠷᠠᠷᠠ	ᠠᠷᠠᠷᠠ	NOUN	_	Aspect=Imp|VerbForm=Part	21	acl:relcl	_	Translit=arara
+20	ᠠᠷᠠᠷᠠ	ᠠᠷᠠᠷᠠ	VERB	_	Aspect=Imp|VerbForm=Part	21	acl:relcl	_	Translit=arara
 21-22	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 21	ᠴᡞ	ᠴᡞ	X	_	_	23	nsubj	_	Translit=ci
 22	ᠶᡝ	ᠶᡝ	X	_	_	21	fixed	_	Translit=ye
@@ -13749,8 +13749,8 @@
 6	ᡪᠠᡥᡝᠰᡨᠠᡞ	ᡪᠠᡥᡝᠰᡨᠠᡞ	PROPN	_	_	7	compound	_	Translit=jahestai
 7	ᡪᡝᠨ	ᡪᡝᠨ	NOUN	_	_	9	nmod	_	Translit=jen
 8	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	7	case	_	Translit=i
-9	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	23	nsubj	_	Translit=usisi
-10	ᠰᠠ	ᠰᠠ	PART	_	Number=Plur	9	mark:plur	_	Translit=sa
+9	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	Number=Plur	23	nsubj	_	Translit=usisi
+10	ᠰᠠ	ᠰᠠ	PART	_	_	9	mark:plur	_	Translit=sa
 11	“	“	PUNCT	_	_	14	punct	_	Translit="
 12	ᡨᡠᠸᡝᠷᡞ	ᡨᡠᠸᡝᠷᡞ	NOUN	_	_	14	nmod	_	Translit=tuweri
 13	ᡧᠣᠯᠣ	ᡧᠣᠯᠣ	NOUN	_	_	14	nmod	_	Translit=šolo
@@ -15217,8 +15217,8 @@
 21	ᡣᡠᠷᡝᠨ	ᡣᡠᠷᡝᠨ	NOUN	_	_	15	conj	_	Translit=kuren
 22	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	15	case	_	Translit=i
 23	ᡫᠠᡣᠰᡞᡢᡤᠠ	ᡫᠠᡣᠰᡞᡢᡤᠠ	ADJ	_	_	24	amod	_	Translit=faksingga
-24	ᡥᡝᠷᡤᡝᠰᡞ	ᡥᡝᠷᡤᡝᠰᡞ	NOUN	_	_	33	nsubj	_	Translit=hergesi
-25	ᠰᡝ	ᠰᡝ	PART	_	Number=Plur	24	mark:plur	_	Translit=se
+24	ᡥᡝᠷᡤᡝᠰᡞ	ᡥᡝᠷᡤᡝᠰᡞ	NOUN	_	Number=Plur	33	nsubj	_	Translit=hergesi
+25	ᠰᡝ	ᠰᡝ	PART	_	_	24	mark:plur	_	Translit=se
 26	ᠮᡞ	ᠮᡞ	PROPN	_	_	29	compound	_	Translit=mi
 27	ᠯᡞᠶᠠᡢ	ᠯᡞᠶᠠᡢ	PROPN	_	_	26	flat:name	_	Translit=liyang
 28	ᠴᡞᠣᠸᠠᠨ	ᠴᡞᠣᠸᠠᠨ	PROPN	_	_	27	flat:name	_	Translit=ciowan
@@ -15285,7 +15285,7 @@
 12	︐	︐	PUNCT	_	_	11	punct	_	Translit=,
 13	ᡨᠣᡣᠰᠣᡞ	ᡨᠣᡣᠰᠣ	NOUN	_	Case=Gen	14	nmod	_	Translit=toksoi
 14	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	22	nsubj	_	Translit=irgen
-15	ᡝᠷᡩᡝᡣᡝᠨ	ᡝᠷᡩᡝᡣᡝᠨ	ADJ	_	Degree=Cmp	22	advmod	_	Translit=erdeken
+15	ᡝᠷᡩᡝᡣᡝᠨ	ᡝᠷᡩᡝᡣᡝᠨ	ADJ	_	_	22	advmod	_	Translit=erdeken
 16	ᡞ᠋	ᡞ᠋	PART	_	_	15	mark:adv	_	Translit=i
 17	ᡨᠣᡣᠰᠣᡞ	ᡨᠣᡣᠰᠣ	NOUN	_	Case=Gen	18	nmod	_	Translit=toksoi
 18-20	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
@@ -16963,8 +16963,8 @@
 19	ᠴᡞ	ᠴᡞ	ADP	_	Case=Lat	18	case	_	Translit=ci
 20	ᡝᠪᡠᡥᡝᡩᡝ	ᡝᠪᡠᠮᠪᡞ	VERB	_	Aspect=Perf|Case=Dat|VerbForm=Part	32	obl	_	Translit=ebuhede
 21	︐	︐	PUNCT	_	_	20	punct	_	Translit=,
-22	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	32	nsubj	_	Translit=usisi
-23	ᠰᠠ	ᠰᠠ	PART	_	Number=Plur	22	mark:plur	_	Translit=sa
+22	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	Number=Plur	32	nsubj	_	Translit=usisi
+23	ᠰᠠ	ᠰᠠ	PART	_	_	22	mark:plur	_	Translit=sa
 24	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	32	advmod	_	Translit=gemu
 25	ᡞᠮᠪᡝ	ᡞᠮᠪᡝ	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	26	obj	_	Translit=imbe
 26	ᡨᠠᡨᠠᠮᡝ	ᡨᠠᡨᠠᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	32	advcl	_	Translit=tatame
@@ -17204,7 +17204,7 @@
 38	︐	︐	PUNCT	_	_	37	punct	_	Translit=,
 39	ᡝᠷᡞᠨ	ᡝᠷᡞᠨ	NOUN	_	_	43	nmod	_	Translit=erin
 40	ᡪᠠᠯᠠᠨ	ᡪᠠᠯᠠᠨ	NOUN	_	_	39	compound	_	Translit=jalan
-41	ᡞ᠋	ᡞ᠋	PART	_	Case=Gen	39	mark	_	Translit=i
+41	ᡞ᠋	ᡞ᠋	PART	_	_	39	mark	_	Translit=i
 42	ᡩᠠ	ᡩᠠ	NOUN	_	_	43	nmod	_	Translit=da
 43	ᡪᠣᠷᡞᡢᡤᠠ	ᡪᠣᠷᡞᡢᡤᠠ	NOUN	_	_	45	obj	_	Translit=joringga
 44	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	43	case	_	Translit=be
@@ -18352,7 +18352,7 @@
 19	3	3	NUM	_	NumType=Card	20	nummod	_	Translit=3
 20	ᠪᡞᠶᠠᡞ	ᠪᡞᠶᠠ	NOUN	_	Case=Gen	24	nmod	_	Translit=biyai
 21	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	22	amod	_	Translit=ice
-22	3	3	NOUN	_	NumType=Card	24	nummod	_	Translit=3
+22	3	3	NUM	_	NumType=Card	24	nummod	_	Translit=3
 23	ᡞ	ᡞ	ADP	_	Case=Gen	22	case	_	Translit=i
 24	ᡞᠨᡝᡢᡤᡞ	ᡞᠨᡝᡢᡤᡞ	NOUN	_	_	33	obl:tmod	_	Translit=inenggi
 25	ᠠᠮᠠᠰᡞ	ᠠᠮᠠᠰᡞ	ADV	_	_	24	compound	_	Translit=amasi
