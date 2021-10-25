@@ -132,7 +132,7 @@
 # text[eng] = His son came back from Beijing
 1	ᡞᠨᡞ	ᡞᠨᡞ	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=ini
 2	ᡥᠠᡥᠠᡪᡠᡞ	ᡥᠠᡥᠠᡪᡠᡞ	NOUN	_	Number=Sing	6	nsubj	_	Translit=hahajui
-3	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	5	obl:loc	_	Translit=beijing
+3	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	5	obl	_	Translit=beijing
 4	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Abl	3	case	_	Translit=deri
 5	ᠪᡝᡩᡝᠷᡝᠮᡝ	ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	6	advcl	_	Translit=bedereme
 6	ᡪᡞᡥᡝᠪᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past	0	root	_	Translit=jihebi
@@ -424,7 +424,7 @@
 4	ᠰᡝᡫᡠ	ᠰᡝᡫᡠ	NOUN	_	_	7	nmod	_	Translit=sefu
 5	ᡩᡠᠷᡠᡤᠠᡢᡤᠠ	ᡩᡠᠷᡠᡤᠠᡢᡤᠠ	ADJ	_	Degree=Pos	7	amod	_	Translit=durugangga
 6	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	Degree=Pos	7	amod	_	Translit=amba
-7	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	9	obl:loc	_	Translit=tacikv
+7	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	9	obl	_	Translit=tacikv
 8	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	7	case	_	Translit=de
 9	ᡨᠠᠴᡞᠮᠠᡥᠠᠪᡞ	ᡨᠠᠴᡞᠮᠪᡞ	VERB	_	Aspect=Prog|Tense=Pres	0	root	_	Translit=tacimahabi
 10	。	。	PUNCT	_	_	9	punct	_	Translit=.
@@ -546,7 +546,7 @@
 2	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	Translit=mini
 3	ᠰᠠᠷᡤᠠᠨᡪᡠᡞ	ᠰᠠᠷᡤᠠᠨᡪᡠᡞ	NOUN	_	_	5	nmod	_	Translit=saraganjui
 4	ᡞ	ᡞ	ADP	_	Case=Gen	3	case	_	Translit=i
-5	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	9	obl:loc	_	Translit=boo
+5	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	9	obl	_	Translit=boo
 6	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	5	case	_	Translit=de
 7	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	8	nummod	_	Translit=emu
 8	ᠪᡞᠶᠠ	ᠪᡞᠶᠠ	NOUN	_	_	9	obl:tmod	_	Translit=biya
@@ -560,7 +560,7 @@
 1	ᡥᠠᠯᡥᡡᠨ	ᡥᠠᠯᡥᡡᠨ	ADJ	_	Degree=Pos	2	amod	_	Translit=halhvn
 2	ᡧᠣᠯᠣ	ᡧᠣᠯᠣ	NOUN	_	_	9	obl:tmod	_	Translit=šolo
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
-4	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	9	obl:loc	_	Translit=beijing
+4	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	9	obl	_	Translit=beijing
 5	、	、	PUNCT	_	_	6	punct	_	Translit=、
 6	ᡧᠠᡢᡥᠠᡞ	ᡧᠠᡢᡥᠠᡞ	PROPN	_	_	4	conj	_	Translit=shanghai
 7	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	6	case	_	Translit=de
@@ -609,7 +609,7 @@
 # text[phon] = tese urumci de genembi.
 # text[eng] = They will go to Urumqi.
 1	ᡨᡝᠰᡝ	ᡨᡝᠰᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs	4	nsubj	_	Translit=tese
-2	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	4	obl:loc	_	Translit=urumci
+2	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	4	obl	_	Translit=urumci
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Abl	2	case	_	Translit=de
 4	ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Fut|VerbForm=Fin	0	root	_	Translit=genembi
 5	。	。	PUNCT	_	_	4	punct	_	Translit=.
@@ -752,7 +752,7 @@
 6	ᠪᠠᡥᠠᡫᡞ	ᠪᠠᡥᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	11	advcl	_	Translit=bahafi
 7	,	,	PUNCT	_	_	6	punct	_	Translit=,
 8	ᠪᡝᡞᡩᡝᠪᡠᠮᡝ	ᠪᡝᡞᡩᡝᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Cau	11	advcl	_	Translit=beidebume
-9	ᡤᡞᠨᡩᠠᠨᠠ	ᡤᡞᠨᡩᠠᠨᠠ	NOUN	_	_	11	obl:loc	_	Translit=gindana
+9	ᡤᡞᠨᡩᠠᠨᠠ	ᡤᡞᠨᡩᠠᠨᠠ	NOUN	_	_	11	obl	_	Translit=gindana
 10	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	9	case	_	Translit=de
 11	ᡥᠣᠷᡞᠪᡠᡥᠠᠪᡞ	ᡥᠣᠷᡞᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	Translit=horibuhabi
 12	。	。	PUNCT	_	_	11	punct	_	Translit=.
@@ -790,7 +790,7 @@
 4	ᡝᠮᡞᠯᡝ	ᡝᠮᡞᠯᡝ	ADJ	_	Degree=Pos	5	amod	_	Translit=emile
 5	ᠴᠣᡣᠣ	ᠴᠣᡣᠣ	NOUN	_	_	7	nmod	_	Translit=coko
 6	ᡞ	ᡞ	ADP	_	Case=Gen	5	case	_	Translit=i
-7	ᠠᠮᠠᠯᠠ	ᠠᠮᠠᠯᠠ	NOUN	_	_	8	obl:loc	_	Translit=amala
+7	ᠠᠮᠠᠯᠠ	ᠠᠮᠠᠯᠠ	NOUN	_	_	8	obl	_	Translit=amala
 8	ᡩᠠᡥᠠᠴᠠᠮᡝ	ᡩᠠᡥᠠᠴᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	9	advcl	_	Translit=dahacame
 9	ᡫᡝᡣᠰᡞᠮᠪᡞ	ᡫᡝᡣᠰᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=feksimbi
 10	。	。	PUNCT	_	_	9	punct	_	Translit=.
@@ -800,13 +800,13 @@
 # text[phon] = geren jahvdai de tecefi , bira i dolo sargašame eficembi.
 # text[eng] = All sit in the boat, go sight-seeing in the river.
 1	ᡤᡝᠷᡝᠨ	ᡤᡝᠷᡝᠨ	PRON	_	Number=Plur|PronType=Tot	10	nsubj	_	Translit=geren
-2	ᡪᠠᡥᡡᡩᠠᡞ	ᡪᠠᡥᡡᡩᠠᡞ	NOUN	_	_	4	obl:loc	_	Translit=jahvdai
+2	ᡪᠠᡥᡡᡩᠠᡞ	ᡪᠠᡥᡡᡩᠠᡞ	NOUN	_	_	4	obl	_	Translit=jahvdai
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡨᡝᠴᡝᡫᡞ	ᡨᡝᠴᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	10	advcl	_	Translit=tecefi
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
 6	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	8	nmod	_	Translit=bira
 7	ᡞ	ᡞ	ADP	_	Case=Gen	6	case	_	Translit=i
-8	ᡩᠣᠯᠣ	ᡩᠣᠯᠣ	NOUN	_	_	9	obl:loc	_	Translit=dolo
+8	ᡩᠣᠯᠣ	ᡩᠣᠯᠣ	NOUN	_	_	9	obl	_	Translit=dolo
 9	ᠰᠠᠷᡤᠠᡧᠠᠮᡝ	ᠰᠠᠷᡤᠠᡧᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	10	advcl	_	Translit=sargašame
 10	ᡝᡫᡞᠴᡝᠮᠪᡞ	ᡝᡫᡞᠴᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=eficembi
 11	。	。	PUNCT	_	_	10	punct	_	Translit=.
@@ -887,7 +887,7 @@
 6	ᠰᠠᠷᡣᡡ	ᠰᠠᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Fin	12	advcl	_	Translit=sarakv
 7	,	,	PUNCT	_	_	6	punct	_	Translit=,
 8	ᠠᠮᡠ	ᠠᠮᡠ	NOUN	_	_	9	nmod	_	Translit=amu
-9	ᡨᠣᠯᡤᡞᠨ	ᡨᠣᠯᡤᡞᠨ	NOUN	_	_	11	obl:loc	_	Translit=tolgin
+9	ᡨᠣᠯᡤᡞᠨ	ᡨᠣᠯᡤᡞᠨ	NOUN	_	_	11	obl	_	Translit=tolgin
 10	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	9	case	_	Translit=de
 11	ᡤᠣᠯᠣᡥᠣᠨᡪᠣᡫᡞ	ᡤᠣᠯᠣᡥᠣᠨᡪᠣᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	12	advcl	_	Translit=golohomjofi
 12	ᠰᠣᡢᡤᠣᠮᠪᡞ	ᠰᠣᡢᡤᠣᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=songgombi
@@ -1062,7 +1062,7 @@
 # text[eng] = I havent ever been lived in hospital.
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=bi
 2	ᡩᠠᡞᡫᡠᠷᠠᠨ	ᡩᠠᡞᡫᡠᠷᠠᠨ	NOUN	_	_	3	compound	_	Translit=daifuran
-3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl:loc	_	Translit=kvwaran
+3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl	_	Translit=kvwaran
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=dedume
 6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	5	aux	_	Translit=dulehekv
@@ -1074,7 +1074,7 @@
 # text[eng] = I havent ever been lived in hospital.
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	Translit=bi
 2	ᡩᠠᡞᡫᡠᠷᠠᠨ	ᡩᠠᡞᡫᡠᠷᠠᠨ	NOUN	_	_	3	compound	_	Translit=daifuran
-3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl:loc	_	Translit=kvwaran
+3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl	_	Translit=kvwaran
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=dedume
 6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	5	aux	_	Translit=dulehekv
@@ -1109,7 +1109,7 @@
 # text[phon] = bi Mukden de geneme dulehekv.
 # text[eng] = I have never been to Shenyang.
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
-2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl:loc	_	Translit=Mukden
+2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl	_	Translit=Mukden
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=geneme
 5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	4	aux	_	Translit=dulehekv
@@ -1120,7 +1120,7 @@
 # text[phon] = bi Mukden de geneme dulehekv bi.
 # text[eng] = I have never been to Shenyang.
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
-2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl:loc	_	Translit=Mukden
+2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl	_	Translit=Mukden
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=geneme
 5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	4	aux	_	Translit=dulehekv
@@ -1131,7 +1131,7 @@
 # text = ᠠᠯᡞᠨ ᡩᡝ ᠨᡞᡠᡥᡝ ᠰᠠᠪᡠᡥᠠᡣᡡ 。
 # text[phon] = alin de niohe sabuhakv.
 # text[eng] = Wolf has never been seen in the mountain.
-1	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	4	obl:loc	_	Translit=alin
+1	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	4	obl	_	Translit=alin
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᠨᡞᡠᡥᡝ	ᠨᡞᡠᡥᡝ	NOUN	_	_	4	obj	_	Translit=niohe
 4	ᠰᠠᠪᡠᡥᠠᡣᡡ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	Translit=sabuhakv
@@ -1234,7 +1234,7 @@
 # text[phon] = si ubci jio.
 # text[eng] = You come here.
 1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Translit=si
-2	ᡠᠪᠠᠴᡞ	ᡠᠪᠠᠴᡞ	PRON	_	Case=Lat|PronType=Dem	3	obl:loc	_	Translit=ubaci
+2	ᡠᠪᠠᠴᡞ	ᡠᠪᠠᠴᡞ	PRON	_	Case=Lat|PronType=Dem	3	obl	_	Translit=ubaci
 3	ᡪᡞᡠ	ᡪᡞᠮᠪᡞ	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	Translit=jio
 4	。	。	PUNCT	_	_	3	punct	_	Translit=.
 
@@ -1388,7 +1388,7 @@
 4	ᡪᠠᠰᡞᡤᠠᠨ	ᡪᠠᠰᡞᡤᠠᠨ	NOUN	_	_	9	obj	_	Translit=jasigan
 5	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	4	case	_	Translit=be
 6	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	Translit=mini
-7	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	9	obl:loc	_	Translit=boo
+7	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	9	obl	_	Translit=boo
 8	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	7	case	_	Translit=de
 9	ᡞᠰᡞᠪᡠᠷᡝᡠ	ᡞᠰᡞᠪᡠᠮᠪᡞ	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin|Voice=Cau	0	root	_	Translit=isibureo
 10	。	。	PUNCT	_	_	9	punct	_	Translit=.
@@ -1421,7 +1421,7 @@
 # text = ᡨᠠᠴᡞᡣᡡ ᡩᡝ ᡪᡞᡥᡝ ᠪᡝ ᡩᠠᡥᠠᠮᡝ , ᠪᡞᡠᠨᡥᡝ ᠪᡝ ᠰᠠᡞᠨ ᡨᠠᠴᡞᠴᡞᠨᠠ 。
 # text[phon] = tacikv de jihe be dahame , bithe be sain tacicina.
 # text[eng] = Now that I come to school, I hope to study hard.
-1	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	3	obl:loc	_	Translit=tacikv
+1	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	3	obl	_	Translit=tacikv
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᡪᡞᡥᡝ	ᡪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	5	obj	_	Translit=jihe
 4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
@@ -1441,7 +1441,7 @@
 2	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	7	obl:tmod	_	Translit=cimari
 3	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Case=Gen|Number=Sing|Person=2|Poss=Yes|PronType=Prs	7	obl	_	Translit=sini
 4	ᡝᠮᡤᡞ	ᡝᠮᡤᡞ	ADP	_	Case=Com	3	case	_	Translit=emgi
-5	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	7	obl:loc	_	Translit=cabcal
+5	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	7	obl	_	Translit=cabcal
 6	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	5	case	_	Translit=de
 7	ᡤᡝᠨᡝᡣᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	Translit=geneki
 8	ᠰᡝᠮᠪᡞ	ᠰᡝᠮᠪᡞ	AUX	_	_	7	aux	_	Translit=sembi
@@ -1507,7 +1507,7 @@
 3	ᠰᠠᠪᡠᠴᡞ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Mood=Cnd|Tense=Pres|VerbForm=Fin	9	advcl	_	Translit=sabuci
 4	,	,	PUNCT	_	_	3	punct	_	Translit=,
 5	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	Translit=mini
-6	ᠪᠠᡩᡝ	ᠪᠠ	NOUN	_	Case=Dat	7	obl:loc	_	Translit=bade
+6	ᠪᠠᡩᡝ	ᠪᠠ	NOUN	_	Case=Dat	7	obl	_	Translit=bade
 7	ᡪᡞᡠ	ᡪᡞᠮᠪᡞ	VERB	_	Mood=Imp	8	ccomp	_	Translit=jio
 8	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	9	advcl	_	Translit=seme
 9	ᠠᠯᠠᠴᡞᠨᠠ	ᠠᠯᠠᠮᠪᡞ	VERB	_	Mood=Opt|Tense=Pres|VerbForm=Fin	0	root	_	Translit=alacina
@@ -1595,7 +1595,7 @@
 4	ᠠᡣᡡᠴᡞ	ᠠᡣᡡ	AUX	_	Mood=Cnd|Polarity=Neg	2	cop	_	Translit=akvci
 5	,	,	PUNCT	_	_	2	punct	_	Translit=,
 6	ᡨᠣᡣᡨᠣᡫᡞ	ᡨᠣᡣᡨᠣᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	9	advcl	_	Translit=toktofi
-7	ᠠᠯᠪᠠᠨ	ᠠᠯᠪᠠᠨ	NOUN	_	_	9	obl:loc	_	Translit=alban
+7	ᠠᠯᠪᠠᠨ	ᠠᠯᠪᠠᠨ	NOUN	_	_	9	obl	_	Translit=alban
 8	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	7	case	_	Translit=de
 9	ᡤᡝᠨᡝᡥᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=genehe
 10	。	。	PUNCT	_	_	9	punct	_	Translit=.
@@ -1611,7 +1611,7 @@
 5	ᠣᠴᡞ	ᠣᠮᠪᡞ	SCONJ	_	_	2	mark	_	Translit=oci
 6	,	,	PUNCT	_	_	2	punct	_	Translit=,
 7	ᡨᠣᡣᡨᠣᡫᡞ	ᡨᠣᡣᡨᠣᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	10	advcl	_	Translit=toktofi
-8	ᠠᠯᠪᠠᠨ	ᠠᠯᠪᠠᠨ	NOUN	_	_	10	obl:loc	_	Translit=alban
+8	ᠠᠯᠪᠠᠨ	ᠠᠯᠪᠠᠨ	NOUN	_	_	10	obl	_	Translit=alban
 9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	8	case	_	Translit=de
 10	ᡤᡝᠨᡝᡥᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Translit=genehe
 11	。	。	PUNCT	_	_	10	punct	_	Translit=.
@@ -1653,7 +1653,7 @@
 # text = ᠸᡝᡞᠯᡝᠷᠠᠨ ᡩᡝ ᡠᡩᡠ ᡝᠨᡩᡝᠪᡠᡣᡠ ᡨᠠᡧᠠᠨ ᠠᡣᡡ ᠰᡝᠴᡞᠪᡝ , ᡨᡠᠮᡝᠨ ᡩᡝ ᠣᡞᡥᠣᠷᡞᠯᠠᠮᡝ ᠴᠣᡣᡨᠣᠯᠣᠮᡝ ᠣᡪᠣᠷᠠᡣᡡ 。
 # text[phon] = weileran de udu endebuku tašan akv secibe , tumen de oihorilame coktolome ojorakv.
 # text[eng] = There is no error in work, but you can never be proud or neglect.
-1	ᠸᡝᡞᠯᡝᠷᠠᠨ	ᠸᡝᡞᠯᡝᠷᠠᠨ	NOUN	_	_	6	obl:loc	_	Translit=weileran
+1	ᠸᡝᡞᠯᡝᠷᠠᠨ	ᠸᡝᡞᠯᡝᠷᠠᠨ	NOUN	_	_	6	obl	_	Translit=weileran
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᡠᡩᡠ	ᡠᡩᡠ	NUM	_	NumType=Mult	4	nummod	_	Translit=udu
 4	ᡝᠨᡩᡝᠪᡠᡣᡠ	ᡝᠨᡩᡝᠪᡠᡣᡠ	NOUN	_	_	6	obj	_	Translit=endebuku
@@ -1778,7 +1778,7 @@
 # text[phon] = si urumci de geneheo?
 # text[eng] = Did you go to Urumqi?
 1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit=si
-2	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	4	obl:loc	_	Translit=urumci
+2	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	4	obl	_	Translit=urumci
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡤᡝᠨᡝᡥᡝᡠ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=genehao
 5	?	?	PUNCT	_	_	4	punct	_	Translit=?
@@ -1836,7 +1836,7 @@
 # text[phon] = si beijing de generakvn?
 # text[eng] = Dont you go to Beijing?
 1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit=si
-2	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	4	obl:loc	_	Translit=beijing
+2	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	4	obl	_	Translit=beijing
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡤᡝᠨᡝᠷᠠᡣᡡᠨ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	Translit=generakvn
 5	?	?	PUNCT	_	_	4	punct	_	Translit=?
@@ -1846,7 +1846,7 @@
 # text[phon] = si beijing de genehekvn?
 # text[eng] = Didnt you go to Beijing?
 1	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	Translit=si
-2	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	4	obl:loc	_	Translit=beijing
+2	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	4	obl	_	Translit=beijing
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡤᡝᠨᡝᡥᡝᡣᡡᠨ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	Translit=genehekvn
 5	?	?	PUNCT	_	_	4	punct	_	Translit=?
@@ -1899,7 +1899,7 @@
 1	ᠮᡠᠰᡝᡞ	ᠮᡠᠰᡝᡞ	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	Translit=musei
 2	ᠰᡝᡫᡠ	ᠰᡝᡫᡠ	NOUN	_	_	7	nsubj	_	Translit=sefu
 3	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	4	compound	_	Translit=gurun
-4	ᡨᡠᠯᡝᠷᡤᡞ	ᡨᡠᠯᡝᠷᡤᡞ	NOUN	_	_	7	obl:loc	_	Translit=tulergi
+4	ᡨᡠᠯᡝᠷᡤᡞ	ᡨᡠᠯᡝᠷᡤᡞ	NOUN	_	_	7	obl	_	Translit=tulergi
 5	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Abl	4	case	_	Translit=deri
 6	ᠪᡝᡩᡝᠷᡝᠮᡝ	ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	7	advcl	_	Translit=bedereme
 7	ᡪᡞᡥᡝ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	8	ccomp	_	Translit=jihe
@@ -1916,7 +1916,7 @@
 # text[eng] = Did you hear or not the news that Chairman Hu Jintao will come to Ili?
 1	ᡥᡡᡪᡞᠨᡨᠣᡠ	ᡥᡡᡪᡞᠨᡨᠣᡠ	PROPN	_	_	5	nsubj	_	Translit=hvjintoo
 2	ᡪᡠᠰᡞ	ᡪᡠᠰᡞ	NOUN	_	_	1	appos	_	Translit=jusi
-3	ᡤᡡᠯᡪᠠ	ᡤᡡᠯᡪᠠ	PROPN	_	_	5	obl:loc	_	Translit=gvlja
+3	ᡤᡡᠯᡪᠠ	ᡤᡡᠯᡪᠠ	PROPN	_	_	5	obl	_	Translit=gvlja
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	3	case	_	Translit=de
 5	ᡪᡞᡥᡝ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	6	ccomp	_	Translit=jihe
 6	ᠰᡝᠷᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	7	acl:relcl	_	Translit=sere
@@ -1946,7 +1946,7 @@
 # text[phon] = soliha sarin de geneme muterakv ayao.
 # text[eng] = I am afraid I cannot go to the banquet.
 1	ᠰᠣᠯᡞᡥᠠ	ᠰᠣᠯᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	2	acl	_	Translit=soliha
-2	ᠰᠠᠷᡞᠨ	ᠰᠠᠷᡞᠨ	NOUN	_	_	4	obl:loc	_	Translit=sarin
+2	ᠰᠠᠷᡞᠨ	ᠰᠠᠷᡞᠨ	NOUN	_	_	4	obl	_	Translit=sarin
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	5	advcl	_	Translit=geneme
 5	ᠮᡠᡨᡝᠷᠠᡣᡡ	ᠮᡝᡨᡝᠮᠪᡞ	VERB	_	Mood=Sub|Tense=Pres|VerbForm=Fin	0	root	_	Translit=muterakv
@@ -2004,7 +2004,7 @@
 # text[phon] = bi gašan de genefi, ama eme jai giranggi yali gucu gargan be tuwafi jihe.
 # text[eng] = I went back to my hometown to visit my parents, relatives and friends.
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
-2	ᡤᠠᡧᠠᠨ	ᡤᠠᡧᠠᠨ	NOUN	_	_	4	obl:loc	_	Translit=gašan
+2	ᡤᠠᡧᠠᠨ	ᡤᠠᡧᠠᠨ	NOUN	_	_	4	obl	_	Translit=gašan
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡤᡝᠨᡝᡫᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	15	advcl	_	Translit=genefi
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
@@ -2099,13 +2099,13 @@
 # text[phon] = jugvn unduri yaburalame hargašahai, serebuhekv uthai boo de isinaha.
 # text[eng] = Walking and swimming along the way, unconsciously arrived at home.
 1	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	2	nmod	_	Translit=jugvn
-2	ᡠᠨᡩᡠᠷᡞ	ᡠᠨᡩᡠᠷᡞ	NOUN	_	_	4	obl:loc	_	Translit=unduri
+2	ᡠᠨᡩᡠᠷᡞ	ᡠᠨᡩᡠᠷᡞ	NOUN	_	_	4	obl	_	Translit=unduri
 3	ᠶᠠᠪᡠᠷᠠᠯᠠᠮᡝ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	4	advcl	_	Translit=yaburalame
 4	ᡥᠠᠷᡤᠠᡧᠠᡥᠠᡞ	ᡥᠠᠷᡤᠠᡧᠠᠮᠪᡞ	VERB	_	VerbForm=Conv	10	advcl	_	Translit=hargašahai
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
 6	ᠰᡝᠷᡝᠪᡠᡥᡝᡣᡡ	ᠰᡝᠷᡝᠪᡠᠮᠪᡞ	VERB	_	Aspect=Perf|Polarity=Neg|VerbForm=Part	10	advcl	_	Translit=serebuhekv
 7	ᡠᡨᡥᠠᡞ	ᡠᡨᡥᠠᡞ	ADV	_	_	10	advmod	_	Translit=uthai
-8	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	10	obl:loc	_	Translit=boo
+8	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	10	obl	_	Translit=boo
 9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	8	case	_	Translit=de
 10	ᡞᠰᡞᠨᠠᡥᠠ	ᡞᠰᡞᠨᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=isinaha
 11	。	。	PUNCT	_	_	10	punct	_	Translit=.
@@ -2211,7 +2211,7 @@
 # text = ᡪᡠᡤᡡᠨ ᡩᡝ ᡠᠴᠠᠷᠠᡥᠠ ᠨᡞᠶᠠᠯᠮᠠ 。
 # text[phon] = jugvn de ucaraha niyalma.
 # text[eng] = The person I met on street.
-1	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	3	obl:loc	_	Translit=jugvn
+1	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	3	obl	_	Translit=jugvn
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᡠᠴᠠᠷᠠᡥᠠ	ᡠᠴᠠᠷᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	4	acl:relcl	_	Translit=ucaraha
 4	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	0	root	_	Translit=niyalma
@@ -2258,7 +2258,7 @@
 # text[phon] = jingkini jalan de donjihakv ferguwecuke baita.
 # text[eng] = It was a strange thing that had never been heard of in the world.
 1	ᡪᡞᡢᡣᡞᠨᡞ	ᡪᡞᡢᡣᡞᠨᡞ	ADJ	_	_	2	amod	_	Translit=jingkini
-2	ᡪᠠᠯᠠᠨ	ᡪᠠᠯᠠᠨ	NOUN	_	_	4	obl:loc	_	Translit=jalan
+2	ᡪᠠᠯᠠᠨ	ᡪᠠᠯᠠᠨ	NOUN	_	_	4	obl	_	Translit=jalan
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡩᠣᠨᡪᡞᡥᠠᡣᡡ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|Polarity=Neg|VerbForm=Part	6	acl:relcl	_	Translit=donjihakv
 5	ᡫᡝᠷᡤᡠᠸᡝᠴᡠᡣᡝ	ᡫᡝᠷᡤᡠᠸᡝᠴᡠᡣᡝ	ADJ	_	_	6	amod	_	Translit=ferguwecuke
@@ -2320,13 +2320,13 @@
 6	ᡪᡞᠷᡝ	ᡪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	18	advcl	_	Translit=jire
 7	ᡪᠠᡣᠠᡩᡝ	ᡪᠠᡣᠠᡩᡝ	SCONJ	_	_	6	mark	_	Translit=jakade
 8	,	,	PUNCT	_	_	18	punct	_	Translit=,
-9	ᡩᡠᠯᡝᠷᡤᡞ	ᡩᡠᠯᡝᠷᡤᡞ	NOUN	_	_	12	obl:loc	_	Translit=tulergi
+9	ᡩᡠᠯᡝᠷᡤᡞ	ᡩᡠᠯᡝᠷᡤᡞ	NOUN	_	_	12	obl	_	Translit=tulergi
 10	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	9	case	_	Translit=de
 11	ᠸᡝᡞᠯᡝᠮᡝ	ᠸᡝᡞᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	12	advcl	_	Translit=weileme
 12	ᡞᠯᡞᡥᠠ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	13	acl:relcl	_	Translit=iliha
 13	ᡠᠷᠰᡝ	ᡠᠷᠰᡝ	NOUN	_	_	18	nsubj	_	Translit=urse
 14	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	18	advmod	_	Translit=gemu
-15	ᠮᠠᡞᡣᠠᠨ	ᠮᠠᡞᡣᠠᠨ	NOUN	_	_	18	obl:loc	_	Translit=maikan
+15	ᠮᠠᡞᡣᠠᠨ	ᠮᠠᡞᡣᠠᠨ	NOUN	_	_	18	obl	_	Translit=maikan
 16	ᠴᡞ	ᠴᡞ	ADP	_	Case=Lat	15	case	_	Translit=ci
 17	ᡫᡝᡣᠰᡞᠮᡝ	ᡫᡝᡣᠰᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	18	advcl	_	Translit=feksime
 18	ᡩᠣᠰᡞᡥᠠ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=dosiha
@@ -2336,7 +2336,7 @@
 # text = ᡨᠠᠴᡞᡣᡡ ᡩᡝ ᡨᠠᠴᡞᠮᠠᡥᠠ ᡨᠠᠴᡞᠰᡞ ᡤᡝᠮᡠ ᡣᡠᠪᡠᠨ ᡨᡠᡢᡤᡞᠶᡝᠮᡝ ᡤᡝᠨᡝᡥᡝ 。
 # text[phon] = tacikv de tacimaha tacisi gemu kubun tunggiyeme genehe.
 # text[eng] = All on-campus students went to pick cotton.
-1	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	4	obl:loc	_	Translit=tacikv
+1	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	4	obl	_	Translit=tacikv
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᡨᠠᠴᡞᠮᠠᡥᠠ	ᡨᠠᠴᡞᠮᠪᡞ	VERB	_	Aspect=Prog|VerbForm=Part	4	acl:relcl	_	Translit=tacimaha
 4	ᡨᠠᠴᡞᠰᡞ	ᡨᠠᠴᡞᠰᡞ	NOUN	_	_	8	nsubj	_	Translit=tacisi
@@ -2350,7 +2350,7 @@
 # text = ᠰᡝᡪᡝᠨ ᡩᡝ ᡨᡝᡫᡞ ᡪᡠᡤᡡᠨ ᠶᠠᠪᡠᠮᠠᡥᠠ ᠨᡞᠶᠠᠯᠮᠠ , ᡤᡝᠮᡠ ᠠᠮᡠ ᡪᡞᡫᡞ , ᠶᠠᠰᠠ ᠪᡝ ᠨᡞᠴᡠᡥᡝ 。
 # text[phon] = sejen de tefi jugvn yabumaha niyalma, gemu amu jifi, yasa be nicuhe.
 # text[eng] = The passengers on the bus were so sleepy that they closed their eyes.
-1	ᠰᡝᡪᡝᠨ	ᠰᡝᡪᡝᠨ	NOUN	_	_	3	obl:loc	_	Translit=sejen
+1	ᠰᡝᡪᡝᠨ	ᠰᡝᡪᡝᠨ	NOUN	_	_	3	obl	_	Translit=sejen
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᡨᡝᡫᡞ	ᡨᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	5	advcl	_	Translit=tefi
 4	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	5	obl	_	Translit=jugvn
@@ -2383,7 +2383,7 @@
 1	ᡥᠠᠯᡥᡡᠨ	ᡥᠠᠯᡥᡡᠨ	ADJ	_	_	2	amod	_	Translit=halhvn
 2	ᡧᠣᠯᠣ	ᡧᠣᠯᠣ	NOUN	_	_	5	obl:tmod	_	Translit=šolo
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
-4	ᠪᠣᡠᠴᡞ	ᠪᠣᡠᠴᡞ	NOUN	_	Case=Lat	5	obl:loc	_	Translit=booci
+4	ᠪᠣᡠᠴᡞ	ᠪᠣᡠᠴᡞ	NOUN	_	Case=Lat	5	obl	_	Translit=booci
 5	ᠪᡝᡩᡝᠷᡝᡥᡝᡣᡡᡢᡤᡝ	ᠪᡝᡩᡝᠷᡝᠮᠪᡞ	VERB	_	Aspect=Perf|Polarity=Neg|VerbForm=Vnoun	8	acl	_	Translit=bederehekvngge
 6	,	,	PUNCT	_	_	5	punct	_	Translit=,
 7	ᡝᠮᡥᡠᠨ	ᡝᠮᡥᡠᠨ	ADV	_	_	8	advmod	_	Translit=emhun
@@ -2433,7 +2433,7 @@
 4	ᡤᡞᠰᡠᠷᡝ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	10	advcl	_	Translit=gisure
 5	ᠰᡝᠴᡞ	ᠰᡝᠮᠪᡞ	SCONJ	_	_	4	mark	_	Translit=seci
 6	,	,	PUNCT	_	_	5	punct	_	Translit=,
-7	ᠠᠪᡣᠠ	ᠠᠪᡣᠠ	NOUN	_	_	9	obl:loc	_	Translit=abka
+7	ᠠᠪᡣᠠ	ᠠᠪᡣᠠ	NOUN	_	_	9	obl	_	Translit=abka
 8	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	7	case	_	Translit=de
 9	ᡨᠠᡫᠠᠨᠠᠷᠠᠴᡞ	ᡨᠠᡫᠠᠮᠪᡞ	VERB	_	_	10	nsubj	_	Translit=tafanaraci
 10	ᠮᠠᡢᡤᠠ	ᠮᠠᡢᡤᠠ	ADJ	_	_	0	root	_	Translit=mangga
@@ -2617,7 +2617,7 @@
 # text[phon] = duin ici jugvn akv, mukei noho.
 # text[eng] = There was no where to go but water.
 1	ᡩᡠᡞᠨ	ᡩᡠᡞᠨ	NUM	_	_	2	nummod	_	Translit=duin
-2	ᡞᠴᡞ	ᡞᠴᡞ	NOUN	_	_	4	obl:loc	_	Translit=ici
+2	ᡞᠴᡞ	ᡞᠴᡞ	NOUN	_	_	4	obl	_	Translit=ici
 3	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	4	obj	_	Translit=jugvn
 4	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg|Tense=Pres	0	root	_	Translit=akv
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
@@ -2699,7 +2699,7 @@
 # text[phon] = mafari gašan de mudaha mari, mujilen i dolo umesi selabumbi.
 # text[eng] = When I return to my hometown, I feel very comfortable.
 1	ᠮᠠᡫᠠᠷᡞ	ᠮᠠᡫᠠᠷᡞ	NOUN	_	_	2	nmod	_	Translit=mafari
-2	ᡤᠠᡧᠠᠨ	ᡤᠠᡧᠠᠨ	NOUN	_	_	4	obl:loc	_	Translit=gašan
+2	ᡤᠠᡧᠠᠨ	ᡤᠠᡧᠠᠨ	NOUN	_	_	4	obl	_	Translit=gašan
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᠮᡠᡩᠠᡥᠠ	ᠮᡠᡩᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	5	acl	_	Translit=mudaha
 5	ᠮᠠᠷᡞ	ᠮᠠᠷᡞ	NOUN	_	_	11	obl:tmod	_	Translit=mari
@@ -3058,7 +3058,7 @@
 # text[eng] = what is this object used for?
 1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	6	det	_	Translit=ere
 2	ᠠᡞ	ᠠᡞ	PRON	_	PronType=Int	3	nmod	_	Translit=ai
-3	ᠪᠠ	ᠪᠠ	NOUN	_	_	6	obl:loc	_	Translit=ba
+3	ᠪᠠ	ᠪᠠ	NOUN	_	_	6	obl	_	Translit=ba
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᠪᠠᡞᡨᠠᠯᠠᠷᠠ	ᠪᠠᡞᡨᠠᠯᠠᠷᠠ	NOUN	_	_	6	nmod	_	Translit=baitalara
 6	ᡪᠠᡣᠠ	ᡪᠠᡣᠠ	NOUN	_	_	0	root	_	Translit=jaka
@@ -3132,12 +3132,12 @@
 # text = ᡠᠪᠠ ᠴᡞ ᡪᡞᡠ ! ᡠᠮᡝ ᡨᡠᠪᠠ ᡩᡝ ᡤᡝᠨᡝᠷᡝ 。
 # text[phon] = uba ci jiu! ume tuba de genere. 
 # text[eng] = Come here! Don't go there.
-1	ᡠᠪᠠ	ᡠᠪᠠ	PRON	_	PronType=Dem	3	obl:loc	_	Translit=uba
+1	ᡠᠪᠠ	ᡠᠪᠠ	PRON	_	PronType=Dem	3	obl	_	Translit=uba
 2	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	1	case	_	Translit=ci
 3	ᡪᡞᡠ	ᡪᡞᠮᠪᡞ	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	Translit=jiu
 4	!	!	PUNCT	_	_	3	punct	_	Translit=!
 5	ᡠᠮᡝ	ᡠᠮᡝ	ADV	_	_	8	advmod	_	Translit=ume
-6	ᡨᡠᠪᠠ	ᡨᡠᠪᠠ	PRON	_	PronType=Dem	8	obl:loc	_	Translit=tuba
+6	ᡨᡠᠪᠠ	ᡨᡠᠪᠠ	PRON	_	PronType=Dem	8	obl	_	Translit=tuba
 7	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	6	case	_	Translit=de
 8	ᡤᡝᠨᡝᠷᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Mood=Imp|Polarity=Neg|Tense=Pres|VerbForm=Fin	3	conj	_	Translit=genere
 9	。	。	PUNCT	_	_	8	punct	_	Translit=.
@@ -3484,14 +3484,14 @@
 # text[eng] = North to Cabcal and south to Ining, the river flowing from east to west is called Ili River.
 1	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	3	nmod	_	Translit=cabcal
 2	ᡞ	ᡞ	ADP	_	Case=Gen	1	case	_	Translit=i
-3	ᠠᠮᠠᠷᡤᡞ	ᠠᠮᠠᠷᡤᡞ	NOUN	_	_	12	obl:loc	_	Translit=amargi
+3	ᠠᠮᠠᠷᡤᡞ	ᠠᠮᠠᠷᡤᡞ	NOUN	_	_	12	obl	_	Translit=amargi
 4	ᡤᡡᠯᡪᠠ	ᡤᡡᠯᡪᠠ	PROPN	_	_	6	nmod	_	Translit=gvlja
 5	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
 6	ᡪᡠᠯᡝᠷᡤᡞ	ᡪᡠᠯᡝᠷᡤᡞ	NOUN	_	_	3	conj	_	Translit=julergi
 7	,	,	PUNCT	_	_	6	punct	_	Translit=,
-8	ᡩᡝᠷᡤᡞ	ᡩᡝᠷᡤᡞ	NOUN	_	_	11	obl:loc	_	Translit=dergi
+8	ᡩᡝᠷᡤᡞ	ᡩᡝᠷᡤᡞ	NOUN	_	_	11	obl	_	Translit=dergi
 9	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	8	case	_	Translit=ci
-10	ᠸᠠᠰᡞ	ᠸᠠᠰᡞ	NOUN	_	_	11	obl:loc	_	Translit=wasi
+10	ᠸᠠᠰᡞ	ᠸᠠᠰᡞ	NOUN	_	_	11	obl	_	Translit=wasi
 11	ᡝᠶᡝᡥᡝ	ᡝᠶᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	12	acl:relcl	_	Translit=eyehe
 12	ᠪᡞᠷᠠ	ᠪᡞᠷᠠ	NOUN	_	_	16	obj	_	Translit=bira
 13	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	12	case	_	Translit=be
@@ -3933,7 +3933,7 @@
 # text[phon] = bi beijing de ujui mudan jimbi.
 # text[eng] = It is my first time coming to Beijing.
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	Translit=bi
-2	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	6	obl:loc	_	Translit=beijing
+2	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	6	obl	_	Translit=beijing
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
 4	ᡠᡪᡠᡞ	ᡠᡪᡠ	NOUN	_	Case=Gen	5	nmod	_	Translit=ujui
 5	ᠮᡠᡩᠠᠨ	ᠮᡠᡩᠠᠨ	NOUN	_	_	6	obl	_	Translit=mudan
@@ -5413,7 +5413,7 @@
 1	ᡨᡝᠰᡝ	ᡨᡝᠰᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs	7	nsubj	_	Translit=tese
 2	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	7	obl:tmod	_	Translit=cimari
 3	ᡪᡠᠯᡝᠷᡤᡞ	ᡪᡠᠯᡝᠷᡤᡞ	NOUN	_	_	4	nmod	_	Translit=julergi
-4	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	7	obl:loc	_	Translit=alin
+4	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	7	obl	_	Translit=alin
 5	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	4	case	_	Translit=de
 6	ᠰᠠᠷᡤᠠᡧᠠᠮᡝ	ᠰᠠᠷᡤᠠᡧᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	7	advcl	_	Translit=sargašame
 7	ᡤᡝᠨᡝᠮᠪᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=genembi
@@ -5534,7 +5534,7 @@
 # text[eng] = I will go to Urumqi for a conference tomorrow.
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=bi
 2	ᠴᡞᠮᠠᠷᡞ	ᠴᡞᠮᠠᠷᡞ	NOUN	_	_	7	obl:tmod	_	Translit=cimari
-3	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	7	obl:loc	_	Translit=urumci
+3	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	7	obl	_	Translit=urumci
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	6	obj	_	Translit=isan
 6	ᠨᡝᡞᠮᡝ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	7	advcl	_	Translit=neime
@@ -5582,7 +5582,7 @@
 # text[eng] = Because the south and the north mountains are perennially covered with snow, so it is cold at the foot of the mountains.
 1	ᡪᡠᠯᡝᠷᡤᡞ	ᡪᡠᠯᡝᠷᡤᡞ	NOUN	_	_	3	nmod	_	Translit=julergi
 2	ᠠᠮᠠᠷᡤᡞ	ᠠᠮᠠᠷᡤᡞ	NOUN	_	_	3	nmod	_	Translit=amargi
-3	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	8	obl:loc	_	Translit=alin
+3	ᠠᠯᡞᠨ	ᠠᠯᡞᠨ	NOUN	_	_	8	obl	_	Translit=alin
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᡤᡠᠯᡥᡠᠨ	ᡤᡠᠯᡥᡠᠨ	ADJ	_	_	6	amod	_	Translit=gulhun
 6	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	8	obl:tmod	_	Translit=aniya
@@ -5817,7 +5817,7 @@
 # text[eng] = The conference today, you are supposed to go.
 1	ᡝᠨᡝᡢᡤᡞ	ᡝᠨᡝᡢᡤᡞ	NOUN	_	_	3	nmod	_	Translit=enenggi
 2	ᡞ	ᡞ	ADP	_	Case=Gen	1	case	_	Translit=i
-3	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	10	obl:loc	_	Translit=isan
+3	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	10	obl	_	Translit=isan
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	,	,	PUNCT	_	_	3	punct	_	Translit=,
 6	ᠰᡞ	ᠰᡞ	PRON	_	Number=Sing|Person=2|PronType=Prs	10	nsubj	_	Translit=si
@@ -8584,7 +8584,7 @@
 4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
 5	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	6	compound	_	Translit=cabcal
 6	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	7	nmod	_	Translit=siyan
-7	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	11	obl:loc	_	Translit=yuwan
+7	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	11	obl	_	Translit=yuwan
 8	ᡦᡠ	ᡦᡠ	X	_	_	7	flat	_	Translit=pu
 9	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	NOUN	_	_	8	flat	_	Translit=yuwan
 10	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	7	case	_	Translit=de
@@ -8598,7 +8598,7 @@
 18	ᡪᠠᡢ	ᡪᠠᡢ	PROPN	_	_	17	appos	_	Translit=jang
 19	ᡪᡞᡠᡞ	ᡪᡞᡠᡞ	PROPN	_	_	18	flat:name	_	Translit=jiui
 20	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	27	cc	_	Translit=jai
-21	ᡪᡝᡠ	ᡪᡝᠣ	NOUN	_	_	24	obl:loc	_	Translit=jeu
+21	ᡪᡝᡠ	ᡪᡝᠣ	NOUN	_	_	24	obl	_	Translit=jeu
 22	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	21	case	_	Translit=de
 23	ᡨᠣᠨᡩᠣᡣᠣᠨ	ᡨᠣᠨᡩᠣᡣᠣᠨ	ADJ	_	_	24	advmod	_	Translit=tondokon
 24	ᡣᠠᡩᠠᠯᠠᠪᡠᠷᡝ	ᡣᠠᡩᠠᠯᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part|Voice=Cau	25	acl:relcl	_	Translit=kadalabure
@@ -8611,7 +8611,7 @@
 31	ᠶᠣᡥᡞ	ᠶᠣᡥᡞ	NOUN	_	_	30	clf	_	Translit=yohi
 32	ᠪᠠᠨᠰᡝᡞ	ᠪᠠᠨᠰᡝ	NOUN	_	Case=Gen	33	nmod	_	Translit=bansei
 33	ᠶᠠᠷᡥᡡᡩᠠᠰᡞ	ᠶᠠᠷᡥᡡᡩᠠᠰᡞ	NOUN	_	_	17	conj	_	Translit=yarhvdasi
-34	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	36	obl:loc	_	Translit=dorolon
+34	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	36	obl	_	Translit=dorolon
 35	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	34	case	_	Translit=de
 36	ᡨᡝᡣᡠᠯᡝᡥᡝᠪᡞ	ᡨᡝᡣᡠᠯᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	Translit=tekulehebi
 37	︒	︒	PUNCT	_	_	36	punct	_	Translit=.
@@ -8642,7 +8642,7 @@
 20	ᠪᡝ	ᠪᡝ	ADP	_	_	13	case	_	Translit=be
 21	ᡫᡠᠨᡩᡝᠯᡝᡫᡞ	ᡫᡠᠨᡩᡝᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	60	advcl	_	Translit=fundelefi
 22	︐	︐	PUNCT	_	_	21	punct	_	Translit=,
-23	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	26	obl:loc	_	Translit=aššan
+23	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	26	obl	_	Translit=aššan
 24	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	23	case	_	Translit=de
 25	ᡝᡢᡤᡝᠯᡝᠮᡝ	ᡝᡢᡤᡝᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	26	advcl	_	Translit=enggeleme
 26	ᡪᡞᡥᡝ	ᡪᡞᠮᠪᡞ	VERB	_	_	28	acl:relcl	_	Translit=jihe
@@ -8940,7 +8940,7 @@
 7	︐	︐	PUNCT	_	_	5	punct	_	Translit=,
 8	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	21	nsubj	_	Translit=bi
 9	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	10	compound	_	Translit=beijing
-10	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	21	obl:loc	_	Translit=hoton
+10	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	21	obl	_	Translit=hoton
 11	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	10	case	_	Translit=de
 12	ᡤᡝᠷᡝᠨᠣᡫᡞ	ᡤᡝᠷᡝᠨᠣᡫᡞ	NOUN	_	_	21	obl	_	Translit=gerenofi
 13	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	12	case	_	Translit=i
@@ -9100,7 +9100,7 @@
 # text[eng] = I was pleased to see the lush green banks of the Yangtze River, the ocean of rice sprouting at the Jiansanjiang agricultural base, the lively Shenzhen Qianhai Harbor, and the bridge that brings together Hong Kong, Zhuhai, and Macao.
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	Translit=bi
 2	ᡤᡝᠷᡝᠨ	ᡤᡝᠷᡝᠨ	DET	_	PronType=Tot	3	det	_	Translit=geren
-3	ᠪᠠᡩᡝ	ᠪᠠᡩᡝ	NOUN	_	Case=Loc	4	obl:loc	_	Translit=bade
+3	ᠪᠠᡩᡝ	ᠪᠠᡩᡝ	NOUN	_	Case=Loc	4	obl	_	Translit=bade
 4	ᠪᠠᡞᠴᠠᠷᠠ	ᠪᠠᡞᠴᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	5	acl:relcl	_	Translit=baicara
 5	ᡝᠷᡞᠨᡩᡝ	ᡝᠷᡞᠨᡩᡝ	NOUN	_	Case=Dat	7	obl:tmod	_	Translit=erinde
 6	ᡠᠷᡤᡠᠨᡪᡝᠮᡝ	ᡠᠷᡤᡠᠨᡪᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	7	advcl	_	Translit=urgunjeme
@@ -9110,7 +9110,7 @@
 10	ᡠᠯᠠ	ᡠᠯᠠ	NOUN	_	_	13	nmod	_	Translit=ula
 11	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	10	case	_	Translit=i
 12	ᡪᡠᠸᡝ	ᡪᡠᠸᡝ	NUM	_	NumType=Card	13	nummod	_	Translit=juwe
-13	ᡝᡣᠴᡞᠨ	ᡝᡣᠴᡞᠨ	NOUN	_	_	16	obl:loc	_	Translit=ekcin
+13	ᡝᡣᠴᡞᠨ	ᡝᡣᠴᡞᠨ	NOUN	_	_	16	obl	_	Translit=ekcin
 14	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	13	case	_	Translit=de
 15	ᠨᡞᠶᡝᡢᠨᡞᠶᡝᠷᡞ	ᠨᡞᠶᡝᡢᠨᡞᠶᡝᠷᡞ	NOUN	_	_	16	nmod	_	Translit=niyengniyeri
 16	ᠰᡠᡣᡩᡠᠨ	ᠰᡠᡣᡩᡠᠨ	NOUN	_	_	17	nsubj	_	Translit=sukdun
@@ -9145,7 +9145,7 @@
 45	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	46	amod	_	Translit=amba
 46	ᡩᠣᠣᡥᠠᠨ	ᡩᠣᠣᡥᠠᠨ	NOUN	_	_	48	nmod	_	Translit=doohan
 47	ᡞᠯᠠᠨ	ᡞᠯᠠᠨ	NUM	_	NumType=Card	48	nummod	_	Translit=ilan
-48	ᠪᠠᡩᡝ	ᠪᠠᡩᡝ	NOUN	_	Case=Loc	50	obl:loc	_	Translit=bade
+48	ᠪᠠᡩᡝ	ᠪᠠᡩᡝ	NOUN	_	Case=Loc	50	obl	_	Translit=bade
 49	ᡩᡝᠶᡝᠮᡝ	ᡩᡝᠶᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	50	advcl	_	Translit=deyeme
 50	ᠠᠷᠠᡥᠠ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=araha
 51	᠁	᠁	PUNCT	_	_	50	punct	_	Translit=᠁
@@ -9212,7 +9212,7 @@
 # text[trans] = gubci gurun de geli 125 yadahvn siyan baicara be dulembufi yadahvn deri ukcaha , 1000 tumen usin toksoi yadahvn niyalma anggala yadahvn deri ukcaha .
 # text[eng] = Another 125 poor counties and 10 million poverty-stricken rural residents were lifted out of poverty.
 1	ᡤᡠᠪᠴᡞ	ᡤᡠᠪᠴᡞ	ADJ	_	_	2	amod	_	Translit=gubci
-2	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	13	obl:loc	_	Translit=gurun
+2	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	13	obl	_	Translit=gurun
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	2	case	_	Translit=de
 4	ᡤᡝᠯᡞ	ᡤᡝᠯᡞ	ADV	_	_	5	advmod	_	Translit=geli
 5	125	125	NUM	_	NumType=Card	7	nummod	_	Translit=125
@@ -9471,7 +9471,7 @@
 # text[eng] = Cabcal county welcomes the New Year with new ethos and new image
 1	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	14	nsubj	_	Translit=cabcal
 2	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	3	amod	_	Translit=amba
-3	ᠪᠠᠨᠠ	ᠪᠠᠨᠠ	NOUN	_	_	14	obl:loc	_	Translit=bana
+3	ᠪᠠᠨᠠ	ᠪᠠᠨᠠ	NOUN	_	_	14	obl:lmod	_	Translit=bana
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	3	case	_	Translit=de
 5	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	6	amod	_	Translit=ice
 6	ᡨᠠᠴᡞᠨᡠᠨ	ᡨᠠᠴᡞᠨᡠᠨ	NOUN	_	_	14	obl	_	Translit=tacinun
@@ -9788,7 +9788,7 @@
 11	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	10	case	_	Translit=i
 12	ᠯᠠᠨ	ᠯᠠᠨ	NOUN	_	_	13	nmod	_	Translit=lan
 13	ᠴᡞᠣ	ᠴᡞᠣ	NOUN	_	_	14	nmod	_	Translit=cio
-14	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	33	obl:loc	_	Translit=falga
+14	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	33	obl:lmod	_	Translit=falga
 15	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	14	case	_	Translit=de
 16	“	“	PUNCT	_	_	30	punct	_	Translit="
 17	ᡧᠠᠶᠠᠨ	ᡧᠠᠶᠠᠨ	ADJ	_	_	30	nmod	_	Translit=šayan
@@ -10151,7 +10151,7 @@
 33	ᠸᡝᡞᠯᡝᠷᠠᠨ	ᠸᡝᡞᠯᡝᠷᠠᠨ	NOUN	_	_	41	nsubj	_	Translit=weileran
 34	ᡩᠠᡥᡞᠮᡝ	ᡩᠠᡥᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	38	advcl	_	Translit=dahime
 35	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	36	amod	_	Translit=ice
-36	ᡨᡝᠷᡣᡞᠨ	ᡨᡝᠷᡣᡞᠨ	NOUN	_	_	38	obl:loc	_	Translit=terkin
+36	ᡨᡝᠷᡣᡞᠨ	ᡨᡝᠷᡣᡞᠨ	NOUN	_	_	38	obl:lmod	_	Translit=terkin
 37	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	36	case	_	Translit=de
 38	ᡨᠠᡫᠠᠨᠠᠷᠠ	ᡨᠠᡫᠠᠨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	41	obj	_	Translit=tafanara
 39	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	38	case	_	Translit=be
@@ -10230,7 +10230,7 @@
 2	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	5	nmod	_	Translit=wei
 3	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	2	flat	_	Translit=yuwan
 4	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	3	flat	_	Translit=hvi
-5	ᡩᠣᠷᡤᡞ	ᡩᠣᠷᡤᡞ	NOUN	_	_	9	obl:loc	_	Translit=dorgi
+5	ᡩᠣᠷᡤᡞ	ᡩᠣᠷᡤᡞ	NOUN	_	_	9	obl:lmod	_	Translit=dorgi
 6	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	5	case	_	Translit=de
 7	ᠨᡞᠶᠠᠯᠮᠠᡞ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	8	nmod	_	Translit=niyalmai
 8	ᡠᡪᡠ	ᡠᡪᡠ	NOUN	_	_	9	nsubj	_	Translit=uju
@@ -10404,7 +10404,7 @@
 15	ᡝᡪᡝᡨᡠᠯᡝᠷᡝ	ᡝᡪᡝᡨᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	16	acl:relcl	_	Translit=ejetulere
 16	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	23	nsubj:pass	_	Translit=isan
 17	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	16	case	_	Translit=be
-18	ᠪᡝᡞᡪᡞᠨᡤ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	23	obl:loc	_	Translit=beijing
+18	ᠪᡝᡞᡪᡞᠨᡤ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	23	obl:lmod	_	Translit=beijing
 19	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	18	case	_	Translit=de
 20	ᡠᡪᡝᠨ	ᡠᡪᡝᠨ	ADJ	_	_	23	advmod	_	Translit=ujen
 21	ᡪᡞᠷᠠᠮᡞᠨ	ᡪᡞᠷᠠᠮᡞᠨ	ADJ	_	_	20	conj	_	Translit=jiramin
@@ -10419,7 +10419,7 @@
 2	ᡪᡞᠨ	ᡪᡞᠨ	PROPN	_	_	1	flat:name	_	Translit=jin
 3	ᡦᡞᡢ	ᡦᡞᡢ	PROPN	_	_	2	flat:name	_	Translit=ping
 4	ᡝᡪᡝᡨᡠᠯᡝᠷᡝ	ᡝᡪᡝᡨᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	5	acl	_	Translit=ejetulere
-5	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	7	obl:loc	_	Translit=isan
+5	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	7	obl:lmod	_	Translit=isan
 6	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	5	case	_	Translit=de
 7	ᡨᡝᡣᡠᠯᡝᠮᡝ	ᡨᡝᡣᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	10	advcl	_	Translit=tekuleme
 8	ᠣᠶᠣᡢᡤᠣ	ᠣᠶᠣᡢᡤᠣ	ADJ	_	_	9	amod	_	Translit=oyonggo
@@ -10457,7 +10457,7 @@
 24	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	23	compound	_	Translit=irgen
 25	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	27	amod	_	Translit=amba
 26	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	27	nmod	_	Translit=isan
-27	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	32	obl:loc	_	Translit=tanggin
+27	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	32	obl:lmod	_	Translit=tanggin
 28	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	27	case	_	Translit=de
 29	ᡠᡪᡝᠨ	ᡠᡪᡝᠨ	ADJ	_	_	32	advmod	_	Translit=ujen
 30	ᡪᡞᠷᠠᠮᡞᠨ	ᡪᡞᠷᠠᠮᡞᠨ	ADJ	_	_	29	conj	_	Translit=jiramin
@@ -10489,7 +10489,7 @@
 17	ᡪᡞᠨ	ᡪᡞᠨ	PROPN	_	_	16	flat:name	_	Translit=jin
 18	ᡦᡞᡢ	ᡦᡞᡢ	PROPN	_	_	17	flat:name	_	Translit=ping
 19	ᡝᡪᡝᡨᡠᠯᡝᠷᡝ	ᡝᡪᡝᡨᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	20	acl	_	Translit=ejetulere
-20	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	22	obl:loc	_	Translit=isan
+20	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	22	obl:lmod	_	Translit=isan
 21	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	20	case	_	Translit=de
 22	ᡨᡝᡣᡠᠯᡝᠮᡝ	ᡨᡝᡣᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	26	advcl	_	Translit=tekuleme
 23	ᡣᡝᠮᡠᠨᡞ	ᡣᡝᠮᡠᠨᡞ	ADV	_	_	24	advmod	_	Translit=kemuni
@@ -10664,7 +10664,7 @@
 19	ᡪᠠᠨ	ᡪᠠᠨ	PROPN	_	_	18	flat:name	_	Translit=jan
 20	ᡧᡠ	ᡧᡠ	PROPN	_	_	19	flat:name	_	Translit=šu
 21	ᡝᡪᡝᡨᡠᠯᡝᠷᡝ	ᡝᡪᡝᡨᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	22	acl	_	Translit=ejetulere
-22	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	24	obl:loc	_	Translit=isan
+22	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	24	obl:lmod	_	Translit=isan
 23	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	22	case	_	Translit=de
 24	ᡨᡝᡣᡠᠯᡝᡥᡝᠪᡞ	ᡨᡝᡣᡠᠯᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=tekulehebi
 25	︒	︒	PUNCT	_	_	24	punct	_	Translit=.
@@ -11077,7 +11077,7 @@
 12	ᡨᡠᠰᠠ	ᡨᡠᠰᠠ	NOUN	_	_	11	compound	_	Translit=tusa
 13	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	19	cc	_	Translit=jai
 14	ᡨᡝᠷᡝᡞ	ᡨᡝᠷᡝ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	15	nmod:poss	_	Translit=terei
-15	ᡨᠠᡞᠸᠠᠨ	ᡨᠠᡞᠸᠠᠨ	PROPN	_	_	17	obl:loc	_	Translit=taiwan
+15	ᡨᠠᡞᠸᠠᠨ	ᡨᠠᡞᠸᠠᠨ	PROPN	_	_	17	obl:lmod	_	Translit=taiwan
 16	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	15	case	_	Translit=de
 17	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	19	acl:relcl	_	Translit=bihe
 18	ᡪᡞᡢᡪᡞ	ᡪᡞᡢᡪᡞ	NOUN	_	_	19	nmod	_	Translit=jingji
@@ -11166,7 +11166,7 @@
 12	ᡪᡞᠶᠠᡢᠨᠠᠷᠠ	ᡪᡞᠶᠠᡢᠨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	13	acl:relcl	_	Translit=jiyangnara
 13	ᡫᠠᠯᡞᠨ	ᡫᠠᠯᡞᠨ	NOUN	_	_	18	obj	_	Translit=falin
 14	”	”	PUNCT	_	_	13	punct	_	Translit="
-15	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	18	obl:loc	_	Translit=cabcal
+15	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	18	obl:lmod	_	Translit=cabcal
 16	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	15	case	_	Translit=de
 17	ᠶᠠᠪᡠᠮᡝ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	18	advcl	_	Translit=yabume
 18	ᡩᠣᠰᡞᡥᠠᠪᡞ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=dosihabi
@@ -11202,7 +11202,7 @@
 25	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	28	nmod	_	Translit=siyan
 26	ᠰᡠᠨᡪᠠᠴᡞ	ᡪᡠᠨᡪᠠᠴᡞ	PROPN	_	_	28	compound	_	Translit=sunjaci
 27	ᠨᡞᠷᡠ	ᠨᡞᠷᡠ	PROPN	_	_	26	flat:name	_	Translit=niru
-28	ᡪᡝᠨ	ᡪᡝᠨ	NOUN	_	_	30	obl:loc	_	Translit=jen
+28	ᡪᡝᠨ	ᡪᡝᠨ	NOUN	_	_	30	obl:lmod	_	Translit=jen
 29	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	28	case	_	Translit=de
 30	ᡞᠴᡞᡥᡞᠶᠠᡥᠠᠪᡞ	ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=icihiyahabi
 31	︒	︒	PUNCT	_	_	30	punct	_	Translit=.
@@ -11239,7 +11239,7 @@
 26	ᡩᡠᠯᡝᠷᡝ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	27	acl	_	Translit=dulere
 27	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	4	appos	_	Translit=niyalma
 28	ᠨᡝᡞ	ᠨᡝ	NOUN	_	Case=Gen	29	nmod	_	Translit=nei
-29	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	37	obl:loc	_	Translit=falga
+29	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	37	obl:lmod	_	Translit=falga
 30	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	29	case	_	Translit=de
 31	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	35	det	_	Translit=ere
 32	ᠮᡠᡩᠠᠨ	ᠮᡠᡩᠠᠨ	NOUN	_	_	31	clf	_	Translit=mudan
@@ -11273,7 +11273,7 @@
 16	ᡞᠨᠠᠨ	ᡞᠨᠠᠨ	PROPN	_	_	19	nmod	_	Translit=inan
 17	ᠸᡝᡞᠯᡝᠨ	ᠸᡝᡞᠯᡝᠨ	NOUN	_	_	18	compound	_	Translit=weilen
 18	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	19	nmod	_	Translit=hethe
-19	ᠶᠠᡫᠠᠨ	ᠶᠠᡫᠠᠨ	NOUN	_	_	23	obl:loc	_	Translit=yafan
+19	ᠶᠠᡫᠠᠨ	ᠶᠠᡫᠠᠨ	NOUN	_	_	23	obl:lmod	_	Translit=yafan
 20	ᠴᡞᠣᡞ	ᠴᡞᠣᡞ	NOUN	_	_	19	compound	_	Translit=cioi
 21	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	20	case	_	Translit=de
 22	ᡩᠣᠰᡞᠪᡠᠮᡝ	ᡩᠣᠰᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Cau	23	advcl	_	Translit=dosibume
@@ -11400,7 +11400,7 @@
 36	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	34	case	_	Translit=be
 37	ᡤᠣᠴᡞᠮᡝ	ᡤᠣᠴᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	38	advcl	_	Translit=gocime
 38	ᠶᠠᠷᡠᠮᡝ	ᠶᠠᠷᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	43	advcl	_	Translit=yarume
-39	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	43	obl:loc	_	Translit=cabcal
+39	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	43	obl:lmod	_	Translit=cabcal
 40	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	39	case	_	Translit=de
 41	ᡫᡠᠯᡝᡥᡝ	ᡫᡠᠯᡝᡥᡝ	NOUN	_	_	42	obj	_	Translit=fulehe
 42	ᡪᠠᡫᠠᠮᡝ	ᡪᠠᡫᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	43	advcl	_	Translit=jafame
@@ -11423,7 +11423,7 @@
 10	ᠠᡩᡠ	ᠠᡩᡠ	NOUN	_	_	9	compound	_	Translit=adu
 11	ᠠᠷᠠᠮᡨᡠᠴᡞᠪᡠᠷᡝ	ᠠᠷᠠᠮᡨᡠᠴᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part|Voice=Cau	12	acl:relcl	_	Translit=aramtucibure
 12	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	13	nmod	_	Translit=hethe
-13	ᠶᠠᡫᠠᠨ	ᠶᠠᡫᠠᠨ	NOUN	_	_	16	obl:loc	_	Translit=yafan
+13	ᠶᠠᡫᠠᠨ	ᠶᠠᡫᠠᠨ	NOUN	_	_	16	obl:lmod	_	Translit=yafan
 14	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	13	case	_	Translit=de
 15	ᡝᠮᡤᡝᠷᡞ	ᡝᠮᡤᡝᠷᡞ	ADV	_	_	16	advmod	_	Translit=emgeri
 16	ᡩᠣᠰᡞᡥᠠ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	20	acl:relcl	_	Translit=dosiha
@@ -11473,7 +11473,7 @@
 18	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	17	case	_	Translit=be
 19	ᡩᡠᠯᡝᠪᡠᡫᡞ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv|Voice=Cau	33	advcl	_	Translit=dulebufi
 20-21	ᡥᡝ ᠪᡝᡞ	_	_	_	_	_	_	_	_
-20	ᡥᡝ	ᡥᡝ	X	_	_	26	obl:loc	_	Translit=he
+20	ᡥᡝ	ᡥᡝ	X	_	_	26	obl:lmod	_	Translit=he
 21	ᠪᡝᡞ	ᠪᡝᡞ	X	_	_	20	flat	_	Translit=bei
 22-23	ᠪᠣᠣ ᡩᡞᡢ	_	_	_	_	_	_	_	_
 22	ᠪᠣᠣ	ᠪᠣᠣ	X	_	_	20	flat	_	Translit=boo
@@ -11718,7 +11718,7 @@
 31	ᠪᠠᠨᠰᡝ	ᠪᠠᠨᠰᡝ	NOUN	_	_	37	obj	_	Translit=banse
 32	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	31	case	_	Translit=be
 33	ᠴᡞᠶᡠᡢᠪᡠᠯᠠᡣ	ᠴᡞᠶᡠᡢᠪᡠᠯᠠᡣ	PROPN	_	_	34	nmod	_	Translit=ciyungbulak
-34	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	37	obl:loc	_	Translit=tokso
+34	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	37	obl:lmod	_	Translit=tokso
 35	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	34	case	_	Translit=de
 36	ᡪᡞᡢᡣᡞᠷᡝᠮᡝ	ᡪᡞᡢᡣᡞᠷᡝᠮᡝ	ADV	_	_	37	advmod	_	Translit=jingkireme
 37	ᡩᡝᠷᡞᠪᡠᡥᡝᠪᡞ	ᡩᡝᠷᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Voice=Cau	0	root	_	Translit=deribuhebi
@@ -11771,13 +11771,13 @@
 3	ᠣᠶᠣᡢᡤᠣ	ᠣᠶᠣᡢᡤᠣ	NOUN	_	_	19	nsubj	_	Translit=oyonggo
 4	ᠨᡞᡢᡤᡝ	ᠨᡞᡢᡤᡝ	AUX	_	_	3	aux	_	Translit=ningge
 5	ᠪᠣᠣ	ᠪᠣᠣ	NOUN	_	_	6	nmod	_	Translit=boo
-6	ᡩᠣᠷᡤᡞ	ᡩᠣᠷᡤᡞ	NOUN	_	_	9	obl:loc	_	Translit=dorgi
+6	ᡩᠣᠷᡤᡞ	ᡩᠣᠷᡤᡞ	NOUN	_	_	9	obl:lmod	_	Translit=dorgi
 7	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	6	case	_	Translit=de
 8	ᡣᡞᠴᡝᠨ	ᡣᡞᠴᡝᠨ	NOUN	_	_	9	obj	_	Translit=kicen
 9	ᡪᡞᠶᠠᡢᠨᠠᠷᠠ	ᡪᡞᠶᠠᡢᠨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	16	acl:relcl	_	Translit=jiyangnara
 10	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	15	cc	_	Translit=jai
 11	ᡨᡝᠰᡠ	ᡨᡝᠰᡠ	ADJ	_	_	12	amod	_	Translit=tesu
-12	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	15	obl:loc	_	Translit=falga
+12	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	15	obl:lmod	_	Translit=falga
 13	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	12	case	_	Translit=de
 14	ᡠᠷᡝᠪᡠᠮᡝ	ᡠᠷᡝᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	15	advcl	_	Translit=urebume
 15	ᡨᠠᠴᡞᠪᡠᠷᡝ	ᡨᠠᠴᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	9	conj	_	Translit=tacibure
@@ -11910,7 +11910,7 @@
 9	ᡪᡞᠶᠠᡢᠨᠠᠷᠠ	ᡪᡞᠶᠠᡢᠨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	16	obj	_	Translit=jiyangnara
 10	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	14	cc	_	Translit=jai
 11	ᡨᡝᠰᡠ	ᡨᡝᠰᡠ	ADJ	_	_	12	amod	_	Translit=tesu
-12	ᠪᠠᡩᡝ	ᠪᠠ	NOUN	_	Case=Loc	14	obl:loc	_	Translit=bade
+12	ᠪᠠᡩᡝ	ᠪᠠ	NOUN	_	Case=Loc	14	obl:lmod	_	Translit=bade
 13	ᡩᡠᠷᡠᠨ	ᡩᡠᠷᡠᠨ	NOUN	_	_	14	obj	_	Translit=durun
 14	ᡨᡠᠸᠠᠪᡠᠷᡝ	ᡨᡠᠸᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	9	conj	_	Translit=tuwabure
 15	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	9	case	_	Translit=be
@@ -12132,14 +12132,14 @@
 6	ᡧᡠ	ᡧᡠ	NOUN	_	_	8	nmod	_	Translit=šu
 7	ᠸᡝᠨ	ᠸᡝᠨ	NOUN	_	_	6	compound	_	Translit=wen
 8	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	9	nmod	_	Translit=aššan
-9	ᠨᡞᠶᠠᠮᠠᠨ	ᠨᡞᠶᠠᠮᠠᠨ	NOUN	_	_	14	obl:loc	_	Translit=niyaman
+9	ᠨᡞᠶᠠᠮᠠᠨ	ᠨᡞᠶᠠᠮᠠᠨ	NOUN	_	_	14	obl:lmod	_	Translit=niyaman
 10	ᡩᡠᠯᡞᠮᠪᠠ	ᡩᡠᠯᡞᠮᠪᠠ	NOUN	_	_	9	compound	_	Translit=dulimba
 11	ᡪᡠᠸᠠᠨ	ᡪᡠᠸᠠᠨ	NUM	_	NumType=Card	12	compound	_	Translit=juwan
 12	ᡫᡠᠨ	ᡫᡠᠨ	NOUN	_	_	14	obl	_	Translit=fun
 13	ᡞ᠋	ᡞ᠋	PART	_	_	12	mark:adv	_	Translit=i
 14	ᠸᡝᠨᡪᡝᡥᡠᠨ	ᠸᡝᠨᡪᡝᡥᡠᠨ	ADJ	_	_	55	advcl	_	Translit=wenjehun
 15	︐	︐	PUNCT	_	_	14	punct	_	Translit=,
-16	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	18	obl:loc	_	Translit=tokso
+16	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	18	obl:lmod	_	Translit=tokso
 17	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	16	case	_	Translit=de
 18	ᡨᡝᡥᡝ	ᡨᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Vnoun	20	acl:relcl	_	Translit=tehe
 19	ᠸᡝᡞᠯᡝᠷᠠᠨ	ᠸᡝᡞᠯᡝᠷᠠᠨ	NOUN	_	_	20	nmod	_	Translit=weileran
@@ -12155,7 +12155,7 @@
 29	ᡩᡠᠯᡝᠷᡝ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	30	acl	_	Translit=dulere
 30	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	20	appos	_	Translit=niyalma
 31	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	_	32	nummod	_	Translit=emu
-32	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	35	obl:loc	_	Translit=tanggin
+32	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	35	obl:lmod	_	Translit=tanggin
 33	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	32	case	_	Translit=de
 34	ᠯᡝᡣᠰᡝᡞ	ᠯᡝᡣᠰᡝᡞ	ADV	_	_	35	advmod	_	Translit=leksei
 35	ᡞᠰᠠᠨᡩᡠᡫᡞ	ᡞᠰᠠᠨᡩᡠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv|Voice=Rcp	55	advcl	_	Translit=isandufi
@@ -12185,7 +12185,7 @@
 # text = ᡞᠰᠠᠨ ᡩᡝ ᡫᡠᠯᡠ ᠰᠠᡞᠨ ᡞᠯᡝᡨᡠᠯᡝᡥᡝ 5 ᡨᠣᡣᠰᠣᡞ ᡬᠠᠮᠪᡠ ︑ 5 ᡩᠠᡢ ᠶᡠᠸᠠᠨ ︑ 5 ᡥᡝᡨᡥᡝ ᡩᡝ ᡨᡝᠪᡠᠨᡝᠪᡠᠮᡝ ᡥᡝᡨᡥᡝ ᠪᡝ ᡫᡠᡣᡪᡞᠯᡝᡥᡝ ᡩᡠᠷᡠᡤᠠᠨ ︑ 5 ᠶᠠᡩᠠᡥᡡᠨ ᡩᡝᠷᡞ ᡠᡣᠴᠠᠮᡝ ᠪᠠᠶᠠᠨᠠᠷᠠ ᡩᡠᠷᡠᡤᠠᠨ ︑ 7 ᠠᠴᠠᠯᠠᡥᠠ ᠪᠣᡞᡤᠣᠨ ᡩᠠ ᠪᡝ ᡥᡠᠸᡝᡣᡞᠶᡝᠮᠪᡠᡥᡝᠪᡞ ; 18 ᠪᠣᡞᡤᠣᠨ ᠶᠠᡩᠠᡥᡡᠨ ᠮᠠᡢᡤᠠ ︑ ᡫᠠᡢᡣᠠᠯᠠᠨ ᠪᡝ ᠠᡣᡩᡠᠯᠠᠷᠠ ᠪᠣᡞᡤᠣᠨ ᡩᡝ ᡨᠣᠷᠣᠮᠪᡠᠮᡝ ᡫᠣᠨᡪᡞᠷᡝ ᡪᡞᡥᠠ ᠪᡝ ᡫᠠᠯᠠᠮᡝ ᠪᡠᡥᡝ ︐ 62 ᠠᡪᡞᡤᡝ ᡨᠠᠴᡞᡣᡡ ᡨᠠᠴᡞᠰᡞ ᡩᡝ ᠪᡞᡨᡥᡝ ᡫᡠᠯᡥᡡ ︑ ᡧᡠ ᠸᡝᠨ ᠪᠠᡞᡨᠠᠯᠠᠷᠠ ᡪᠠᡣᠠᠰᡠ ᠪᡝ ᡫᠠᠯᠠᠮᡝ ᠪᡠᡥᡝᠪᡞ ︒
 # text[trans] = isan de fulu sain iletulehe 5 toksoi cgambu , 5 dang yuwan , 5 hethe de tebunebume hethe be fukjilehe durugan , 5 yadahvn deri ukcame bayanara durugan , 7 acalaha boigon da be huwekiyembuhebi ; 18 boigon yadahvn mangga , fangkalan be akdulara boigon de torombume fonjire jiha be falame buhe , 62 ajige tacikv tacisi de bithe fulhv , šu wen baitalara jakasu be falame buhebi .
 # text[eng] = At the conference, five outstanding village officials, five party members, five entreprenenrial models, five poverty alleviation models and seven households were commended. Consolation money was given to 18 families living on subsistance allowances, schoolbags and stationaries were distributed to 62 elementary school students.
-1	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	35	obl:loc	_	Translit=isan
+1	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	35	obl:lmod	_	Translit=isan
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	1	case	_	Translit=de
 3	ᡫᡠᠯᡠ	ᡫᡠᠯᡠ	ADJ	_	_	5	advmod	_	Translit=fulu
 4	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	3	compound	_	Translit=sain
@@ -12279,7 +12279,7 @@
 17	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	16	case	_	Translit=de
 18	ᠰᠣᠨᡪᠣᠪᡠᡥᠠ	ᠰᠣᠨᡪᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin|Voice=Cau	25	parataxis	_	Translit=sonjobuha
 19	︐	︐	PUNCT	_	_	18	punct	_	Translit=,
-20	ᡨᠠᡞᠰᡝ	ᡨᠠᡞᠰᡝ	NOUN	_	_	22	obl:loc	_	Translit=taise
+20	ᡨᠠᡞᠰᡝ	ᡨᠠᡞᠰᡝ	NOUN	_	_	22	obl:lmod	_	Translit=taise
 21	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	20	case	_	Translit=de
 22	ᡨᠠᡫᠠᠨᠠᡫᡞ	ᡨᠠᡫᠠᠨᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	25	advcl	_	Translit=tafanafi
 23	ᡥᡠᠸᡝᡣᡞᠶᡝᠮᠪᡠᠨ	ᡥᡠᠸᡝᡣᡞᠶᡝᠮᠪᡠᠨ	NOUN	_	_	25	obj	_	Translit=huwekiyembun
@@ -12736,7 +12736,7 @@
 39	ᠪᠣᠣ	ᠪᠣᠣ	NOUN	_	_	42	nmod	_	Translit=boo
 40	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	39	case	_	Translit=i
 41	ᠨᡝᡞ	ᠨᡝᡞ	ADJ	_	_	42	amod	_	Translit=nei
-42	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	66	obl:loc	_	Translit=falga
+42	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	66	obl:lmod	_	Translit=falga
 43	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	42	case	_	Translit=de
 44	ᡠᡥᡝᡞ	ᡠᡥᡝᡞ	ADV	_	_	66	advmod	_	Translit=uhei
 45	“	“	PUNCT	_	_	47	punct	_	Translit="
@@ -12767,7 +12767,7 @@
 70	200	200	NUM	_	_	71	obj	_	Translit=200
 71	ᡩᡠᠯᡝᠷᡝ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	72	acl:relcl	_	Translit=dulere
 72	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	NOUN	_	_	75	nsubj	_	Translit=weilerasi
-73	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	75	obl:loc	_	Translit=aššan
+73	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	75	obl:lmod	_	Translit=aššan
 74	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	73	case	_	Translit=de
 75	ᠠᡩᠠᠨᠠᡥᠠᠪᡞ	ᠠᡩᠠᠨᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=adanahabi
 76	︒	︒	PUNCT	_	_	75	punct	_	Translit=.
@@ -12822,7 +12822,7 @@
 43	ᠪᠠᠨᡞᡢᡤᡝ	ᠪᠠᠨᡞᡢᡤᡝ	PART	_	_	44	nmod	_	Translit=baningge
 44	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	NOUN	_	_	45	nmod	_	Translit=weilerasi
 45	ᡫᡠᠨᡩᡝᠰᡞ	ᡫᡠᠨᡩᡝᠰᡞ	NOUN	_	_	58	nsubj	_	Translit=fundesi
-46	ᡤᡝᠮᡠᠨ	ᡤᡝᠮᡠᠨ	NOUN	_	_	55	obl:loc	_	Translit=gemun
+46	ᡤᡝᠮᡠᠨ	ᡤᡝᠮᡠᠨ	NOUN	_	_	55	obl:lmod	_	Translit=gemun
 47	ᡥᡝᠴᡝᠨ	ᡥᡝᠴᡝᠨ	NOUN	_	_	46	compound	_	Translit=hecen
 48	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	46	appos	_	Translit=beijing
 49	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	46	case	_	Translit=de
@@ -12877,7 +12877,7 @@
 22	ᠰᡠᡣᡩᡠᠨ	ᠰᡠᡣᡩᡠᠨ	NOUN	_	_	21	compound	_	Translit=sukdun
 23	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	21	case	_	Translit=be
 24	ᡠᠯᠠᠮᡝ	ᡠᠯᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	25	advcl	_	Translit=ulame
-25	ᡪᡞᠶᠠᡢᠨᠠᠷᠠ	ᡪᡞᠶᠠᡢᠨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	27	obl:loc	_	Translit=jiyangnara
+25	ᡪᡞᠶᠠᡢᠨᠠᠷᠠ	ᡪᡞᠶᠠᡢᠨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	27	obl:lmod	_	Translit=jiyangnara
 26	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	25	case	_	Translit=de
 27	ᡤᡞᠰᡠᠷᡝᡥᡝᡢᡤᡝ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Vnoun	85	ccomp	_	Translit=gisurehengge
 28	︐	︐	PUNCT	_	_	27	punct	_	Translit=,
@@ -12982,7 +12982,7 @@
 9	ᡤᡝᠷᡝᡤᠠᠰᡠ	ᡤᡝᠷᡝᡤᠠᠰᡠ	PROPN	_	_	12	nmod	_	Translit=geregasu
 10	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	9	case	_	Translit=i
 11	ᠶᠠᠷᡤᡞᠶᠠᠰᡥᡡᠨ	ᠶᠠᠷᡤᡞᠶᠠᠰᡥᡡᠨ	ADJ	_	_	12	amod	_	Translit=yargiyashvn
-12	ᠠᠷᠪᡠᠨ	ᠠᠷᠪᡠᠨ	NOUN	_	_	14	obl:loc	_	Translit=arbun
+12	ᠠᠷᠪᡠᠨ	ᠠᠷᠪᡠᠨ	NOUN	_	_	14	obl:lmod	_	Translit=arbun
 13	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	12	case	_	Translit=de
 14	ᠠᠴᠠᠪᡠᠮᡝ	ᠠᠴᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	33	advcl	_	Translit=acabume
 15	︐	︐	PUNCT	_	_	14	punct	_	Translit=,
@@ -13048,7 +13048,7 @@
 33	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	NOUN	_	_	35	obj	_	Translit=weilerasi
 34	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	33	case	_	Translit=be
 35	ᡫᡠᠨᡩᡝᠯᡝᡫᡞ	ᡫᡠᠨᡩᡝᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	46	advcl	_	Translit=fundelefi
-36	ᡤᡝᠮᡠᠨ	ᡤᡝᠮᡠᠨ	NOUN	_	_	40	obl:loc	_	Translit=gemun
+36	ᡤᡝᠮᡠᠨ	ᡤᡝᠮᡠᠨ	NOUN	_	_	40	obl:lmod	_	Translit=gemun
 37	ᡥᡝᠴᡝᠨ	ᡥᡝᠴᡝᠨ	NOUN	_	_	36	compound	_	Translit=hecen
 38	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	36	appos	_	Translit=beijing
 39	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	36	case	_	Translit=de
@@ -13056,7 +13056,7 @@
 41	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	42	nmod	_	Translit=gurun
 42	ᡣᡞᠷᡠ	ᡣᡞᠷᡠ	NOUN	_	_	43	obj	_	Translit=kiru
 43	ᠮᡠᡣᡩᡝᠪᡠᠷᡝ	ᠮᡠᡣᡩᡝᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	44	acl	_	Translit=mukdebure
-44	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	46	obl:loc	_	Translit=dorolon
+44	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	46	obl:lmod	_	Translit=dorolon
 45	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	44	case	_	Translit=de
 46	ᠠᡩᠠᠨᠠᡥᠠ	ᠠᡩᠠᠨᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	47	acl	_	Translit=adanaha
 47	ᡩᡠᠯᡝᠮᠪᡠᠨ	ᡩᡠᠯᡝᠮᠪᡠᠨ	NOUN	_	_	51	obj	_	Translit=dulembun
@@ -13077,7 +13077,7 @@
 5	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	4	case	_	Translit=i
 6	ᡠᠯᠠᠮᡝ	ᡠᠯᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	7	advcl	_	Translit=ulame
 7	ᡨᠠᠴᡞᠪᡠᠷᡝ	ᡨᠠᠴᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	8	acl	_	Translit=tacibure
-8	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	10	obl:loc	_	Translit=aššan
+8	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	10	obl:lmod	_	Translit=aššan
 9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	8	case	_	Translit=de
 10	ᠠᡩᠠᠨᠠᡥᠠ	ᠠᡩᠠᠨᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	54	obl	_	Translit=adanaha
 11	ᠠᠮᠠᠯᠠ	ᠠᠮᠠᠯᠠ	ADP	_	_	10	case	_	Translit=amala
@@ -13204,7 +13204,7 @@
 # text[eng] = Combined with the text, pictures, videos and 3D effects of the online exhibition, we participated in the Reform and Openning-up 40 Years Large Exhibition like getting into the network. 
 1	ᠠᠰᡠᠷᠠᠨ	ᠠᠰᡠᠷᠠᠨ	NOUN	_	_	3	nmod	_	Translit=asuran
 2	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	1	case	_	Translit=i
-3	ᠰᠠᠷᡞᠪᡠᠨ	ᠰᠠᠷᡞᠪᡠᠨ	NOUN	_	_	15	obl:loc	_	Translit=saribun
+3	ᠰᠠᠷᡞᠪᡠᠨ	ᠰᠠᠷᡞᠪᡠᠨ	NOUN	_	_	15	obl:lmod	_	Translit=saribun
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	3	case	_	Translit=de
 5	ᡥᡝᠷᡤᡝᠨ	ᡥᡝᠷᡤᡝᠨ	NOUN	_	_	15	obj	_	Translit=hergen
 6	︑	︑	PUNCT	_	_	5	punct	_	Translit=,
@@ -13254,7 +13254,7 @@
 7	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	6	case	_	Translit=i
 8	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	13	obj	_	Translit=isan
 9	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	8	case	_	Translit=be
-10	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	13	obl:loc	_	Translit=beijing
+10	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	13	obl:lmod	_	Translit=beijing
 11	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	10	case	_	Translit=de
 12	ᡝᠯᠪᡞᠮᡝ	ᡝᠯᠪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	13	advcl	_	Translit=elbime
 13	ᠨᡝᡞᡥᡝᠪᡞ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=neihebi
@@ -13277,7 +13277,7 @@
 12	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	13	amod	_	Translit=ice
 13	6	6	NUM	_	NumType=Card	18	obl:tmod	_	Translit=6
 14	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	13	case	_	Translit=de
-15	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	18	obl:loc	_	Translit=beijing
+15	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	18	obl:lmod	_	Translit=beijing
 16	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	15	case	_	Translit=de
 17	ᡝᠯᠪᡞᠮᡝ	ᡝᠯᠪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	18	advcl	_	Translit=elbime
 18	ᠨᡝᡞᡥᡝᠪᡞ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=neihebi
@@ -13302,7 +13302,7 @@
 12	ᠸᠠᡢ	ᠸᠠᡢ	PROPN	_	_	5	appos	_	Translit=wang
 13	ᡥᡡ	ᡥᡡ	PROPN	_	_	12	flat:name	_	Translit=hv
 14	ᠨᡞᡢ	ᠨᡞᡢ	PROPN	_	_	13	flat:name	_	Translit=ning
-15	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	17	obl:loc	_	Translit=isan
+15	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	17	obl:lmod	_	Translit=isan
 16	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	15	case	_	Translit=de
 17	ᡨᡝᡣᡠᠯᡝᠮᡝ	ᡨᡝᡣᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	19	advcl	_	Translit=tekuleme
 18	ᡤᡞᠰᡠᠨ	ᡤᡞᠰᡠᠨ	NOUN	_	_	19	obj	_	Translit=gisun
@@ -13505,7 +13505,7 @@
 19	ᡞᠯᡞᠪᡠᠷᠠᠨ	ᡞᠯᡞᠪᡠᠷᠠᠨ	NOUN	_	_	24	obj	_	Translit=iliburan
 20	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	19	case	_	Translit=be
 21	ᡠᡪᡠᡞ	ᡠᡪᡠ	NOUN	_	Case=Gen	22	nmod	_	Translit=ujui
-22	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	24	obl:loc	_	Translit=oron
+22	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	24	obl:lmod	_	Translit=oron
 23	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	22	case	_	Translit=de
 24	ᠰᡞᠨᡩᠠᠷᠠ	ᠰᡞᠨᡩᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	28	obl	_	Translit=sindara
 25	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	24	case	_	Translit=de
@@ -13669,7 +13669,7 @@
 28	ᠰᡠᠨ	ᠰᡠᠨ	PROPN	_	_	20	appos	_	Translit=sun
 29	ᠴᡠᠨ	ᠴᡠᠨ	PROPN	_	_	28	flat:name	_	Translit=cun
 30	ᠯᠠᠨ	ᠯᠠᠨ	PROPN	_	_	29	flat:name	_	Translit=lan
-31	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	33	obl:loc	_	Translit=isan
+31	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	33	obl:lmod	_	Translit=isan
 32	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	31	case	_	Translit=de
 33	ᡨᡝᡣᡠᠯᡝᡥᡝᠪᡞ	ᡨᡝᡣᡠᠯᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=tekulehebi
 34	︒	︒	PUNCT	_	_	33	punct	_	Translit=.
@@ -13773,7 +13773,7 @@
 30	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	37	nsubj	_	Translit=usisi
 31	ᠠᡩᡠᠯᠠᠰᡞ	ᠠᡩᡠᠯᠠᠰᡞ	NOUN	_	_	30	conj	_	Translit=adulasi
 32	ᡣᡞᠴᡝᠨ	ᡣᡞᠴᡝᠨ	NOUN	_	_	33	nmod	_	Translit=kicen
-33	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	35	obl:loc	_	Translit=tanggin
+33	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	35	obl:lmod	_	Translit=tanggin
 34	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	33	case	_	Translit=de
 35	ᡪᡞᡫᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	37	advcl	_	Translit=jifi
 36	ᡨᠠᠯᡣᡞᠶᠠᠨ	ᡨᠠᠯᡣᡞᠶᠠᠨ	NOUN	_	_	37	obj	_	Translit=talkiyan
@@ -13802,14 +13802,14 @@
 16	ᠰᠠᠪᡠᠮᡝ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	42	advcl	_	Translit=sabume
 17	︐	︐	PUNCT	_	_	16	punct	_	Translit=,
 18	ᡣᡞᠴᡝᠨ	ᡣᡞᠴᡝᠨ	NOUN	_	_	19	nmod	_	Translit=kicen
-19	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	24	obl:loc	_	Translit=tanggin
+19	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	24	obl:lmod	_	Translit=tanggin
 20	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	19	case	_	Translit=de
 21	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	24	nsubj	_	Translit=usisi
 22	ᠠᡩᡠᠯᠠᠰᡞ	ᠠᡩᡠᠯᠠᠰᡞ	NOUN	_	_	21	conj	_	Translit=adulasi
 23	ᡨᠠᠴᡞᠪᠴᡝᠨ	ᡨᠠᠴᡞᠪᠴᡝᠨ	NOUN	_	_	24	obj	_	Translit=tacibcen
 24	ᡪᠠᡫᠠᠮᡝ	ᡪᠠᡫᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	29	advcl	_	Translit=jafame
 25	︐	︐	PUNCT	_	_	24	punct	_	Translit=,
-26	ᡤᠠᠯᠠ	ᡤᠠᠯᠠ	NOUN	_	_	29	obl:loc	_	Translit=gala
+26	ᡤᠠᠯᠠ	ᡤᠠᠯᠠ	NOUN	_	_	29	obl:lmod	_	Translit=gala
 27	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	26	case	_	Translit=de
 28	ᡫᡞ	ᡫᡞ	NOUN	_	_	29	obj	_	Translit=fi
 29	ᡪᠠᡫᠠᡫᡞ	ᡪᠠᡫᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	42	advcl	_	Translit=jafafi
@@ -14026,7 +14026,7 @@
 12	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	20	nsubj	_	Translit=usisi
 13	ᠠᡩᡠᠯᠠᠰᡞ	ᠠᡩᡠᠯᠠᠰᡞ	NOUN	_	_	12	conj	_	Translit=adulasi
 14	ᡥᠠᠷᠠᡢᡤᠠ	ᡥᠠᠷᠠᡢᡤᠠ	PRON	_	PronType=Dem	15	det	_	Translit=harangga
-15	ᡪᡝᠨ	ᡪᡝᠨ	NOUN	_	_	20	obl:loc	_	Translit=jen
+15	ᡪᡝᠨ	ᡪᡝᠨ	NOUN	_	_	20	obl:lmod	_	Translit=jen
 16	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	15	case	_	Translit=de
 17	ᡣᡝᠮᡠᠨᡞ	ᡣᡝᠮᡠᠨᡞ	ADV	_	_	20	advmod	_	Translit=kemuni
 18	126	126	NUM	_	NumType=Card	19	nummod	_	Translit=126
@@ -14070,7 +14070,7 @@
 9	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	14	obl:tmod	_	Translit=aniya
 10	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Abl	9	case	_	Translit=deri
 11	ᠪᠠᠨᡪᡞᠷᠰᡠᠨ	ᠪᠠᠨᡪᡞᠷᠰᡠᠨ	NOUN	_	_	12	nmod	_	Translit=banjirsun
-12	ᡤᡠᡢᠰᡟ	ᡤᡠᡢᠰᡟ	NOUN	_	_	14	obl:loc	_	Translit=gungsy
+12	ᡤᡠᡢᠰᡟ	ᡤᡠᡢᠰᡟ	NOUN	_	_	14	obl:lmod	_	Translit=gungsy
 13	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	12	case	_	Translit=de
 14	ᠸᡝᡞᠯᡝᠷᠠᠮᡝ	ᠸᡝᡞᠯᡝᠷᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	45	advcl	_	Translit=weilerame
 15	︐	︐	PUNCT	_	_	14	punct	_	Translit=,
@@ -14459,7 +14459,7 @@
 8	ᡤᡡᠰᠠ	ᡤᡡᠰᠠ	NOUN	_	_	14	nmod	_	Translit=gvsa
 9	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	8	case	_	Translit=i
 10	151	151	NUM	_	NumType=Card	14	nummod	_	Translit=151
-11	ᡩᠠᡢᠰᡝ	ᡩᠠᡢᠰᡝ	NOUN	_	_	13	obl:loc	_	Translit=dangse
+11	ᡩᠠᡢᠰᡝ	ᡩᠠᡢᠰᡝ	NOUN	_	_	13	obl:lmod	_	Translit=dangse
 12	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	11	case	_	Translit=de
 13	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Vnoun	14	acl:relcl	_	Translit=bihe
 14	ᡨᠣᠯᠠᡪᡞ	ᡨᠣᠯᠠᡪᡞ	NOUN	_	_	23	obj	_	Translit=tolaji
@@ -14575,7 +14575,7 @@
 12	ᠸᡝᡞᠯᡝᠷᠠᠨ	ᠸᡝᡞᠯᡝᠷᠠᠨ	NOUN	_	_	13	nmod	_	Translit=weileran
 13	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	19	obj	_	Translit=isan
 14	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	13	case	_	Translit=be
-15	ᡤᡡᠯᡪᠠ	ᡤᡡᠯᡪᠠ	PROPN	_	_	19	obl:loc	_	Translit=gvlja
+15	ᡤᡡᠯᡪᠠ	ᡤᡡᠯᡪᠠ	PROPN	_	_	19	obl:lmod	_	Translit=gvlja
 16	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	15	flat	_	Translit=hoton
 17	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	15	case	_	Translit=de
 18	ᡥᡞᡩᠠ	ᡥᡞᡩᠠ	NOUN	_	_	19	obj	_	Translit=hida
@@ -14593,7 +14593,7 @@
 5	ᡪᠣᠣ	ᡪᠣᠣ	PROPN	_	_	4	appos	_	Translit=joo
 6	ᡨᡞᠶᠠᠨ	ᡨᡞᠶᠠᠨ	PROPN	_	_	5	flat:name	_	Translit=tiyan
 7	ᡪᡞᠶᡝ	ᡪᡞᠶᡝ	PROPN	_	_	6	flat:name	_	Translit=jiye
-8	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	50	obl:loc	_	Translit=isan
+8	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	50	obl:lmod	_	Translit=isan
 9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	8	case	_	Translit=de
 10	︽	︽	PUNCT	_	_	44	punct	_	Translit=<
 11	ᡠᡥᡝᠷᡞᠯᡝᡥᡝ	ᡠᡥᡝᠷᡞᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Vnoun	12	acl	_	Translit=uherilehe
@@ -14782,7 +14782,7 @@
 8	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	11	amod	_	Translit=ice
 9	ᠰᡠᡩᡠᠷᡞ	ᠰᡠᡩᡠᠷᡞ	NOUN	_	_	11	nmod	_	Translit=suduri
 10	ᠨᡝᠴᡞᠨ	ᠨᡝᠴᡞᠨ	ADJ	_	_	11	amod	_	Translit=necin
-11	ᡨᠠᡞᠰᡝ	ᡨᠠᡞᠰᡝ	NOUN	_	_	13	obl:loc	_	Translit=taise
+11	ᡨᠠᡞᠰᡝ	ᡨᠠᡞᠰᡝ	NOUN	_	_	13	obl:lmod	_	Translit=taise
 12	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	11	case	_	Translit=de
 13	ᡞᠯᡞᡥᠠ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	26	parataxis	_	Translit=iliha
 14	︐	︐	PUNCT	_	_	13	punct	_	Translit=,
@@ -14843,7 +14843,7 @@
 15	ᡫᡠᠯᡝᡥᡝᡢᡤᡝ	ᡫᡠᠯᡝᡥᡝᡢᡤᡝ	ADJ	_	_	16	amod	_	Translit=fulehengge
 16	ᠪᠠ	ᠪᠠ	NOUN	_	_	9	conj	_	Translit=ba
 17	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	18	compound	_	Translit=cabcal
-18	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	20	obl:loc	_	Translit=siyan
+18	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	20	obl:lmod	_	Translit=siyan
 19	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	18	case	_	Translit=de
 20	ᡨᡝᠪᡠᠨᡝᠪᡠᡥᡝ	ᡨᡝᠪᡠᠨᡝᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=tebunebuhe
 
@@ -14927,7 +14927,7 @@
 72	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	75	nmod	_	Translit=siyan
 73	ᡠᠰᡞᠨ	ᡠᠰᡞᠨ	NOUN	_	_	74	nmod	_	Translit=usin
 74	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	75	nmod	_	Translit=hethe
-75	ᠶᠠᠮᡠᠨ	ᠶᠠᠮᡠᠨ	NOUN	_	_	77	obl:loc	_	Translit=yamun
+75	ᠶᠠᠮᡠᠨ	ᠶᠠᠮᡠᠨ	NOUN	_	_	77	obl:lmod	_	Translit=yamun
 76	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	75	case	_	Translit=de
 77	ᡞᠴᡞᡥᡞᠶᠠᡥᠠᠪᡞ	ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=icihiyahabi
 78	︒	︒	PUNCT	_	_	77	punct	_	Translit=.
@@ -14986,7 +14986,7 @@
 48	ᡤᡠᠸᠠᠨ	ᡤᡠᠸᠠᠨ	PROPN	_	_	44	appos	_	Translit=guwan
 49	ᡤᡠᡞ	ᡤᡠᡞ	PROPN	_	_	48	flat:name	_	Translit=gui
 50	ᡪᡝᠨ	ᡪᡝᠨ	PROPN	_	_	49	flat:name	_	Translit=jen
-51	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	53	obl:loc	_	Translit=dorolon
+51	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	53	obl:lmod	_	Translit=dorolon
 52	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	51	case	_	Translit=de
 53	ᡝᡢᡤᡝᠯᡝᠮᡝ	ᡝᡢᡤᡝᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	56	advcl	_	Translit=enggeleme
 54	ᡧᡠᠰᡞᡥᡝ	ᡧᡠᠰᡞᡥᡝ	NOUN	_	_	56	obj	_	Translit=šusihe
@@ -15019,10 +15019,10 @@
 # text[eng] = At the inauguration ceremony, the representatives of the participating companies, the heads of Xinjiang Xiqian Rice Industry Co., Ltd. and the heads of the Agricultural Products Processing Research Institute of the Chinese Academy of Agricultural Sciences, all expressed their efforts to promote the quality of Cabcal rice and establish the Cabcal rice brand , also to promote it to the whole country.
 1	ᡧᡠᠰᡞᡥᡝ	ᡧᡞᠰᡞᡥᡝ	NOUN	_	_	2	obj	_	Translit=šusihe
 2	ᠨᡝᡞᠷᡝ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	3	acl	_	Translit=neire
-3	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	39	obl:loc	_	Translit=dorolon
+3	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	39	obl:lmod	_	Translit=dorolon
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	3	case	_	Translit=de
 5	︐	︐	PUNCT	_	_	3	punct	_	Translit=,
-6	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	8	obl:loc	_	Translit=isan
+6	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	8	obl:lmod	_	Translit=isan
 7	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	6	case	_	Translit=de
 8	ᠠᡩᠠᠨᠠᡥᠠ	ᠠᡩᠠᠨᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	11	acl:relcl	_	Translit=adanaha
 9-10	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
@@ -15145,7 +15145,7 @@
 # text[trans] = ubuki siyan de tondokon kadalabure oron i oyonggo tušanusi , geren gvsa ( jen ) falga dendeme kadalara yarhvdasi jai geren ci ye fundesi šusihe neilere dorolon de adanahabi .
 # text[eng] = The main responsible persons of some counties, leaders in charge of various townships(towns) and representatives of various enterprises attended the unveiling ceremony.
 1	ᡠᠪᡠᡣᡞ	ᡠᠪᡠᡣᡞ	NOUN	_	_	2	nmod	_	Translit=ubuki
-2	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	6	obl:loc	_	Translit=siyan
+2	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	6	obl:lmod	_	Translit=siyan
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	2	case	_	Translit=de
 4	ᡨᠣᠨᡩᠣᡣᠣᠨ	ᡨᠣᠨᡩᠣᡣᠣᠨ	ADJ	_	_	6	amod	_	Translit=tondokon
 5	ᡣᠠᡩᠠᠯᠠᠪᡠᠷᡝ	ᡣᠠᡩᠠᠯᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	6	acl	_	Translit=kadalabure
@@ -15171,7 +15171,7 @@
 24	ᡫᡠᠨᡩᡝᠰᡞ	ᡫᡠᠨᡩᡝᠰᡞ	NOUN	_	_	9	conj	_	Translit=fundesi
 25	ᡧᡠᠰᡞᡥᡝ	ᡧᡠᠰᡞᡥᡝ	NOUN	_	_	26	obj	_	Translit=šusihe
 26	ᠨᡝᡞᠯᡝᠷᡝ	ᠨᡝᡞᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	27	acl	_	Translit=neilere
-27	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	29	obl:loc	_	Translit=dorolon
+27	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	29	obl:lmod	_	Translit=dorolon
 28	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	27	case	_	Translit=de
 29	ᠠᡩᠠᠨᠠᡥᠠᠪᡞ	ᠠᡩᠠᠨᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=adanahabi
 30	︒	︒	PUNCT	_	_	29	punct	_	Translit=.
@@ -15224,7 +15224,7 @@
 28	ᠴᡞᠣᠸᠠᠨ	ᠴᡞᠣᠸᠠᠨ	PROPN	_	_	27	flat:name	_	Translit=ciowan
 29	ᡤᡡᠰᠠ	ᡤᡡᠰᠠ	NOUN	_	_	31	nmod	_	Translit=gvsa
 30	ᡣᡝᠮᡞᠴᡞᠮᠠᡞᠯᡞ	ᡣᡝᠮᡞᠴᡞᠮᠠᡞᠯᡞ	PROPN	_	_	31	compound	_	Translit=kemicimaili
-31	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	33	obl:loc	_	Translit=tokso
+31	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	33	obl:lmod	_	Translit=tokso
 32	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	31	case	_	Translit=de
 33	ᡤᡝᠨᡝᡫᡞ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	71	advcl	_	Translit=genefi
 34	︐	︐	PUNCT	_	_	33	punct	_	Translit=,
@@ -15238,13 +15238,13 @@
 42	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	41	case	_	Translit=be
 43	ᠪᡝᠨᡝᠮᡝ	ᠪᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	47	advcl	_	Translit=beneme
 44	ᡨᡠᠮᡝᠨ	ᡨᡠᠮᡝᠨ	NUM	_	NumType=Card	45	nummod	_	Translit=tumen
-45	ᠪᠣᠣ	ᠪᠣᠣ	NOUN	_	_	47	obl:loc	_	Translit=boo
+45	ᠪᠣᠣ	ᠪᠣᠣ	NOUN	_	_	47	obl:lmod	_	Translit=boo
 46	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	45	case	_	Translit=de
 47	ᡩᠣᠰᡞᠮᠪᡞ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	49	ccomp	_	Translit=dosimbi
 48	”	”	PUNCT	_	_	47	punct	_	Translit="
 49	ᠰᡝᠷᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	54	acl:relcl	_	Translit=sere
 50	ᡩᠠᡨᡝᡢᡤᡝ	ᡩᠠᡨᡝᡢᡤᡝ	NOUN	_	_	51	nmod	_	Translit=datengge
-51	ᡨᠠᡢᡣᠠᠨ	ᡨᠠᡢᡣᠠᠨ	NOUN	_	_	53	obl:loc	_	Translit=tangkan
+51	ᡨᠠᡢᡣᠠᠨ	ᡨᠠᡢᡣᠠᠨ	NOUN	_	_	53	obl:lmod	_	Translit=tangkan
 52	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	51	case	_	Translit=de
 53	ᡩᠣᠰᡞᠷᡝ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	54	acl	_	Translit=dosire
 54	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	56	obj	_	Translit=aššan
@@ -15289,7 +15289,7 @@
 16	ᡞ᠋	ᡞ᠋	PART	_	_	15	mark:adv	_	Translit=i
 17	ᡨᠣᡣᠰᠣᡞ	ᡨᠣᡣᠰᠣ	NOUN	_	Case=Gen	18	nmod	_	Translit=toksoi
 18-20	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
-18	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	22	obl:loc	_	Translit=wei
+18	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	22	obl:lmod	_	Translit=wei
 19	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	18	flat	_	Translit=yuwan
 20	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	19	flat	_	Translit=hvi
 21	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	18	case	_	Translit=de
@@ -15299,7 +15299,7 @@
 25	ᠣᡥᠠᡣᡡ	ᠣᠮᠪᡞ	VERB	_	Aspect=Perf|Polarity=Neg|VerbForm=Conv	33	advcl	_	Translit=ohakv
 26	︐	︐	PUNCT	_	_	25	punct	_	Translit=,
 27	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	28	nmod	_	Translit=aššan
-28	ᠪᠣᠣ	ᠪᠣᠣ	NOUN	_	_	33	obl:loc	_	Translit=boo
+28	ᠪᠣᠣ	ᠪᠣᠣ	NOUN	_	_	33	obl:lmod	_	Translit=boo
 29	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	28	case	_	Translit=de
 30	ᠴᡞᠶᡠᠨᡪᡠᡢ	ᠴᡞᠶᡠᠨᡪᡠᡢ	NOUN	_	_	33	nsubj	_	Translit=ciyunjung
 31	ᡠᡨᡥᠠᡞ	ᡠᡨᡥᠠᡞ	ADV	_	_	33	advmod	_	Translit=uthai
@@ -15444,7 +15444,7 @@
 # text[trans] = tere ba i ice aniya sainggi be teniken jiyangname wajime , ere ba de faksingga hergesisa geli hoošan behe fi be tucibume , urgungge fulgiyan hoošan be sekteme , juru gisun be arame deribuhe .
 # text[eng] = Just finishing talking about the knowledge about Spring Festival over there, the calligraphers here took out pen, ink and paper, spread out festive red paper, and began to write the Spring Festival couplets.
 1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	PronType=Dem	2	det	_	Translit=tere
-2	ᠪᠠ	ᠪᠠ	NOUN	_	_	10	obl:loc	_	Translit=ba
+2	ᠪᠠ	ᠪᠠ	NOUN	_	_	10	obl:lmod	_	Translit=ba
 3	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	2	case	_	Translit=i
 4	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	5	amod	_	Translit=ice
 5	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	6	nmod	_	Translit=aniya
@@ -15455,7 +15455,7 @@
 10	ᠸᠠᡪᡞᠮᡝ	ᠸᠠᡪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	34	advcl	_	Translit=wajime
 11	︐	︐	PUNCT	_	_	10	punct	_	Translit=,
 12	ᡝᠷᡝ	ᡝᠷᡝ	PRON	_	PronType=Dem	13	det	_	Translit=ere
-13	ᠪᠠ	ᠪᠠ	NOUN	_	_	22	obl:loc	_	Translit=ba
+13	ᠪᠠ	ᠪᠠ	NOUN	_	_	22	obl:lmod	_	Translit=ba
 14	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	13	case	_	Translit=de
 15	ᡫᠠᡣᠰᡞᡢᡤᠠ	ᡫᠠᡣᠰᡞᡢᡤᠠ	ADJ	_	_	16	amod	_	Translit=faksingga
 16	ᡥᡝᠷᡤᡝᠰᡞᠰᠠ	ᡥᡝᠷᡤᡝᠰᡞ	NOUN	_	Number=Plur	22	nsubj	_	Translit=hergesisa
@@ -15504,7 +15504,7 @@
 19	︐	︐	PUNCT	_	_	18	punct	_	Translit=,
 20	ᡫᠠᡣᠰᡞᡢᡤᠠ	ᡫᠠᡣᠰᡞᡢᡤᠠ	ADJ	_	_	21	amod	_	Translit=faksingga
 21	ᡥᡝᠷᡤᡝᠨ	ᡥᡝᠷᡤᡝᠨ	NOUN	_	_	25	nsubj	_	Translit=hergen
-22	ᡥᠣᠣᡧᠠᠨ	ᡥᠣᠣᡧᠠᠨ	NOUN	_	_	25	obl:loc	_	Translit=hoošan
+22	ᡥᠣᠣᡧᠠᠨ	ᡥᠣᠣᡧᠠᠨ	NOUN	_	_	25	obl:lmod	_	Translit=hoošan
 23	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	22	case	_	Translit=de
 24	ᡩᡠᡣᡩᡠᠮᡝ	ᡩᡠᡣᡩᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	25	advcl	_	Translit=dukdume
 25	ᡨᡠᠴᡞᠷᡝᡩᡝ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	Aspect=Imp|Case=Dat|VerbForm=Part	33	advcl	_	Translit=tucirede
@@ -15609,12 +15609,12 @@
 44	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	43	case	_	Translit=be
 45	ᠪᡝᠨᡝᠮᡝ	ᠪᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	49	advcl	_	Translit=beneme
 46	ᡨᡠᠮᡝᠨ	ᡨᡠᠮᡝᠨ	NUM	_	NumType=Card	47	nummod	_	Translit=tumen
-47	ᠪᠣᠣ	ᠪᠣᠣ	NOUN	_	_	49	obl:loc	_	Translit=boo
+47	ᠪᠣᠣ	ᠪᠣᠣ	NOUN	_	_	49	obl:lmod	_	Translit=boo
 48	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	47	case	_	Translit=de
 49	ᡩᠣᠰᡞᠷᡝ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	55	acl	_	Translit=dosire
 50	”	”	PUNCT	_	_	49	punct	_	Translit="
 51	ᡩᠠᡨᡝᡢᡤᡝ	ᡩᠠᡨᡝᡢᡤᡝ	ADJ	_	_	52	amod	_	Translit=datengge
-52	ᡨᠠᡢᡣᠠᠨ	ᡨᠠᡢᡣᠠᠨ	NOUN	_	_	54	obl:loc	_	Translit=tangkan
+52	ᡨᠠᡢᡣᠠᠨ	ᡨᠠᡢᡣᠠᠨ	NOUN	_	_	54	obl:lmod	_	Translit=tangkan
 53	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	52	case	_	Translit=de
 54	ᡩᠣᠰᡞᠷᡝ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	55	acl	_	Translit=dosire
 55	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	57	obj	_	Translit=aššan
@@ -15633,7 +15633,7 @@
 68	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	65	case	_	Translit=be
 69	ᠮᡞᡢᡤᠠᠨ	ᠮᡞᡢᡤᠠᠨ	NUM	_	NumType=Card	71	nummod	_	Translit=minggan
 70	ᡨᡠᠮᡝᠨ	ᡨᡠᠮᡝᠨ	NUM	_	NumType=Card	69	flat	_	Translit=tumen
-71	ᠪᠣᡞᡤᠣᠨ	ᠪᠣᡞᡤᠣᠨ	NOUN	_	_	74	obl:loc	_	Translit=boigon
+71	ᠪᠣᡞᡤᠣᠨ	ᠪᠣᡞᡤᠣᠨ	NOUN	_	_	74	obl:lmod	_	Translit=boigon
 72	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	71	case	_	Translit=de
 73	ᠪᡝᠨᡝᠮᡝ	ᠪᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	74	advcl	_	Translit=beneme
 74	ᡞᠰᡞᠨᠠᠪᡠᠮᡝ	ᡞᠰᡞᠨᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	87	advcl	_	Translit=isinabume
@@ -15923,7 +15923,7 @@
 17	ᠠᠴᠠᠮᡝ	ᠠᠴᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	18	advcl	_	Translit=acame
 18	ᠪᠠᡩᠠᠷᠠᠷᠠ	ᠪᠠᡩᠠᠷᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	20	acl	_	Translit=badarara
 19	ᡠᡪᡠᡞ	ᡠᡪᡠ	NUM	_	Case=Gen	20	nummod	_	Translit=ujui
-20	ᡪᡞᡪᡠᠨ	ᡪᡞᡪᡠᠨ	NOUN	_	_	22	obl:loc	_	Translit=jijun
+20	ᡪᡞᡪᡠᠨ	ᡪᡞᡪᡠᠨ	NOUN	_	_	22	obl:lmod	_	Translit=jijun
 21	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	20	case	_	Translit=de
 22	ᠰᡞᠨᡩᠠᡫᡞ	ᠰᡞᠨᡩᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	36	advcl	_	Translit=sindafi
 23	︐	︐	PUNCT	_	_	22	punct	_	Translit=,
@@ -15970,7 +15970,7 @@
 22	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	23	amod	_	Translit=ice
 23	ᡪᠠᠯᠠ	ᡪᠠᠯᠠ	NOUN	_	_	25	nmod	_	Translit=jala
 24	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	23	compound	_	Translit=dursun
-25	ᡨᠠᡣᡨᡠ	ᡨᠠᡣᡨᡠ	NOUN	_	_	27	obl:loc	_	Translit=taktu
+25	ᡨᠠᡣᡨᡠ	ᡨᠠᡣᡨᡠ	NOUN	_	_	27	obl:lmod	_	Translit=taktu
 26	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	25	case	_	Translit=de
 27	ᡪᡞᡫᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	60	advcl	_	Translit=jifi
 28	︐	︐	PUNCT	_	_	27	punct	_	Translit=,
@@ -15985,7 +15985,7 @@
 37	ᡤᡠᡢᠰᡟ	ᡤᡠᡢᠰᡟ	NOUN	_	_	40	nmod	_	Translit=gungsy
 38	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	37	case	_	Translit=i
 39	ᠨᡝ	ᠨᡝ	NOUN	_	_	40	nmod	_	Translit=ne
-40	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	60	obl:loc	_	Translit=falga
+40	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	60	obl:lmod	_	Translit=falga
 41	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	40	case	_	Translit=de
 42	ᡩᡞᠶᠠᠨᡯᡞ	ᡩᡞᠶᠠᠨᡯᡞ	NOUN	_	_	43	nmod	_	Translit=diyandzi
 43	ᡩᡠᠷᡠᠨ	ᡩᡠᠷᡠᠨ	NOUN	_	_	47	nmod	_	Translit=durun
@@ -16019,7 +16019,7 @@
 5	ᠨᡝᠴᡞᠨ	ᠨᡝᠴᡞᠨ	ADJ	_	_	6	amod	_	Translit=necin
 6	ᡨᠠᡞᠰᡝ	ᡨᠠᡞᠰᡝ	NOUN	_	_	8	nmod	_	Translit=taise
 7	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	6	case	_	Translit=i
-8	ᡪᡠᠯᡝᠷᡞ	ᡪᡠᠯᡝᠷᡞ	NOUN	_	_	58	obl:loc	_	Translit=juleri
+8	ᡪᡠᠯᡝᠷᡞ	ᡪᡠᠯᡝᠷᡞ	NOUN	_	_	58	obl:lmod	_	Translit=juleri
 9	︐	︐	PUNCT	_	_	8	punct	_	Translit=,
 10	ᠰᡞ	ᠰᡞ	PROPN	_	_	42	nsubj	_	Translit=si
 11	ᡪᡞᠨ	ᡪᡞᠨ	PROPN	_	_	10	flat:name	_	Translit=jin
@@ -16035,12 +16035,12 @@
 21	ᠮᠠᠨᡪᡠ	ᠮᠠᠨᡪᡠ	PROPN	_	_	22	nmod	_	Translit=manju
 22	ᡤᡡᠰᠠ	ᡤᡡᠰᠠ	NOUN	_	_	24	nmod	_	Translit=gvsa
 23	ᠶᡠᡞᡢ	ᠶᡠᡞᡢ	PROPN	_	_	24	compound	_	Translit=yuing
-24	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	26	obl:loc	_	Translit=tokso
+24	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	26	obl:lmod	_	Translit=tokso
 25	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	24	case	_	Translit=de
 26	ᡫᡠᡪᡠᠷᡠᠯᠠᠮᠠᡥᠠ	ᡫᡠᡪᡠᠷᡠᠯᠠᠮᠪᡞ	VERB	_	Aspect=Prog|VerbForm=Part	27	acl:relcl	_	Translit=fujurulamaha
 27	ᡝᡪᡝᠰᡞ	ᡝᡪᡝᠰᡞ	NOUN	_	_	42	obl	_	Translit=ejesi
 28	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	36	cc	_	Translit=jai
-29	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	31	obl:loc	_	Translit=tokso
+29	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	31	obl:lmod	_	Translit=tokso
 30	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	29	case	_	Translit=de
 31	ᡨᡝᡫᡞ	ᡨᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	34	advcl	_	Translit=tefi
 32	ᠶᠠᡩᠠᡥᡡᠨ	ᠶᠠᡩᠠᡥᡡᠨ	ADJ	_	_	34	obj	_	Translit=yadahvn
@@ -16090,7 +16090,7 @@
 12	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	13	amod	_	Translit=ice
 13	ᡪᠠᠯᠠ	ᡪᠠᠯᠠ	NOUN	_	_	15	nmod	_	Translit=jala
 14	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	13	compound	_	Translit=dursun
-15	ᠨᡞᠶᠠᠮᠠᠨ	ᠨᡞᠶᠠᠮᠠᠨ	NOUN	_	_	32	obl:loc	_	Translit=niyaman
+15	ᠨᡞᠶᠠᠮᠠᠨ	ᠨᡞᠶᠠᠮᠠᠨ	NOUN	_	_	32	obl:lmod	_	Translit=niyaman
 16	ᡩᡠᠯᡞᠮᠪᠠ	ᡩᡠᠯᡞᠮᠪᠠ	NOUN	_	_	15	compound	_	Translit=dulimba
 17	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	15	case	_	Translit=de
 18	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	20	nmod	_	Translit=niyalma
@@ -16139,7 +16139,7 @@
 15	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	14	compound	_	Translit=dursun
 16	ᠪᠣᠣᠯᠠᠮᡝ	ᠪᠣᡠᠯᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	17	advcl	_	Translit=boolame
 17	ᡪᠠᡫᠠᡨᠠᠷᠠ	ᡪᠠᡫᠠᡨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	18	acl	_	Translit=jafatara
-18	ᠨᡞᠶᠠᠮᠠᠨ	ᠨᡞᠶᠠᠮᠠᠨ	NOUN	_	_	21	obl:loc	_	Translit=niyaman
+18	ᠨᡞᠶᠠᠮᠠᠨ	ᠨᡞᠶᠠᠮᠠᠨ	NOUN	_	_	21	obl:lmod	_	Translit=niyaman
 19	ᡩᡠᠯᡞᠮᠪᠠ	ᡩᡠᠯᡞᠮᠪᠠ	NOUN	_	_	18	compound	_	Translit=dulimba
 20	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	18	case	_	Translit=de
 21	ᡪᡞᡫᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	43	parataxis	_	Translit=jifi
@@ -16665,7 +16665,7 @@
 18	︐	︐	PUNCT	_	_	15	punct	_	Translit=,
 19	ᡝᠷᡝᠮᡠ	ᡝᠷᡝᠮᡠ	DET	_	PronType=Dem	21	det	_	Translit=eremu
 20	ᡫᠠᠷᠰᡞ	ᡫᠠᠷᠰᡞ	NOUN	_	_	19	clf	_	Translit=farsi
-21	ᠪᠠᠨᠠ	ᠪᠠᠨᠠ	NOUN	_	_	25	obl:loc	_	Translit=bana
+21	ᠪᠠᠨᠠ	ᠪᠠᠨᠠ	NOUN	_	_	25	obl:lmod	_	Translit=bana
 22	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	21	case	_	Translit=de
 23	ᡧᡠᠮᡞᠨ	ᡧᡠᠮᡞᠨ	ADJ	_	_	25	advmod	_	Translit=šumin
 24	ᡫᡠᠯᡝᡥᡝ	ᡫᡠᠯᡝᡥᡝ	NOUN	_	_	25	obj	_	Translit=fulehe
@@ -16683,7 +16683,7 @@
 5	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	8	nmod	_	Translit=siyan
 6	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	5	case	_	Translit=i
 7	15	15	NUM	_	NumType=Card	8	nummod	_	Translit=15
-8	ᡤᡡᠰᠠ	ᡤᡡᠰᠠ	NOUN	_	_	12	obl:loc	_	Translit=gvsa
+8	ᡤᡡᠰᠠ	ᡤᡡᠰᠠ	NOUN	_	_	12	obl:lmod	_	Translit=gvsa
 9	ᡪᡝᠨ	ᡪᡝᠨ	NOUN	_	_	8	conj	_	Translit=jen
 10	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	8	conj	_	Translit=falga
 11	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	8	case	_	Translit=de
@@ -16693,7 +16693,7 @@
 15	ᠨᠠ	ᠨᠠ	NOUN	_	_	18	nmod	_	Translit=na
 16	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	15	case	_	Translit=i
 17	ᠶᠠᠶᠠᠮᡠ	ᠶᠠᠶᠠᠮᡠ	PRON	_	PronType=Tot	18	det	_	Translit=yayamu
-18	ᡥᠣᡧᠣ	ᡥᠣᡧᠣ	NOUN	_	_	21	obl:loc	_	Translit=hošo
+18	ᡥᠣᡧᠣ	ᡥᠣᡧᠣ	NOUN	_	_	21	obl:lmod	_	Translit=hošo
 19	ᠮᡠᡩᠠᠨ	ᠮᡠᡩᠠᠨ	NOUN	_	_	18	compound	_	Translit=mudan
 20	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	18	case	_	Translit=de
 21	ᡞᠰᡞᠨᠠᡥᠠ	ᡞᠰᡞᠨᠠᠮᠪᡞ	VERB	_	_	89	parataxis	_	Translit=isinaha
@@ -16773,7 +16773,7 @@
 # text[eng] = Working silently in an ordinary position, she contributed all her strength to increasing the county's agricultural benefits and increasing farmers' income, she is the grassroot agricultural technician in Cabcal Xibe Autonomous County-Guan Liju.
 1	ᠠᠨ	ᠠᠨ	ADJ	_	_	3	amod	_	Translit=an
 2	ᡪᡝᠷᡤᡞ	ᡪᡝᠷᡤᡞ	ADJ	_	_	1	compound	_	Translit=jergi
-3	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	9	obl:loc	_	Translit=oron
+3	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	9	obl:lmod	_	Translit=oron
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	3	case	_	Translit=de
 5	ᠴᡞᠪ	ᠴᡞᠪ	ADJ	_	_	9	advmod	_	Translit=cib
 6	ᡝᡣᡞᠰᠠᡣᠠ	ᡝᡣᡞᠰᠠᡣᠠ	ADJ	_	_	5	compound	_	Translit=ekisaka
@@ -16887,7 +16887,7 @@
 3	ᡪᡞᠣᡞ	ᡪᡞᠣᡞ	PROPN	_	_	2	flat:name	_	Translit=jioi
 4	ᡩᠠᠷᡠᡥᠠᡞ	ᡩᠠᠷᡠᡥᠠᡞ	ADV	_	_	9	advmod	_	Translit=daruhai
 5	ᡠᠰᡞᠨ	ᡠᠰᡞᠨ	NOUN	_	_	6	nmod	_	Translit=usin
-6	ᠶᠠᠯᡠ	ᠶᠠᠯᡠ	NOUN	_	_	9	obl:loc	_	Translit=yalu
+6	ᠶᠠᠯᡠ	ᠶᠠᠯᡠ	NOUN	_	_	9	obl:lmod	_	Translit=yalu
 7	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	6	case	_	Translit=de
 8	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	9	advcl	_	Translit=geneme
 9	ᡩᠠᠨᠠᠮᡝ	ᡩᠠᠨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	14	advcl	_	Translit=daname
@@ -16959,7 +16959,7 @@
 15	ᡩᠠᠮᡠ	ᡩᠠᠮᡠ	ADV	_	_	20	advmod	_	Translit=damu
 16	ᡞ	ᡞ	PRON	_	Number=Sing|Person=3|PronType=Prs	20	nsubj	_	Translit=i
 17	ᡝᠮᡩᠠᠨ	ᡝᠮᡩᠠᠨ	NOUN	_	_	20	obl:tmod	_	Translit=emdan
-18	ᡤᠠᡧᠠᠨ	ᡤᠠᡧᠠᠨ	NOUN	_	_	20	obl:loc	_	Translit=gašan
+18	ᡤᠠᡧᠠᠨ	ᡤᠠᡧᠠᠨ	NOUN	_	_	20	obl:lmod	_	Translit=gašan
 19	ᠴᡞ	ᠴᡞ	ADP	_	Case=Lat	18	case	_	Translit=ci
 20	ᡝᠪᡠᡥᡝᡩᡝ	ᡝᠪᡠᠮᠪᡞ	VERB	_	Aspect=Perf|Case=Dat|VerbForm=Part	32	obl	_	Translit=ebuhede
 21	︐	︐	PUNCT	_	_	20	punct	_	Translit=,
@@ -16969,7 +16969,7 @@
 25	ᡞᠮᠪᡝ	ᡞᠮᠪᡝ	PRON	_	Case=Acc|Number=Sing|Person=3|PronType=Prs	26	obj	_	Translit=imbe
 26	ᡨᠠᡨᠠᠮᡝ	ᡨᠠᡨᠠᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	32	advcl	_	Translit=tatame
 27	ᠮᡝᡞᠮᡝᠨᡞ	ᠮᡝᡞᠮᡝᠨᡞ	PRON	_	PronType=Tot	28	nmod:poss	_	Translit=meimeni
-28	ᠪᠣᠣᡩᡝ	ᠪᠣᠣ	NOUN	_	Case=Loc	32	obl:loc	_	Translit=boode
+28	ᠪᠣᠣᡩᡝ	ᠪᠣᠣ	NOUN	_	Case=Loc	32	obl:lmod	_	Translit=boode
 29	ᡨᠠᠷᡞᡥᠠ	ᡨᠠᠷᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	30	acl	_	Translit=tariha
 30	ᡪᠠᡣᠠᠰᡠ	ᡪᠠᡣᠠᠰᡠ	NOUN	_	_	32	obj	_	Translit=jakasu
 31	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	30	obj	_	Translit=be
@@ -17155,7 +17155,7 @@
 14	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	13	case	_	Translit=be
 15	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	17	nmod	_	Translit=siyan
 16	ᡣᠠᡨᡠᠷᡝᠪᡠᠨ	ᡣᠠᡨᡠᠷᡝᠪᡠᠨ	NOUN	_	_	17	nmod	_	Translit=katurebun
-17	ᡣᡠᠷᡝᠨ	ᡣᡠᠷᡝᠨ	NOUN	_	_	19	obl:loc	_	Translit=kuren
+17	ᡣᡠᠷᡝᠨ	ᡣᡠᠷᡝᠨ	NOUN	_	_	19	obl:lmod	_	Translit=kuren
 18	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	17	case	_	Translit=de
 19	ᡝᡫᡞᡥᡝᠪᡞ	ᡝᡫᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=efihebi
 20	︒	︒	PUNCT	_	_	19	punct	_	Translit=.
@@ -17234,11 +17234,11 @@
 4	ᠪᠠᠨᠰᡝᡞ	ᠪᠠᠨᠰᡝ	NOUN	_	Case=Gen	5	nmod	_	Translit=bansei
 5	ᠶᠠᠷᡥᡡᡩᠠᠰᡞ	ᠶᠠᠷᡥᡡᡩᠠᠰᡞ	NOUN	_	_	9	nsubj	_	Translit=yarhvdasi
 6	ᡩᠣᠪᠣᠷᡞ	ᡩᠣᠪᠣᠷᡞ	NOUN	_	_	7	nmod	_	Translit=dobori
-7	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	9	obl:loc	_	Translit=isan
+7	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	9	obl:lmod	_	Translit=isan
 8	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	7	case	_	Translit=de
 9	ᡨᡝᡣᡠᠯᡝᡥᡝ	ᡨᡝᡣᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	47	advcl	_	Translit=tekulehe
 10	︐	︐	PUNCT	_	_	9	punct	_	Translit=,
-11	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	24	obl:loc	_	Translit=isan
+11	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	24	obl:lmod	_	Translit=isan
 12	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	11	case	_	Translit=de
 13	ᡠᠴᡠᠨ	ᡠᠴᡠᠨ	NOUN	_	_	22	nmod	_	Translit=ucun
 14	ᠮᠠᡣᠰᡞᠨ	ᠮᠠᡣᠰᡞᠨ	NOUN	_	_	13	conj	_	Translit=maksin
@@ -17281,7 +17281,7 @@
 # text = ᡞᠰᠠᠨ ᡩᡝ ︐ ᡯᡞᡲᡞᡧᡞᠶᠠᠨ ᠨᡞᡢᡤᡝ 2018 ᠴᡞ ᠠᠨᡞᠶᠠᡞ ᡫᡠᠯᡠ ᠰᠠᡞᠨ ᡪᡠᠸᠠᠨ ᠪᠣᡞᡤᠣᠨ ᠠᠴᠠᠯᠠᡥᠠ ᡩᠠ ᠪᡝ ᡥᡠᠸᡝᡣᡞᠶᡝᠮᠪᡠᡥᡝᠪᡞ ︒
 # text[trans] = isan de , dzijyšiyan ningge 2018 ci aniyai fulu sain juwan boigon acalaha da be huwekiyembuhebi .
 # text[eng] = At the meeting, the Autonomous County rewarded outstanding ten joint defense households in 2018.
-1	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	16	obl:loc	_	Translit=isan
+1	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	16	obl:lmod	_	Translit=isan
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	1	case	_	Translit=de
 3	︐	︐	PUNCT	_	_	1	punct	_	Translit=,
 4	ᡯᡞᡲᡞᡧᡞᠶᠠᠨ	ᡯᡞᡲᡞᡧᡞᠶᠠᠨ	NOUN	_	_	16	nsubj	_	Translit=dzijyšiyan
@@ -17662,7 +17662,7 @@
 5	ᠠᠷᠠᠮᡝ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	52	advcl	_	Translit=arame
 6	︐	︐	PUNCT	_	_	5	punct	_	Translit=,
 7	ᡬᠠᠮᠪᡠ	ᡬᠠᠮᠪᡠ	NOUN	_	_	8	nmod	_	Translit=cgambu
-8	ᠪᠣᡞᡤᠣᠨ	ᠪᠣᡞᡤᠣᠨ	NOUN	_	_	10	obl:loc	_	Translit=boigon
+8	ᠪᠣᡞᡤᠣᠨ	ᠪᠣᡞᡤᠣᠨ	NOUN	_	_	10	obl:lmod	_	Translit=boigon
 9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	8	case	_	Translit=de
 10	ᡞᠨᡩᡝᠷᡝᡢᡤᡝ	ᡞᠨᡩᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	12	nsubj	_	Translit=inderengge
 11	ᡤᡠᠪᠴᡞ	ᡤᡠᠪᠴᡞ	PRON	_	PronType=Tot	12	obl	_	Translit=gubci
@@ -17788,7 +17788,7 @@
 22	ᡨᠠᡣᠠᠨᡩᡠᠪᡠᠷᡝ	ᡨᠠᡣᠠᠨᡩᡠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	23	acl	_	Translit=takandubure
 23	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	27	obj	_	Translit=isan
 24	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	23	case	_	Translit=be
-25	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	27	obl:loc	_	Translit=urumci
+25	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	27	obl:lmod	_	Translit=urumci
 26	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	25	case	_	Translit=de
 27	ᠶᠠᠪᡠᠪᡠᡥᠠᠪᡞ	ᠶᠠᠪᡠᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=yabubuhabi
 
@@ -17846,7 +17846,7 @@
 47	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	52	obj	_	Translit=isan
 48	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	47	case	_	Translit=be
 49	ᡠᠷᡠᠮᠴᡞ	ᡠᠷᡠᠮᠴᡞ	PROPN	_	_	50	compound	_	Translit=urumci
-50	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	52	obl:loc	_	Translit=hoton
+50	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	52	obl:lmod	_	Translit=hoton
 51	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	50	case	_	Translit=de
 52	ᠶᠠᠪᡠᠪᡠᡥᠠ	ᠶᠠᠪᡠᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=yabubuha
 53	。	。	PUNCT	_	_	52	punct	_	Translit=‫.‬
@@ -17870,7 +17870,7 @@
 13	ᡨᡠᠯᡝᠷᡤᡞ	ᡨᡠᠯᡝᠷᡤᡞ	NOUN	_	_	14	nmod	_	Translit=tulergi
 14	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	15	nmod	_	Translit=gurun
 15	ᠠᠨᡨᠠᡥᠠ	ᠠᠨᡨᠠᡥᠠ	NOUN	_	_	18	nsubj	_	Translit=antaha
-16	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	18	obl:loc	_	Translit=isan
+16	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	18	obl:lmod	_	Translit=isan
 17	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	16	case	_	Translit=de
 18	ᠠᡩᠠᠨᠠᡥᠠ	ᠠᠨᡩᠠᠨᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=adanaha
 19	。	。	PUNCT	_	_	18	punct	_	Translit=‫.‬
@@ -18012,7 +18012,7 @@
 # text[eng] = Standing at a new historical starting point, we will fully implement the CPC Central Committee's strategy of governing Xinjiang, and strive to build a socialist Xinjiang with Chinese characteristics that is united, harmonious, prosperous, prosperous, civilized, and prosperous.
 1	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	3	amod	_	Translit=ice
 2	ᠰᡠᡩᡠᠷᡞ	ᠰᡠᡩᡠᠷᡞ	NOUN	_	_	3	nmod	_	Translit=suduri
-3	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	5	obl:loc	_	Translit=oron
+3	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	5	obl:lmod	_	Translit=oron
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	3	case	_	Translit=de
 5	ᡞᠯᡞᡫᡞ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	45	advcl	_	Translit=ilifi
 6	,	,	PUNCT	_	_	5	punct	_	Translit=,
@@ -18231,7 +18231,7 @@
 1	ᡠᠯᠠᠮᡝ	ᡠᠯᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	2	advcl	_	Translit=ulame
 2	ᠰᡝᠯᡤᡞᠶᡝᠮᡝ	ᠰᡝᠯᡤᡞᠶᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	3	advcl	_	Translit=selgiyeme
 3	ᡨᠠᡣᠠᠨᡩᡠᠪᡠᠷᡝ	ᡨᠠᡣᠠᠨᡩᡠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	4	acl	_	Translit=takandubure
-4	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	46	obl:loc	_	Translit=isan
+4	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	46	obl:lmod	_	Translit=isan
 5	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	4	case	_	Translit=de
 6	,	,	PUNCT	_	_	4	punct	_	Translit=,
 7	ᠰᡞᠨᡪᡞᠶᠠᡢ	ᠰᡞᠨᡪᡞᠶᠠᡢ	PROPN	_	_	10	nmod	_	Translit=sinjiyang
@@ -18301,7 +18301,7 @@
 18	ᡠᠯᠠᠮᡝ	ᡠᠯᠠᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	19	advcl	_	Translit=ulame
 19	ᠰᡝᠯᡤᡞᠶᡝᠮᡝ	ᠰᡝᠯᡤᡞᠶᡝᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	20	advcl	_	Translit=selgiyeme
 20	ᡨᠠᡣᠠᠨᡩᡠᠪᡠᠷᡝ	ᡨᠠᡣᠠᠨᡩᡠᠪᡠᠷᡝ	VERB	_	Aspect=Imp|VerbForm=Part	21	acl	_	Translit=takandubure
-21	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	23	obl:loc	_	Translit=isan
+21	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	23	obl:lmod	_	Translit=isan
 22	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	21	case	_	Translit=de
 23	ᠠᡩᠠᠨᠠᡥᠠ	ᠠᡩᠠᠨᠠᡥᠠ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=adanaha
 24	。	。	PUNCT	_	_	23	punct	_	Translit=‫.‬
@@ -18321,7 +18321,7 @@
 9	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	15	obj	_	Translit=isan
 10	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	9	case	_	Translit=be
 11	ᠪᡝᡞᡪᡞᡢ	ᠪᡝᡞᡪᡞᡢ	PROPN	_	_	12	compound	_	Translit=beijing
-12	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	15	obl:loc	_	Translit=hoton
+12	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	15	obl:lmod	_	Translit=hoton
 13	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	12	case	_	Translit=de
 14	ᡥᡞᡩᠠ	ᡥᡞᡩᠠ	NOUN	_	_	15	compound	_	Translit=hida
 15	ᠨᡝᡞᡥᡝᠪᡞ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=neihebi
@@ -18360,7 +18360,7 @@
 27	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	26	compound	_	Translit=irgen
 28	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	30	amod	_	Translit=amba
 29	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	30	nmod	_	Translit=isan
-30	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	33	obl:loc	_	Translit=tanggin
+30	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	33	obl:lmod	_	Translit=tanggin
 31	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	30	case	_	Translit=de
 32	ᡥᡞᡩᠠ	ᡥᡞᡩᠠ	NOUN	_	_	33	compound	_	Translit=hida
 33	ᠨᡝᡞᡥᡝᠪᡞ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=neihebi
@@ -18477,7 +18477,7 @@
 31	ᡧᠠᠨ	ᡧᠠᠨ	PROPN	_	_	30	flat:name	_	Translit=šan
 32	ᡪᡝᠷᡤᡞ	ᡪᡝᠷᡤᡞ	NOUN	_	_	6	acl	_	Translit=jergi
 33	ᡪᡠᠰᡞ	ᡪᡠᠰᡞ	NOUN	_	_	34	nmod	_	Translit=jusi
-34	ᡣᠠᠷᠠᠨ	ᡣᠠᠷᠠᠨ	NOUN	_	_	36	obl:loc	_	Translit=karan
+34	ᡣᠠᠷᠠᠨ	ᡣᠠᠷᠠᠨ	NOUN	_	_	36	obl:lmod	_	Translit=karan
 35	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	34	case	_	Translit=de
 36	ᡨᡝᡫᡞ	ᡨᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	42	advcl	_	Translit=tefi
 37	,	,	PUNCT	_	_	36	punct	_	Translit=,
@@ -18526,7 +18526,7 @@
 # text[trans] = amba isan de neneme jengsiye juwan ilaci bilgan gubci gurun wei yuwan hvi jai mudan isan i on be kimcime dulebuhe ‫.‬
 # text[eng] = The conference first reviewed and approved the agenda of the second meeting of the 13th CPPCC National Committee.
 1	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	2	amod	_	Translit=amba
-2	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	21	obl:loc	_	Translit=isan
+2	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	21	obl:lmod	_	Translit=isan
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	2	case	_	Translit=de
 4	ᠨᡝᠨᡝᠮᡝ	ᠨᡝᠨᡝᠮᡝ	ADV	_	_	21	advmod	_	Translit=neneme
 5	ᡪᡝᡢᠰᡞᠶᡝ	ᡪᡝᡢᠰᡞᠶᡝ	NOUN	_	_	11	nmod	_	Translit=jengsiye
@@ -18742,7 +18742,7 @@
 23	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	22	compound	_	Translit=irgen
 24	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	26	amod	_	Translit=amba
 25	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	26	nmod	_	Translit=isan
-26	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	28	obl:loc	_	Translit=tanggin
+26	ᡨᠠᡢᡤᡞᠨ	ᡨᠠᡢᡤᡞᠨ	NOUN	_	_	28	obl:lmod	_	Translit=tanggin
 27	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	26	case	_	Translit=de
 28	ᡞᠴᡞᡥᡞᠶᠠᡥᠠᠪᡞ	ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=icihiyahabi
 29	。	。	PUNCT	_	_	28	punct	_	Translit=‫.‬
@@ -18759,7 +18759,7 @@
 6	“	“	PUNCT	_	_	9	punct	_	Translit="
 7	ᠪᡠᡪᠠᡢ	ᠪᡠᡪᠠᡢ	NOUN	_	_	9	nmod	_	Translit=bujang
 8	ᡥᠠᡫᡠᠷᡝ	ᡥᠠᡫᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	9	acl	_	Translit=hafure
-9	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	13	obl:loc	_	Translit=jugvn
+9	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	13	obl:lmod	_	Translit=jugvn
 10	”	”	PUNCT	_	_	9	punct	_	Translit="
 11	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	9	case	_	Translit=de
 12	ᠴᡞᠷᠠ	ᠴᡞᠷᠠ	NOUN	_	_	13	compound	_	Translit=cira
@@ -18829,7 +18829,7 @@
 26	ᠣᠮᡞᠷᡝ	ᠣᠮᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	35	obj	_	Translit=omire
 27	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	26	case	_	Translit=be
 28	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	29	nummod	_	Translit=emu
-29	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	35	obl:loc	_	Translit=hoton
+29	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	35	obl:lmod	_	Translit=hoton
 30	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	29	case	_	Translit=de
 31	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	32	nummod	_	Translit=emu
 32	ᡫᡝᡨᡝᠰᡠ	ᡫᡝᡨᡝᠰᡠ	NOUN	_	_	35	xcomp	_	Translit=fetesu
@@ -19048,7 +19048,7 @@
 20	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	19	case	_	Translit=be
 21	ᠪᠠᡞᡥᠠᠨᠠᠮᡝ	ᠪᠠᡞᡥᠠᠨᠠᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	70	advcl	_	Translit=baihaname
 22	,	,	PUNCT	_	_	21	punct	_	Translit=,
-23	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	32	obl:loc	_	Translit=jungyang
+23	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	32	obl:lmod	_	Translit=jungyang
 24	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	25	cc	_	Translit=jai
 25	ᡤᠣᠯᠣ	ᡤᠣᠯᠣ	NOUN	_	_	23	conj	_	Translit=golo
 26	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	25	conj	_	Translit=hoton
@@ -19059,7 +19059,7 @@
 31	ᡩᡠᠯᡞᠮᠪᠠ	ᡩᡠᠯᡞᠮᠪᠠ	NOUN	_	_	30	compound	_	Translit=dulimba
 32	ᡞᠯᡞᠪᡠᠮᡝ	ᡞᠯᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	70	advcl	_	Translit=ilibume
 33	,	,	PUNCT	_	_	32	punct	_	Translit=,
-34	ᡤᡡᠰᠠ	ᡤᡡᠰᠠ	NOUN	_	_	41	obl:loc	_	Translit=gvsa
+34	ᡤᡡᠰᠠ	ᡤᡡᠰᠠ	NOUN	_	_	41	obl:lmod	_	Translit=gvsa
 35	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	34	conj	_	Translit=tokso
 36	ᡪᡠᠸᡝ	ᡪᡠᠸᡝ	NUM	_	NumType=Card	37	nummod	_	Translit=juwe
 37	ᡨᠠᡢᡣᠠᠨ	ᡨᠠᡢᡣᠠᠨ	NOUN	_	_	34	conj	_	Translit=tangkan
@@ -19218,7 +19218,7 @@
 29	ᡣᠠᠷᠮᠠᡨᠠᠷᠠᡢᡤᡝ	ᡣᠠᠷᠮᠠᡨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	34	nsubj	_	Translit=karmatarangge
 30	ᠣᠴᡞ	ᠣᠴᡞ	ADP	_	_	29	case	_	Translit=oci
 31	ᡠᡪᡠᡞ	ᡠᡪᡠᡞ	NUM	_	NumType=Ord	32	nummod	_	Translit=ujui
-32	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	34	obl:loc	_	Translit=oron
+32	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	34	obl:lmod	_	Translit=oron
 33	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	32	case	_	Translit=de
 34	ᠪᡞᠮᡝ	ᠪᡞᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	41	advcl	_	Translit=bime
 35	,	,	PUNCT	_	_	34	punct	_	Translit=,
