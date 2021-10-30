@@ -26,8 +26,8 @@
 # text[phon] = ilha ler seme ilhafi , absi hocikosaka.
 # text[eng] = The flowers blossomed, how pretty.
 1	ᡞᠯᡥᠠ	ᡞᠯᡥᠠ	NOUN	_	_	4	nsubj	_	Translit=ilha
-2	ᠯᡝᠷ	ᠯᡝᠷ	ADV	_	_	4	advmod	_	Translit=ler
-3	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	AUX	_	Aspect=Imp|VerbForm=Conv	2	aux	_	Translit=seme
+2	ᠯᡝᠷ	ᠯᡝᠷ	ADV	_	_	3	xcomp	_	Translit=ler
+3	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	4	advcl	_	Translit=seme
 4	ᡞᠯᡥᠠᡫᡞ	ᠰᠯᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	0	root	_	Translit=ilhafi
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
 6	ᠠᠪᠰᡞ	ᠠᠪᠰᡞ	ADV	_	_	7	advmod	_	Translit=absi
@@ -1693,9 +1693,9 @@
 # text[eng] = Although I made a little achievement in work, how dare I be proud and arrogant!
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=bi
 2	ᡠᡩᡠ	ᡠᡩᡠ	NUM	_	NumType=Mult	7	nummod	_	Translit=udu
-3	ᠮᠠᡪᡞᡤᡝ	ᠮᠠᡪᡞᡤᡝ	ADJ	_	_	7	amod	_	Translit=majige
-4	ᠰᡝᠷ	ᠰᡝᠷ	ADJ	_	_	3	conj	_	Translit=ser
-5	ᠰᡝᠷᡝ	ᠰᡝᠷᡝ	AUX	_	_	4	aux	_	Translit=sere
+3	ᠮᠠᡪᡞᡤᡝ	ᠮᠠᡪᡞᡤᡝ	ADJ	_	_	5	xcomp	_	Translit=majige
+4	ᠰᡝᠷ	ᠰᡝᠷ	ADJ	_	_	3	compound	_	Translit=ser
+5	ᠰᡝᠷᡝ	ᠰᡝᠷᡝ	VERB	_	_	7	acl	_	Translit=sere
 6	ᡝᡨᡝᠨ	ᡝᡨᡝᠨ	NOUN	_	_	7	compound	_	Translit=eten
 7	ᡧᠠᡢᡤᠠᠨ	ᡧᠠᡢᡤᠠᠨ	NOUN	_	_	9	obj	_	Translit=šanggan
 8	ᠪᠠᡥᠠ	ᠪᠠᡥᠠ	NOUN	_	_	7	conj	_	Translit=baha
@@ -2522,8 +2522,8 @@
 7	,	,	PUNCT	_	_	6	punct	_	Translit=,
 8	ᠮᡠᡪᡞᠨ	ᠮᡠᡪᡞᠨ	NOUN	_	_	10	nsubj	_	Translit=mujin
 9	ᡤᡡᠨᡞᠨ	ᡤᡡᠨᡞᠨ	NOUN	_	_	8	compound	_	Translit=gvnin
-10	ᡥᡞᠷ	ᡥᡞᠷ	ADV	_	_	12	advcl	_	Translit=hir
-11	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	10	aux	_	Translit=seme
+10	ᡥᡞᠷ	ᡥᡞᠷ	ADV	_	_	11	xcomp	_	Translit=hir
+11	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	12	advcl	_	Translit=seme
 12	ᡠᠰᠠᠪᡠᠮᠪᡞ	ᡠᠰᠠᠮᠪᡞ	VERB	_	Tense=Pres|Voice=Cau	0	root	_	Translit=usabumbi
 13	。	。	PUNCT	_	_	12	punct	_	Translit=.
 
@@ -2599,14 +2599,14 @@
 
 # sent_id = grammarbook_sjo_p3_64
 # text = ᡪᡠᡤᡡᠨ ᡞ ᡪᡠᠸᡝ ᡩᠠᠯᠪᠠᡩᡝ ᡫᡞᡣ ᠰᡝᠮᡝ ᠪᡠᠯᠠ ᡞ ᠴᠠᡢᡤᡞ 。
-# text[phon] = jugvn I juwe dalbade fik seme bula I canggi.
+# text[phon] = jugvn I juwe dalbade fik seme bula i canggi.
 # text[eng] = The road was bordered by dense thickets of thorns.
 1	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	4	nmod	_	Translit=jugvn
 2	ᡞ	ᡞ	ADP	_	Case=Gen	1	case	_	Translit=i
 3	ᡪᡠᠸᡝ	ᡪᡠᠸᡝ	NUM	_	_	4	nummod	_	Translit=juwe
 4	ᡩᠠᠯᠪᠠᡩᡝ	ᡩᠠᠯᠪᠠᡩᡝ	NOUN	_	_	7	obl	_	Translit=dalbade
-5	ᡫᡞᡣ	ᡫᡞᡣ	ADJ	_	_	7	advcl	_	Translit=fik
-6	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	5	aux	_	Translit=seme
+5	ᡫᡞᡣ	ᡫᡞᡣ	ADJ	_	_	6	xcomp	_	Translit=fik
+6	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	7	acl	_	Translit=seme
 7	ᠪᡠᠯᠠ	ᠪᡠᠯᠠ	NOUN	_	_	0	root	_	Translit=bula
 8	ᡞ	ᡞ	ADP	_	Case=Gen	7	case	_	Translit=i
 9	ᠴᠠᡢᡤᡞ	ᠴᠠᡢᡤᡞ	ADP	_	_	7	case	_	Translit=canggi
@@ -2659,9 +2659,9 @@
 4	ᡧᡝᠷᡞ	ᡧᡝᠷᡞ	NOUN	_	_	6	nmod	_	Translit=šeri
 5	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
 6	ᠮᡠᡣᡝ	ᠮᡠᡣᡝ	NOUN	_	_	11	nsubj	_	Translit=muke
-7	ᡪᡞᠷ	ᡪᡞᠷ	ADJ	_	_	11	advcl	_	Translit=jir
+7	ᡪᡞᠷ	ᡪᡞᠷ	ADJ	_	_	9	xcomp	_	Translit=jir
 8	ᡪᡞᠷ	ᡪᡞᠷ	ADJ	_	_	7	compound	_	Translit=jir
-9	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	8	aux	_	Translit=seme
+9	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	11	advcl	_	Translit=seme
 10	ᠮᡠᡩᠠᠯᡞᠮᡝ	ᠮᡠᡩᠠᠯᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	11	advcl	_	Translit=mudalime
 11	ᡪᠣᠯᡥᠣᠮᠪᡞ	ᡪᠣᠯᡥᠣᠮᠪᡞ	VERB	_	Tense=Pres	0	root	_	Translit=jolhombi
 12	。	。	PUNCT	_	_	11	punct	_	Translit=.
@@ -3109,7 +3109,7 @@
 # text = ᡤᡡᠸᠠ ᠪᠠᡞᡨᠠ ᠠᡣᡡ ᠣᠴᡞ , ᠪᡞ ᠪᡝᡩᡝᠷᡝᡣᡞ 。
 # text[phon] = gvwa baita akv oci, bi bedereki.
 # text[eng] = If I don't have other works, I will go back.
-1	ᡤᡡᠸᠠ	ᡤᡡᠸᠠ	ADJ	_	Number=Plur|Person=3|PronType=Ind	2	amod	_	Translit=gvwa
+1	ᡤᡡᠸᠠ	ᡤᡡᠸᠠ	ADJ	_	_	2	amod	_	Translit=gvwa
 2	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	3	obj	_	Translit=baita
 3	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	7	advcl	_	Translit=akv
 4	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	3	mark	_	Translit=oci
@@ -5101,8 +5101,8 @@
 21	,	,	PUNCT	_	_	20	punct	_	Translit=,
 22	ᡝᠮᡝᠮᡠᡢᡤᡝ	ᡝᠮᡝᠮᡠᡢᡤᡝ	NOUN	_	_	27	nsubj	_	Translit=ememungge
 23	ᡣᡞᡣᡞ	ᡣᡞᡣᡞ	ADV	_	_	24	compound	_	Translit=kiki
-24	ᡣᠠᡣᠠ	ᡣᠠᡣᠠ	ADV	_	_	27	advmod	_	Translit=kaka
-25	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	24	aux	_	Translit=seme
+24	ᡣᠠᡣᠠ	ᡣᠠᡣᠠ	ADV	_	_	25	xcomp	_	Translit=kaka
+25	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	27	advcl	_	Translit=seme
 26	ᡞᠨᡪᡝᠮᡝ	ᡞᠨᡪᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	27	advcl	_	Translit=injeme
 27	ᡝᡫᡞᠮᠠᡥᠠᠪᡞ	ᡝᡫᡞᠮᠪᡞ	VERB	_	Aspect=Prog|Tense=Pres|VerbForm=Fin	12	conj	_	Translit=efimahabi
 28	。	。	PUNCT	_	_	27	punct	_	Translit=.
@@ -5185,8 +5185,8 @@
 1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=mini
 2	ᠰᡝᡫᡠ	ᠰᡝᡫᡠ	NOUN	_	_	9	nsubj	_	Translit=sefu
 3	ᡠᡩᡠ	ᡠᡩᡠ	SCONJ	_	_	9	mark	_	Translit=udu
-4	ᠶᠠᠷ	ᠶᠠᠷ	ADJ	_	_	9	advmod	_	Translit=yar
-5	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	4	aux	_	Translit=seme
+4	ᠶᠠᠷ	ᠶᠠᠷ	ADJ	_	_	9	xcomp	_	Translit=yar
+5	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	9	advcl	_	Translit=seme
 6	ᡞᠯᠠᠨ	ᡞᠯᠠᠨ	NUM	_	NumType=Card	7	nummod	_	Translit=ilan
 7	ᡝᠷᡞᠨ	ᡝᠷᡞᠨ	NOUN	_	_	9	obl	_	Translit=erin
 8	ᡣᡞᠴᡝᠨ	ᡣᡞᠴᡝᠨ	NOUN	_	_	9	obj	_	Translit=kicen
@@ -5522,8 +5522,8 @@
 8	ᡞ	ᡞ	X	_	_	7	flat	_	Translit=i
 9	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	14	obj	_	Translit=jugvn
 10	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	9	case	_	Translit=be
-11	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	13	advcl	_	Translit=teng
-12	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	11	aux	_	Translit=seme
+11	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	12	xcomp	_	Translit=teng
+12	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	13	advcl	_	Translit=seme
 13	ᡫᠠᡣᡪᡞᠯᠠᠮᡝ	ᡫᠠᡣᡪᡞᠯᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	14	advcl	_	Translit=fakjilame
 14	ᠶᠠᠪᡠᠮᠪᡞ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Translit=yabumbi
 15	。	。	PUNCT	_	_	14	punct	_	Translit=.
@@ -6283,8 +6283,8 @@
 4	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	3	case	_	Translit=be
 5	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	Translit=bi
 6	ᡨᠠᡢᡤᡡᡢᡤᡝᠷᡞ	ᡨᠠᡢᡤᡡᡢᡤᡝᠷᡞ	NUM	_	_	7	obl	_	Translit=tanggvnggeri
-7	ᠰᡝᡠᠯᡝᡥᡝ	ᠰᡝᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	9	advcl	_	Translit=seolehe
-8	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	7	aux	_	Translit=seme
+7	ᠰᡝᡠᠯᡝᡥᡝ	ᠰᡝᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	8	xcomp	_	Translit=seolehe
+8	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	9	advcl	_	Translit=seme
 9	ᡠᠯᡥᡞᠮᡝ	ᡠᠯᡥᡞᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	10	advcl	_	Translit=ulhime
 10	ᠮᡠᡨᡝᠷᠠᡣᡡ	ᠮᡠᡨᡝᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Fin	0	root	_	Translit=muterakv
 11	。	。	PUNCT	_	_	10	punct	_	Translit=.
@@ -6466,8 +6466,8 @@
 8	ᠪᡞ	ᠪᡞ	VERB	_	_	0	root	_	Translit=bi
 9	,	,	PUNCT	_	_	8	punct	_	Translit=,
 10	ᡠᠮᠠᡞ	ᡠᠮᠠᡞ	ADV	_	_	15	advmod	_	Translit=umai
-11	ᠮᠠᡪᡞᡤᡝ	ᠮᠠᡪᡞᡤᡝ	ADJ	_	_	15	advcl	_	Translit=majige
-12	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	11	aux	_	Translit=seme
+11	ᠮᠠᡪᡞᡤᡝ	ᠮᠠᡪᡞᡤᡝ	ADJ	_	_	12	xcomp	_	Translit=majige
+12	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	15	advcl	_	Translit=seme
 13	ᡞᠨᡞ	ᡞᠨᡞ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	14	compound	_	Translit=ini
 14	ᠪᡝᠶᡝ	ᠪᡝᠶᡝ	PRON	_	Reflex=Yes	15	obj	_	Translit=beye
 15	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	_	8	parataxis	_	Translit=akv
@@ -6539,8 +6539,8 @@
 5	ᠠᠮᠠᠯᠠ	ᠠᠮᠠᠯᠠ	ADP	_	_	4	case	_	Translit=amala
 6	,	,	PUNCT	_	_	4	punct	_	Translit=,
 7	ᡣᡠᡢ	ᡣᡠᡢ	ADJ	_	_	8	compound	_	Translit=kung
-8	ᠴᠠᡢ	ᠴᠠᡢ	ADJ	_	_	10	advcl	_	Translit=cang
-9	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	8	aux	_	Translit=seme
+8	ᠴᠠᡢ	ᠴᠠᡢ	ADJ	_	_	9	xcomp	_	Translit=cang
+9	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	9	advcl	_	Translit=seme
 10	ᠪᠠᠨᡪᡞᠮᠪᡞ	ᠪᠠᠨᡪᡞᠮᠪᡞ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Translit=banjimbi
 11	。	。	PUNCT	_	_	10	punct	_	Translit=.
 
@@ -8096,8 +8096,8 @@
 10	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	11	nummod	_	Translit=emu
 11	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	18	obl	_	Translit=falga
 12	ᡥᠣᡠ	ᡥᠣᡠ	ADV	_	_	13	compound	_	Translit=hoo
-13	ᡥᡞᡠ	ᡥᡞᡠ	ADV	_	_	16	advcl	_	Translit=hio
-14	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	13	aux	_	Translit=seme
+13	ᡥᡞᡠ	ᡥᡞᡠ	ADV	_	_	14	xcomp	_	Translit=hio
+14	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	16	advcl	_	Translit=seme
 15	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	16	obj	_	Translit=baita
 16	ᡞᠴᡞᡥᡞᠶᠠᠷᠠ	ᡞᠴᡞᡥᡞᠶᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	18	obl	_	Translit=icihiyara
 17	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	16	case	_	Translit=de
@@ -9114,10 +9114,10 @@
 14	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	13	case	_	Translit=de
 15	ᠨᡞᠶᡝᡢᠨᡞᠶᡝᠷᡞ	ᠨᡞᠶᡝᡢᠨᡞᠶᡝᠷᡞ	NOUN	_	_	16	nmod	_	Translit=niyengniyeri
 16	ᠰᡠᡣᡩᡠᠨ	ᠰᡠᡣᡩᡠᠨ	NOUN	_	_	17	nsubj	_	Translit=sukdun
-17	ᠯᡝᠷ	ᠯᡝᠷ	ADJ	_	_	50	advcl	_	Translit=ler
+17	ᠯᡝᠷ	ᠯᡝᠷ	ADJ	_	_	19	xcomp	_	Translit=ler
 18	ᠯᡝᠷ	ᠯᡝᠷ	ADJ	_	_	17	compound	_	Translit=ler
-19	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	AUX	_	Aspect=Imp|VerbForm=Conv	17	aux	_	Translit=seme
-20	︐	︐	PUNCT	_	_	17	punct	_	Translit=,
+19	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	50	advcl	_	Translit=seme
+20	︐	︐	PUNCT	_	_	19	punct	_	Translit=,
 21	ᡪᡞᠶᠠᠨ	ᡪᡞᠶᠠᠨ	PROPN	_	_	27	nmod	_	Translit=jiyan
 22	ᠰᠠᠨᡪᡞᠶᠠᡢ	ᠰᠠᠨᡪᡞᠶᠠᡢ	PROPN	_	_	21	flat:name	_	Translit=sanjiyang
 23	ᡨᡠᠮᡝᠨ	ᡨᡠᠮᡝᠨ	NUM	_	NumType=Card	27	nummod	_	Translit=tumen
@@ -9990,9 +9990,9 @@
 2	ᡥᡡᠮᠠᠨ	ᡥᡡᠮᠠᠨ	NOUN	_	_	1	compound	_	Translit=hvman
 3	ᡝᡫᡞᠨ	ᡝᡫᡞᠨ	NOUN	_	_	18	nsubj	_	Translit=efin
 4	ᡥᠠᠯᡥᡡᠨ	ᡥᠠᠯᡥᡡᠨ	ADJ	_	_	5	amod	_	Translit=halhvn
-5	ᠪᡠᠶᡝᠨ	ᠪᡠᠶᡝᠨ	NOUN	_	_	8	nmod	_	Translit=buyen
-6	ᠶᠠᡢᡤᠠᠷ	ᠶᠠᡢᡤᠠᠷ	ADJ	_	_	5	conj	_	Translit=yanggar
-7	ᠰᡝᠷᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Part	6	aux	_	Translit=sere
+5	ᠪᡠᠶᡝᠨ	ᠪᡠᠶᡝᠨ	NOUN	_	_	6	compound	_	Translit=buyen
+6	ᠶᠠᡢᡤᠠᠷ	ᠶᠠᡢᡤᠠᠷ	ADJ	_	_	7	xcomp	_	Translit=yanggar
+7	ᠰᡝᠷᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	8	acl	_	Translit=sere
 8	ᠮᠠᡣᠰᡞᠨ	ᠮᠠᡣᠰᡞᠨ	NOUN	_	_	16	nmod	_	Translit=maksin
 9	︽	︽	PUNCT	_	_	14	punct	_	Translit=<
 10	ᡪᡠᡢᡬᠣ	ᡪᡠᡢᡬᠣ	PROPN	_	_	11	nmod	_	Translit=jungcgo
@@ -10910,8 +10910,8 @@
 7	ᡩᠠ	ᡩᠠ	NOUN	_	_	8	nmod	_	Translit=da
 8	ᡣᠣᠣᠯᡞ	ᡣᠣᠣᠯᡞ	NOUN	_	_	12	obj	_	Translit=kooli
 9	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	8	case	_	Translit=be
-10	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	12	advmod	_	Translit=teng
-11	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	10	aux	_	Translit=seme
+10	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	11	xcomp	_	Translit=teng
+11	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	12	advcl	_	Translit=seme
 12	ᡪᠠᡫᠠᠮᡝ	ᡪᠠᡫᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	16	advcl	_	Translit=jafame
 13	︐	︐	PUNCT	_	_	12	punct	_	Translit=,
 14	ᠠᠷᠪᡠᠨ	ᠠᠷᠪᡠᠨ	NOUN	_	_	16	obj	_	Translit=arbun
@@ -12014,8 +12014,8 @@
 43	ᠴᡞᠶᡠᠨᡪᡠᡢ	ᠴᡞᠶᡠᠨᡪᡠᡢ	NOUN	_	_	48	nmod	_	Translit=ciyunjung
 44	ᠨᡞ	ᠨᡞ	ADP	_	Case=Gen	43	case	_	Translit=ni
 45	ᡝᠮᡩᡠᠪᡝᡞ	ᡝᠮᡩᡠᠪᡝᡞ	ADV	_	_	46	advmod	_	Translit=emdubei
-46	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	48	advcl	_	Translit=sain
-47	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	46	aux	_	Translit=seme
+46	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	47	xcomp	_	Translit=sain
+47	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	48	advcl	_	Translit=seme
 48	ᡦᡞᡢᠨᡝᠷᡝ	ᡦᡞᡢᠨᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	51	obj	_	Translit=pingnere
 49	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	48	case	_	Translit=be
 50	ᠪᠠᡥᠠᠮᡝ	ᠪᠠᡥᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	51	advcl	_	Translit=bahame
@@ -12451,8 +12451,8 @@
 27	ᡪᠣᠷᡞᡧᠠᠨ	ᡪᠣᠷᡞᡧᠠᠨ	NOUN	_	_	28	xcomp	_	Translit=jorišan
 28	ᠣᠪᡠᠷᡝ	ᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun|Voice=Cau	32	obl	_	Translit=obure
 29	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	28	case	_	Translit=de
-30	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	32	advmod	_	Translit=teng
-31	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	30	aux	_	Translit=seme
+30	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	31	xcomp	_	Translit=teng
+31	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	32	advcl	_	Translit=seme
 32	ᡞᠯᡞᠮᡝ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	84	advcl	_	Translit=ilime
 33	︐	︐	PUNCT	_	_	32	punct	_	Translit=,
 34	ᠰᡞ	ᠰᡞ	PROPN	_	_	38	compound	_	Translit=si
@@ -12485,8 +12485,8 @@
 61	ᡠᡥᡝᠷᡞᠯᡝᡥᡝ	ᡠᡥᡝᠷᡞᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Vnoun	62	acl	_	Translit=uherilehe
 62	ᡪᠣᠷᡞᠨ	ᡪᠣᠷᡞᠨ	NOUN	_	_	66	obj	_	Translit=jorin
 63	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	62	case	_	Translit=be
-64	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	66	advmod	_	Translit=tak
-65	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	64	aux	_	Translit=seme
+64	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	65	xcomp	_	Translit=tak
+65	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	66	advcl	_	Translit=seme
 66	ᡨᠣᠷᡥᠣᠮᡝ	ᡨᠣᠷᡥᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	84	advcl	_	Translit=torhome
 67	︐	︐	PUNCT	_	_	66	punct	_	Translit=,
 68	ᠮᡠᠰᡝᡞ	ᠮᡠᠰᡝ	PRON	_	Case=Gen|Clusivity=In|Number=Plur|Person=1|PronType=Prs	69	amod	_	Translit=musei
@@ -12579,8 +12579,8 @@
 2	ᡤᡝᡨᡠᡣᡝᠨ	ᡤᡝᡨᡠᡣᡝᠨ	ADJ	_	_	30	advmod	_	Translit=getuken
 3	ᡫᡞᠶᠠᡢᡤᠠ	ᡫᡞᠶᠠᡢᡤᠠ	ADJ	_	_	2	conj	_	Translit=fiyangga
 4	︑	︑	PUNCT	_	_	2	punct	_	Translit=,
-5	ᠮᠠᡪᡞᡤᡝ	ᠮᠠᡪᡞᡤᡝ	ADJ	_	_	7	advmod	_	Translit=majige
-6	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	AUX	_	Aspect=Imp|VerbForm=Conv	5	aux	_	Translit=seme
+5	ᠮᠠᡪᡞᡤᡝ	ᠮᠠᡪᡞᡤᡝ	ADJ	_	_	6	xcomp	_	Translit=majige
+6	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	7	advcl	_	Translit=seme
 7	ᡤᡠᠷᡞᠨᡪᡝᠷᡣᡡ	ᡤᡠᠷᡞᠨᡪᡝᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Part	2	conj	_	Translit=gurinjerkv
 8	ᡞ᠋	ᡞ᠋	PART	_	_	2	mark:adv	_	Translit=i
 9	ᠰᡞ	ᠰᡞ	PROPN	_	_	12	compound	_	Translit=si
@@ -12602,8 +12602,8 @@
 25	ᡝᠮᡠᠯᡝᠮᡝ	ᡝᠮᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	26	advcl	_	Translit=emuleme
 26	ᠶᠠᠷᡥᡡᡩᠠᠷᠠ	ᠶᠠᠷᡥᡡᡩᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	30	obl	_	Translit=yarhvdara
 27	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	26	case	_	Translit=de
-28	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	30	advmod	_	Translit=teng
-29	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	28	aux	_	Translit=seme
+28	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	29	xcomp	_	Translit=teng
+29	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	30	advcl	_	Translit=seme
 30	ᡞᠯᡞᠮᡝ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	60	advcl	_	Translit=ilime
 31	︐	︐	PUNCT	_	_	30	punct	_	Translit=,
 32	ᠠᠰᡠᠷᠠᠨ	ᠠᠰᡠᠷᠠᠨ	NOUN	_	_	33	nmod	_	Translit=asuran
@@ -12613,8 +12613,8 @@
 36	ᠶᠠᠷᡥᡡᡩᠠᠷᠠ	ᠶᠠᠷᡥᡡᡩᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	37	acl:relcl	_	Translit=yarhvdara
 37	ᡨᠣᠣᠰᡝ	ᡨᠣᠣᠰᡝ	NOUN	_	_	41	obj	_	Translit=toose
 38	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	37	case	_	Translit=be
-39	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	41	advmod	_	Translit=tak
-40	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	39	aux	_	Translit=seme
+39	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	40	xcomp	_	Translit=tak
+40	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	41	advcl	_	Translit=seme
 41	ᡪᠠᡫᠠᡨᠠᠮᡝ	ᡪᠠᡫᠠᡨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	60	advcl	_	Translit=jafatame
 42	︐	︐	PUNCT	_	_	41	punct	_	Translit=,
 43	ᠰᡞᠨᡪᡞᠶᠠᡢ	ᠰᡞᠨᡪᡞᠶᠠᡢ	PROPN	_	_	47	nmod	_	Translit=sinjiyang
@@ -13509,8 +13509,8 @@
 23	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	22	case	_	Translit=de
 24	ᠰᡞᠨᡩᠠᠷᠠ	ᠰᡞᠨᡩᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	28	obl	_	Translit=sindara
 25	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	24	case	_	Translit=de
-26	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	28	advmod	_	Translit=teng
-27	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	26	aux	_	Translit=seme
+26	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	27	xcomp	_	Translit=teng
+27	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	28	advcl	_	Translit=seme
 28	ᡞᠯᡞᠮᡝ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	50	advcl	_	Translit=ilime
 29	︐	︐	PUNCT	_	_	28	punct	_	Translit=,
 30	ᡬᠠᠮᠪᡠ	ᡬᠠᠮᠪᡠ	NOUN	_	_	34	nmod	_	Translit=cgambu
@@ -13531,8 +13531,8 @@
 45	ᠶᠠᠷᡥᡡᡩᠠᠷᠠ	ᠶᠠᠷᡥᡡᡩᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	46	acl	_	Translit=yarhvdara
 46	ᡨᠣᠣᠰᡝ	ᡨᠣᠣᠰᡝ	NOUN	_	_	50	obj	_	Translit=toose
 47	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	46	case	_	Translit=be
-48	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	50	advmod	_	Translit=tak
-49	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	48	aux	_	Translit=seme
+48	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	49	xcomp	_	Translit=tak
+49	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	50	advcl	_	Translit=seme
 50	ᡪᠠᡫᠠᡨᠠᡣᡞ	ᡪᠠᡫᠠᡨᠠᠮᠪᡞ	VERB	_	Mood=Imp|VerbForm=Fin	51	ccomp	_	Translit=jafataki
 51	ᠰᡝᡥᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=sehe
 52	︒	︒	PUNCT	_	_	51	punct	_	Translit=.
@@ -16191,8 +16191,8 @@
 6	ᡨᠠᡢᡣᠠᠨ	ᡨᠠᡢᡣᠠᠨ	NOUN	_	_	7	nmod	_	Translit=tangkan
 7	ᠪᠣᡩᠣᠮᡞᠯᡝᠨ	ᠪᠣᡩᠣᠮᡞᠯᡝᠨ	NOUN	_	_	12	obj	_	Translit=bodomilen
 8	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	7	case	_	Translit=be
-9	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	12	advmod	_	Translit=tak
-10	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	9	aux	_	Translit=seme
+9	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	10	xcomp	_	Translit=tak
+10	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	12	advcl	_	Translit=seme
 11	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	12	xcomp	_	Translit=sain
 12	ᠠᠷᠠᠮᡝ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	58	advcl	_	Translit=arame
 13	︐	︐	PUNCT	_	_	12	punct	_	Translit=,
@@ -16266,8 +16266,8 @@
 17	ᡤᠠᡞᠷᡝ	ᡤᠠᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	18	acl	_	Translit=gaire
 18	ᡫᠣᠷᠣᡥᠣᠨ	ᡫᠣᠷᠣᡥᠣᠨ	NOUN	_	_	9	conj	_	Translit=forohon
 19	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	9	case	_	Translit=de
-20	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	22	advmod	_	Translit=teng
-21	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	20	aux	_	Translit=seme
+20	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	21	xcomp	_	Translit=teng
+21	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	22	advcl	_	Translit=seme
 22	ᡞᠯᡞᠮᡝ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	53	advcl	_	Translit=ilime
 23	︐	︐	PUNCT	_	_	22	punct	_	Translit=,
 24	ᡤᡞᠶᠠᡢᡤᠠ	ᡤᡞᠶᠠᡢᡤᠠ	ADJ	_	_	25	amod	_	Translit=giyangga
@@ -17581,8 +17581,8 @@
 54	”	”	PUNCT	_	_	51	punct	_	Translit="
 55	ᡥᠠᠴᡞᠨ	ᡥᠠᠴᡞᠨ	NOUN	_	_	56	nmod	_	Translit=hacin
 56	ᠸᡝᡞᠯᡝᠷᠠᠨ	ᠸᡝᡞᠯᡝᠷᠠᠨ	NOUN	_	_	60	nsubj	_	Translit=weileran
-57	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	60	advmod	_	Translit=tak
-58	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	57	aux	_	Translit=seme
+57	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	58	xcomp	_	Translit=tak
+58	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	60	advcl	_	Translit=seme
 59	ᡨᡠᠰᠠ	ᡨᡠᠰᠠ	NOUN	_	_	60	obj	_	Translit=tusa
 60	ᠰᠠᠪᡠᠮᠪᡞ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=sabumbi
 61	︒	︒	PUNCT	_	_	60	punct	_	Translit=.
@@ -17599,8 +17599,8 @@
 6	ᡥᡡᠸᠠᡧᠠᠪᡠᠨ	ᡥᡡᠸᠠᡧᠠᠪᡠᠨ	NOUN	_	_	5	compound	_	Translit=hvwašabun
 7	ᡠᠷᡝᠪᡠᠨ	ᡠᠷᡝᠪᡠᠨ	NOUN	_	_	5	conj	_	Translit=urebun
 8	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	5	case	_	Translit=be
-9	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	12	advmod	_	Translit=tak
-10	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	9	aux	_	Translit=seme
+9	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	10	xcomp	_	Translit=tak
+10	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	12	advcl	_	Translit=seme
 11	ᠠᠨᠠᠮᡝ	ᠠᠨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	12	advcl	_	Translit=aname
 12	ᡞᠪᡝᠪᡠᠮᡝ	ᡞᠪᡝᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	58	advcl	_	Translit=ibebume
 13	︐	︐	PUNCT	_	_	12	punct	_	Translit=,
@@ -19391,8 +19391,8 @@
 12	ᡩᡠᠪᡝᠨ	ᡩᡠᠪᡝᠨ	NOUN	_	_	13	nmod	_	Translit=duben
 13	ᠰᡞᡩᡝᠨ	ᠰᡞᡩᡝᠨ	NOUN	_	_	17	obl	_	Translit=siden
 14	ᠮᡝᠨᡞ	ᠮᡝᠨᡞ	PRON	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nsubj	_	Translit=meni
-15	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	17	advmod	_	Translit=teng
-16	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	15	aux	_	Translit=seme
+15	ᡨᡝᡢ	ᡨᡝᡢ	ADJ	_	_	16	xcomp	_	Translit=teng
+16	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	17	advcl	_	Translit=seme
 17	ᡞᠯᡞᠷᡝ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	21	acl:relcl	_	Translit=ilire
 18	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	21	nummod	_	Translit=emu
 19	ᡥᠠᠴᡞᠨ	ᡥᠠᠴᡞᠨ	NOUN	_	_	18	clf	_	Translit=hacin
@@ -19511,8 +19511,8 @@
 22	,	,	PUNCT	_	_	21	punct	_	Translit=,
 23	5	5	NUM	_	NumType=Card	27	nummod	_	Translit=5
 24	“	“	PUNCT	_	_	27	punct	_	Translit="
-25	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	27	advmod	_	Translit=tak
-26	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	AUX	_	Aspect=Imp|VerbForm=Conv	25	aux	_	Translit=seme
+25	ᡨᠠᡣ	ᡨᠠᡣ	ADJ	_	_	26	xcomp	_	Translit=tak
+26	ᠰᡝᠮᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	27	advcl	_	Translit=seme
 27	ᠠᡧᡧᠠᠷᡣᡡ	ᠠᡧᡧᠠᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Part	30	obj	_	Translit=aššarkv
 28	”	”	PUNCT	_	_	27	punct	_	Translit="
 29	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	27	case	_	Translit=be
