@@ -293,7 +293,7 @@
 # text[phon] = ere oci meni haji eme - cabcal.
 # text[eng] = This is our beloved mother - Cabcal.
 1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	Number=Sing|PronType=Dem	5	nsubj	_	Translit=ere
-2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	aux	_	Translit=oci
+2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	cop	_	Translit=oci
 3	ᠮᡝᠨᡞ	ᠮᡝᠨᡞ	PRON	_	Clusivity=Ex|Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod	_	Translit=meni
 4	ᡥᠠᡪᡞ	ᡥᠠᡪᡞ	ADJ	_	Degree=Pos	5	amod	_	Translit=haji
 5	ᡝᠮᡝ	ᡝᠮᡝ	NOUN	_	_	0	root	_	Translit=eme
@@ -1029,9 +1029,9 @@
 4	ᡞ	ᡞ	ADP	_	Case=Gen	3	case	_	Translit=i
 5	ᡤᡡᠨᡞᠨ	ᡤᡡᠨᡞᠨ	NOUN	_	_	7	obj	_	Translit=gvnin
 6	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	5	case	_	Translit=be
-7	ᡠᠯᡥᡞᠷᠠᡣᡡ	ᡠᠯᡥᡞᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Conv	0	root	_	Translit=ulhirakv
-8	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	Mood=Ind|VerbForm=Fin	7	aux	_	Translit=ilihabi
-9	。	。	PUNCT	_	_	7	punct	_	Translit=.
+7	ᡠᠯᡥᡞᠷᠠᡣᡡ	ᡠᠯᡥᡞᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Conv	8	advcl	_	Translit=ulhirakv
+8	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ilihabi
+9	。	。	PUNCT	_	_	8	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_79
 # text = ᠮᡞᠨᡞ ᠶᠠᠰᠠ ᡞᠯᡤᠠᡧᠠᠮᡝ ᠰᠠᠪᡠᠷᠠᡣᡡ ᡞᠯᡞᡥᠠᠪᡞ 。
@@ -1040,9 +1040,9 @@
 1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=mini
 2	ᠶᠠᠰᠠ	ᠶᠠᠰᠠ	NOUN	_	_	4	nsubj	_	Translit=yasa
 3	ᡞᠯᡤᠠᡧᠠᠮᡝ	ᡞᠯᡤᠠᡧᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	4	advcl	_	Translit=ilgašame
-4	ᠰᠠᠪᡠᠷᠠᡣᡡ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Part	0	root	_	Translit=saburakv
-5	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	Mood=Ind|VerbForm=Fin	4	aux	_	Translit=ilihabi
-6	。	。	PUNCT	_	_	4	punct	_	Translit=.
+4	ᠰᠠᠪᡠᠷᠠᡣᡡ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Part	5	advcl	_	Translit=saburakv
+5	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ilihabi
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_80
 # text = ᠰᡝᡪᡝᠨ ᡝᡫᡠᡪᡝᡫᡞ , ᠶᠠᠪᡠᠮᡝ ᠮᡠᡨᡝᠷᠠᡣᡡ ᡞᠯᡞᡥᠠᠪᡞ 。
@@ -1052,9 +1052,9 @@
 2	ᡝᡫᡠᡪᡝᡫᡞ	ᡝᡫᡠᡪᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	5	advcl	_	Translit=efujefi
 3	,	,	PUNCT	_	_	2	punct	_	Translit=,
 4	ᠶᠠᠪᡠᠮᡝ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	5	advcl	_	Translit=yabume
-5	ᠮᡠᡨᡝᠷᠠᡣᡡ	ᠮᡠᡨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Part	0	root	_	Translit=muterakv
-6	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᡥᠠᠪᡞ	AUX	_	Mood=Ind|VerbForm=Fin	5	aux	_	Translit=ilihabi
-7	。	。	PUNCT	_	_	5	punct	_	Translit=.
+5	ᠮᡠᡨᡝᠷᠠᡣᡡ	ᠮᡠᡨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Part	6	advcl	_	Translit=muterakv
+6	ᡞᠯᡞᡥᠠᠪᡞ	ᡞᠯᡞᠮᠪᡞ	VERB	_	Mood=Ind|VerbForm=Fin	0	root	_	Translit=ilihabi
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_81
 # text = ᠪᡞ ᡩᠠᡞᡫᡠᠷᠠᠨ ᡣᡡᠸᠠᠷᠠᠨ ᡩᡝ ᡩᡝᡩᡠᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ 。
@@ -1064,9 +1064,9 @@
 2	ᡩᠠᡞᡫᡠᠷᠠᠨ	ᡩᠠᡞᡫᡠᠷᠠᠨ	NOUN	_	_	3	compound	_	Translit=daifuran
 3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl	_	Translit=kvwaran
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
-5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=dedume
-6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	5	aux	_	Translit=dulehekv
-7	。	。	PUNCT	_	_	5	punct	_	Translit=.
+5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	6	advcl	_	Translit=dedume
+6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	Translit=dulehekv
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_82
 # text = ᠪᡞ ᡩᠠᡞᡫᡠᠷᠠᠨ ᡣᡡᠸᠠᠷᠠᠨ ᡩᡝ ᡩᡝᡩᡠᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠪᡞ 。
@@ -1076,10 +1076,10 @@
 2	ᡩᠠᡞᡫᡠᠷᠠᠨ	ᡩᠠᡞᡫᡠᠷᠠᠨ	NOUN	_	_	3	compound	_	Translit=daifuran
 3	ᡣᡡᠸᠠᠷᠠᠨ	ᡣᡡᠸᠠᠷᠠᠨ	NOUN	_	_	5	obl	_	Translit=kvwaran
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
-5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=dedume
-6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	5	aux	_	Translit=dulehekv
-7	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=bi
-8	。	。	PUNCT	_	_	5	punct	_	Translit=.
+5	ᡩᡝᡩᡠᠮᡝ	ᡩᡝᡩᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	6	advcl	_	Translit=dedume
+6	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Conv	0	root	_	Translit=dulehekv
+7	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	6	aux	_	Translit=bi
+8	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_83
 # text = ᡝᠷᡝ ᠮᡝᡪᡞᡤᡝ ᠪᡝ ᡩᠣᠨᡪᡞᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ 。
@@ -1088,9 +1088,9 @@
 1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
 2	ᠮᡝᡪᡞᡤᡝ	ᠮᡝᡪᡞᡤᡝ	NOUN	_	_	4	obj	_	Translit=mejige
 3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
-4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=donjime
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	4	aux	_	Translit=dulehekv
-6	。	。	PUNCT	_	_	4	punct	_	Translit=.
+4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	5	advcl	_	Translit=donjime
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	Translit=dulehekv
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_84
 # text = ᡝᠷᡝ ᠮᡝᡪᡞᡤᡝ ᠪᡝ ᡩᠣᠨᡪᡞᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠪᡞ 。
@@ -1099,10 +1099,10 @@
 1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	2	det	_	Translit=ere
 2	ᠮᡝᡪᡞᡤᡝ	ᠮᡝᡪᡞᡤᡝ	NOUN	_	_	4	obj	_	Translit=mejige
 3	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	2	case	_	Translit=be
-4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=donjime
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	4	aux	_	Translit=dulehekv
-6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	4	aux	_	Translit=bi
-7	。	。	PUNCT	_	_	4	punct	_	Translit=.
+4	ᡩᠣᠨᡪᡞᠮᡝ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	5	advcl	_	Translit=donjime
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Conv	0	root	_	Translit=dulehekv
+6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=bi
+7	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_85
 # text = ᠪᡞ  ᠮᡠᡣᡩᡝᠨ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ 。
@@ -1111,9 +1111,9 @@
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
 2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl	_	Translit=Mukden
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
-4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=geneme
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	4	aux	_	Translit=dulehekv
-6	。	。	PUNCT	_	_	4	punct	_	Translit=.
+4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	5	advcl	_	Translit=geneme
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	Translit=dulehekv
+6	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_86
 # text = ᠪᡞ  ᠮᡠᡣᡩᡝᠨ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᡩᡠᠯᡝᡥᡝᡣᡡ ᠪᡞ 。
@@ -1122,10 +1122,10 @@
 1	ᠪᡞ	ᠪᡞ	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Translit=bi
 2	ᠮᡠᡣᡩᡝᠨ	ᠮᡠᡣᡩᡝᠨ	PROPN	_	_	4	obl	_	Translit=Mukden
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
-4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	0	root	_	Translit=geneme
-5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᡥᡝᡣᡡ	AUX	_	Polarity=Neg|Tense=Past|VerbForm=Fin	4	aux	_	Translit=dulehekv
-6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	4	aux	_	Translit=bi
-7	。	。	PUNCT	_	_	4	punct	_	Translit=.
+4	ᡤᡝᠨᡝᠮᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	5	advcl	_	Translit=geneme
+5	ᡩᡠᠯᡝᡥᡝᡣᡡ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Past|VerbForm=Fin	0	root	_	Translit=dulehekv
+6	ᠪᡞ	ᠪᡞ	AUX	_	VerbForm=Fin	5	aux	_	Translit=bi
+7	。	。	PUNCT	_	_	5	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p1_87
 # text = ᠠᠯᡞᠨ ᡩᡝ ᠨᡞᡠᡥᡝ ᠰᠠᠪᡠᡥᠠᡣᡡ 。
@@ -2935,7 +2935,7 @@
 1	ᡥᡡᠸᠠᠯᡞᠶᠠᠰᡠᠨ	ᡥᡡᠸᠠᠯᡞᠶᠠᠰᡠᠨ	ADJ	_	_	15	nsubj	_	Translit=hvwaliyasun
 2	ᡪᠠᡞ	ᡪᠠᡞ	ADV	_	_	3	cc	_	Translit=jai
 3	ᠪᠠᡩᠠᠷᠠᠨ	ᠪᠠᡩᠠᠷᠠᠨ	NOUN	_	_	1	conj	_	Translit=badaran
-4	ᠣᠴᡞ	ᠣᠮᠪᡞ	AUX	_	_	3	cop	_	Translit=oci
+4	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	3	cop	_	Translit=oci
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
 6	ᠨᡝᡞ	ᠨᡝᡞ	ADJ	_	_	7	amod	_	Translit=nei
 7	ᡫᠣᠨ	ᡫᠣᠨ	NOUN	_	_	10	nmod	_	Translit=fon
@@ -5341,7 +5341,7 @@
 # text[phon] = gujinan oci sibe uksurai gebu algika arasi jai irgebusi.
 # text[eng] = Guo Jinan is a famous Xibe writer and poet.
 1	ᡤᡠᡪᡞᠨᠠᠨ	ᡤᡠᡪᡞᠨᠠᠨ	PROPN	_	_	7	nsubj	_	Translit=gujinan
-2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	aux	_	Translit=oci
+2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	cop	_	Translit=oci
 3	ᠰᡞᠪᡝ	ᠰᡞᠪᡝ	PROPN	_	_	4	nmod	_	Translit=sibe
 4	ᡠᡣᠰᡠᠷᠠᡞ	ᡠᡣᠰᡠᠷᠠ	NOUN	_	Case=Gen	7	nmod	_	Translit=uksurai
 5	ᡤᡝᠪᡠ	ᡤᡝᠪᡠ	NOUN	_	_	6	compound	_	Translit=gebu
@@ -5618,7 +5618,7 @@
 # text[phon] = muke oci usin hethe i ergen jalgan inu.
 # text[eng] = Water is the lifeblood of agriculture.
 1	ᠮᡠᡣᡝ	ᠮᡠᡣᡝ	NOUN	_	_	6	nsubj	_	Translit=muke
-2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	aux	_	Translit=oci
+2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	cop	_	Translit=oci
 3	ᡠᠰᡞᠨ	ᡠᠰᡞᠨ	NOUN	_	_	6	nmod	_	Translit=usin
 4	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	3	compound	_	Translit=hethe
 5	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
@@ -5843,7 +5843,7 @@
 10	ᡪᡝᠪᡣᡝᠯᡝᠷᡝ	ᡪᡝᠪᡣᡝᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	11	acl	_	Translit=jebkelere
 11	ᠮᡠᡪᡞᠯᡝᠨ	ᠮᡠᡪᡞᠯᡝᠨ	NOUN	_	_	12	obj	_	Translit=mujilen
 12	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	13	advcl	_	Translit=akv
-13	ᠣᠴᡞ	ᠣᠴᡞ	VERB	_	Mood=Cnd|VerbForm=Conv	14	advcl	_	Translit=oci
+13	ᠣᠴᡞ	ᠣᠮᠪᡞ	VERB	_	Mood=Cnd|VerbForm=Conv	14	advcl	_	Translit=oci
 14	ᠣᡪᠣᠷᠠᡣᡡ	ᠣᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Fin	6	parataxis	_	Translit=ojorakv
 15	。	。	PUNCT	_	_	14	punct	_	Translit=.
 
@@ -6078,7 +6078,7 @@
 # text[phon] = ili oci, mafagurun wargi i jasei jecen inu.
 # text[eng] = Ili is the west border of the nation.
 1	ᡞᠯᡞ	ᡞᠯᡞ	PROPN	_	_	7	nsubj	_	Translit=ili
-2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	aux	_	Translit=oci
+2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	cop	_	Translit=oci
 3	,	,	PUNCT	_	_	7	punct	_	Translit=,
 4	ᠮᠠᡫᠠᡤᡠᠷᡠᠨ	ᠮᠠᡫᠠᡤᡠᠷᡠᠨ	NOUN	_	_	5	nmod	_	Translit=mafagurun
 5	ᠸᠠᠷᡤᡞ	ᠸᠠᠷᡤᡞ	NOUN	_	_	7	nmod	_	Translit=wargi
@@ -6114,7 +6114,7 @@
 1	ᡥᠣ	ᡥᠣ	X	_	_	3	nmod	_	Translit=ho
 2	ᡨᡞᠶᠠᠨ	ᡨᡞᠶᠠᠨ	X	_	_	1	flat	_	Translit=tiyan
 3	ᡤᡠ	ᡤᡠ	NOUN	_	_	11	nsubj	_	Translit=gu
-4	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	Mood=Cnd|VerbForm=Conv	3	aux	_	Translit=oci
+4	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	Mood=Cnd|VerbForm=Conv	3	cop	_	Translit=oci
 5	,	,	PUNCT	_	_	11	punct	_	Translit=,
 6	ᡤᡠ	ᡤᡠ	NOUN	_	_	8	nmod	_	Translit=gu
 7	ᡞ	ᡞ	ADP	_	Case=Gen	6	case	_	Translit=i
@@ -6705,7 +6705,7 @@
 7	,	,	PUNCT	_	_	5	punct	_	Translit=,
 8	ᡨᡠᡨᡨᡠ	ᡨᡠᡨᡨᡠ	PRON	_	PronType=Dem	12	advcl	_	Translit=tuttu
 9	ᠸᠠᡣᠠ	ᠸᠠᡣᠠ	AUX	_	_	8	cop	_	Translit=waka
-10	ᠣᠴᡞ	ᠣᠮᠪᡞ	SCONJ	_	_	8	mark	_	Translit=oci
+10	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	8	mark	_	Translit=oci
 11	ᠠᡞᠨᡠ	ᠠᡞᠨᡠ	PRON	_	PronType=Int	12	obl	_	Translit=ainu
 12	ᡪᡞᠷᠠᡣᡡ	ᡪᡞᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Fin	5	parataxis	_	Translit=jirakv
 13	ᠨᡞ	ᠨᡞ	PART	_	_	12	discourse	_	Translit=ni
@@ -6856,7 +6856,7 @@
 # text[phon] = ere oci abkai wehiyehe ejen i hese be alifi, mukden i harangga ba deri tomilafi, ili ba de tebuneme, gurun i jecen be seremšeme tuwakiyara emu minggan sibe i hafan cooha i jai meyen inu.
 # text[eng] = This is the second batch among the 1000 soldiers who were selected from areas near Mukden and set off to defend the Ili border under the decree of the Qianlong Emperor.
 1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	37	nsubj	_	Translit=ere
-2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	aux	_	Translit=oci
+2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	cop	_	Translit=oci
 3-4	ᠠᠪᡣᠠᡞ ᠸᡝᡥᡞᠶᡝᡥᡝ	_	_	_	_	_	_	_	_
 3	ᠠᠪᡣᠠᡞ	ᠠᠪᡣᠠᡞ	NOUN	_	_	5	nmod	_	Translit=abkai
 4	ᠸᡝᡥᡞᠶᡝᡥᡝ	ᠸᡝᡥᡞᠶᡝᡥᡝ	PROPN	_	_	3	flat	_	Translit=wehiyehe
@@ -7676,7 +7676,7 @@
 3	ᠮᡝᠷᡤᡝᠨ	ᠮᡝᠷᡤᡝᠨ	ADJ	_	_	4	amod	_	Translit=mergen
 4	ᡩᠠᡞᡫᡠ	ᡩᠠᡞᡫᡠ	NOUN	_	_	11	advcl	_	Translit=daifu
 5	ᠸᠠᡣᠠ	ᠸᠠᡣᠠ	AUX	_	Polarity=Neg	4	cop	_	Translit=waka
-6	ᠣᠴᡞ	ᡝᡠᠮᠪᡞ	SCONJ	_	_	4	mark	_	Translit=oci
+6	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	4	mark	_	Translit=oci
 7	,	,	PUNCT	_	_	4	punct	_	Translit=,
 8	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	Translit=mini
 9	ᡝᠷᡤᡝᠨ	ᡝᠷᡤᡝᠨ	NOUN	_	_	11	nsubj	_	Translit=ergen
@@ -8211,7 +8211,7 @@
 10	,	,	PUNCT	_	_	8	punct	_	Translit=,
 11	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	12	obj	_	Translit=baita
 12	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	18	advcl	_	Translit=akv
-13	ᠣᠴᡞ	ᠣᠮᠪᡞ	SCONJ	_	_	11	mark	_	Translit=oci
+13	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	11	mark	_	Translit=oci
 14	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	18	advmod	_	Translit=inu
 15	ᡩᠠᠷᡠᡥᠠᡞ	ᡩᠠᠷᡠᡥᠠᡞ	ADV	_	_	18	advmod	_	Translit=daruhai
 16	ᡤᡝᠨᡝᠷᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	17	acl	_	Translit=genere
@@ -8342,7 +8342,7 @@
 # text[phon] = mandan oci mandan okini, damu heni sain okini.
 # text[eng] = I would rather do it slowly but make it better.
 1	ᠮᠠᠨᡩᠠᠨ	ᠮᠠᠨᡩᠠᠨ	ADJ	_	_	3	nsubj	_	Translit=mandan
-2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	aux	_	Translit=oci
+2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	cop	_	Translit=oci
 3	ᠮᠠᠨᡩᠠᠨ	ᠮᠠᠨᡩᠠᠨ	ADJ	_	_	4	xcomp	_	Translit=mandan
 4	ᠣᡣᡞᠨᡞ	ᠣᠮᠪᡞ	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin	9	advcl	_	Translit=okini
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
@@ -10707,7 +10707,7 @@
 9	ᠮᠠᠷᡞᠮᡝ	ᠮᠠᠷᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	10	advcl	_	Translit=marime
 10	ᡨᡠᠸᠠᠷᠠᡢᡤᡝ	ᡨᡠᠸᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	20	nsubj	_	Translit=tuwarangge
 11	︐	︐	PUNCT	_	_	10	punct	_	Translit=,
-12	ᠣᠴᡞ	ᠣᠴᡞ	ADP	_	_	10	case	_	Translit=oci
+12	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	10	cop	_	Translit=oci
 13	ᡝᠨᡝᡢᡤᡞ	ᡝᠨᡝᡢᡤᡞ	NOUN	_	_	15	obj	_	Translit=enenggi
 14	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	13	case	_	Translit=be
 15	ᠨᡝᡞᠯᡝᠮᡝ	ᠨᡝᡞᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	20	advcl	_	Translit=neileme
@@ -13720,7 +13720,7 @@
 14	ᡧᠣᠯᠣ	ᡧᠣᠯᠣ	NOUN	_	_	15	nmod	_	Translit=šolo
 15	ᡠᠴᡠᠷᡞ	ᡠᠴᡠᠷᡞ	NOUN	_	_	30	nsubj	_	Translit=ucuri
 16	”	”	PUNCT	_	_	15	punct	_	Translit="
-17	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	15	aux	_	Translit=oci
+17	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	15	cop	_	Translit=oci
 18	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	30	nmod	_	Translit=usisi
 19	“	“	PUNCT	_	_	21	punct	_	Translit="
 20	ᠮᠠᡪᡞᡤᡝ	ᠮᠠᡪᡞᡤᡝ	ADJ	_	_	21	advmod	_	Translit=majige
@@ -13835,7 +13835,7 @@
 49	ᠰᡟᡨᡞᠸᠠᡩᡞ	ᠰᡟᡨᡞᠸᠠᡩᡞ	PROPN	_	_	57	nsubj	_	Translit=sytiwadi
 50	·	·	PUNCT	_	_	49	punct	_	Translit=.
 51	ᡥᡡᡪᡞᠶᠠᠪᠣᠣᡩᡠᠨ	ᡥᡡᡪᡞᠶᠠᠪᠣᠣᡩᡠᠨ	PROPN	_	_	49	flat:name	_	Translit=hvjiyaboodun
-52	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	49	aux	_	Translit=oci
+52	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	49	cop	_	Translit=oci
 53	ᡪᠠᡥᡝᠰᡨᠠᡞ	ᡪᠠᡥᡝᠰᡨᠠᡞ	PROPN	_	_	54	compound	_	Translit=jahestai
 54	ᡪᡝᠨ	ᡪᡝᠨ	NOUN	_	_	56	nmod	_	Translit=jen
 55	ᠠᡣᡝᠶᠠᠨ	ᠠᡣᡝᠶᠠᠨ	PROPN	_	_	56	compound	_	Translit=akeyan
@@ -17304,7 +17304,7 @@
 # text[trans] = nirugan oci isan i arbun .
 # text[eng] = The picture shows the scene of the party.
 1	ᠨᡞᠷᡠᡤᠠᠨ	ᠨᡞᠷᡠᡤᠠᠨ	NOUN	_	_	5	nsubj	_	Translit=nirugan
-2	ᠣᠴᡞ	ᠣᠴᡞ	ADP	_	_	1	case	_	Translit=oci
+2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	cop	_	Translit=oci
 3	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	5	nmod	_	Translit=isan
 4	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	3	case	_	Translit=i
 5	ᠠᠷᠪᡠᠨ	ᠠᠷᠪᡠᠨ	NOUN	_	_	0	root	_	Translit=arbun
@@ -17437,7 +17437,7 @@
 27	40	40	NUM	_	NumType=Card	28	nummod	_	Translit=40
 28	ᠪᠠᠷᡠᠨᡞᠶᠠ	ᠪᠠᠷᡠᠨᡞᠶᠠ	NOUN	_	_	23	conj	_	Translit=baruniya
 29	︐	︐	PUNCT	_	_	28	punct	_	Translit=,
-30	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	60	aux	_	Translit=oci
+30	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	60	cop	_	Translit=oci
 31	ᠶᡝᠪᡣᡝᠨ	ᠶᡝᠪᡣᡝᠨ	ADJ	_	_	32	amod	_	Translit=yebken
 32	ᡤᡝᠷᡝᠨᡠᠰᡠ	ᡤᡝᠷᡝᠨᡠᠰᡠ	NOUN	_	_	37	obj	_	Translit=gerenusu
 33	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	32	case	_	Translit=be
@@ -18088,7 +18088,7 @@
 24	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	23	case	_	Translit=be
 25	ᡥᠠᠴᡞᡥᡞᠶᠠᠮᡝ	ᡥᠠᠴᡞᡥᡞᠶᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	26	advcl	_	Translit=hacihiyame
 26	ᡞᠪᡝᠪᡠᠷᡝᡢᡤᡝ	ᡞᠪᡝᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	41	nsubj	_	Translit=ibeburengge
-27	ᠣᠴᡞ	ᠣᠴᡞ	ADP	_	_	26	case	_	Translit=oci
+27	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	26	cop	_	Translit=oci
 28	ᡪᡠᡢᡬᠣ	ᡪᡠᡢᡬᠣ	PROPN	_	_	30	obj	_	Translit=jungcgo
 29	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	30	advmod	_	Translit=inu
 30	ᡣᠠᠮᠴᡞᠪᡠᠷᡝ	ᡣᠠᠮᠴᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	34	acl:relcl	_	Translit=kamcibure
@@ -18663,7 +18663,7 @@
 6	2019	2019	NUM	_	NumType=Card	8	nummod	_	Translit=2019
 7	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	6	case	_	Translit=ci
 8	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	17	nsubj	_	Translit=aniya
-9	ᠣᠴᡞ	ᠣᠴᡞ	ADP	_	_	8	case	_	Translit=oci
+9	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	8	cop	_	Translit=oci
 10	ᡪᡠᡢᡥᡡᠸᠠ	ᡪᡠᡢᡥᡡᠸᠠ	NOUN	_	_	11	nmod	_	Translit=junghvwa
 11	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	13	nmod	_	Translit=niyalma
 12	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	11	compound	_	Translit=irgen
@@ -18990,7 +18990,7 @@
 14	,	,	PUNCT	_	_	13	punct	_	Translit=,
 15	ᠣᠶᠣᡢᡤᠣ	ᠣᠶᠣᡢᡤᠣ	ADJ	_	_	16	amod	_	Translit=oyonggo
 16	ᠨᡞᡢᡤᡝ	ᠨᡞᡢᡤᡝ	NOUN	_	_	26	nsubj	_	Translit=ningge
-17	ᠣᠴᡞ	ᠣᠴᡞ	ADP	_	_	16	case	_	Translit=oci
+17	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	16	cop	_	Translit=oci
 18	《	《	PUNCT	_	_	26	punct	_	Translit=《
 19	ᠴᠣᠣᡥᠠᡞ	ᠴᠣᠣᡥᠠ	NOUN	_	Case=Gen	20	nmod	_	Translit=coohai
 20	ᠮᡝᠶᡝᠨ	ᠮᡝᠶᡝᠨ	NOUN	_	_	22	obl	_	Translit=meyen
@@ -19216,7 +19216,7 @@
 27	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Plur|Person=3|PronType=Prs	29	obj	_	Translit=tere
 28	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	27	case	_	Translit=be
 29	ᡣᠠᠷᠮᠠᡨᠠᠷᠠᡢᡤᡝ	ᡣᠠᠷᠮᠠᡨᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	34	nsubj	_	Translit=karmatarangge
-30	ᠣᠴᡞ	ᠣᠴᡞ	ADP	_	_	29	case	_	Translit=oci
+30	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	29	cop	_	Translit=oci
 31	ᡠᡪᡠᡞ	ᡠᡪᡠᡞ	NUM	_	NumType=Ord	32	nummod	_	Translit=ujui
 32	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	34	obl:lmod	_	Translit=oron
 33	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	32	case	_	Translit=de
@@ -19309,7 +19309,7 @@
 34	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	33	case	_	Translit=de
 35	ᡝᡞᡨᡝᠷᡝᠮᡝ	ᡝᡞᡨᡝᠷᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	36	advcl	_	Translit=eitereme
 36	ᡥᠣᠯᡨᠣᠷᠣᡢᡤᡝ	ᡥᠣᠯᡨᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	44	nsubj	_	Translit=holtorongge
-37	ᠣᠴᡞ	ᠣᠴᡞ	ADP	_	_	35	case	_	Translit=oci
+37	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	35	cop	_	Translit=oci
 38	ᡩᠠᡞᡫᡠᠷᠠᠮᡝ	ᡩᠠᡞᡫᡠᠷᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	39	advcl	_	Translit=daifurame
 39	ᡩᠠᠰᠠᠷᠠ	ᡩᠠᠰᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	41	obj	_	Translit=dasara
 40	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	39	case	_	Translit=be
