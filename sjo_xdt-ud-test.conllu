@@ -1590,9 +1590,9 @@
 # text[phon] = tere boo de akvci , toktofi alban de genehe.
 # text[eng] = If he is not home, he definitely has gone to work.
 1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=tere
-2	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	9	advcl	_	Translit=boo
+2	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	4	obl	_	Translit=boo
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
-4	ᠠᡣᡡᠴᡞ	ᠠᡣᡡ	AUX	_	Mood=Cnd|Polarity=Neg	2	cop	_	Translit=akvci
+4	ᠠᡣᡡᠴᡞ	ᠠᡣᡡ	VERB	_	Mood=Cnd|Polarity=Neg	9	advcl	_	Translit=akvci
 5	,	,	PUNCT	_	_	2	punct	_	Translit=,
 6	ᡨᠣᡣᡨᠣᡫᡞ	ᡨᠣᡣᡨᠣᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	9	advcl	_	Translit=toktofi
 7	ᠠᠯᠪᠠᠨ	ᠠᠯᠪᠠᠨ	NOUN	_	_	9	obl	_	Translit=alban
@@ -1605,9 +1605,9 @@
 # text[phon] = tere boo de akv oci , toktofi alban de genehe.
 # text[eng] = If he is not home, he definitely has gone to work.
 1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	Translit=tere
-2	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	10	advcl	_	Translit=boo
+2	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	4	obl	_	Translit=boo
 3	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	2	case	_	Translit=de
-4	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	2	cop	_	Translit=akv
+4	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	10	advcl	_	Translit=akv
 5	ᠣᠴᡞ	ᠣᠮᠪᡞ	SCONJ	_	_	2	mark	_	Translit=oci
 6	,	,	PUNCT	_	_	2	punct	_	Translit=,
 7	ᡨᠣᡣᡨᠣᡫᡞ	ᡨᠣᡣᡨᠣᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	10	advcl	_	Translit=toktofi
@@ -2284,9 +2284,9 @@
 # text[eng] = No one who hears this is unpleased.
 1	ᡩᠣᠨᡪᡞᡥᠠᠯᠠ	ᡩᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	2	acl:relcl	_	Translit=donjihala
 2	ᡠᠷᠰᡝ	ᡠᠷᠰᡝ	NOUN	_	_	3	nsubj	_	Translit=urse
-3	ᡠᠷᡤᡠᠨᡪᡝᠷᡣᡡᡢᡤᡝ	ᡠᠷᡤᡠᠨᡪᡝᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun	0	root	_	Translit=urgunjerkvngge
-4	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	3	cop	_	Translit=akv
-5	。	。	PUNCT	_	_	3	punct	_	Translit=.
+3	ᡠᠷᡤᡠᠨᡪᡝᠷᡣᡡᡢᡤᡝ	ᡠᠷᡤᡠᠨᡪᡝᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun	4	csubj	_	Translit=urgunjerkvngge
+4	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	0	root	_	Translit=akv
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_44
 # text = ᡠᠴᠠᠷᠠᡥᠠᠯᠠ ᠨᡞᠶᠠᠯᠮᠠ ᡫᡝᠷᡤᡠᠸᡝᠷᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
@@ -2294,9 +2294,9 @@
 # text[eng] = Praise is given to all that I met.
 1	ᡠᠴᠠᠷᠠᡥᠠᠯᠠ	ᡠᠴᠠᠷᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	2	acl:relcl	_	Translit=ucarahala
 2	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	3	nsubj	_	Translit=niyalma
-3	ᡫᡝᠷᡤᡠᠸᡝᠷᡣᡡᡢᡤᡝ	ᡫᡝᠷᡤᡠᠸᡝᠷᡣᡡᡢᡤᡝ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun	0	root	_	Translit=ferguwerkvngge
-4	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	3	cop	_	Translit=akv
-5	。	。	PUNCT	_	_	3	punct	_	Translit=.
+3	ᡫᡝᠷᡤᡠᠸᡝᠷᡣᡡᡢᡤᡝ	ᡫᡝᠷᡤᡠᠸᡝᠷᡣᡡᡢᡤᡝ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun	4	csubj	_	Translit=ferguwerkvngge
+4	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	0	root	_	Translit=akv
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_45
 # text = ᠪᡞᠰᡞᠷᡝᠯᡝ ᠨᡞᠶᠠᠯᠮᠠ ᡞᠨᡪᡝᡥᡝᡣᡡᡢᡤᡝ ᠠᡣᡡ 。
@@ -2304,9 +2304,9 @@
 # text[eng] = No people there did not laugh.
 1	ᠪᡞᠰᡞᠷᡝᠯᡝ	ᠪᡞᠰᡞᠷᡝᠯᡝ	ADJ	_	_	2	amod	_	Translit=bisirele
 2	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	3	nsubj	_	Translit=niyalma
-3	ᡞᠨᡪᡝᡥᡝᡣᡡᡢᡤᡝ	ᡫᡝᠷᡤᡠᠸᡝᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun	0	root	_	Translit=injehekvngge
-4	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg|VerbForm=Fin	3	cop	_	Translit=akv
-5	。	。	PUNCT	_	_	3	punct	_	Translit=.
+3	ᡞᠨᡪᡝᡥᡝᡣᡡᡢᡤᡝ	ᡫᡝᠷᡤᡠᠸᡝᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun	4	csubj	_	Translit=injehekvngge
+4	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg|VerbForm=Fin	0	root	_	Translit=akv
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_46
 # text = ᡨᡠᠷᠠᠷᠠ ᠠᡤᠠ ᡩᠣᡣᠰᡞᠨ ᡝᡩᡠᠨ ᠰᠠᠰᠠ ᡪᡞᠷᡝ ᡪᠠᡣᠠᡩᡝ , ᡩᡠᠯᡝᠷᡤᡞ ᡩᡝ ᠸᡝᡞᠯᡝᠮᡝ ᡞᠯᡞᡥᠠ ᡠᠷᠰᡝ ᡤᡝᠮᡠ ᠮᠠᡞᡣᠠᠨ ᠴᡞ ᡫᡝᡣᠰᡞᠮᡝ ᡩᠣᠰᡞᡥᠠ 。
@@ -2372,9 +2372,9 @@
 # text[eng] = All who were there wept.
 1	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	3	nsubj	_	Translit=niyalma
 2	ᡝᡫᡠᡪᡝᠮᡝ	ᡝᡫᡠᡪᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	3	advcl	_	Translit=efujeme
-3	ᠰᠣᡢᡤᠣᠷᡣᡡᡢᡤᡝ	ᠰᠣᡢᡤᠣᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun	0	root	_	Translit=songgorkvngge
-4	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	3	cop	_	Translit=akv
-5	。	。	PUNCT	_	_	3	punct	_	Translit=.
+3	ᠰᠣᡢᡤᠣᠷᡣᡡᡢᡤᡝ	ᠰᠣᡢᡤᠣᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun	4	csubj	_	Translit=songgorkvngge
+4	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	0	root	_	Translit=akv
+5	。	。	PUNCT	_	_	4	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_50
 # text = ᡥᠠᠯᡥᡡᠨ ᡧᠣᠯᠣ ᡩᡝ ᠪᠣᡠᠴᡞ ᠪᡝᡩᡝᠷᡝᡥᡝᡣᡡᡢᡤᡝ , ᡝᠮᡥᡠᠨ ᠮᡞᠨᡞ ᡨᡝᡞᠯᡝ ᠸᠠᡣᠠ 。
@@ -3013,7 +3013,7 @@
 19	ᡪᡠᡣᡝᠨ	ᡪᡠᡣᡝᠨ	ADJ	_	_	13	conj	_	Translit=juken
 20	,	,	PUNCT	_	_	19	punct	_	Translit=,
 21	ᠠᡩᠠᠯᡞ	ᠠᡩᠠᠯᡞ	ADJ	_	_	0	root	_	Translit=adali
-22	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	21	cop	_	Translit=akv
+22	ᠠᡣᡡ	ᠠᡣᡡ	ADV	_	Polarity=Neg	21	advmod	_	Translit=akv
 23	。	。	PUNCT	_	_	21	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p4_1
@@ -5841,8 +5841,8 @@
 8	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	10	obj	_	Translit=niyalma
 9	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	8	case	_	Translit=be
 10	ᡪᡝᠪᡣᡝᠯᡝᠷᡝ	ᡪᡝᠪᡣᡝᠯᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	11	acl	_	Translit=jebkelere
-11	ᠮᡠᡪᡞᠯᡝᠨ	ᠮᡠᡪᡞᠯᡝᠨ	NOUN	_	_	13	xcomp	_	Translit=mujilen
-12	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	11	cop	_	Translit=akv
+11	ᠮᡠᡪᡞᠯᡝᠨ	ᠮᡠᡪᡞᠯᡝᠨ	NOUN	_	_	12	obj	_	Translit=mujilen
+12	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	13	advcl	_	Translit=akv
 13	ᠣᠴᡞ	ᠣᠴᡞ	VERB	_	Mood=Cnd|VerbForm=Conv	14	advcl	_	Translit=oci
 14	ᠣᡪᠣᠷᠠᡣᡡ	ᠣᠮᠪᡞ	VERB	_	Polarity=Neg|Tense=Pres|VerbForm=Fin	6	parataxis	_	Translit=ojorakv
 15	。	。	PUNCT	_	_	14	punct	_	Translit=.
@@ -6503,12 +6503,12 @@
 3	ᡤᠠᠯᠠ	ᡤᠠᠯᠠ	NOUN	_	_	4	compound	_	Translit=gala
 4	ᠪᡝᡨᡥᡝ	ᠪᡝᡨᡥᡝ	NOUN	_	_	6	nsubj	_	Translit=bethe
 5	ᡥᡝᠨᡞ	ᡥᡝᠨᡞ	ADJ	_	_	6	advmod	_	Translit=heni
-6	ᠪᠣᠯᡤᠣ	ᠪᠣᠯᡤᠣ	ADJ	_	_	0	root	_	Translit=bolgo
-7	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	6	cop	_	Translit=akv
+6	ᠪᠣᠯᡤᠣ	ᠪᠣᠯᡤᠣ	ADJ	_	_	11	advcl	_	Translit=bolgo
+7	ᠠᡣᡡ	ᠠᡣᡡ	ADV	_	Polarity=Neg	6	advmod	_	Translit=akv
 8	,	,	PUNCT	_	_	6	punct	_	Translit=,
 9	ᡩᠠᠷᡠᡥᠠᡞ	ᡩᠠᠷᡠᡥᠠᡞ	ADV	_	_	11	advmod	_	Translit=daruhai
 10	ᡥᡡᠯᡥᠠ	ᡥᡡᠯᡥᠠ	NOUN	_	_	11	obj	_	Translit=hvlha
-11	ᠠᠷᠠᠮᠪᡞ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	6	parataxis	_	Translit=arambi
+11	ᠠᠷᠠᠮᠪᡞ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Translit=arambi
 12	。	。	PUNCT	_	_	11	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p5_78
@@ -6663,7 +6663,7 @@
 8	ᡠᠮᠠᡞ	ᡠᠮᠠᡞ	ADV	_	_	9	advmod	_	Translit=umai
 9	ᠮᠠᡢᡤᠠᡧᠠᠷᠠ	ᠮᠠᡢᡤᠠᡧᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	10	acl	_	Translit=manggašara
 10	ᠪᠠ	ᠪᠠ	NOUN	_	_	12	obj	_	Translit=ba
-11	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	10	cop	_	Translit=akv
+11	ᠠᡣᡡ	ᠠᡣᡡ	ADV	_	Polarity=Neg	12	advmod	_	Translit=akv
 12	ᠪᡞᡥᡝᠪᡞ	ᠪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=bihebi
 13	。	。	PUNCT	_	_	12	punct	_	Translit=.
 
@@ -6924,8 +6924,8 @@
 1	"	"	PUNCT	_	_	5	punct	_	Translit="
 2-4	ᠪᠠᡞ ᠴᡞᡠ ᡝᠨ	_	_	_	_	_	_	_	_
 2	ᠪᠠᡞ	ᠪᠠᡞ	X	_	_	5	nmod	_	Translit=bai
-3	ᠴᡞᡠ	ᠴᡞᡠ	X	_	_	2	flat	_	Translit=cio
-4	ᡝᠨ	ᡝᠨ	X	_	_	3	flat	_	Translit=en
+3	ᠴᡞᡠ	ᠴᡞᡠ	X	_	_	2	flat:name	_	Translit=cio
+4	ᡝᠨ	ᡝᠨ	X	_	_	3	flat:name	_	Translit=en
 5	ᡩᠠᡞᡫᡠ	ᡩᠠᡞᡫᡠ	NOUN	_	_	7	iobj	_	Translit=daifu
 6	"	"	PUNCT	_	_	5	punct	_	Translit="
 7	ᠰᡝᠷᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	8	acl:relcl	_	Translit=sere
@@ -6934,9 +6934,9 @@
 10	ᡨᡠᠸᠠᡥᠠᠯᠠ	ᡨᡠᠸᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	11	acl:relcl	_	Translit=tuwahala
 11	ᡠᠷᠰᡝ	ᡠᠷᠰᡝ	NOUN	_	_	13	nsubj	_	Translit=urse
 12	,	,	PUNCT	_	_	11	punct	_	Translit=,
-13	ᠠᠴᡞᡢᡤᡞᠶᠠᠪᡠᠷᠠᡣᡡᡢᡤᡝ	ᠠᠴᡞᡢᡤᡞᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun|Voice=Cau	0	root	_	Translit=acinggiyaburakvngge
-14	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	13	cop	_	Translit=akv
-15	。	。	PUNCT	_	_	13	punct	_	Translit=.
+13	ᠠᠴᡞᡢᡤᡞᠶᠠᠪᡠᠷᠠᡣᡡᡢᡤᡝ	ᠠᠴᡞᡢᡤᡞᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Vnoun|Voice=Cau	14	csubj	_	Translit=acinggiyaburakvngge
+14	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	0	root	_	Translit=akv
+15	。	。	PUNCT	_	_	14	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p5_100
 # text = ᡩᠣᠪᠣᠷᡞ ᡝᠮᡤᡝᠷᡞ ᡧᡠᠮᡞᠨ ᠣᡥᠣ , ᠪᡞ ᠪᡝᡩᡝᠷᡝᠷᠠᡣᡡᠴᡞ ᠣᡪᠣᠷᠠᡣᡡ 。
@@ -7426,14 +7426,14 @@
 2	ᡪᡠᠰᡝ	ᡪᡠᠰᡝ	NOUN	_	_	5	nmod	_	Translit=juse
 3	ᡞ	ᡞ	ADP	_	Case=Gen	2	case	_	Translit=i
 4	ᡨᠠᠴᡞᠷᡝ	ᡨᠠᠴᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	5	acl	_	Translit=tacire
-5	ᡫᠠᠶᠠᠪᡠᠨ	ᡫᠠᠶᠠᠪᡠᠨ	NOUN	_	_	9	obl	_	Translit=fayabun
-6	ᠨᡝᡨᡝᠯᡝ	ᠨᡝᡨᡝᠯᡝ	ADV	_	_	9	advmod	_	Translit=netele
-7	ᡣᡝᠮᡠᠨᡞ	ᡣᡝᠮᡠᠨᡞ	ADV	_	_	9	advmod	_	Translit=kemuni
+5	ᡫᠠᠶᠠᠪᡠᠨ	ᡫᠠᠶᠠᠪᡠᠨ	NOUN	_	_	10	obl	_	Translit=fayabun
+6	ᠨᡝᡨᡝᠯᡝ	ᠨᡝᡨᡝᠯᡝ	ADV	_	_	10	advmod	_	Translit=netele
+7	ᡣᡝᠮᡠᠨᡞ	ᡣᡝᠮᡠᠨᡞ	ADV	_	_	10	advmod	_	Translit=kemuni
 8	ᡩᡠᠪᡝ	ᡩᡠᠪᡝ	NOUN	_	_	9	compound	_	Translit=dube
-9	ᡩᠠ	ᡩᠠ	NOUN	_	_	15	advcl	_	Translit=da
-10	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	9	cop	_	Translit=akv
-11	ᠣᡫᡞ	ᠣᡫᡞ	SCONJ	_	_	9	mark	_	Translit=ofi
-12	,	,	PUNCT	_	_	9	punct	_	Translit=,
+9	ᡩᠠ	ᡩᠠ	NOUN	_	_	10	obj	_	Translit=da
+10	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	15	advcl	_	Translit=akv
+11	ᠣᡫᡞ	ᠣᡫᡞ	SCONJ	_	_	10	mark	_	Translit=ofi
+12	,	,	PUNCT	_	_	10	punct	_	Translit=,
 13	ᡨᡠᡨᡨᡠ	ᡨᡠᡨᡨᡠ	PRON	_	_	15	obl	_	Translit=tuttu
 14	ᠮᠠᡢᡤᠠᡧᠠᠮᡝ	ᠮᠠᡢᡤᠠᡧᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	15	advcl	_	Translit=manggašame
 15	ᡫᠠᡞᡥᠠᠴᠠᠮᠪᡞ	ᡫᠠᡞᡥᠠᠴᠠᠮᠪᡞ	VERB	_	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	Translit=faihacambi
@@ -8207,17 +8207,17 @@
 6	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	8	obl	_	Translit=cabcal
 7	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	6	case	_	Translit=de
 8	ᡥᠠᠨᠴᡞ	ᡥᠠᠨᠴᡞ	ADJ	_	_	17	advcl	_	Translit=hanci
-9	ᠪᡞᠴᡞᠪᡝ	ᠪᡞᠮᠪᡞ	AUX	_	VerbForm=Conv	8	cop	_	Translit=bicibe
+9	ᠪᡞᠴᡞᠪᡝ	ᠪᡞᠮᠪᡞ	VERB	_	VerbForm=Conv	8	mark	_	Translit=bicibe
 10	,	,	PUNCT	_	_	8	punct	_	Translit=,
-11	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	17	advcl	_	Translit=baita
-12	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	11	cop	_	Translit=akv
+11	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	12	obj	_	Translit=baita
+12	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	18	advcl	_	Translit=akv
 13	ᠣᠴᡞ	ᠣᠮᠪᡞ	SCONJ	_	_	11	mark	_	Translit=oci
-14	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	17	advmod	_	Translit=inu
-15	ᡩᠠᠷᡠᡥᠠᡞ	ᡩᠠᠷᡠᡥᠠᡞ	ADV	_	_	17	advmod	_	Translit=daruhai
+14	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	18	advmod	_	Translit=inu
+15	ᡩᠠᠷᡠᡥᠠᡞ	ᡩᠠᠷᡠᡥᠠᡞ	ADV	_	_	18	advmod	_	Translit=daruhai
 16	ᡤᡝᠨᡝᠷᡝ	ᡤᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	17	acl	_	Translit=genere
-17	ᡧᠣᠯᠣ	ᡧᠣᠯᠣ	NOUN	_	_	0	root	_	Translit=šolo
-18	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	17	cop	_	Translit=akv
-19	。	。	PUNCT	_	_	17	punct	_	Translit=.
+17	ᡧᠣᠯᠣ	ᡧᠣᠯᠣ	NOUN	_	_	18	obj	_	Translit=šolo
+18	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	0	root	_	Translit=akv
+19	。	。	PUNCT	_	_	18	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p6_71
 # text = ᡠᡩᡠ ᡪᡠᡞ ᠪᡝ ᡣᡞᡩᡠᠷᡝ ᠮᡠᡪᡞᠯᡝᠨ ᡝᠷᡞᠨ ᡩᠠᠷᡞ ᠴᡞᡣ ᠴᡞᡣ ᠰᡝᠮᠪᡞ ᠰᡝᠴᡞᠪᡝ , ᡩᠠᠮᡠ ᠠᠯᡞᠨ ᠪᡞᠷᠠ ᡤᠣᠷᠣ ᡤᡞᠶᠠᠯᠠᠪᡠᡫᡞ , ᡞᠨᡠ ᠰᠠᠪᡠᠷᡝ ᡩᡝ ᡞᠯᡩᡠᡢᡤᠠ ᠠᡣᡡ 。
@@ -8245,7 +8245,7 @@
 20	ᠰᠠᠪᡠᠷᡝ	ᠰᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	22	obl	_	Translit=sabure
 21	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	20	case	_	Translit=de
 22	ᡞᠯᡩᡠᡢᡤᠠ	ᡞᠯᡩᡠᡢᡤᠠ	ADJ	_	_	0	root	_	Translit=ildungga
-23	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	22	cop	_	Translit=akv
+23	ᠠᡣᡡ	ᠠᡣᡡ	ADV	_	Polarity=Neg	22	advmod	_	Translit=akv
 24	。	。	PUNCT	_	_	22	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p6_72
@@ -8283,21 +8283,21 @@
 4	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	7	nmod	_	Translit=boo
 5	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
 6	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	7	nsubj	_	Translit=hethe
-7	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	19	advcl	_	Translit=bihe
+7	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	20	advcl	_	Translit=bihe
 8	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	SCONJ	_	_	7	mark	_	Translit=seme
 9	,	,	PUNCT	_	_	7	punct	_	Translit=,
 10	ᡣᠠᡨᡠᠨ	ᡣᠠᡨᡠᠨ	ADJ	_	_	11	compound	_	Translit=katun
 11	ᡤᡠᡞᡤᡠ	ᡤᡠᡞᡤᡠ	ADJ	_	_	13	amod	_	Translit=guigu
 12	ᠪᡝᠶᡝ	ᠪᡝᠶᡝ	NOUN	_	_	13	compound	_	Translit=beye
-13	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	19	advcl	_	Translit=dursun
-14	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	13	cop	_	Translit=akv
-15	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	13	mark	_	Translit=oci
-16	,	,	PUNCT	_	_	13	punct	_	Translit=,
-17	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	19	advmod	_	Translit=inu
+13	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	14	obj	_	Translit=dursun
+14	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	20	advmod	_	Translit=akv
+15	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	14	mark	_	Translit=oci
+16	,	,	PUNCT	_	_	14	punct	_	Translit=,
+17	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	20	advmod	_	Translit=inu
 18	ᠠᡞ	ᠠᡞ	PRON	_	_	19	amod	_	Translit=ai
-19	ᡨᡠᠰᠠ	ᡨᡠᠰᠠ	NOUN	_	_	0	root	_	Translit=tusa
-20	ᠪᡞ	ᠪᡞ	AUX	_	_	19	cop	_	Translit=bi
-21	!	!	PUNCT	_	_	19	punct	_	Translit=!
+19	ᡨᡠᠰᠠ	ᡨᡠᠰᠠ	NOUN	_	_	20	obj	_	Translit=tusa
+20	ᠪᡞ	ᠪᡞ	VERB	_	_	0	root	_	Translit=bi
+21	!	!	PUNCT	_	_	20	punct	_	Translit=!
 
 # sent_id = grammarbook_sjo_p6_74
 # text = ᠪᡞ ᠴᡞᡥᠠᡢᡤᠠᡞ ᠶᠠᡩᠠᠮᡝ ᠮᡠᡨᡝᠮᠪᡞ , ᡞᠨᡠ ᡨᡝᠰᡝ ᠪᡝ ᡩᠠᡥᠠᠮᡝ ᡨᠠᠴᡞᠷᠠᡣᡡ 。
@@ -10311,7 +10311,7 @@
 56	︐	︐	PUNCT	_	_	55	punct	_	Translit=,
 57	ᡤᡝᠯᡞ	ᡤᡝᠯᡞ	ADV	_	_	58	advmod	_	Translit=geli
 58	ᡣᠣᠮᠰᠣ	ᡣᠣᠮᠰᠣ	ADJ	_	_	61	amod	_	Translit=komso
-59	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	_	58	aux	_	Translit=akv
+59	ᠠᡣᡡ	ᠠᡣᡡ	ADV	_	_	58	advmod	_	Translit=akv
 60	ᡨᠣᡣᠰᠣᡞ	ᡨᠣᡣᠰᠣ	NOUN	_	Case=Gen	61	nmod	_	Translit=toksoi
 61	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	64	nsubj	_	Translit=irgen
 62	ᡧᡝᠣ	ᡧᡝᠣ	NOUN	_	_	63	compound	_	Translit=šeo
@@ -10591,7 +10591,7 @@
 3	ᡪᡠᡤᡡᠨ	ᡪᡠᡤᡡᠨ	NOUN	_	_	5	nsubj	_	Translit=jugvn
 4	ᡨᡝᠨᡨᡝᡣᡝ	ᡨᡝᠨᡨᡝᡣᡝ	PRON	_	PronType=Dem	5	obl	_	Translit=tenteke
 5	ᡞᡪᡞᠰᡥᡡᠨ	ᡞᡪᡞᠰᡥᡡᠨ	ADJ	_	_	15	advcl	_	Translit=ijishvn
-6	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	5	aux	_	Translit=akv
+6	ᠠᡣᡡ	ᠠᡣᡡ	ADV	_	Polarity=Neg	5	advmod	_	Translit=akv
 7	ᠣᠴᡞᠪᡝ	ᠣᠴᡞᠪᡝ	SCONJ	_	_	5	mark	_	Translit=ocibe
 8	︐	︐	PUNCT	_	_	5	punct	_	Translit=,
 9	ᡩᠠᠮᡠ	ᡩᠠᠮᡠ	ADV	_	_	15	advmod	_	Translit=damu
@@ -19297,7 +19297,7 @@
 22	ᡩᠠᠮᡠ	ᡩᠠᠮᡠ	ADV	_	_	23	advmod	_	Translit=damu
 23	ᡩᠣᠰᡞᠮᡝ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	26	advcl	_	Translit=dosime
 24	ᡨᡠᠴᡞᠷᡝᡢᡤᡝ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	26	xcomp	_	Translit=tucirengge
-25	ᠠᡣᡡ	ᠠᡣᡡ	AUX	_	Polarity=Neg	24	aux	_	Translit=akv
+25	ᠠᡣᡡ	ᠠᡣᡡ	ADV	_	Polarity=Neg	24	advmod	_	Translit=akv
 26	ᠣᠴᡞ	ᠣᠮᠪᡞ	VERB	_	Mood=Cnd|VerbForm=Conv	27	advcl	_	Translit=oci
 27	ᠣᡪᠣᠷᡣᡡ	ᠣᠮᠪᡞ	VERB	_	Aspect=Imp|Polarity=Neg|VerbForm=Part	44	advcl	_	Translit=ojorkv
 28	,	,	PUNCT	_	_	27	punct	_	Translit=,
