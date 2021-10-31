@@ -3412,8 +3412,8 @@
 # text[eng] = As for cooking, she (he) does it by her/himself.
 1	ᠪᡠᡩᠠ	ᠪᡠᡩᠠ	NOUN	_	_	2	obj	_	Translit=buda
 2	ᠠᠷᠠᠷᠠ	ᠠᠷᠠᠷᠠ	VERB	_	Aspect=Imp|VerbForm=Part	3	acl	_	Translit=arara
-3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	8	advcl	_	Translit=baita
-4	ᠪᡞᠴᡞ	ᠪᡞᠮᠪᡞ	AUX	_	Mood=Cnd|VerbForm=Conv	3	cop	_	Translit=bici
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	4	obj	_	Translit=baita
+4	ᠪᡞᠴᡞ	ᠪᡞᠮᠪᡞ	VERB	_	Mood=Cnd|VerbForm=Conv	8	advcl	_	Translit=bici
 5	,	,	PUNCT	_	_	4	punct	_	Translit=,
 6	ᡞᠨᡞ	ᡞᠨᡞ	PRON	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	7	nmod:poss	_	Translit=ini
 7	ᠪᡝᠶᡝ	ᠪᡝᠶᡝ	PRON	_	PronType=Prs|Reflex=Yes	8	nsubj	_	Translit=beye
@@ -3691,12 +3691,12 @@
 # text[eng] = What we said seem to work.
 1	ᠮᡠᠰᡝᡞ	ᠮᡠᠰᡝ	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	Translit=musei
 2	ᡤᡞᠰᡠᠷᡝᡥᡝ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	3	acl:relcl	_	Translit=gisurehe
-3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	6	nsubj	_	Translit=baita
+3	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	7	nsubj	_	Translit=baita
 4	,	,	PUNCT	_	_	3	punct	_	Translit=,
 5	ᠣᡪᠣᠷᠣ	ᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	6	acl	_	Translit=ojoro
-6	ᠮᡠᠷᡠ	ᠮᡠᠷᡠ	NOUN	_	_	0	root	_	Translit=muru
-7	ᠪᡞ	ᠪᡞ	AUX	_	_	6	cop	_	Translit=bi
-8	。	。	PUNCT	_	_	6	punct	_	Translit=.
+6	ᠮᡠᠷᡠ	ᠮᡠᠷᡠ	NOUN	_	_	7	obj	_	Translit=muru
+7	ᠪᡞ	ᠪᡞ	VERB	_	_	0	root	_	Translit=bi
+8	。	。	PUNCT	_	_	7	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_69
 # text = ᡠᡩᡠ ᡞᠨᡝᡢᡤᡞ ᠣᡥᠠᡣᡡ , ᡞᠴᡝ ᡨᠠᠴᡞᠰᡞ ᠰᡞᠷᠠᠨ ᠰᡞᠷᠠᠨ ᡞ ᠪᠣᡠᠯᠠᠨᡪᡞᡥᡝ 。
@@ -3810,11 +3810,11 @@
 # text[eng] = My two elder brothers are all farmers.
 1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	Translit=mini
 2	ᡪᡠᠸᡝ	ᡪᡠᠸᡝ	NUM	_	NumType=Card	3	nummod	_	Translit=juwe
-3	ᠠᡥᡡᠨ	ᠠᡥᡡᠨ	NOUN	_	_	5	nsubj	_	Translit=ahvn
-4	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	5	advmod	_	Translit=gemu
-5	ᡠᠰᡞᠰᠠ	ᡠᠰᡞᠰᠠ	NOUN	_	_	0	root	_	Translit=usisa
-6	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past	5	cop	_	Translit=bihe
-7	。	。	PUNCT	_	_	5	punct	_	Translit=.
+3	ᠠᡥᡡᠨ	ᠠᡥᡡᠨ	NOUN	_	_	6	nsubj	_	Translit=ahvn
+4	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	6	advmod	_	Translit=gemu
+5	ᡠᠰᡞᠰᠠ	ᡠᠰᡞᠰᠠ	NOUN	_	_	6	xcomp	_	Translit=usisa
+6	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=bihe
+7	。	。	PUNCT	_	_	6	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_76
 # text = ᡝᠮᡠ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᠠᡞᡨᠠ ᠣᠴᡞ , ᡤᡝᠮᡠᠨᡞ ᡪᠠ ᠪᡞᡥᡝ , ᡤᡝᠷᡝᠨ ᠨᡞᠶᠠᠯᠮᠠᡞ ᠪᠠᡞᡨᠠ ᠣᡫᡞ , ᡞᠴᡞᡥᡞᠶᠠᠷᠠ ᡩᡝ ᡪᠠᠴᡞ ᠮᠠᡢᡤᠠ 。
@@ -3826,9 +3826,9 @@
 4	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	3	mark	_	Translit=oci
 5	,	,	PUNCT	_	_	3	punct	_	Translit=,
 6	ᡤᡝᠮᡠᠨᡞ	ᡤᡝᠮᡠᠨᡞ	ADV	_	_	7	advmod	_	Translit=gemuni
-7	ᡪᠠ	ᡪᠠ	ADJ	_	_	18	advcl	_	Translit=ja
-8	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past	7	cop	_	Translit=bihe
-9	,	,	PUNCT	_	_	7	punct	_	Translit=,
+7	ᡪᠠ	ᡪᠠ	ADJ	_	_	8	xcomp	_	Translit=ja
+8	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Tense=Past	18	advcl	_	Translit=bihe
+9	,	,	PUNCT	_	_	8	punct	_	Translit=,
 10	ᡤᡝᠷᡝᠨ	ᡤᡝᠷᡝᠨ	DET	_	PronType=Dem	11	det	_	Translit=geren
 11	ᠨᡞᠶᠠᠯᠮᠠᡞ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	Case=Gen	12	nmod	_	Translit=niyalmai
 12	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	18	advcl	_	Translit=baita
@@ -4074,20 +4074,20 @@
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᠰᡠᠰᠠᡞ	ᠰᡠᠰᠠᡞ	NUM	_	NumType=Card	6	obj	_	Translit=susai
 6	ᡫᡠᠨᠴᡝᠷᡝ	ᡫᡠᠨᠴᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	7	acl:relcl	_	Translit=funcere
-7	ᠴᠣᡣᠣ	ᠴᠣᡣᠣ	NOUN	_	_	0	root	_	Translit=coko
+7	ᠴᠣᡣᠣ	ᠴᠣᡣᠣ	NOUN	_	_	9	obj	_	Translit=coko
 8	ᠨᡞᠶᡝᡥᡝ	ᠨᡞᠶᡝᡥᡝ	NOUN	_	_	7	conj	_	Translit=niyehe
-9	ᠪᡞ	ᠪᡞ	AUX	_	_	7	cop	_	Translit=bi
-10	,	,	PUNCT	_	_	7	punct	_	Translit=,
+9	ᠪᡞ	ᠪᡞ	VERB	_	_	20	parataxis	_	Translit=bi
+10	,	,	PUNCT	_	_	9	punct	_	Translit=,
 11	ᡥᠣᠨᡞᠨ	ᡥᠣᠨᡞᠨ	NOUN	_	_	14	obl	_	Translit=honin
 12	ᠨᡞᠨᡪᡠ	ᠨᡞᠨᡪᡠ	NUM	_	NumType=Card	11	nummod	_	Translit=ninju
 13	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	11	case	_	Translit=de
-14	ᡥᠠᠮᡞᠮᠪᡞ	ᡥᠠᠮᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	7	conj	_	Translit=hamimbi
+14	ᡥᠠᠮᡞᠮᠪᡞ	ᡥᠠᠮᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	20	parataxis	_	Translit=hamimbi
 15	,	,	PUNCT	_	_	14	punct	_	Translit=,
 16	ᡞᡥᠠᠨ	ᡞᡥᠠᠨ	NOUN	_	_	20	obl	_	Translit=ihan
 17	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	16	advmod	_	Translit=inu
 18	ᠣᠷᡞᠨ	ᠣᠷᡞᠨ	NUM	_	NumType=Card	16	nummod	_	Translit=orin
 19	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	16	case	_	Translit=de
-20	ᡞᠰᡞᠮᠪᡞ	ᡞᠰᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	14	conj	_	Translit=isimbi
+20	ᡞᠰᡞᠮᠪᡞ	ᡞᠰᡞᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=isimbi
 21	。	。	PUNCT	_	_	20	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p2_92
@@ -5741,10 +5741,10 @@
 1	ᡥᠠᡪᡞ	ᡥᠠᡪᡞ	ADJ	_	_	2	amod	_	Translit=haji
 2	ᠰᠠᠷᡤᠠᠨ	ᠰᠠᠷᡤᠠᠨ	NOUN	_	_	4	nmod	_	Translit=sargan
 3	ᡞ	ᡞ	ADP	_	Case=Gen	2	case	_	Translit=i
-4	ᠨᡞᠮᡝᡣᡠ	ᠨᡞᠮᡝᡣᡠ	NOUN	_	_	5	nsubj	_	Translit=nimeku
-5	ᡠᡪᡝᠨ	ᡠᡪᡝᠨ	ADJ	_	_	12	advcl	_	Translit=ujen
-6	ᠣᡫᡞ	ᠣᡫᡞ	AUX	_	Aspect=Perf|VerbForm=Conv	5	aux	_	Translit=ofi
-7	,	,	PUNCT	_	_	5	punct	_	Translit=,
+4	ᠨᡞᠮᡝᡣᡠ	ᠨᡞᠮᡝᡣᡠ	NOUN	_	_	6	nsubj	_	Translit=nimeku
+5	ᡠᡪᡝᠨ	ᡠᡪᡝᠨ	ADJ	_	_	6	xcomp	_	Translit=ujen
+6	ᠣᡫᡞ	ᠣᡫᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	12	advcl	_	Translit=ofi
+7	,	,	PUNCT	_	_	6	punct	_	Translit=,
 8	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	12	nsubj	_	Translit=tere
 9	ᡧᡠᠨᡨᡠᡥᡠᠨᡞ	ᡧᡠᠨᡨᡠᡥᡠᠨᡞ	ADV	_	_	12	advmod	_	Translit=šuntuhuni
 10	ᡤᡠᠰᡠᠴᡠᠮᡝ	ᡤᡠᠰᡠᠴᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	12	advcl	_	Translit=gusucume
@@ -6217,14 +6217,14 @@
 # text[eng] = My two elder brothers were both university teachers.
 1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	Translit=mini
 2	ᡪᡠᠸᡝ	ᡪᡠᠸᡝ	NUM	_	NumType=Card	3	nummod	_	Translit=juwe
-3	ᠠᡥᡡᠨ	ᠠᡥᡡᠨ	NOUN	_	_	8	nsubj	_	Translit=ahvn
-4	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	8	advmod	_	Translit=gemu
+3	ᠠᡥᡡᠨ	ᠠᡥᡡᠨ	NOUN	_	_	9	nsubj	_	Translit=ahvn
+4	ᡤᡝᠮᡠ	ᡤᡝᠮᡠ	ADV	_	_	9	advmod	_	Translit=gemu
 5	ᠠᠮᠪᠠ	ᠠᠮᠪᠠ	ADJ	_	_	6	amod	_	Translit=amba
 6	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	8	nmod	_	Translit=tacikv
 7	ᡞ	ᡞ	ADP	_	Case=Gen	6	case	_	Translit=i
-8	ᠰᡝᡫᡠ	ᠰᡝᡫᡠ	NOUN	_	_	0	root	_	Translit=sefu
-9	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	AUX	_	Tense=Past|VerbForm=Fin	8	cop	_	Translit=bihe
-10	。	。	PUNCT	_	_	8	punct	_	Translit=.
+8	ᠰᡝᡫᡠ	ᠰᡝᡫᡠ	NOUN	_	_	9	xcomp	_	Translit=sefu
+9	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=bihe
+10	。	。	PUNCT	_	_	9	punct	_	Translit=.
 
 # sent_id = grammarbook_sjo_p5_60
 # text = ᡨᡝᠷᡝᡞ ᠰᠠᠷᡤᠠᠨ ᡝᠮᡠ ᡤᡠᡢ ᠰᡝ ᡞ ᡪᡞᡢ ᠯᡞ ᠣᡥᠣᠪᡞ 。
@@ -8290,7 +8290,7 @@
 11	ᡤᡠᡞᡤᡠ	ᡤᡠᡞᡤᡠ	ADJ	_	_	13	amod	_	Translit=guigu
 12	ᠪᡝᠶᡝ	ᠪᡝᠶᡝ	NOUN	_	_	13	compound	_	Translit=beye
 13	ᡩᡠᠷᠰᡠᠨ	ᡩᡠᠷᠰᡠᠨ	NOUN	_	_	14	obj	_	Translit=dursun
-14	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	20	advmod	_	Translit=akv
+14	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	20	advcl	_	Translit=akv
 15	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	14	mark	_	Translit=oci
 16	,	,	PUNCT	_	_	14	punct	_	Translit=,
 17	ᡞᠨᡠ	ᡞᠨᡠ	ADV	_	_	20	advmod	_	Translit=inu
