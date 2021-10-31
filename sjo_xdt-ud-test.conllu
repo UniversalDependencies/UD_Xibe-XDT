@@ -8208,7 +8208,7 @@
 7	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	6	case	_	Translit=de
 8	ᡥᠠᠨᠴᡞ	ᡥᠠᠨᠴᡞ	ADJ	_	_	9	xcomp	_	Translit=hanci
 9	ᠪᡞᠴᡞᠪᡝ	ᠪᡞᠮᠪᡞ	VERB	_	VerbForm=Conv	17	advcl	_	Translit=bicibe
-10	,	,	PUNCT	_	_	8	punct	_	Translit=,
+10	,	,	PUNCT	_	_	9	punct	_	Translit=,
 11	ᠪᠠᡞᡨᠠ	ᠪᠠᡞᡨᠠ	NOUN	_	_	12	obj	_	Translit=baita
 12	ᠠᡣᡡ	ᠠᡣᡡ	VERB	_	Polarity=Neg	18	advcl	_	Translit=akv
 13	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	11	mark	_	Translit=oci
@@ -13146,7 +13146,7 @@
 # text = ᡥᠠᠨᠴᡣᡞᡩᡝ ︐ ᠰᡞᠶᠠᠨ ᡤᡠᠷᡠᠨ ᠪᠣᠣ ᠪᠠᠨᠠ ᠪᠠᠶᠠᠰᡠ ᠶᠠᠮᡠᠨ ᠨᡞᡢᡤᡝ ᡬᠠᠮᠪᡠ ᠠᠯᠪᠠᠰᡞ ᠪᡝ ᡯᡠᡲᡞᠯᡝᡫᡞ “ ᡥᠣᠷᠣᡢᡤᠣ ᠠᠮᠪᠠᠯᡞᡢᡤᡡ ᡣᡡᠪᡠᠯᡞᠨ ︱ ᡥᠠᠯᠠᠨ ᠨᡝᡞᠯᡝᠨ 40 ᠪᠠᠷᡠᠨᡞᠶᠠ ᠪᡝ ᡠᠷᡤᡠᠯᡝᠷᡝ ᠠᠮᠪᠠ ᡩᡠᠷᡠᡤᠠᠨ ᠰᠠᠷᡞᠪᡠᠨ ” ᠰᡝᠷᡝ ᠠᠰᡠᠷᠠᠨ ᡞ᠋ ᠰᠠᠷᡞᠪᡠᠨ ᡣᡠᠷᡝᠨ ᠪᡝ ᡨᡠᠸᠠᡫᡞ ︐ ᡥᠠᠯᠠᠨ ᠨᡝᡞᠯᡝᠨ 40 ᠠᠨᡞᠶᠠ ᠴᡞ ᡝᠪᠰᡞ ᠮᠠᡫᠠᡤᡠᠷᡠᠨ ᡞ᠋ ᡨᡝᠨ ᡞ᠋ ᠠᠮᠪᠠ ᡣᡡᠪᡠᠯᡞᠨ ᠪᡝ ᠰᡝᠷᡝᠪᡠᡥᡝ ︒
 # text[trans] = hanckide , siyan gurun boo bana bayasu yamun ningge cgambu albasi be dzujylefi " horonggo ambalinggv gvbulin ︱ halan neilen 40 baruniya be urgulere amba durugan saribun " sere asuran i saribun kuren be tuwafi , halan neilen 40 aniya ci ebsi mafagurun i ten i amba kvbulin be serebuhe .
 # text[eng] = Recently, the County Bureau of Land and Resources organized civil servants to watch an online exhibition named 'Great Change -- Celebration of the 40th Anniversary of the Reform and Openning-up Large Exhibition', experienced the great changes of the motherland throughout the 40 years.
-1	ᡥᠠᠨᠴᡣᡞᡩᡝ	ᡥᠠᠨᠴᡞᡣᡞ	ADJ	_	Case=Dat	50	obl:tmod	_	Translit=hanckide
+1	ᡥᠠᠨᠴᡣᡞᡩᡝ	ᡥᠠᠨᠴᡞᡣᡞ	ADJ	_	_	50	obl:tmod	_	Translit=hanckide
 2	︐	︐	PUNCT	_	_	1	punct	_	Translit=,
 3	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	4	nmod	_	Translit=siyan
 4	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	6	nmod	_	Translit=gurun
