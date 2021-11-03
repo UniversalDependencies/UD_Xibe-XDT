@@ -1,0 +1,40 @@
+Running the following version of UD tools:
+commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 2 22:17:19 2021 +0100
+Evaluating the following revision of UD_Xibe-XDT:
+commit f7cf787c38b618767ee15221edc62bd81d73fb3a
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Wed Nov 3 15:06:09 2021 +0100
+Size: counted 15401 of 15401 words (nodes).
+Size: min(0, log((N/1000)**2)) = 5.46886488475266.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 17 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 1.
+Features: 6308 out of 15401 total words have one or more features.
+Features: source of annotation (from README) factor is 1.
+Universal relations: 30 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 1.
+Udapi:
+               TOTAL        886
+Udapi: found 886 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 15401 words.
+Genres: found 2 out of 17 known.
+validate.py --lang sjo --max-err=10 UD_Xibe-XDT/sjo_xdt-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
+(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
+(weight=0.256410256410256) * (score{size}=0.39584964028709) = 0.101499907765921
+(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
+(weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
+(weight=0.307692307692308) * (score{udapi}=0.424712680994741) = 0.130680824921459
+(weight=0.0769230769230769) * (score{udeprels}=0.810810810810811) = 0.0623700623700624
+(TOTAL score=0.513344158556687) * (availability=1) * (validity=1) = 0.513344158556687
+STARS = 2.5
+UD_Xibe-XDT	0.513344158556687	2.5
