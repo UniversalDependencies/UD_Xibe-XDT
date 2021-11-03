@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>810</sentences><tokens>15282</tokens><words>15401</words><fused>88</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>810</sentences><tokens>15282</tokens><words>15401</words><fused>88</fused></test>
+  </size>
+  <lemmas unique="2141" /><!-- ᠪᡝ, ᡩᡝ, 。, ,, ︐, ᡞ᠋, ᡞ, ︒, ᠰᡝᠮᠪᡞ, ᠠᠨᡞᠶᠠ, ︑, ᠨᡞᠶᠠᠯᠮᠠ, ᠣᠮᠪᡞ, ᡪᠠᡞ, ᠪᡞ -->
+  <forms unique="2843" /><!-- ᠪᡝ, ᡩᡝ, 。, ,, ︐, ᡞ᠋, ᡞ, ︒, ︑, ᠠᠨᡞᠶᠠ, ᡪᠠᡞ, ᠨᡞᠶᠠᠯᠮᠠ, ᡝᠮᡠ, ᡞᠴᡝ, ᠪᡞ -->
+  <fusions unique="35" /><!-- ᠸᡝᡞ, ᠴᡞ, ᠪᠣ, ᡞᠣ, ᠴᠠᡢ, ᡨᠠᡞ, ᠯᠠ, ᡤᡠᡢ, ᠠᡞ, ᡥᡝ, ᡨᡞᠶᠣᠣ, ᡩᡞᠶᠠᠨ, ᡪᡠᡢ, ᠠᠪᡣᠠᡞ, ᠪᠠᠷᡥᠠ -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="17">
+    <tag name="ADJ">988</tag><!-- ᡞᠴᡝ, ᠠᠮᠪᠠ, ᠰᠠᡞᠨ, ᠣᠶᠣᡢᡤᠣ, ᠯᠠᠪᡩᡠ, ᠶᠠᡩᠠᡥᡡᠨ, ᠰᠠᡞᡣᠠᠨ, ᡝᠯᡤᡞᠶᡝᠨ, ᡩᡝᠨ, ᡫᠠᡣᠰᡞ -->
+    <tag name="ADP">1860</tag><!-- ᠪᡝ, ᡩᡝ, ᡞ᠋, ᡞ, ᠴᡞ, ᡩᡝᠷᡞ, ᠨᡞ, ᡪᠠᠯᡞᠨ, ᠪᠠᠷᡠ, ᡨᡝᡞᠯᡝ -->
+    <tag name="ADV">604</tag><!-- ᡤᡝᠮᡠ, ᡠᠷᡠᠨᠠᡣᡡ, ᡞᠨᡠ, ᡤᡝᠯᡞ, ᡠᡨᡥᠠᡞ, ᡣᡝᠮᡠᠨᡞ, ᠸᠠᡣᠠ, ᡩᠠᠮᡠ, ᡝᠯᡝᡞ, ᡠᡥᡝᡞ -->
+    <tag name="AUX">121</tag><!-- ᠣᠴᡞ, ᠨᡞᡢᡤᡝ, ᠪᡞᠮᠪᡞ, ᠰᡝᠮᠪᡞ, ᠣᠮᠪᡞ, ᠪᡞ -->
+    <tag name="CCONJ">101</tag><!-- ᡪᠠᡞ, ᠪᡞᠮᡝ, ᡝᡞᠴᡞ, ᡝᠮᠪᡞᠴᡞ -->
+    <tag name="DET">106</tag><!-- ᡝᠷᡝ, ᡨᡝᠷᡝ, ᡤᡝᠷᡝᠨ, ᡠᡩᡠ, ᡝᠷᡝᠮᡠ, ᡝᠷᡝᠪᡝ, ᡝᠷᡝᠴᡞ, ᡝᡞᡨᡝᠨ, ᡨᡝᠷᡝᠪᡝ -->
+    <tag name="INTJ">4</tag><!-- ᠠᠷᠠ, ᡝᠮᡝᡣᡝᡞ, ᡪᠣᡠᠪᠠᡞ -->
+    <tag name="NOUN">4606</tag><!-- ᠠᠨᡞᠶᠠ, ᠨᡞᠶᠠᠯᠮᠠ, ᡞᠷᡤᡝᠨ, ᡥᡝᡨᡥᡝ, ᡞᠰᠠᠨ, ᡤᡠᠷᡠᠨ, ᠪᠠᡞᡨᠠ, ᠰᡞᠶᠠᠨ, ᡠᠰᡞᠨ, ᠸᡝᡞᠯᡝᠷᠠᠨ -->
+    <tag name="NUM">489</tag><!-- ᡝᠮᡠ, ᡪᡠᠸᠠᠨ, ᡪᡠᠸᡝ, ᡨᡠᠮᡝᠨ, 2019, ᡞᠯᠠᠨ, 2018, ᠮᡞᡢᡤᠠᠨ, ᡞᠯᠠᠴᡞ, ᡝᠮᡣᡝᠨ -->
+    <tag name="PART">133</tag><!-- ᡞ᠋, ᠨᡞ, ᡞᠨᡠ, ᡞ, ᡣᠠᡞ, ᠠᡞᠰᡝ, ᠨᡞᡠ, ᡩᡝᠷᡝ, ᠰᠠ, ᠪᠠᡞ -->
+    <tag name="PRON">629</tag><!-- ᠪᡞ, ᡤᡠᠪᠴᡞ, ᠮᡞᠨᡞ, ᠰᡞ, ᡤᡝᠷᡝᠨ, ᡨᡝᠷᡝ, ᡨᡝᠰᡝ, ᠮᡠᠰᡝ, ᠪᡝᠶᡝ, ᠰᡞᠨᡞ -->
+    <tag name="PROPN">522</tag><!-- ᠴᠠᠪᠴᠠᠯ, ᡪᡠᡢᡬᠣ, ᡪᡞᠨ, ᡦᡞᡢ, ᠰᡞ, ᠰᡞᠨᡪᡞᠶᠠᡢ, ᡞᠯᡞ, ᠪᡝᡞᡪᡞᡢ, ᠯᡞ, ᠰᡞᠪᡝ -->
+    <tag name="PUNCT">1895</tag><!-- 。, ,, ︐, ︒, ︑, ?, “, ”, !, 、 -->
+    <tag name="SCONJ">87</tag><!-- ᠣᠴᡞ, ᠣᡫᡞ, ᠰᡝᠴᡞᠪᡝ, ᠪᡞᠮᡝ, ᠰᡝᠮᡝ, ᡠᡩᡠ, ᡝᠮᠪᡞᠴᡞ, ᠠᡢᡤᠠᠯᠠ, ᠣᠴᡞᠪᡝ, ᡨᡝᡨᡝᠨᡩᡝᠷᡝ -->
+    <tag name="SYM">1</tag><!-- + -->
+    <tag name="VERB">3090</tag><!-- ᠣᠮᠪᡞ, ᠰᡝᠮᠪᡞ, ᡪᡞᠮᠪᡞ, ᡤᡝᠨᡝᠮᠪᡞ, ᠪᡞᠮᠪᡞ, ᠠᠷᠠᠮᠪᡞ, ᠶᠠᠪᡠᠮᠪᡞ, ᡨᡠᠸᠠᠮᠪᡞ, ᠠᠴᠠᠮᠪᡞ, ᡤᡞᠰᡠᠷᡝᠮᠪᡞ -->
+    <tag name="X">165</tag><!-- ᠶᡠᠸᠠᠨ, ᠸᡝᡞ, ᠴᡞ, ᠶᡝ, ᡥᡡᡞ, ᠪᠣ, ᠰᡞᠶᠠᠨ, ᡞᠣ, ᠴᠠᡢ, ᠪᠠ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="54">
+    <feat name="Abbr" value="Yes" upos="NOUN,PRON,PROPN">20</feat><!-- ᠸᡝᡞ, ᡪᡠᡢᡤᡠᡢ, ᠶᠠᠶᠠᠮᡠ, ᠣᠣ, ᡝᠷᡝᠮᡠ, ᡣᡝᠰᡞᠶᡝ, ᡪᡝᡢᠰᡞᠶᡝ, ᡪᡠ, ᡬᠠᡢ -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">1725</feat><!-- ᠰᡝᠮᡝ, ᡠᠯᠠᠮᡝ, ᠠᠷᠠᠮᡝ, ᠪᠠᡩᠠᠷᠠᠷᠠ, ᡞᠯᡞᠪᡠᠮᡝ, ᠰᡝᠷᡝ, ᠪᡞᠮᡝ, ᠪᡞᠰᡞᠷᡝ, ᠰᡝᠯᡤᡞᠶᡝᠷᡝ, ᠠᠷᠠᠮᡨᡠᠴᡞᠪᡠᠷᡝ -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">383</feat><!-- ᡠᡥᡝᠷᡞᠯᡝᡥᡝ, ᠣᠪᡠᡥᠠ, ᡪᡞᡫᡞ, ᠣᡥᠣ, ᡤᡝᠨᡝᡫᡞ, ᡨᡝᡫᡞ, ᠠᡩᠠᠨᠠᡥᠠ, ᠪᡞᡥᡝ, ᡪᡞᡥᡝ, ᡤᡞᠰᡠᠷᡝᡥᡝ -->
+    <feat name="Aspect" value="Prog" upos="VERB">21</feat><!-- ᠶᠠᠪᡠᠪᡠᠮᠠᡥᠠᠪᡞ, ᡨᠠᠴᡞᠮᠠᡥᠠ, ᠠᠯᡣᡡᠮᠠᡥᠠᠪᡞ, ᠠᠷᠠᠮᠠᡥᠠᠪᡞ, ᠨᡝᡞᠮᠠᡥᠠᡣᡡ, ᠪᠠᡞᡨᠠᠯᠠᠮᠠᡥᠠ, ᠮᠠᡣᠰᡞᠮᠠᡥᠠᠪᡞ, ᠶᠠᠪᡠᠮᠠᡥᠠ, ᠸᡝᡞᠯᡝᠮᠠᡥᠠᡣᡡ, ᡝᡫᡞᠮᠠᡥᠠᠪᡞ -->
+    <feat name="Case" value="Abl" upos="ADP,DET,NOUN,PRON">109</feat><!-- ᡩᡝᠷᡞ, ᠴᡞ, ᡝᠷᡝᠴᡞ, ᠠᠨᡞᠶᠠᠴᡞ, ᠠᡞᠪᡞᠴᡞ, ᠠᡞᠪᡞᡩᡝᠷᡞ, ᠪᠣᡠᠴᡞ, ᠰᡠᠸᡝᠨᠴᡞ, ᡤᠣᡞᡩᠠᠴᡞ, ᡩᠠᠷᡞ -->
+    <feat name="Case" value="Acc" upos="ADP,DET,NOUN,PRON">757</feat><!-- ᠪᡝ, ᠰᡞᠮᠪᡝ, ᡩᡝ, ᠰᡠᠸᡝᠮᠪᡝ, ᡞᠮᠪᡝ, ᠪᠠᠪᡝ, ᠸᡝᠪᡝ, ᡝᠷᡝᠪᡝ, ᡨᡝᠷᡝᠪᡝ, ᠪᡝᠶᡝᠪᡝ -->
+    <feat name="Case" value="Cmp" upos="ADP,PRON">8</feat><!-- ᡩᡝᠷᡞ, ᠴᡞ, ᠮᡞᠨᠴᡞ -->
+    <feat name="Case" value="Com" upos="ADP">1</feat><!-- ᡝᠮᡤᡞ -->
+    <feat name="Case" value="Dat" upos="ADP,NOUN,NUM,PRON,VERB">416</feat><!-- ᡩᡝ, ᠮᡞᠨᡩᡝ, ᡞᠨᡩᡝ, ᠰᡞᠨᡩᡝ, ᡫᠣᠨᡩᡝ, ᡝᠷᡞᠨᡩᡝ, ᡝᠷᡤᡞᡩᡝ, ᡨᡠᠷᡤᡠᠨᡩᡝ, ᠪᠠᡩᡝ, ᠪᡝ -->
+    <feat name="Case" value="Gen" upos="ADP,NOUN,NUM,PART,PRON">611</feat><!-- ᡞ᠋, ᡞ, ᡠᡣᠰᡠᠷᠠᡞ, ᠨᡞ, ᠠᠨᡞᠶᠠᡞ, ᠪᡞᠶᠠᡞ, ᡨᠣᡣᠰᠣᡞ, ᠨᡞᠶᠠᠯᠮᠠᡞ, ᡥᡝᡨᡥᡝᡞ, ᡩᡝᠷᡝᡞ -->
+    <feat name="Case" value="Ins" upos="ADP">12</feat><!-- ᡞ᠋ -->
+    <feat name="Case" value="Lat" upos="ADP,NOUN,PRON">19</feat><!-- ᠴᡞ, ᠪᠣᡠᠴᡞ, ᡩᡝ, ᡩᡝᠷᡞ, ᠪᠠᡞᠮᡝ, ᡠᠪᠠᠴᡞ -->
+    <feat name="Case" value="Loc" upos="ADP,NOUN">115</feat><!-- ᡩᡝ, ᠪᠠᡩᡝ, ᠪᠣᠣᡩᡝ -->
+    <feat name="Clusivity" value="Ex" upos="PRON">15</feat><!-- ᠪᡝ, ᠮᡝᠨᡞ -->
+    <feat name="Clusivity" value="In" upos="PRON">15</feat><!-- ᠮᡠᠰᡝ, ᠮᡠᠰᡝᡞ, ᠪᡝ -->
+    <feat name="Degree" value="Pos" upos="ADJ">36</feat><!-- ᠰᠠᡞᠨ, ᠨᠠᠷᡥᡡᠨ, ᠯᠠᠪᡩᡠ, ᡣᠣᠮᠰᠣ, ᡣᡝᡪᡞᠨᡝ, ᡧᡠᠮᡞᠨ, ᠠᠮᠪᠠ, ᠠᡥᡡᡢᡤᠠ, ᠠᡩᠠᡣᡞ, ᠠᡪᡞᡤᡝ -->
+    <feat name="Foreign" value="Yes" upos="NOUN">1</feat><!-- WIFI -->
+    <feat name="Mood" value="Cnd" upos="AUX,VERB">74</feat><!-- ᠪᡞᠴᡞ, ᠰᡝᠴᡞ, ᡨᡠᠸᠠᠴᡞ, ᠣᠴᡞ, ᡤᡞᠰᡠᠷᡝᠴᡞ, ᡞᠴᡞᡥᡞᠶᠠᠴᡞ, ᡨᠠᠴᡞᠴᡞ, ᠪᠣᡩᠣᠴᡞ, ᠪᡝᡩᡝᠷᡝᠷᠠᡣᡡᠴᡞ, ᠶᠠᠪᡠᠴᡞ -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">111</feat><!-- ᠣᡣᡞᠨᡞ, ᡤᡝᠨᡝᡣᡞ, ᡪᡞᡠ, ᠪᡝᡩᡝᠷᡝᡣᡞ, ᠪᡠᠷᡝᡠ, ᠰᡝ, ᠶᠠᠪᡠᡣᡞ, ᡤᡞᠰᡠᠷᡝ, ᠠᠯᠠ, ᠠᠴᠠᡣᡞ -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">46</feat><!-- ᠠᠴᠠᠮᠪᡞ, ᠣᠮᠪᡞ, ᠪᡞ, ᠰᡝᠮᠪᡞ, ᡞᠯᡞᡥᠠᠪᡞ, ᠠᠷᠠᠮᠪᡞ, ᠮᡠᡨᡝᠮᠪᡞ, ᡠᠴᡠᠯᡝᠮᠪᡞ, ᠠᠯᡞᠮᠪᡞ, ᠠᡞᠰᡞᠯᠠᠮᠪᡞ -->
+    <feat name="Mood" value="Opt" upos="VERB">5</feat><!-- ᠠᠯᠠᠨᡪᡞᠴᡞᠨᠠ, ᠠᠯᠠᠴᡞᠨᠠ, ᠨᠠᡣᠠᠴᡞᠨᠠ, ᡨᠠᠴᡞᠴᡞᠨᠠ, ᡪᡞᠴᡞᠨᠠ -->
+    <feat name="Mood" value="Sub" upos="PART,VERB">5</feat><!-- ᠮᡠᡨᡝᠷᠠᡣᡡ, ᠠᠶᠠᡠ, ᠣᡪᠣᠷᠠᡥᡡ, ᡣᡡᠪᡠᠯᡞᠴᡞᠪᡝ -->
+    <feat name="Number" value="Plur" upos="NOUN,PART,PRON">157</feat><!-- ᡨᡝᠰᡝ, ᠮᡠᠰᡝ, ᠪᡝ, ᠮᡝᠨᡞ, ᠮᡠᠰᡝᡞ, ᠰᡠᠸᡝ, ᡤᡝᠷᡝᠨ, ᡤᡠᠴᡠᠰᠠ, ᡨᡝᠰᡝᡞ, ᠰᡠᠸᡝᠨᡞ -->
+    <feat name="Number" value="Sing" upos="DET,PRON">298</feat><!-- ᠪᡞ, ᠮᡞᠨᡞ, ᠰᡞ, ᡨᡝᠷᡝ, ᠰᡞᠨᡞ, ᡞᠨᡞ, ᡞ, ᠮᡞᠨᡩᡝ, ᠰᡞᠮᠪᡝ, ᡨᡝᠷᡝᡞ -->
+    <feat name="NumType" value="Card" upos="NUM,PRON">379</feat><!-- ᡝᠮᡠ, ᡪᡠᠸᠠᠨ, ᡪᡠᠸᡝ, ᡨᡠᠮᡝᠨ, 2019, ᡞᠯᠠᠨ, 2018, 5, ᠮᡞᡢᡤᠠᠨ, 1 -->
+    <feat name="NumType" value="Frac" upos="NUM">2</feat><!-- 3.8, 7.8 -->
+    <feat name="NumType" value="Mult" upos="NUM">8</feat><!-- ᡠᡩᡠ, ᡝᠮᡠᡢᡤᡝᠷᡞ, ᡨᠠᡢᡤᡡᡢᡤᡝᠷᡞ -->
+    <feat name="NumType" value="Ord" upos="ADJ,NUM">55</feat><!-- ᡞᠯᠠᠴᡞ, ᡠᠶᡠᠴᡞ, ᡠᡪᡠᡞ, ᠨᠠᡩᠠᠴᡞ, ᠰᡠᠨᡪᠠᠴᡞ, ᡪᡠᠸᡝᠴᡞ, ᡠᡪᡠ, ᡩᡠᡞᠴᡞ, ᡪᠠᡞ, ᡪᠠᡞᠴᡞ -->
+    <feat name="NumType" value="Sets" upos="NUM">3</feat><!-- ᡞᠯᠠᠨᠣᡫᡞ, ᡪᡠᠸᡝᠨᠣᡫᡞ -->
+    <feat name="Person" value="1" upos="PRON">179</feat><!-- ᠪᡞ, ᠮᡞᠨᡞ, ᠮᡠᠰᡝ, ᠮᡝᠨᡞ, ᠪᡝ, ᠮᡠᠰᡝᡞ, ᠮᡞᠨᡩᡝ, ᠮᡞᠮᠪᡝ, ᠪᡝᠶᡝᠪᡝ, ᠮᡝᠨᡩᡝ -->
+    <feat name="Person" value="2" upos="PRON">102</feat><!-- ᠰᡞ, ᠰᡞᠨᡞ, ᠰᡞᠮᠪᡝ, ᠰᡠᠸᡝ, ᠰᡞᠨᡩᡝ, ᠰᡠᠸᡝᠨᡞ, ᠰᡠᠸᡝᠮᠪᡝ, ᠰᡠᠸᡝᠨᠴᡞ -->
+    <feat name="Person" value="3" upos="PRON">124</feat><!-- ᡨᡝᠷᡝ, ᡨᡝᠰᡝ, ᡞᠨᡞ, ᡞ, ᡨᡝᠷᡝᡞ, ᡞᠨᡩᡝ, ᡨᡝᠰᡝᡞ, ᡞᠮᠪᡝ, ᠮᡞᠨᡞ, ᠸᡝᠷᡞ -->
+    <feat name="Polarity" value="Neg" upos="ADP,ADV,VERB">213</feat><!-- ᠠᡣᡡ, ᠸᠠᡣᠠ, ᠣᡪᠣᠷᠠᡣᡡ, ᠮᡠᡨᡝᠷᠠᡣᡡ, ᡩᡠᠯᡝᡥᡝᡣᡡ, ᡞᠰᡞᠷᠠᡣᡡ, ᠯᠠᡣᠴᠠᠷᡣᡡ, ᡪᡞᠷᠠᡣᡡ, ᠮᡠᡨᡝᡥᡝᡣᡡ, ᠰᠠᠪᡠᡥᠠᡣᡡ -->
+    <feat name="Polite" value="Elev" upos="PRON">1</feat><!-- ᡨᡝᠷᡝ -->
+    <feat name="Poss" value="Yes" upos="PRON">102</feat><!-- ᠮᡞᠨᡞ, ᠰᡞᠨᡞ, ᡞᠨᡞ, ᠮᡝᠨᡞ, ᠮᡠᠰᡝᡞ, ᠪᡞ, ᠰᡠᠸᡝᠨᡞ, ᡨᡝᠷᡝᡞ -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">124</feat><!-- ᡝᠷᡝ, ᡨᡝᠷᡝ, ᡤᡝᠷᡝᠨ, ᡥᠠᠷᠠᡢᡤᠠ, ᡩᠠᠷᡞ, ᡝᠷᡝᠮᡠ, ᡝᠷᡝᠴᡞ, ᡠᡩᡠ, ᡨᡠᡨᡨᡠ, ᡝᠷᡝᠪᡝ -->
+    <feat name="PronType" value="Ind" upos="PRON">7</feat><!-- ᡝᠮᡝᠮᡠ, ᠸᡝᠷᡞ -->
+    <feat name="PronType" value="Int" upos="PRON">39</feat><!-- ᠠᡞ, ᠸᡝ, ᠠᡞᠨᡠ, ᠶᠠ, ᠸᡝᠪᡝ, ᠠᠨ, ᠠᡞᠪᡞ, ᠠᡞᠪᡞᠴᡞ, ᠠᡞᠪᡞᡩᡝᠷᡞ -->
+    <feat name="PronType" value="Prs" upos="PRON">409</feat><!-- ᠪᡞ, ᠮᡞᠨᡞ, ᠰᡞ, ᡨᡝᠷᡝ, ᡨᡝᠰᡝ, ᠰᡞᠨᡞ, ᡞᠨᡞ, ᠮᡠᠰᡝ, ᡞ, ᠮᡝᠨᡞ -->
+    <feat name="PronType" value="Tot" upos="DET,PRON">116</feat><!-- ᡤᡠᠪᠴᡞ, ᡤᡝᠷᡝᠨ, ᠶᠠᠶᠠᠮᡠ, ᡨᠣᠮᡝ, ᠶᠠᠶᠠ, ᡥᠠᠷᡨᡠᡢᡤᠠ, ᠮᡝᡞᠮᡝᠨᡞ, ᡝᠷᡝ, ᡤᡝᠷᡝᠨᠣᡫᡞ, ᡩᠠᠷᡞ -->
+    <feat name="Reflex" value="Yes" upos="PRON">24</feat><!-- ᠪᡝᠶᡝ, ᠪᡝᠶᡝᡞ -->
+    <feat name="Tense" value="Fut" upos="VERB">7</feat><!-- ᠰᡞᠨᡩᠠᠮᠪᡞ, ᡠᠷᡤᡠᠯᡝᠮᠪᡞ, ᡤᡝᠨᡝᠮᠪᡞ, ᡤᡠᠷᡞᠪᡠᠮᠪᡞ, ᡥᡡᠰᡠᡨᡠᠯᡝᠮᠪᡞ, ᡨᠠᠴᡞᠮᠪᡞ, ᡪᡞᠮᠪᡞ -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">357</feat><!-- ᠣᡥᠣ, ᠰᡝᡥᡝ, ᠨᡝᡞᡥᡝᠪᡞ, ᡪᡞᡥᡝ, ᠪᡞᡥᡝ, ᡪᡞᡥᡝᠪᡞ, ᠣᡥᠣᠪᡞ, ᠪᡞᡥᡝᠪᡞ, ᡞᠴᡞᡥᡞᠶᠠᡥᠠᠪᡞ, ᡤᡝᠨᡝᡥᡝ -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">471</feat><!-- ᠣᠮᠪᡞ, ᠠᠴᠠᠮᠪᡞ, ᠮᡠᡨᡝᠮᠪᡞ, ᠮᡠᡨᡝᠷᠠᡣᡡ, ᠰᡝᠮᠪᡞ, ᠣᡪᠣᠷᠠᡣᡡ, ᠪᡞ, ᠣᡣᡞᠨᡞ, ᠣᡣᡩᠣᠮᠪᡞ, ᡤᠠᡞᠮᠪᡞ -->
+    <feat name="Typo" value="Yes" upos="ADV,NOUN,NUM,VERB">5</feat><!-- ᠶᠠᡢᡧᠠᠮᡝ, ᡝᠮᡠ, ᡪᠠᠯᠠᠨ, ᡪᡠᠸᠠ, ᡫᡠᠨ -->
+    <feat name="VerbForm" value="Conv" upos="AUX,VERB">1259</feat><!-- ᠰᡝᠮᡝ, ᡠᠯᠠᠮᡝ, ᠠᠷᠠᠮᡝ, ᡞᠯᡞᠪᡠᠮᡝ, ᠪᡞᠮᡝ, ᡠᠷᡝᠪᡠᠮᡝ, ᠠᠴᠠᠮᡝ, ᠪᠠᡥᠠᠮᡝ, ᠰᡞᠪᡣᡞᠮᡝ, ᡨᡠᠴᡞᠪᡠᠮᡝ -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">802</feat><!-- ᠣᡥᠣ, ᠰᡝᡥᡝ, ᠣᠮᠪᡞ, ᠨᡝᡞᡥᡝᠪᡞ, ᠠᠴᠠᠮᠪᡞ, ᠰᡝᠮᠪᡞ, ᠮᡠᡨᡝᠮᠪᡞ, ᡪᡞᡥᡝ, ᠣᡪᠣᠷᠠᡣᡡ, ᠪᡞᡥᡝ -->
+    <feat name="VerbForm" value="Inf" upos="VERB">1</feat><!-- ᡥᠣᡣᡞᠷᠠᠷᡣᡡ -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">771</feat><!-- ᠪᠠᡩᠠᠷᠠᠷᠠ, ᠪᡞᠰᡞᠷᡝ, ᠰᡝᠷᡝ, ᠠᠷᠠᠷᠠ, ᡞᠴᡞᡥᡞᠶᠠᠷᠠ, ᡠᠷᡤᡠᠯᡝᠷᡝ, ᡩᡠᠯᡝᠷᡝ, ᠠᠷᠠᠮᡨᡠᠴᡞᠪᡠᠷᡝ, ᠰᠠᠷᡧᠠᠷᠠ, ᠰᡝᠯᡤᡞᠶᡝᠷᡝ -->
+    <feat name="VerbForm" value="Vnoun" upos="VERB">165</feat><!-- ᠰᡝᠯᡤᡞᠶᡝᠷᡝ, ᡠᡥᡝᠷᡞᠯᡝᡥᡝ, ᠰᡝᠷᡝ, ᠰᡝᠷᡝᡢᡤᡝ, ᠠᠷᠠᠮᡨᡠᠴᡞᠪᡠᠷᡝ, ᠪᠠᠶᠠᠨᠠᠷᠠ, ᡤᡞᠰᡠᠷᡝᡥᡝᡢᡤᡝ, ᡩᡠᠯᡝᠷᡝ, ᠠᠮᠴᠠᡥᠠ, ᠠᠴᠠᠷᠠᡢᡤᡝ -->
+    <feat name="Voice" value="Act" upos="VERB">6</feat><!-- ᡞᠴᡞᡥᡞᠶᠠᠷᠠ, ᡠᠴᡠᠯᡝᠮᠪᡞ, ᠠᠯᠠᠷᠠᡣᡡ, ᡤᡞᠰᡠᠷᡝᠴᡞ -->
+    <feat name="Voice" value="Cau" upos="AUX,VERB">138</feat><!-- ᠣᠪᡠᠮᠪᡞ, ᠣᠪᡠᡥᠠ, ᠰᠠᠷᡞᠪᡠᡥᠠᠪᡞ, ᡩᡠᠯᡝᠪᡠᡫᡞ, ᠠᡧᡧᠠᠨᡩᡠᠪᡠᠮᡝ, ᠣᠪᡠᠮᡝ, ᠣᠪᡠᡫᡞ, ᠰᠠᠷᡨᠠᠪᡠᠮᠪᡞ, ᡞᠪᡝᠪᡠᠮᠪᡞ, ᡨᡠᠴᡞᠪᡠᡥᡝᠪᡞ -->
+    <feat name="Voice" value="Pass" upos="VERB">18</feat><!-- ᠪᠠᠰᡠᠪᡠᠷᡝ, ᠶᠠᠪᡠᠪᡠᡥᠠ, ᠠᠴᠠᠪᡠᠮᡝ, ᠠᠷᠠᠮᡨᡠᠴᡞᠪᡠᠷᡝ, ᠯᠠᡣᠴᠠᠪᡠᡥᠠᠪᡞ, ᠶᠠᠪᡠᠪᡠᡫᡞ, ᠸᠠᡪᡞᠪᡠᡥᠠ, ᡝᡨᡝᠪᡠᠷᡣᡡ, ᡞᠪᡝᠪᡠᠮᡝ, ᡤᠠᠰᡞᡥᡞᠶᠠᠪᡠᠮᡝ -->
+    <feat name="Voice" value="Rcp" upos="VERB">11</feat><!-- ᡞᠰᠠᠨᡩᡠᠮᡝ, ᡫᠠᠯᡞᠨᡩᡠᠮᡝ, ᠠᠴᠠᠨᡩᡠᡥᠠ, ᠠᡞᠰᡞᠯᠠᠨᡩᡠᠴᡞ, ᠠᡧᡧᠠᠨᡩᡠᠪᡠᠷᡝ, ᡞᠰᠠᠨᡩᡠᡫᡞ, ᡥᠠᡞᠷᠠᠨᡩᡠᠮᡝ, ᡨᠠᡣᠠᠨᡩᡠᠪᡠᠮᡝ, ᡫᠠᠯᡞᠨᡩᡠᠷᡝ -->
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="39">
+    <dep name="acl">293</dep>
+    <dep name="acl:relcl">256</dep>
+    <dep name="advcl">1345</dep>
+    <dep name="advmod">704</dep>
+    <dep name="amod">551</dep>
+    <dep name="appos">91</dep>
+    <dep name="aux">73</dep>
+    <dep name="case">1849</dep>
+    <dep name="cc">106</dep>
+    <dep name="ccomp">63</dep>
+    <dep name="clf">66</dep>
+    <dep name="compound">680</dep>
+    <dep name="conj">507</dep>
+    <dep name="cop">39</dep>
+    <dep name="csubj">11</dep>
+    <dep name="det">191</dep>
+    <dep name="discourse">69</dep>
+    <dep name="fixed">8</dep>
+    <dep name="flat">183</dep>
+    <dep name="flat:name">178</dep>
+    <dep name="iobj">10</dep>
+    <dep name="mark">91</dep>
+    <dep name="mark:adv">50</dep>
+    <dep name="mark:plur">5</dep>
+    <dep name="mark:rel">5</dep>
+    <dep name="nmod">1553</dep>
+    <dep name="nmod:poss">115</dep>
+    <dep name="nsubj">943</dep>
+    <dep name="nsubj:pass">7</dep>
+    <dep name="nummod">339</dep>
+    <dep name="obj">1101</dep>
+    <dep name="obl">725</dep>
+    <dep name="obl:lmod">103</dep>
+    <dep name="obl:tmod">132</dep>
+    <dep name="parataxis">118</dep>
+    <dep name="punct">1895</dep>
+    <dep name="root">810</dep>
+    <dep name="vocative">5</dep>
+    <dep name="xcomp">131</dep>
+  </deps>
+</treebank>
