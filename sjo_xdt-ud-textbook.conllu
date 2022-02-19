@@ -4413,7 +4413,7 @@
 # text[trans] = bei jing ci tucime , tanggv ba dulerkv uthai golmin hecen i᠋ fejile isinambi .
 # text[chn] = 从北京出发，不过一百多里就来到长城脚下。
 # text[eng] = Starting from Beijing, no more than 100 li arrives at the foot of the Great Wall.
-1-2	ᠪᡝᡳ ᠵᡳᡢ	_	_	_	_	_	_	_	_
+1-2	ᠪᡝᡞ ᡪᡞᡢ	_	_	_	_	_	_	_	_
 1	ᠪᡝᡞ	ᠪᡝᡞ	X	_	_	4	obl	_	Translit=bei
 2	ᡪᡞᡢ	ᡪᡞᡢ	X	_	_	1	flat:name	_	Translit=jing
 3	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	1	case	_	Translit=ci
@@ -4441,7 +4441,7 @@
 4	ᡤᠣᠯᠮᡞᠨ	ᡤᠣᠯᠮᡞᠨ	ADJ	_	_	5	amod	_	Translit=golmin
 5	ᡥᡝᠴᡝᠨ	ᡥᡝᠴᡝᠨ	NOUN	_	_	13	obj	_	Translit=hecen
 6	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	5	case	_	Translit=be
-7-9	ᠪᠠ ᡩᠠ ᠯᡳᠩ	_	_	_	_	_	_	_	_
+7-9	ᠪᠠ ᡩᠠ ᠯᡞᡢ	_	_	_	_	_	_	_	_
 7	ᠪᠠ	ᠪᠠ	X	_	_	10	compound	_	Translit=ba
 8	ᡩᠠ	ᡩᠠ	X	_	_	7	flat:name	_	Translit=da
 9	ᠯᡞᡢ	ᠯᡞᡢ	X	_	_	8	flat:name	_	Translit=ling
