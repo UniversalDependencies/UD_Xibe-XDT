@@ -29,7 +29,7 @@
 # text[eng] = Baturu held a saw in his hand.
 1	ᠪᠠᡨᡠᠷᡠ	ᠪᠠᡨᡠᠷᡠ	PROPN	_	_	3	nmod	_	Translit=baturu
 2	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	1	case	_	Translit=i
-3	ᡤᠠᠯᠠ	ᡤᠠᠯᠠ	NOUN	_	_	6	obl:loc	_	Translit=gala
+3	ᡤᠠᠯᠠ	ᡤᠠᠯᠠ	NOUN	_	_	6	obl	_	Translit=gala
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	3	case	_	Translit=de
 5	ᡣᡞᠶᠣᠷᠣ	ᡣᡞᠶᠣᠷᠣ	NOUN	_	_	6	obj	_	Translit=kiyoro
 6	ᡪᠠᡫᠠᡥᠠᠪᡞ	ᡪᠠᡫᠠᠮᠪᡞ	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Fin	0	root	_	Translit=jafahabi
@@ -2330,7 +2330,7 @@
 16	ᡫᠠᡞᡩᠠᡫᡞ	ᡫᠠᡞᡩᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	29	advcl	_	Translit=faidafi
 17	︐	︐	PUNCT	_	_	16	punct	_	Translit=,
 18	ᠠᡞᠮᠠᡣᠠ	ᠠᡞᠮᠠᡣᠠ	ADV	_	_	19	advmod	_	Translit=aimaka
-19	ᡤᡞᠰᡠᠷᡝᠷᡝᡢᡤᡝ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	29	appos	_	Translit=gisurerengge
+19	ᡤᡞᠰᡠᠷᡝᠷᡝᡢᡤᡝ	ᡤᡞᠰᡠᠷᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	29	csubj	_	Translit=gisurerengge
 20	——	——	PUNCT	_	_	19	punct	_	Translit=——
 21	ᡣᡞᠴᡝᠪᡝ	ᡣᡞᠴᡝᠪᡝ	ADJ	_	_	22	compound	_	Translit=kicebe
 22	ᡫᠠᡞᠴᡞᡢᡤᠠ	ᡫᠠᡞᠴᡞᡢᡤᠠ	ADJ	_	_	23	amod	_	Translit=faicingga
@@ -2572,7 +2572,7 @@
 30	︒	︒	PUNCT	_	_	29	punct	_	Translit=.
 
 # sent_id = textbook5-sjo_13
-# text = ᡩᡝᠨ ᠪᠠᡩᡝ ᡞᠯᡞᡫᡞ ᡨᡠᠸᠠᡥᠠᡩᡝ ᡤᡠᠪᠴᡞ ᡥᠣᡨᠣᠨ ᡞᠰᡞᠨᠠᡥᠠᠯᠠ ᠪᠠᡩᡝ ᠨᡞᠣᠸᠠᡢᡤᡞᠶᠠᠨ ᡥᠠᡞᠯᠠᠨ ︐ ᡞᠰᡞᠨᡞᡥᠠᠯᠠ ᠪᠠᡩᡝ ᠠᠮᠪᠠ ᠯᡝᠣᠰᡝ ᠰᠠᠪᡠᠮᠪᡞ ︒
+# text = ᡩᡝᠨ ᠪᠠᡩᡝ ᡞᠯᡞᡫᡞ ᡨᡠᠸᠠᡥᠠᡩᡝ ᡤᡠᠪᠴᡞ ᡥᠣᡨᠣᠨ ᡞᠰᡞᠨᠠᡥᠠᠯᠠ ᠪᠠᡩᡝ ᠨᡞᠣᠸᠠᡢᡤᡞᠶᠠᠨ ᡥᠠᡞᠯᠠᠨ ︐ ᡞᠰᡞᠨᠠᡥᠠᠯᠠ ᠪᠠᡩᡝ ᠠᠮᠪᠠ ᠯᡝᠣᠰᡝ ᠰᠠᠪᡠᠮᠪᡞ ︒
 # text[trans] = den bade ilifi tuwahade gubci hoton isinahala bade niowanggiyan hailan , isinihala bade amba leose sabumbi .
 # text[chn] = 站在高处一看，全城到处是绿树，到处是大楼。
 # text[eng] = Observing from high spots, the whole city green trees are all over everywhere, tall buildings are all over everywhere.
@@ -2891,21 +2891,21 @@
 # text[trans] = nenehe , emu bithe tacibure sefu bihebi , i tacisi de emu joringga tucime buhe ᠄ we komso jiha i emu hacin jaka be udame gajifi , bithei boo be jalubume mutembi sehe .
 # text[chn] = 从前，有位教书先生，他给学生出了一道题：看谁用不多的钱买一件东西，能把书房装满。
 # text[eng] = Before, there was a teacher, he gave students a problem, saying who can fill the bookroom by buying one thing with little money?
-1	ᠨᡝᠨᡝᡥᡝ	ᠨᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	33	advcl	_	Translit=nenehe
+1	ᠨᡝᠨᡝᡥᡝ	ᠨᡝᠨᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	15	advcl	_	Translit=nenehe
 2	︐	︐	PUNCT	_	_	1	punct	_	Translit=,
 3	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	6	nummod	_	Translit=emu
 4	ᠪᡞᡨᡥᡝ	ᠪᡞᡨᡥᡝ	NOUN	_	_	5	obj	_	Translit=bithe
 5	ᡨᠠᠴᡞᠪᡠᠷᡝ	ᡨᠠᠴᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	6	acl:relcl	_	Translit=tacibure
 6	ᠰᡝᡫᡠ	ᠰᡝᡫᡠ	NOUN	_	_	7	obj	_	Translit=sefu
-7	ᠪᡞᡥᡝᠪᡞ	ᠪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Fin	33	parataxis	_	Translit=bihebi
+7	ᠪᡞᡥᡝᠪᡞ	ᠪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Fin	15	parataxis	_	Translit=bihebi
 8	︐	︐	PUNCT	_	_	7	punct	_	Translit=,
-9	ᡞ	ᡞ	PRON	_	Number=Sing|Person=3|PronType=Prs	33	nsubj	_	Translit=i
+9	ᡞ	ᡞ	PRON	_	Number=Sing|Person=3|PronType=Prs	15	nsubj	_	Translit=i
 10	ᡨᠠᠴᡞᠰᡞ	ᡨᠠᠴᡞᠰᡞ	NOUN	_	_	15	obl	_	Translit=tacisi
 11	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	10	case	_	Translit=de
 12	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	13	nummod	_	Translit=emu
 13	ᡪᠣᠷᡞᡢᡤᠠ	ᡪᠣᠷᡞᡢᡤᠠ	NOUN	_	_	15	obj	_	Translit=joringga
 14	ᡨᡠᠴᡞᠮᡝ	ᡨᡠᠴᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	15	advcl	_	Translit=tucime
-15	ᠪᡠᡥᡝ	ᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	33	appos	_	Translit=buhe
+15	ᠪᡠᡥᡝ	ᠪᡠᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=buhe
 16	᠄	᠄	PUNCT	_	_	15	punct	_	Translit=᠄
 17	ᠸᡝ	ᠸᡝ	PRON	_	PronType=Int	32	nsubj	_	Translit=we
 18	ᡣᠣᠮᠰᠣ	ᡣᠣᠮᠰᠣ	ADJ	_	_	19	amod	_	Translit=komso
@@ -2923,7 +2923,7 @@
 30	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	29	case	_	Translit=be
 31	ᡪᠠᠯᡠᠪᡠᠮᡝ	ᡪᠠᠯᡠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	32	advcl	_	Translit=jalubume
 32	ᠮᡠᡨᡝᠮᠪᡞ	ᠮᡠᡨᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	33	obj	_	Translit=mutembi
-33	ᠰᡝᡥᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=sehe
+33	ᠰᡝᡥᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	15	xcomp	_	Translit=sehe
 34	︒	︒	PUNCT	_	_	33	punct	_	Translit=.
 
 # sent_id = textbook5-sjo_34
@@ -2931,14 +2931,14 @@
 # text[trans] = tacisisa niyalma tome fehi baitalame , hing seme seolembi .
 # text[chn] = 学生人人动脑，认真思考。
 # text[eng] = Students everyone use their heads and think carefully.
-1	ᡨᠠᠴᡞᠰᡞᠰᠠ	ᡨᠠᠴᡞᠰᡞ	NOUN	_	Number=Plur	2	appos	_	Translit=tacisisa
-2	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	9	nsubj	_	Translit=niyalma
+1	ᡨᠠᠴᡞᠰᡞᠰᠠ	ᡨᠠᠴᡞᠰᡞ	NOUN	_	Number=Plur	9	nsubj	_	Translit=tacisisa
+2	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	1	appos	_	Translit=niyalma
 3	ᡨᠣᠮᡝ	ᡨᠣᠮᡝ	PRON	_	PronType=Tot	2	det	_	Translit=tome
 4	ᡫᡝᡥᡞ	ᡫᡝᡥᡞ	NOUN	_	_	5	obj	_	Translit=fehi
 5	ᠪᠠᡞᡨᠠᠯᠠᠮᡝ	ᠪᠠᡞᡨᠠᠯᠠᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	9	advcl	_	Translit=baitalame
 6	︐	︐	PUNCT	_	_	5	punct	_	Translit=,
-7	ᡥᡞᡢ	ᡥᡞᡢ	ADJ	_	_	9	advmod	_	Translit=hing
-8	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	7	aux	_	Translit=seme
+7	ᡥᡞᡢ	ᡥᡞᡢ	ADJ	_	_	8	xcomp	_	Translit=hing
+8	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	9	advcl	_	Translit=seme
 9	ᠰᡝᠣᠯᡝᠮᠪᡞ	ᠰᡝᠣᠯᡝᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin	0	root	_	Translit=seolembi
 10	︒	︒	PUNCT	_	_	9	punct	_	Translit=.
 
@@ -3014,7 +3014,7 @@
 7	ᠪᠣᠣ	ᠪᠣᠣ	NOUN	_	_	9	obl	_	Translit=boo
 8	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	7	case	_	Translit=de
 9	ᡩᠣᠰᡞᡫᡞ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	18	advcl	_	Translit=dosifi
-10	︐	︐	PUNCTS	_	_	9	punct	_	Translit=,
+10	︐	︐	PUNCT	_	_	9	punct	_	Translit=,
 11	ᡠᠯᡥᡞ	ᡠᠯᡥᡞ	NOUN	_	_	18	obl	_	Translit=ulhi
 12	ᠴᡞ	ᠴᡞ	ADP	_	Case=Lat	11	case	_	Translit=ci
 13	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	15	nummod	_	Translit=emu
@@ -3650,7 +3650,7 @@
 9	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	8	case	_	Translit=ci
 10	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	6	appos	_	Translit=aniya
 11	︶	︶	PUNCT	_	_	10	punct	_	Translit=)
-12	ᠰᡠᠨᡪᠠ	ᠰᡠᠨᡪᠠ	NOUN	_	NumType=Card	13	nummod	_	Translit=sunja
+12	ᠰᡠᠨᡪᠠ	ᠰᡠᠨᡪᠠ	NUM	_	NumType=Card	13	nummod	_	Translit=sunja
 13	ᠪᡞᠶᠠᡞ	ᠪᡞᠶᠠ	NOUN	_	Case=Gen	15	nmod	_	Translit=biyai
 14	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	15	amod	_	Translit=ice
 15	ᡪᠠᡣᡡᠨ	ᡪᠠᡣᡡᠨ	NUM	_	NumType=Card	26	obl	_	Translit=jakvn
@@ -4083,7 +4083,7 @@
 10	ᠴᡝᠨᡩᡝᠮᡝ	ᠴᡝᠨᡩᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	11	advcl	_	Translit=cendeme
 11	ᠮᡠᡨᡝᠷᡝ	ᠮᡠᡨᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	24	advcl	_	Translit=mutere
 12	ᡨᡝᡞᠯᡝ	ᡨᡝᡞᠯᡝ	ADP	_	_	11	case	_	Translit=teile
-13	ᠸᠠᡣᠠ	ᠸᠠᡣᠠ	PART	_	Polarity=Neg	11	advmod	_	Translit=waka
+13	ᠸᠠᡣᠠ	ᠸᠠᡣᠠ	AUX	_	Polarity=Neg	11	aux	_	Translit=waka
 14	︐	︐	PUNCT	_	_	11	punct	_	Translit=,
 15	ᡞᠨᡝᡣᡠ	ᡞᠨᡝᡣᡠ	ADJ	_	_	24	advmod	_	Translit=ineku
 16	ᡤᡝᠯᡞ	ᡤᡝᠯᡞ	ADV	_	_	24	advmod	_	Translit=geli
@@ -6715,7 +6715,7 @@
 53	ᠠ	ᠠ	ADV	_	_	58	advmod	_	Translit=a
 54	ᠠ	ᠠ	ADV	_	_	53	compound	_	Translit=a
 55	︑	︑	PUNCT	_	_	54	punct	_	Translit=,
-56	ᡠ	ᡠ	ADV	_	_	55	compound	_	Translit=u
+56	ᡠ	ᡠ	ADV	_	_	53	conj	_	Translit=u
 57	ᡠ	ᡠ	ADV	_	_	56	compound	_	Translit=u
 58	ᠠᠷᠠᠮᡝ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	61	advcl	_	Translit=arame
 59	ᡤᡡᠨᡞᠨᡩᡝ	ᡤᡡᠨᡞᠨ	NOUN	_	Case=Dat	61	obl	_	Translit=gvninde
@@ -6887,7 +6887,7 @@
 16	ᡫᠣᠨᡪᡞᠮᡝ	ᡫᠣᠨᡪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	32	advcl	_	Translit=fonjime
 17	᠄	᠄	PUNCT	_	_	16	punct	_	Translit=᠄
 18	“	“	PUNCT	_	_	29	punct	_	Translit="
-19	ᡨᡠᡨᡨᡠ	ᡨᡠᡨᡨᡠ	PRON	_	_	29	advmod	_	Translit=tuttu
+19	ᡨᡠᡨᡨᡠ	ᡨᡠᡨᡨᡠ	PRON	_	_	29	obl	_	Translit=tuttu
 20	ᠣᠴᡞ	ᠣᠴᡞ	SCONJ	_	_	19	mark	_	Translit=oci
 21	ᠠᡤᡝ	ᠠᡤᡝ	NOUN	_	_	23	nmod	_	Translit=age
 22	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	21	case	_	Translit=i
@@ -6942,7 +6942,7 @@
 71	ᠰᡝᠮᡝ	ᠰᡝᠮᡝ	VERB	_	Aspect=Imp|VerbForm=Conv	72	advcl	_	Translit=seme
 72	ᠰᡠᠷᡝᡫᡞ	ᠰᡠᠷᡝᡫᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	74	advcl	_	Translit=surefi
 73	ᡪᡠᠯᡝᠰᡞ	ᡪᡠᠯᡝᠰᡞ	NOUN	_	_	74	obl	_	Translit=julesi
-74	ᡫᡝᡣᡠᡥᡝ	ᡫᡝᡣᡠᡥᡝ	VERB	_	Aspect=Part|VerbForm=Part	75	xcomp	_	Translit=fekuhe
+74	ᡫᡝᡣᡠᡥᡝ	ᡫᡝᡣᡠᡥᡝ	VERB	_	Aspect=Perf|VerbForm=Part	75	xcomp	_	Translit=fekuhe
 75	ᠪᡞᠴᡞ	ᠪᡞᠮᠪᡞ	VERB	_	Mood=Cnd|VerbForm=Conv	109	advcl	_	Translit=bici
 76	︐	︐	PUNCT	_	_	75	punct	_	Translit=,
 77	ᠨᡞᠣᡥᡝ	ᠨᡞᠣᡥᡝ	NOUN	_	_	80	nsubj	_	Translit=niohe
@@ -7198,7 +7198,7 @@
 # text[eng] = She tweedles in magpie and cuckoo's mouth, smiles on the branches of peach blossoms and apricot blossoms...
 1	ᡨᡝᠷᡝ	ᡨᡝᠷᡝ	PRON	_	Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Translit=tere
 2	ᠰᠠᡣᠰᠠᡥᠠ	ᠰᠠᡣᠰᠠᡥᠠ	NOUN	_	_	5	nmod	_	Translit=saksaha
-3	︑	︑	PUNCT	_	_	4	cc	_	Translit=,
+3	︑	︑	PUNCT	_	_	2	punct	_	Translit=,
 4	ᡬᠠᡣᡣᡠ	ᡬᠠᡣᡣᡠ	NOUN	_	_	2	conj	_	Translit=cgakku
 5	ᠠᡢᡤᠠᡞ	ᠠᡢᡤᠠ	NOUN	_	Case=Gen	6	nmod	_	Translit=anggai
 6	ᡩᠣᠯᠣ	ᡩᠣᠯᠣ	NOUN	_	_	7	obl	_	Translit=dolo
@@ -7562,13 +7562,13 @@
 16	ᠰᠣᠮᡞᡥᠣᠪᡞ	ᠰᠣᠮᡞᠮᠪᡞ	VERB	_	Aspect=Imp|Tense=Past|VerbForm=Fin	26	parataxis	_	Translit=somihobi
 17	︒	︒	PUNCT	_	_	16	punct	_	Translit=.
 18	ᡨᡠᡨᡨᡠ	ᡨᡠᡨᡨᡠ	PRON	_	_	26	advcl	_	Translit=tuttu
-19	ᠸᠠᡣᠠ	ᠸᠠᡣᠠ	ADV	_	Polarity=Neg	18	fixed	_	Translit=waka
+19	ᠸᠠᡣᠠ	ᠸᠠᡣᠠ	AUX	_	Polarity=Neg	18	fixed	_	Translit=waka
 20	ᠰᡝᠴᡞ	ᠰᡝᠮᠪᡞ	VERB	_	Mood=Cnd|VerbForm=Conv	18	fixed	_	Translit=seci
 21	︐	︐	PUNCT	_	_	18	punct	_	Translit=,
 22	ᠰᡞᠨᡞ	ᠰᡞᠨᡞ	PRON	_	Number=Sing|Person=2|Poss=Yes|PronType=Prs	23	nsubj	_	Translit=sini
 23	ᠰᠠᠷᡢᡤᡝ	ᠰᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	26	nsubj	_	Translit=sarangge
 24	ᠠᡩᠠᠷᠠᠮᡝ	ᠠᡩᠠᠷᠠᠮᡝ	ADV	_	_	25	advmod	_	Translit=adarame
-25	ᡝᠨᡨᡝᡣᡝ	ᡝᠨᡨᡝᡣᡝ	ADV	_	PronType=Dem	26	advmod	_	Translit=enteke
+25	ᡝᠨᡨᡝᡣᡝ	ᡝᠨᡨᡝᡣᡝ	ADV	_	_	26	advmod	_	Translit=enteke
 26	ᠨᠠᠷᡥᡡᠨ	ᠨᠠᠷᡥᡡᠨ	ADJ	_	_	29	xcomp	_	Translit=narhvn
 27	！	！	PUNCT	_	_	26	punct	_	Translit=!
 28	”	”	PUNCT	_	_	26	punct	_	Translit="
