@@ -5,14 +5,14 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>810</sentences><tokens>15282</tokens><words>15401</words><fused>88</fused></total>
+    <total><sentences>810</sentences><tokens>15401</tokens><words>15401</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>810</sentences><tokens>15282</tokens><words>15401</words><fused>88</fused></test>
+    <test><sentences>810</sentences><tokens>15401</tokens><words>15401</words><fused>0</fused></test>
   </size>
   <lemmas unique="2141" /><!-- ᠪᡝ, ᡩᡝ, 。, ,, ︐, ᡞ᠋, ᡞ, ︒, ᠰᡝᠮᠪᡞ, ᠠᠨᡞᠶᠠ, ︑, ᠨᡞᠶᠠᠯᠮᠠ, ᠣᠮᠪᡞ, ᡪᠠᡞ, ᠪᡞ -->
   <forms unique="2843" /><!-- ᠪᡝ, ᡩᡝ, 。, ,, ︐, ᡞ᠋, ᡞ, ︒, ︑, ᠠᠨᡞᠶᠠ, ᡪᠠᡞ, ᠨᡞᠶᠠᠯᠮᠠ, ᡝᠮᡠ, ᡞᠴᡝ, ᠪᡞ -->
-  <fusions unique="35" /><!-- ᠸᡝᡞ, ᠴᡞ, ᠪᠣ, ᡞᠣ, ᠴᠠᡢ, ᡨᠠᡞ, ᠯᠠ, ᡤᡠᡢ, ᠠᡞ, ᡥᡝ, ᡨᡞᠶᠣᠣ, ᡩᡞᠶᠠᠨ, ᡪᡠᡢ, ᠠᠪᡣᠠᡞ, ᠪᠠᠷᡥᠠ -->
+  <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">988</tag><!-- ᡞᠴᡝ, ᠠᠮᠪᠠ, ᠰᠠᡞᠨ, ᠣᠶᠣᡢᡤᠣ, ᠯᠠᠪᡩᡠ, ᠶᠠᡩᠠᡥᡡᠨ, ᠰᠠᡞᡣᠠᠨ, ᡝᠯᡤᡞᠶᡝᠨ, ᡩᡝᠨ, ᡫᠠᡣᠰᡞ -->
