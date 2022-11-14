@@ -4179,7 +4179,6 @@
 15	ᡥᡡᠸᠠ	ᡥᡡᠸᠠ	X	_	_	14	flat	_	Translit=hvwa
 16	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	18	compound	_	Translit=niyalma
 17	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	16	compound	_	Translit=irgen
-18-20	ᡤᡠᡢ ᡥᡝ ᡬᠣ	_	_	_	_	_	_	_	_
 18	ᡤᡠᡢ	ᡤᡠᡢ	X	_	_	22	nsubj	_	Translit=gung
 19	ᡥᡝ	ᡥᡝ	X	_	_	18	flat	_	Translit=he
 20	ᡬᠣ	ᡬᠣ	NOUN	_	_	18	flat	_	Translit=cgo
@@ -4471,7 +4470,6 @@
 # text[phon] = emu gung can dang yuwan oho niyalma, urunakv ini beyei aisi kokirara jabšara ufarara be heni bodorakv.
 # text[eng] = A communist must not regard for personal gain and loss.
 1	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	2	nummod	_	Translit=emu
-2-5	ᡤᡠᡢ ᠴᠠᠨ ᡩᠠᡢ ᠶᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 2	ᡤᡠᡢ	ᡤᡠᡢ	X	_	_	6	xcomp	_	Translit=gung
 3	ᠴᠠᠨ	ᠴᠠᠨ	X	_	_	2	flat	_	Translit=can
 4	ᡩᠠᡢ	ᡩᠠᡢ	X	_	_	2	flat	_	Translit=dang
@@ -5037,7 +5035,6 @@
 14	ᡪᡞᡥᡝᠪᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	9	conj	_	Translit=jihebi
 15	,	,	PUNCT	_	_	14	punct	_	Translit=,
 16	ᡝᠮᡝᠮᡠ	ᡝᠮᡝᠮᡠ	PRON	_	PronType=Ind	20	nsubj	_	Translit=ememu
-17-18	ᠰᠠᡥᠠᠯᡞᠶᠠᠨ ᡠᠯᠠ	_	_	_	_	_	_	_	_
 17	ᠰᠠᡥᠠᠯᡞᠶᠠᠨ	ᠰᠠᡥᠠᠯᡞᠶᠠᠨ	ADJ	_	_	18	amod	_	Translit=sahaliyan
 18	ᡠᠯᠠ	ᡠᠯᠠ	NOUN	_	_	20	obl	_	Translit=ula
 19	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Abl	18	case	_	Translit=deri
@@ -5050,7 +5047,6 @@
 26	ᡪᡞᡥᡝᠪᡞ	ᡪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	9	conj	_	Translit=jihebi
 27	,	,	PUNCT	_	_	26	punct	_	Translit=,
 28	ᡝᠮᡝᠮᡠ	ᡝᠮᡝᠮᡠ	PRON	_	PronType=Ind	33	nsubj	_	Translit=ememu
-29-30	ᡥᡝ ᠨᠠᠨ	_	_	_	_	_	_	_	_
 29	ᡥᡝ	ᡥᡝ	X	_	_	31	nmod	_	Translit=he
 30	ᠨᠠᠨ	ᠨᠠᠨ	X	_	_	29	flat	_	Translit=nan
 31	ᡤᠣᠯᠣ	ᡤᠣᠯᠣ	NOUN	_	_	33	obl	_	Translit=golo
@@ -5694,7 +5690,6 @@
 6	,	,	PUNCT	_	_	4	punct	_	Translit=,
 7	ᡧᠠᠶᠠᠨ	ᡧᠠᠶᠠᠨ	PROPN	_	_	8	nmod	_	Translit=šayan
 8	ᡥᠠᡩᠠ	ᡥᠠᡩᠠ	NOUN	_	_	9	nsubj	_	Translit=hada
-9-10	ᠴᠣᡥᠣᠷ ᠪᡥᠠᠷ	_	_	_	_	_	_	_	_
 9	ᠴᠣᡥᠣᠷ	ᠴᠣᡥᠣᠷ	X	_	_	4	conj	_	Translit=cohor
 10	ᠪᡥᠠᠷ	ᠪᡥᠠᠷ	X	_	_	9	flat	_	Translit=bahar
 11	。	。	PUNCT	_	_	9	punct	_	Translit=.
@@ -6110,7 +6105,6 @@
 # text = ᡥᠣ ᡨᡞᠶᠠᠨ ᡤᡠ ᠣᠴᡞ , ᡤᡠ ᡞ ᡩᠣᠷᡤᡞ ᡞ ᡧᡠᠸᡝ ᠰᠠᡞᠨᡞᡢᡤᡝ 。
 # text[phon] = ho tiyan gu oci, gu i dorgi i šuwe sainingge.
 # text[eng] = Hetian jade is the top grade among all jades.
-1-2	ᡥᠣ ᡨᡞᠶᠠᠨ	_	_	_	_	_	_	_	_
 1	ᡥᠣ	ᡥᠣ	X	_	_	3	nmod	_	Translit=ho
 2	ᡨᡞᠶᠠᠨ	ᡨᡞᠶᠠᠨ	X	_	_	1	flat	_	Translit=tiyan
 3	ᡤᡠ	ᡤᡠ	NOUN	_	_	11	nsubj	_	Translit=gu
@@ -6156,7 +6150,6 @@
 2	ᡨᠠᠷᠠ	ᡨᠠᠷᠠ	NOUN	_	_	3	nmod	_	Translit=tara
 3	ᡩᡝᡠ	ᡩᡝᡠ	NOUN	_	_	8	nsubj	_	Translit=deo
 4	ᡤᡡᠨᡞᡥᠠᡣᡡ	ᡤᡡᠨᡞᠮᠪᡞ	VERB	_	Aspect=Perf|Polarity=Neg|VerbForm=Part	7	acl:relcl	_	Translit=gvnihakv
-5-6	ᠠᡞ ᡪᡝᡢ	_	_	_	_	_	_	_	_
 5	ᠠᡞ	ᠠᡞ	NOUN	_	_	7	nmod	_	Translit=ai
 6	ᡪᡝᡢ	ᡪᡝᡢ	X	_	_	5	flat	_	Translit=jeng
 7	ᠨᡞᠮᡝᡣᡠ	ᠨᡞᠮᡝᡣᡠ	NOUN	_	_	8	obj	_	Translit=nimeku
@@ -6233,11 +6226,9 @@
 1	ᡨᡝᠷᡝᡞ	ᡨᡝᠷᡝ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	2	nmod:poss	_	Translit=terei
 2	ᠰᠠᠷᡤᠠᠨ	ᠰᠠᠷᡤᠠᠨ	NOUN	_	_	8	nsubj	_	Translit=sargan
 3	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	4	nummod	_	Translit=emu
-4-5	ᡤᡠᡢ ᠰᡝ	_	_	_	_	_	_	_	_
 4	ᡤᡠᡢ	ᡤᡠᡢ	X	_	_	7	nmod	_	Translit=gung
 5	ᠰᡝ	ᠰᡝ	X	_	_	4	flat	_	Translit=se
 6	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
-7-8	ᡪᡞᡢ ᠯᡞ	_	_	_	_	_	_	_	_
 7	ᡪᡞᡢ	ᡪᡞᡢ	X	_	_	9	xcomp	_	Translit=jing
 8	ᠯᡞ	ᠯᡞ	X	_	_	7	flat	_	Translit=li
 9	ᠣᡥᠣᠪᡞ	ᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=ohobi
@@ -6582,7 +6573,6 @@
 # text = ᡪᡠᡢᡤᡠᡢ ᡪᡠᡢᠶᠠᡢ ᡯᡠᡢ ᡧᡠᡪᡞ ᡥᡡᡪᡞᠨᡨᠣᡠ ᡨᡠᡢᡷᡞ ᡞᠴᡝ ᠠᠨᡞᠶᠠ ᡩᡝ ᡤᡠᠸᠠᡢ ᠰᡞ ᡩᡝ ᡤᡝᠨᡝᡫᡞ , ᡪᡠᡥᡝ ᠨᡞᠮᠠᡢᡤᡞ ᡤᡝᠴᡝᠨ ᡤᡝᠴᡠᡥᡠᠨ ᡤᠠᠰᡥᠠᠨ ᡞ ᡝᠮᡤᡞ ᡨᡝᠮᡧᡝᠨᡩᡠᠮᡝ ᡞᠯᡞᡥᠠ ᠨᡞᠶᠠᠯᠮᠠ ᡞᠷᡤᡝᠨ ᡞ ᠰᠠᠰᠠ ᠠᠨᡞᠶᠠ ᡩᡠᠯᡝᠪᡠᡥᡝᠪᡞ 。
 # text[phon] = junggung jungyang zung šuji hvjintoo tungjy ice aniya de guwang si de genefi, juhe nimanggi gecen gecuhun gashan i emgi temšendume iliha niyalma irgen i sasa aniya dulebuhebi.
 # text[eng] = General secretary of the CPC central committee Hu Jintao went to Guangxi during the new year and spent the spring festival with people who fought with the frost disaster.
-1-4	ᡪᡠᡢᡤᡠᡢ ᡪᡠᡢᠶᠠᡢ ᡯᡠᡢ ᡧᡠᡪᡞ	_	_	_	_	_	_	_	_
 1	ᡪᡠᡢᡤᡠᡢ	ᡪᡠᡢᡤᡠᡢ	PROPN	_	_	2	compound	_	Translit=junggung
 2	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	4	compound	_	Translit=jungyang
 3	ᡯᡠᡢ	ᡯᡠᡢ	ADJ	_	_	4	amod	_	Translit=zung
@@ -6592,7 +6582,6 @@
 7	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	8	amod	_	Translit=ice
 8	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	13	obl	_	Translit=aniya
 9	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	8	case	_	Translit=de
-10-11	ᡤᡠᠸᠠᡢ ᠰᡞ	_	_	_	_	_	_	_	_
 10	ᡤᡠᠸᠠᡢ	ᡤᡠᠸᠠᡢ	X	_	_	13	obl	_	Translit=guwang
 11	ᠰᡞ	ᠰᡞ	X	_	_	10	flat	_	Translit=si
 12	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	10	case	_	Translit=de
@@ -6857,7 +6846,6 @@
 # text[eng] = This is the second batch among the 1000 soldiers who were selected from areas near Mukden and set off to defend the Ili border under the decree of the Qianlong Emperor.
 1	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	37	nsubj	_	Translit=ere
 2	ᠣᠴᡞ	ᠣᠴᡞ	AUX	_	_	1	cop	_	Translit=oci
-3-4	ᠠᠪᡣᠠᡞ ᠸᡝᡥᡞᠶᡝᡥᡝ	_	_	_	_	_	_	_	_
 3	ᠠᠪᡣᠠᡞ	ᠠᠪᡣᠠᡞ	NOUN	_	_	5	nmod	_	Translit=abkai
 4	ᠸᡝᡥᡞᠶᡝᡥᡝ	ᠸᡝᡥᡞᠶᡝᡥᡝ	PROPN	_	_	3	flat	_	Translit=wehiyehe
 5	ᡝᡪᡝᠨ	ᡝᡪᡝᠨ	NOUN	_	_	7	nmod	_	Translit=ejen
@@ -6922,7 +6910,6 @@
 # text[phon] = "bai cio en daifu" sere helmefin be tuwahala urse, acinggiyaburakvngge akv.
 # text[eng] = All who have watched the movie Doctor Bethune get moved.
 1	"	"	PUNCT	_	_	5	punct	_	Translit="
-2-4	ᠪᠠᡞ ᠴᡞᡠ ᡝᠨ	_	_	_	_	_	_	_	_
 2	ᠪᠠᡞ	ᠪᠠᡞ	X	_	_	5	nmod	_	Translit=bai
 3	ᠴᡞᡠ	ᠴᡞᡠ	X	_	_	2	flat:name	_	Translit=cio
 4	ᡝᠨ	ᡝᠨ	X	_	_	3	flat:name	_	Translit=en
@@ -7001,7 +6988,6 @@
 # text[eng] = How to go to Cabcal Xibe autonomous county from Ining?
 1	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	7	obl	_	Translit=cabcal
 2	ᠰᡞᠪᡝ	ᠰᡞᠪᡝ	PROPN	_	_	5	nmod	_	Translit=sibe
-3-5	ᠪᡝᠶᡝ ᡩᠠᠰᠠᡢᡤᠠ ᠰᡞᠶᠠᠨ	_	_	_	_	_	_	_	_
 3	ᠪᡝᠶᡝ	ᠪᡝᠶᡝ	PRON	_	Reflex=Yes	4	amod	_	Translit=beye
 4	ᡩᠠᠰᠠᡢᡤᠠ	ᡩᠠᠰᠠᡢᡤᠠ	NOUN	_	_	5	nmod	_	Translit=dasangga
 5	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	1	appos	_	Translit=siyan
@@ -7786,7 +7772,6 @@
 # text[phon] = damu jung hvwa i udu minggan aniyaci ulabume jihe fulu sain šu wen be sirame algimbure ohode, ice erin jalan i šu genggiyen jai šu wen be teni ilibume arame mutembi.
 # text[eng] = Only by inheriting and carrying forward the excellent culture passed on by the Chinese people for thousands of years can we construct the civilisation and the culture in new era.
 1	ᡩᠠᠮᡠ	ᡩᠠᠮᡠ	ADV	_	_	16	advmod	_	Translit=damu
-2-3	ᡪᡠᡢ ᡥᡡᠸᠠ	_	_	_	_	_	_	_	_
 2	ᡪᡠᡢ	ᡪᡠᡢ	X	_	_	13	nmod	_	Translit=jung
 3	ᡥᡡᠸᠠ	ᡥᡡᠸᠠ	X	_	_	2	flat	_	Translit=hvwa
 4	ᡞ	ᡞ	ADP	_	Case=Gen	2	case	_	Translit=i
@@ -7949,7 +7934,6 @@
 24	ᠠᡣᡡᠮᠪᡠᠮᠪᡞ	ᠠᡣᡡᠮᠪᡠᠮᠪᡞ	VERB	_	Tense=Pres|VerbForm=Fin|Voice=Cau	25	ccomp	_	Translit=akvmbumbi
 25	ᠰᡝᠷᡝᡢᡤᡝ	ᠰᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	32	acl	_	Translit=serengge
 26	,	,	PUNCT	_	_	25	punct	_	Translit=,
-27-28	ᡪᡠᡢ ᡥᡡᠸᠠ	_	_	_	_	_	_	_	_
 27	ᡪᡠᡢ	ᡪᡠᡢ	X	_	_	29	nmod	_	Translit=jung
 28	ᡥᡡᠸᠠ	ᡥᡡᠸᠠ	X	_	_	27	flat	_	Translit=hvwa
 29	ᡠᡣᠰᡠᠷᠠᡞ	ᡠᡣᠰᡠᠷᠠ	NOUN	_	Case=Gen	32	nmod	_	Translit=uksurai
@@ -8819,7 +8803,6 @@
 # text[eng] = Business leaders in Cabcal county said that they will participate in this event through various forms.
 1	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	2	compound	_	Translit=cabcal
 2	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	3	nmod	_	Translit=siyan
-3-4	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 3	ᠴᡞ	ᠴᡞ	X	_	_	5	nmod	_	Translit=ci
 4	ᠶᡝ	ᠶᡝ	X	_	_	3	flat	_	Translit=ye
 5	ᡨᡠᡧᠠᠨᡠᠰᡞ	ᡨᡠᡧᠠᠨᡠᠰᡞ	NOUN	_	_	9	nsubj	_	Translit=tušanusi
@@ -9893,7 +9876,6 @@
 # text = ᠪᠠᠷᡥᠠ ᡧᡝᠷᡞ ᡨᠣᡣᠰᠣᡞ ᡩᠠᡢ ᡲᡞᠪᡠ ᡠᡪᡠᡞ ᡧᡠᡪᡞ ᠸᡝᠨ ᡩᡠᡢ ᡤᡞᠰᡠᠷᡝᠮᡝ ︐ ᡝᠷᡝ ᡪᡞᡢᡣᡞᠨᡞ ᡝᠮᡠ ᡫᠠᠯᡤᠠ ᡥᡡᠰᡠᠨ ᡣᡝᠮᡠᠨ ᡞ᠋ ᠮᡝᡣᡨᡝᠨ ︐ ᡧᡠᠸᡝ ᡧᠣᡧᠣᡥᠣᠨ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᠮᡝᡣᡨᡝᠷᡝᡢᡤᡝ ᡤᡝᠮᡠ ᠨᡞᠶᠠᠨᠴᠠᠨ ᡥᡡᠰᡠᠨ ︐ ᠮᡝᠨᡞ ᡨᠣᡣᠰᠣᡞ ᡞᠷᡤᡝᠨ ᡝᠷᡝ ᠮᡠᡩᠠᠨ ᠠᡧᡧᠠᠨ ᠪᡝ ᡩᡠᠯᡝᠪᡠᡫᡞ ᠪᠠᡣᡪᠠᠮᡝ ᡞᠰᠠᠷᠠ ᡥᡡᠰᡠᠨ ᡝᠯᡝ ᡝᡨᡠᡥᡠᠨ ᠣᡥᠣᠪᡞ ︒
 # text[trans] = barha šeri toksoi dang jybu ujui šuji wen dung gisureme , ere jingkini emu falga hvsun kemun i mekten , šuwe šošohon de geneme mekterengge gemu niyancan hvsun , meni toksoi irgen ere muden aššan be dulebufi bakjame isara hvsun ele etuhun ohobi .
 # text[eng] = The first secretary of the party branch of Berkhasheri Village Wen Dong said, this is really an all-out game, but also all the patience in participating in the competition, our villagers have become more conhesive through this activity.
-1-2	ᠪᠠᠷᡥᠠ ᡧᡝᠷᡞ	_	_	_	_	_	_	_	_
 1	ᠪᠠᠷᡥᠠ	ᠪᠠᠷᡥᠠ	PROPN	_	_	3	compound	_	Translit=barha
 2	ᡧᡝᠷᡞ	ᡧᡝᠷᡞ	PROPN	_	_	1	flat:name	_	Translit=šeri
 3	ᡨᠣᡣᠰᠣᡞ	ᡨᠣᡣᠰᠣ	NOUN	_	_	7	nmod	_	Translit=toksoi
@@ -10226,7 +10208,6 @@
 # text[trans] = toksoi wei yuwan hvi dorgi de niyalmai uju burgašame , umesi wenjehun simengge , geren uksura ciyunjung gemu embade acafi urgulehebi .
 # text[eng] = The town committee was crowded with people, very lively, the people of all nationalities gathered to celebrate together.
 1	ᡨᠣᡣᠰᠣᡞ	ᡨᠣᡣᠰᠣ	NOUN	_	Case=Gen	2	nmod	_	Translit=toksoi
-2-4	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 2	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	5	nmod	_	Translit=wei
 3	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	2	flat	_	Translit=yuwan
 4	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	3	flat	_	Translit=hvi
@@ -10387,7 +10368,6 @@
 # text[trans] = < tai wan emu hefelinggv de ulhibure bithe > be selgiyehe 40 baruniya be ejetulere isan be beijing de ujen jiramin i yabubuha
 # text[eng] = The 40th Anniversary of Issuing Message to Compatriots in Taiwan was held in Beijing
 1	︽	︽	PUNCT	_	_	8	punct	_	Translit=<
-2-3	ᡨᠠᡞ ᠸᠠᠨ	_	_	_	_	_	_	_	_
 2	ᡨᠠᡞ	ᡨᠠᡞ	PROPN	_	_	5	nmod	_	Translit=tai
 3	ᠸᠠᠨ	ᠸᠠᠨ	PROPN	_	_	2	flat	_	Translit=wan
 4	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	_	5	compound	_	Translit=emu
@@ -10431,7 +10411,6 @@
 # text[trans] = < tai wan emu hefelinggv de ulhibure bithe > be selgiyehe 40 baruniya be ejetulere isan be 1 biyai ice 2 de niyalma irgen amba isan tanggin de ujen jiramin i yabubuha .
 # text[eng] = The 40th Anniversary of Issuing Message to Compatriots in Taiwan was held ceremoniously in the Great Hall of the People on January 2.
 1	︽	︽	PUNCT	_	_	8	punct	_	Translit=<
-2-3	ᡨᠠᡞ ᠸᠠᠨ	_	_	_	_	_	_	_	_
 2	ᡨᠠᡞ	ᡨᠠᡞ	PROPN	_	_	5	nmod	_	Translit=tai
 3	ᠸᠠᠨ	ᠸᠠᠨ	PROPN	_	_	2	flat	_	Translit=wan
 4	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	_	5	compound	_	Translit=emu
@@ -10480,7 +10459,6 @@
 9	︑	︑	PUNCT	_	_	8	punct	_	Translit=,
 10	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	12	nmod	_	Translit=jungyang
 11	ᠴᠣᠣᡥᠠᡞ	ᠴᠣᠣᡥᠠ	NOUN	_	Case=Gen	12	nmod	_	Translit=coohai
-12-14	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 12	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	15	nmod	_	Translit=wei
 13	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	12	flat	_	Translit=yuwan
 14	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	13	flat	_	Translit=hvi
@@ -10506,7 +10484,6 @@
 34	︐	︐	PUNCT	_	_	33	punct	_	Translit=,
 35	ᠣᠨᠴᠣ	ᠣᠨᠴᠣ	ADJ	_	_	40	amod	_	Translit=onco
 36	ᡝᠯᡤᡞᠶᡝᠨ	ᡝᠯᡤᡞᠶᡝᠨ	ADJ	_	_	35	compound	_	Translit=elgiyen
-37-38	ᡨᠠᡞ ᠸᠠᠨ	_	_	_	_	_	_	_	_
 37	ᡨᠠᡞ	ᡨᠠᡞ	PROPN	_	_	40	nmod	_	Translit=tai
 38	ᠸᠠᠨ	ᠸᠠᠨ	PROPN	_	_	37	flat	_	Translit=wan
 39	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	_	40	compound	_	Translit=emu
@@ -10644,7 +10621,6 @@
 2	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	4	nmod	_	Translit=jungyang
 3	ᡪᡝᡢᡲᡞ	ᡪᡝᡢᡲᡞ	NOUN	_	_	4	nmod	_	Translit=jengjy
 4	ᡪᡞᠣᡞ	ᡪᡞᠣᡞ	NOUN	_	_	5	nmod	_	Translit=jioi
-5-6	ᠴᠠᡢ ᠸᡝᡞ	_	_	_	_	_	_	_	_
 5	ᠴᠠᡢ	ᠴᠠᡢ	X	_	_	24	nsubj	_	Translit=cang
 6	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	5	flat	_	Translit=wei
 7	︑	︑	PUNCT	_	_	5	punct	_	Translit=,
@@ -10652,11 +10628,9 @@
 9	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	10	nmod	_	Translit=gurun
 10	ᡰᡝᠨᡩᠠ	ᡰᡝᠨᡩᠠ	NOUN	_	_	12	nmod	_	Translit=zenda
 11	ᡨᠣᡣᡨᠣᡥᠣ	ᡨᠣᡣᡨᠣᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	12	acl	_	Translit=toktoho
-12-14	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 12	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	17	nmod	_	Translit=wei
 13	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	12	flat	_	Translit=yuwan
 14	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	13	flat	_	Translit=hvi
-15-17	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡪᠠᡢ	_	_	_	_	_	_	_	_
 15	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	17	nmod	_	Translit=wei
 16	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	15	flat	_	Translit=yuwan
 17	ᡪᠠᡢ	ᡪᠠᡢ	NOUN	_	_	5	conj	_	Translit=jang
@@ -10677,7 +10651,6 @@
 2	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	4	nmod	_	Translit=jungyang
 3	ᡪᡝᡢᡲᡞ	ᡪᡝᡢᡲᡞ	NOUN	_	_	4	nmod	_	Translit=jengjy
 4	ᡪᡞᠣᡞ	ᡪᡞᠣᡞ	NOUN	_	_	5	nmod	_	Translit=jioi
-5-6	ᠴᠠᡢ ᠸᡝᡞ	_	_	_	_	_	_	_	_
 5	ᠴᠠᡢ	ᠴᠠᡢ	X	_	_	16	nsubj	_	Translit=cang
 6	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	5	flat	_	Translit=wei
 7	︑	︑	PUNCT	_	_	5	punct	_	Translit=,
@@ -11100,7 +11073,6 @@
 35	︐	︐	PUNCT	_	_	34	punct	_	Translit=,
 36	ᡩᠠᠮᡠ	ᡩᠠᠮᡠ	ADV	_	_	56	advmod	_	Translit=damu
 37	ᠶᠠᡪᡝᠣ	ᠶᠠᡪᡝᠣ	NOUN	_	_	38	nmod	_	Translit=yajeo
-38-40	ᡨᠠᡞ ᡦᡞᡢ ᠶᠠᡢ	_	_	_	_	_	_	_	_
 38	ᡨᠠᡞ	ᡨᠠᡞ	X	_	_	41	nmod	_	Translit=tai
 39	ᡦᡞᡢ	ᡦᡞᡢ	X	_	_	38	flat	_	Translit=ping
 40	ᠶᠠᡢ	ᠶᠠᡢ	X	_	_	39	flat	_	Translit=yang
@@ -11265,7 +11237,6 @@
 9	ᠯᠠᠪᡩᡠ	ᠯᠠᠪᡩᡠ	ADJ	_	_	11	amod	_	Translit=labdu
 10	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	9	conj	_	Translit=sain
 11	ᡫᡝᡨᡝᠰᡠᡢᡤᡝ	ᡫᡝᡨᡝᠰᡠ	NOUN	_	_	12	nmod	_	Translit=fetesungge
-12-13	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 12	ᠴᡞ	ᠴᡞ	X	_	_	15	obj	_	Translit=ci
 13	ᠶᡝ	ᠶᡝ	X	_	_	12	fixed	_	Translit=ye
 14	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	12	case	_	Translit=be
@@ -11394,7 +11365,6 @@
 31	ᡞ᠋	ᡞ᠋	ADP	_	_	30	case	_	Translit=i
 32	ᡥᠣᡨᠣᠨ	ᡥᠣᡨᠣᠨ	NOUN	_	_	34	nmod	_	Translit=hoton
 33	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	32	compound	_	Translit=falga
-34-35	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 34	ᠴᡞ	ᠴᡞ	X	_	_	38	obj	_	Translit=ci
 35	ᠶᡝ	ᠶᡝ	X	_	_	34	fixed	_	Translit=ye
 36	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	34	case	_	Translit=be
@@ -11431,7 +11401,6 @@
 18	ᡫᠣᠷᠣᠮᡝ	ᡫᠣᠷᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	20	advcl	_	Translit=forome
 19	ᡝᡨᡠᡣᡠ	ᡝᡨᡠᡣᡠ	NOUN	_	_	20	obj	_	Translit=etuku
 20	ᠠᠷᠠᠷᠠ	ᠠᠷᠠᠷᠠ	VERB	_	Aspect=Imp|VerbForm=Part	21	acl:relcl	_	Translit=arara
-21-22	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 21	ᠴᡞ	ᠴᡞ	X	_	_	23	nsubj	_	Translit=ci
 22	ᠶᡝ	ᠶᡝ	X	_	_	21	fixed	_	Translit=ye
 23	4	4	NUM	_	NumType=Card	32	obj	_	Translit=4
@@ -11472,10 +11441,8 @@
 17	ᡩᠣᠰᡞᠪᡠᠷᡝ	ᡩᠣᠰᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part|Voice=Cau	19	obj	_	Translit=dosibure
 18	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	17	case	_	Translit=be
 19	ᡩᡠᠯᡝᠪᡠᡫᡞ	ᡩᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv|Voice=Cau	33	advcl	_	Translit=dulebufi
-20-21	ᡥᡝ ᠪᡝᡞ	_	_	_	_	_	_	_	_
 20	ᡥᡝ	ᡥᡝ	X	_	_	26	obl:lmod	_	Translit=he
 21	ᠪᡝᡞ	ᠪᡝᡞ	X	_	_	20	flat	_	Translit=bei
-22-23	ᠪᠣᠣ ᡩᡞᡢ	_	_	_	_	_	_	_	_
 22	ᠪᠣᠣ	ᠪᠣᠣ	X	_	_	20	flat	_	Translit=boo
 23	ᡩᡞᡢ	ᡩᡞᡢ	X	_	_	22	flat	_	Translit=ding
 24	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Abl	20	case	_	Translit=deri
@@ -11483,7 +11450,6 @@
 26	ᡫᡠᡥᠠᡧᠠᠮᡝ	ᡫᡠᡥᠠᡧᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	33	advcl	_	Translit=fuhašame
 27	︑	︑	PUNCT	_	_	26	punct	_	Translit=,
 28	ᡨᡠᠴᡞᠪᡠᠮᡝ	ᡨᡠᠴᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	26	conj	_	Translit=tucibume
-29-30	ᡧᡝᠣ ᡨᠣᠣ	_	_	_	_	_	_	_	_
 29	ᡧᡝᠣ	ᡧᡝᠣ	NOUN	_	_	33	obj	_	Translit=šeo
 30	ᡨᠣᠣ	ᡨᠣᠣ	X	_	_	29	compound	_	Translit=too
 31	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	29	case	_	Translit=be
@@ -11551,17 +11517,14 @@
 41	︐	︑	PUNCT	_	_	40	punct	_	Translit=,
 42	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	48	nummod	_	Translit=emu
 43	ᡨᠠᡞ	ᡨᠠᡞ	NOUN	_	_	42	clf	_	Translit=tai
-44-45	ᡪᡞᠨ ᡧᡠ	_	_	_	_	_	_	_	_
 44	ᡪᡞᠨ	ᡪᡞᠨ	NOUN	_	_	48	nmod	_	Translit=jin
 45	ᡧᡠ	ᡧᡠ	X	_	_	44	flat	_	Translit=šu
-46-47	ᠶᠠᠨ ᡪᡝᠨ	_	_	_	_	_	_	_	_
 46	ᠶᠠᠨ	ᠶᠠᠨ	X	_	_	48	nmod	_	Translit=yan
 47	ᡪᡝᠨ	ᡪᡝᠨ	NOUN	_	_	46	flat	_	Translit=jen
 48	ᡧᡠᡢᡤᡞᡨᡠᠨ	ᡧᡠᡢᡤᡠᡨᡠᠨ	NOUN	_	_	15	conj	_	Translit=šunggitun
 49	︐	︐	PUNCT	_	_	48	punct	_	Translit=,
 50	5	5	NUM	_	NumType=Card	54	nummod	_	Translit=5
 51	ᡨᠠᡞ	ᡨᠠᡞ	NOUN	_	_	50	clf	_	Translit=tai
-52-53	ᡦᠣᠣ ᡤᠣᠸᠠᡢ	_	_	_	_	_	_	_	_
 52	ᡦᠣᠣ	ᡦᠣᠣ	X	_	_	54	nmod	_	Translit=poo
 53	ᡤᠣᠸᠠᡢ	ᡤᠣᠸᠠᡢ	NOUN	_	_	52	flat	_	Translit=gowang
 54	ᡧᡠᡢᡤᡞᡨᡠᠨ	ᡧᡠᡢᡤᡞᡨᡠᠨ	NOUN	_	_	15	conj	_	Translit=šunggitun
@@ -11570,7 +11533,6 @@
 57	ᠶᠠᠰᠠᡞ	ᠶᠠᠰᠠ	NOUN	_	Case=Gen	58	nmod	_	Translit=yasai
 58	ᡪᡠᠯᡝᠷᡞ	ᡪᡠᠯᡝᠷᡞ	NOUN	_	_	75	obl:tmod	_	Translit=juleri
 59	ᡩᡝ	ᡩᡝ	ADP	_	Case=Acc	58	case	_	Translit=de
-60-61	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 60	ᠴᡞ	ᠴᡞ	X	_	_	75	nsubj	_	Translit=ci
 61	ᠶᡝ	ᠶᡝ	X	_	_	60	flat	_	Translit=ye
 62	ᡝᠮᡤᡝᠷᡞ	ᡝᠮᡤᡝᠷᡞ	ADV	_	_	64	advmod	_	Translit=emgeri
@@ -12195,7 +12157,6 @@
 8	ᡬᠠᠮᠪᡠ	ᡬᠠᠮᠪᡠ	NOUN	_	_	35	obj	_	Translit=cgambu
 9	︑	︑	PUNCT	_	_	8	punct	_	Translit=,
 10	5	5	NUM	_	NumType=Card	12	nummod	_	Translit=5
-11-12	ᡩᠠᡢ ᠶᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 11	ᡩᠠᡢ	ᡩᠠᡢ	NOUN	_	_	12	compound	_	Translit=dang
 12	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	8	conj	_	Translit=yuwan
 13	︑	︑	PUNCT	_	_	12	punct	_	Translit=,
@@ -12358,7 +12319,6 @@
 10	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	11	cc	_	Translit=jai
 11	ᠮᡝᡩᡝᡤᡝ	ᠮᡝᡩᡝᡤᡝ	NOUN	_	_	8	conj	_	Translit=medege
 12	ᡩᡠᠷᡠᡢᡤᡝ	ᡩᡠᠷᡠᡢᡤᡝ	NOUN	_	_	11	compound	_	Translit=durungge
-13-15	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 13	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	16	nmod	_	Translit=wei
 14	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	13	flat	_	Translit=yuwan
 15	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	14	flat	_	Translit=hvi
@@ -12391,7 +12351,6 @@
 18	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	19	cc	_	Translit=jai
 19	ᠮᡝᡩᡝᡤᡝ	ᠮᡝᡩᡝᡤᡝ	NOUN	_	_	16	conj	_	Translit=medege
 20	ᡩᡠᠷᡠᡢᡤᡝ	ᡩᡠᠷᡠᡢᡤᡝ	NOUN	_	_	19	compound	_	Translit=durungge
-21-23	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 21	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	24	nmod	_	Translit=wei
 22	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	21	flat	_	Translit=yuwan
 23	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	22	flat	_	Translit=hvi
@@ -12408,7 +12367,6 @@
 34	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	35	cc	_	Translit=jai
 35	ᠮᡝᡩᡝᡤᡝ	ᠮᡝᡩᡝᡤᡝ	NOUN	_	_	32	conj	_	Translit=medege
 36	ᡩᡠᠷᡠᡢᡤᡝ	ᡩᡠᠷᡠᡢᡤᡝ	NOUN	_	_	35	compound	_	Translit=durungge
-37-39	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 37	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	40	nmod	_	Translit=wei
 38	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	37	flat	_	Translit=yuwan
 39	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	38	flat	_	Translit=hvi
@@ -12727,7 +12685,6 @@
 31	ᡪᡝᠨ	ᡪᡝᠨ	PROPN	_	_	30	flat:name	_	Translit=jen
 32	ᡝᡨᡠᡣᡠ	ᡝᡨᡠᡣᡠ	NOUN	_	_	35	nmod	_	Translit=etuku
 33	ᠠᡩᡠ	ᠠᡩᡠ	NOUN	_	_	32	compound	_	Translit=adu
-34-35	ᡞᠣ ᠰᡞᠶᠠᠨ	_	_	_	_	_	_	_	_
 34	ᡞᠣ	ᡞᠣ	X	_	_	36	amod	_	Translit=io
 35	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	X	_	_	34	flat	_	Translit=siyan
 36	ᡤᡠᡢᠰᡟ	ᡤᡠᡢᠰᡟ	NOUN	_	_	39	nmod	_	Translit=gungsy
@@ -12804,7 +12761,6 @@
 26	ᡯᡞᡲᡞᠴᡞᠣᡞ	ᡯᡞᡲᡞᠴᡞᠣᡞ	NOUN	_	_	28	nsubj	_	Translit=dzijycioi
 27	ᡨᡝᠨ	ᡨᡝᠨ	NOUN	_	_	28	obj	_	Translit=ten
 28	ᡝᠯᡪᡝᠷᡝ	ᡝᠯᡪᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Vnoun	29	acl	_	Translit=eljere
-29-30	ᡨᡞᠶᠣᠣ ᠯᡞ	_	_	_	_	_	_	_	_
 29	ᡨᡞᠶᠣᠣ	ᡨᡞᠶᠣᠣ	NOUN	_	_	34	obj	_	Translit=tiyoo
 30	ᠯᡞ	ᠯᡞ	NOUN	_	_	29	compound	_	Translit=li
 31	︾	︾	PUNCT	_	_	29	punct	_	Translit=>
@@ -12836,7 +12792,6 @@
 57	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	56	case	_	Translit=be
 58	ᠯᡝᠣᠯᡝᠴᡝᠮᡝ	ᠯᡝᠣᠯᡝᠴᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	69	advcl	_	Translit=leoleceme
 59	︐	︐	PUNCT	_	_	58	punct	_	Translit=,
-60-61	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 60	ᠴᡞ	ᠴᡞ	X	_	_	62	nmod	_	Translit=ci
 61	ᠶᡝ	ᠶᡝ	X	_	_	60	flat	_	Translit=ye
 62	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	NOUN	_	_	69	nsubj	_	Translit=weilerasi
@@ -12895,7 +12850,6 @@
 40	ᡥᡝᡥᡝ	ᡥᡝᡥᡝ	NOUN	_	_	36	conj	_	Translit=hehe
 41	ᠪᠠᠨᡞᡢᡤᡝ	ᠪᠠᠨᡞᡢᡤᡝ	PART	_	_	40	compound	_	Translit=baningge
 42	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Abl	36	case	_	Translit=deri
-43-44	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 43	ᠴᡞ	ᠴᡞ	X	_	_	45	nmod	_	Translit=ci
 44	ᠶᡝ	ᠶᡝ	X	_	_	43	flat	_	Translit=ye
 45	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	NOUN	_	_	48	obl	_	Translit=weilerasi
@@ -12995,7 +12949,6 @@
 22	ᡩᡠᠷᡠᡢᡤᡝ	ᡩᡠᠷᡠᡢᡤᡝ	NOUN	_	_	24	obl	_	Translit=durungge
 23	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	22	case	_	Translit=de
 24	ᡝᠯᡪᡝᠷᡝ	ᡝᠯᡪᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	25	acl	_	Translit=eljere
-25-26	ᡨᡞᠶᠣᠣ ᠯᡞ	_	_	_	_	_	_	_	_
 25	ᡨᡞᠶᠣᠣ	ᡨᡞᠶᠣᠣ	NOUN	_	_	29	obl	_	Translit=tiyoo
 26	ᠯᡞ	ᠯᡞ	NOUN	_	_	25	compound	_	Translit=li
 27	︾	︾	PUNCT	_	_	25	punct	_	Translit=>
@@ -13021,7 +12974,6 @@
 8	ᠠᡣᡝᠮᡞ	ᠠᡣᡝᠮᡞ	PROPN	_	_	14	nmod	_	Translit=akemi
 9	ᡝᡨᡠᡣᡠ	ᡝᡨᡠᡣᡠ	NOUN	_	_	14	nmod	_	Translit=etuku
 10	ᠠᡩᡠ	ᠠᡩᡠ	NOUN	_	_	9	compound	_	Translit=adu
-11-12	ᡞᠣ ᠰᡞᠶᠠᠨ	_	_	_	_	_	_	_	_
 11	ᡞᠣ	ᡞᠣ	X	_	_	13	amod	_	Translit=io
 12	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	X	_	_	11	flat	_	Translit=siyan
 13	ᡨᡠᡧᠠᠨᡠᠷᡝ	ᡨᡠᡧᠠᠨᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	14	acl	_	Translit=tušanure
@@ -13041,7 +12993,6 @@
 27	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	26	case	_	Translit=i
 28	ᡫᠣᠷᠣᠮᡝ	ᡫᠣᠷᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	29	advcl	_	Translit=forome
 29	ᡪᠣᡩᠣᠷᠣ	ᡪᠣᡩᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	30	acl	_	Translit=jodoro
-30-31	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 30	ᠴᡞ	ᠴᡞ	X	_	_	33	nmod	_	Translit=ci
 31	ᠶᡝ	ᠶᡝ	X	_	_	30	flat	_	Translit=ye
 32	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	30	case	_	Translit=i
@@ -13117,7 +13068,6 @@
 45	ᡫᡠᠨ	ᡫᡠᠨ	NOUN	_	Typo=Yes	44	compound	_	Translit=fon
 46	ᡫᡠᠯᡠ	ᡫᡠᠯᡠ	ADJ	_	_	50	amod	_	Translit=fulu
 47	ᠰᠠᡞᠨ	ᠰᠠᡞᠨ	ADJ	_	_	46	compound	_	Translit=sain
-48-49	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 48	ᠴᡞ	ᠴᡞ	X	_	_	50	nmod	_	Translit=ci
 49	ᠶᡝ	ᠶᡝ	X	_	_	48	flat	_	Translit=ye
 50	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	ᠸᡝᡞᠯᡝᠷᠠᠰᡞ	NOUN	_	_	51	xcomp	_	Translit=weilerasi
@@ -13291,7 +13241,6 @@
 2	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	4	nmod	_	Translit=jungyang
 3	ᡪᡝᡢᡲᡞ	ᡪᡝᡢᡲᡞ	NOUN	_	_	4	compound	_	Translit=jengjy
 4	ᡪᡞᠣᡞ	ᡪᡞᠣᡞ	NOUN	_	_	5	nmod	_	Translit=jioi
-5-6	ᠴᠠᡢ ᠸᡝᡞ	_	_	_	_	_	_	_	_
 5	ᠴᠠᡢ	ᠴᠠᡢ	X	_	_	19	nsubj	_	Translit=cang
 6	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	5	flat	_	Translit=wei
 7	︑	︑	PUNCT	_	_	5	punct	_	Translit=,
@@ -13545,7 +13494,6 @@
 2	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	4	nmod	_	Translit=jungyang
 3	ᡪᡝᡢᡲᡞ	ᡪᡝᡢᡲᡞ	NOUN	_	_	4	compound	_	Translit=jengjy
 4	ᡪᡞᠣᡞ	ᡪᡞᠣᡞ	NOUN	_	_	5	nmod	_	Translit=jioi
-5-6	ᠸᡝᡞ ᠶᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 5	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	23	nsubj	_	Translit=wei
 6	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	5	flat	_	Translit=yuwan
 7	︑	︑	PUNCT	_	_	5	punct	_	Translit=,
@@ -13640,7 +13588,6 @@
 2	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	4	nmod	_	Translit=jungyang
 3	ᡪᡝᡢᡲᡞ	ᡪᡝᡢᡲᡞ	NOUN	_	_	4	compound	_	Translit=jengjy
 4	ᡪᡞᠣᡞ	ᡪᡞᠣᡞ	NOUN	_	_	5	nmod	_	Translit=jioi
-5-6	ᠸᡝᡞ ᠶᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 5	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	33	nsubj	_	Translit=wei
 6	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	5	flat	_	Translit=yuwan
 7	︑	︑	PUNCT	_	_	5	punct	_	Translit=,
@@ -13656,11 +13603,9 @@
 17	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	19	nmod	_	Translit=jungyang
 18	ᡪᡝᡢᡲᡞ	ᡪᡝᡢᡲᡞ	NOUN	_	_	19	compound	_	Translit=jengjy
 19	ᡪᡞᠣᡞ	ᡪᡞᠣᡞ	NOUN	_	_	20	nmod	_	Translit=jioi
-20-21	ᠸᡝᡞ ᠶᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 20	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	5	conj	_	Translit=wei
 21	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	20	flat	_	Translit=yuwan
 22	︑	︑	PUNCT	_	_	20	punct	_	Translit=,
-23-25	ᡬᠣ ᡠ ᠶᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 23	ᡬᠣ	ᡬᠣ	NOUN	_	_	27	nmod	_	Translit=cgo
 24	ᡠ	ᡠ	X	_	_	23	flat	_	Translit=u
 25	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	24	flat	_	Translit=yuwan
@@ -14862,7 +14807,6 @@
 9	ᠴᡞᠶᠠᠨ	ᠴᡞᠶᠠᠨ	X	_	_	8	flat	_	Translit=ciyan
 10	ᠪᡝᠯᡝᡞ	ᠪᡝᠯᡝ	NOUN	_	Case=Gen	11	nmod	_	Translit=belei
 11	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	14	nmod	_	Translit=hethe
-12-13	ᡞᠣ ᠰᡞᠶᠠᠨ	_	_	_	_	_	_	_	_
 12	ᡞᠣ	ᡞᠣ	X	_	_	14	amod	_	Translit=io
 13	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	X	_	_	12	flat	_	Translit=siyan
 14	ᡤᡠᡢᠰᡟ	ᡤᡠᡢᠰᡟ	NOUN	_	_	68	nsubj	_	Translit=gungsy
@@ -14895,7 +14839,6 @@
 41	ᡝᠷᡤᡞ	ᡝᠷᡤᡞ	NOUN	_	_	43	obl	_	Translit=ergi
 42	ᡣᡞᠮᠴᡞᠮᡝ	ᡣᡞᠮᠴᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	43	advcl	_	Translit=kimcime
 43	ᡣᠠᡩᠠᠯᠠᠷᠠ	ᡣᠠᡩᠠᠯᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	46	acl	_	Translit=kadalara
-44-45	ᡞᠣ ᠰᡞᠶᠠᠨ	_	_	_	_	_	_	_	_
 44	ᡞᠣ	ᡞᠣ	X	_	_	46	amod	_	Translit=io
 45	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	X	_	_	44	flat	_	Translit=siyan
 46	ᡤᡠᡢᠰᡟ	ᡤᡠᡢᠰᡟ	NOUN	_	_	14	conj	_	Translit=gungsy
@@ -15025,7 +14968,6 @@
 6	ᡞᠰᠠᠨ	ᡞᠰᠠᠨ	NOUN	_	_	8	obl:lmod	_	Translit=isan
 7	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	6	case	_	Translit=de
 8	ᠠᡩᠠᠨᠠᡥᠠ	ᠠᡩᠠᠨᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	11	acl:relcl	_	Translit=adanaha
-9-10	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 9	ᠴᡞ	ᠴᡞ	X	_	_	11	nmod	_	Translit=ci
 10	ᠶᡝ	ᠶᡝ	X	_	_	9	flat	_	Translit=ye
 11	ᡫᡠᠨᡩᡝᠰᡞ	ᡫᡠᠨᡩᡝᠰᡞ	NOUN	_	_	39	nsubj	_	Translit=fundesi
@@ -15034,7 +14976,6 @@
 14	ᠴᡞᠶᠠᠨ	ᠴᡞᠶᠠᠨ	X	_	_	13	flat	_	Translit=ciyan
 15	ᠪᡝᠯᡝᡞ	ᠪᡝᠯᡝ	NOUN	_	Case=Gen	16	nmod	_	Translit=belei
 16	ᡥᡝᡨᡥᡝ	ᡥᡝᡨᡥᡝ	NOUN	_	_	19	nmod	_	Translit=hethe
-17-18	ᡞᠣ ᠰᡞᠶᠠᠨ	_	_	_	_	_	_	_	_
 17	ᡞᠣ	ᡞᠣ	X	_	_	19	amod	_	Translit=io
 18	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	X	_	_	17	flat	_	Translit=siyan
 19	ᡤᡠᡢᠰᡟ	ᡤᡠᡢᠰᡟ	NOUN	_	_	20	nmod	_	Translit=gungsy
@@ -15165,7 +15106,6 @@
 19	ᠶᠠᠷᡥᡡᡩᠠᠰᡞ	ᠶᠠᠷᡥᡡᡩᠠᠰᡞ	NOUN	_	_	9	conj	_	Translit=yarhvdasi
 20	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	24	cc	_	Translit=jai
 21	ᡤᡝᠷᡝᠨ	ᡤᡝᠷᡝᠨ	PRON	_	PronType=Tot	22	det	_	Translit=geren
-22-23	ᠴᡞ ᠶᡝ	_	_	_	_	_	_	_	_
 22	ᠴᡞ	ᠴᡞ	X	_	_	24	nmod	_	Translit=ci
 23	ᠶᡝ	ᠶᡝ	X	_	_	22	flat	_	Translit=ye
 24	ᡫᡠᠨᡩᡝᠰᡞ	ᡫᡠᠨᡩᡝᠰᡞ	NOUN	_	_	9	conj	_	Translit=fundesi
@@ -15288,7 +15228,6 @@
 15	ᡝᠷᡩᡝᡣᡝᠨ	ᡝᠷᡩᡝᡣᡝᠨ	ADJ	_	_	22	advmod	_	Translit=erdeken
 16	ᡞ᠋	ᡞ᠋	PART	_	_	15	mark:adv	_	Translit=i
 17	ᡨᠣᡣᠰᠣᡞ	ᡨᠣᡣᠰᠣ	NOUN	_	Case=Gen	18	nmod	_	Translit=toksoi
-18-20	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 18	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	22	obl:lmod	_	Translit=wei
 19	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	18	flat	_	Translit=yuwan
 20	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	19	flat	_	Translit=hvi
@@ -15356,19 +15295,16 @@
 # text = ᠯᠠ ᠪᠠ ᠰᠠᡞᡢᡤᡞ ᡩᡝ ᠯᠠ ᠪᠠ ᠪᡠᡩᠠ ᡪᡝᠮᡝ ︐ ᡤᡝᠯᡞ ᠯᠠ ᠪᠠ ᠰᡠᠸᠠᠨ ᡩᠠ ᡪᡝᠮᡝ ︐ ᠪᠣᠣ ᠪᡝ ᡤᡝᡨᡝᠷᡝᠪᡠᠮᡝ ︑ ᠮᠠᡫᠠᠷᡞ ᡩᡝ ᠸᡝᠴᡝᠮᡝ ᡩᠣᠪᠣᠮᡝ ︐ ᡪᡠᠷᡠ ᡤᡞᠰᡠᠨ ᡩᡝ ᠯᠠᠪᡩᡠ ᡤᡡᠨᡞᡤᠠᠨ ᠪᡞᠮᠪᡞ ︐ ᡪᡠᠷᡠ ᡤᡞᠰᡠᠨ ᠯᠠᡨᡠᠪᡠᠷᡝ ᡩᡝ ᡤᡝᠯᡞ ᡪᡞᠶᠠᡢᠨᠠᠨ ᠪᡞᠮᠪᡞ ︐ ᡞᠴᡝ ᠠᠨᡞᠶᠠᡞ ᠰᠠᡞᡢᡤᡞ ᡩᡝ ᠪᡞᠶᠠᠨ ᡦᠣᠣ ᠰᡞᠨᡩᠠᠷᠠ ᠰᡝᡣᡞᠶᡝᠨ ᡫᡠᠯᡝᡥᡝ ︐ ᠠᠨᡞᠶᠠᡞ ᠪᡞᠶᠠᡞ ᡨᠣᡫᠣᡥᠣᠨ ᡞᠯᡥᠠᡢᡤᠠ ᡩᡝᡢᡪᠠᠨ ᡩᠠᠪᡠᠷᡝ ᡨᠠᠴᡞᠨᡠᠨ ᡪᡝᠷᡤᡞ ᠪᡝ ᠨᡞᠷᡠᡤᠠᠨ ᡥᡝᠷᡤᡝᠨ ᡞ᠋ ᡪᡞᠶᠠᡢᠨᠠᠮᡝ ᠰᡠᠮᠪᡠᠮᡝ ᡤᡝᠷᡝᠨᠣᡫᡞ ᠪᡝ ᡞᠴᡝ ᠠᠨᡞᠶᠠ ᠰᠠᡞᡢᡤᡞ ᡞ᠋ ᡤᡝᠷᡝᠨ ᡥᠠᠴᡞᠨ ᡨᠠᠴᡞᠨᡠᠨ ᠪᡝ ᡝᠯᡝᡞ ᡧᡠᠮᡞᠨ ᡨᠠᡣᠠᠨᠪᡠᡥᠠᠪᡞ ︒
 # text[trans] = la ba sainggi de la ba buda jeme , geli la ba suwan da jeme , boo be geterebume , mafari de weceme dobome , juru gisun de labdu gvnigan bimbi , juru gisun latubure de geli jiyangnan bimbi , ice aniyai sainggi de biyan poo sindara sekiyen fulehe , aniyai biyai tofohon ilhangga dengjan dabure tacinun jergi be nirugan hergen i jiyangname sumbume gerenofi be ice aniya sainggi i geren hacin tacinun be elei šumin takanbuhabi .
 # text[eng] = Eating Laba porridge and Laba garlic on Laba Festival, cleaning the house, worshiping ancestors, many ideas about couplets, careful study of posting couplets, the origin of firecrackers in the New Year, and the custom of watching lanterns on the fifteenth day of the first lunar month, by explaining them with painting and calligraphy helps everyone have a deeper understanding of the various customs of the Spring Festival.
-1-2	ᠯᠠ ᠪᠠ	_	_	_	_	_	_	_	_
 1	ᠯᠠ	ᠯᠠ	X	_	_	3	nmod	_	Translit=la
 2	ᠪᠠ	ᠪᠠ	X	_	_	1	flat	_	Translit=ba
 3	ᠰᠠᡞᡢᡤᡞ	ᠰᠠᡞᡢᡤᡞ	NOUN	_	_	8	obl:tmod	_	Translit=sainggi
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
-5-6	ᠯᠠ ᠪᠠ	_	_	_	_	_	_	_	_
 5	ᠯᠠ	ᠯᠠ	X	_	_	7	nmod	_	Translit=la
 6	ᠪᠠ	ᠪᠠ	X	_	_	5	flat	_	Translit=ba
 7	ᠪᡠᡩᠠ	ᠪᡠᡩᠠ	NOUN	_	_	8	obj	_	Translit=buda
 8	ᡪᡝᠮᡝ	ᡪᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	31	advcl	_	Translit=jeme
 9	︐	︐	PUNCT	_	_	8	punct	_	Translit=,
 10	ᡤᡝᠯᡞ	ᡤᡝᠯᡞ	ADV	_	_	15	advmod	_	Translit=geli
-11-12	ᠯᠠ ᠪᠠ	_	_	_	_	_	_	_	_
 11	ᠯᠠ	ᠯᠠ	X	_	_	13	nmod	_	Translit=la
 12	ᠪᠠ	ᠪᠠ	X	_	_	11	flat	_	Translit=ba
 13	ᠰᡠᠸᠠᠨ	ᠰᡠᠸᠠᠨ	NOUN	_	_	15	obj	_	Translit=suwan
@@ -15403,7 +15339,6 @@
 42	ᠠᠨᡞᠶᠠᡞ	ᠠᠨᡞᠶᠠ	NOUN	_	Case=Gen	43	nmod	_	Translit=aniyai
 43	ᠰᠠᡞᡢᡤᡞ	ᠰᠠᡞᡢᡤᡞ	NOUN	_	_	47	obl:tmod	_	Translit=sainggi
 44	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	43	case	_	Translit=de
-45-46	ᠪᡞᠶᠠᠨ ᡦᠣᠣ	_	_	_	_	_	_	_	_
 45	ᠪᡞᠶᠠᠨ	ᠪᡞᠶᠠᠨ	X	_	_	47	obj	_	Translit=biyan
 46	ᡦᠣᠣ	ᡦᠣᠣ	X	_	_	45	flat	_	Translit=poo
 47	ᠰᡞᠨᡩᠠᠷᠠ	ᠰᡞᠨᡩᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	49	acl	_	Translit=sindara
@@ -17103,11 +17038,9 @@
 61	︐	︐	PUNCT	_	_	60	punct	_	Translit=,
 62	15	15	NUM	_	NumType=Card	67	nummod	_	Translit=15
 63	ᡫᡞᠶᡝᠯᡝᠨ	ᡫᡞᠶᡝᠯᡝᠨ	NOUN	_	_	62	clf	_	Translit=fiyelen
-64-65	ᡨᠠᠴᡞᠨ ᡧᡠ	_	_	_	_	_	_	_	_
 64	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	65	compound	_	Translit=tacin
 65	ᡧᡠ	ᡧᡠ	NOUN	_	_	67	nmod	_	Translit=šu
 66	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	65	case	_	Translit=i
-67-68	ᠯᡝᠣᠯᡝᠨ ᡧᡠ	_	_	_	_	_	_	_	_
 67	ᠯᡝᠣᠯᡝᠨ	ᠯᡝᠣᠯᡝᠨ	NOUN	_	_	69	obj	_	Translit=leolen
 68	ᡧᡠ	ᡧᡠ	NOUN	_	_	67	compound	_	Translit=šu
 69	ᠠᠷᠠᡫᡞ	ᠠᠷᠠᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	79	advcl	_	Translit=arafi
@@ -17377,7 +17310,6 @@
 29	︐	︐	PUNCT	_	_	28	punct	_	Translit=,
 30	ᡣᡝᠮᡠᠨᡞ	ᡣᡝᠮᡠᠨᡞ	ADV	_	_	42	advmod	_	Translit=kemuni
 31	ᡪᡝᡢᠰᡞᠶᡝ	ᡪᡝᡢᠰᡞᠶᡝ	NOUN	_	_	32	nmod	_	Translit=jengsiye
-32-33	ᠸᡝᡞ ᠶᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 32	ᠸᡝᡞ	ᠸᡝᡞ	NOUN	_	_	38	nmod	_	Translit=wei
 33	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	NOUN	_	_	32	flat	_	Translit=yuwan
 34	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	36	cc	_	Translit=jai
@@ -17814,7 +17746,6 @@
 16	ᠰᡞᠨᡪᡞᠶᠠᡢ	ᠰᡞᠨᡪᡞᠶᠠᡢ	PROPN	_	_	17	compound	_	Translit=sinjiyang
 17	ᡠᡞᡤᡠᠷ	ᡠᡞᡤᡠᠷ	PROPN	_	_	18	compound	_	Translit=uigur
 18	ᡯᡞᡲᡞᠴᡞᡠᡞ	ᡯᡞᡲᡞᠴᡞᡠᡞ	NOUN	_	_	19	nmod	_	Translit=dzijyciui
-19-21	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 19	ᠸᡝᡞ	ᠸᡝᡞ	NOUN	_	Abbr=Yes	13	conj	_	Translit=wei
 20	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	19	flat	_	Translit=yuwan
 21	ᡥᡡᡞ	ᡥᡡᡞ	X	_	_	20	flat	_	Translit=hvi
@@ -18250,7 +18181,6 @@
 20	ᠠᡞᠰᡞᠯᠠᠷᠠ	ᠠᡞᠰᡞᠯᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	21	acl:relcl	_	Translit=aisilara
 21	ᡬᠠᠮᠪᡠ	ᡬᠠᠮᠪᡠ	NOUN	_	_	11	conj	_	Translit=cgambu
 22	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	26	cc	_	Translit=jai
-23-25	ᠴᡞ ᠶᡝ ᡪᡞᠶᠠ	_	_	_	_	_	_	_	_
 23	ᠴᡞ	ᠴᡞ	X	_	_	26	nmod	_	Translit=ci
 24	ᠶᡝ	ᠶᡝ	X	_	_	23	flat	_	Translit=ye
 25	ᡪᡞᠶᠠ	ᡪᡞᠶᠠ	NOUN	_	_	23	flat	_	Translit=jiya
@@ -18341,7 +18271,6 @@
 9	ᠪᡞᠯᡤᠠᠨ	ᠪᡞᠯᡤᠠᠨ	NOUN	_	_	17	nmod	_	Translit=bilgan
 10	ᡤᡠᠪᠴᡞ	ᡤᡠᠪᠴᡞ	PRON	_	PronType=Tot	11	det	_	Translit=gubci
 11	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	12	nmod	_	Translit=gurun
-12-14	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 12	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	17	nmod	_	Translit=wei
 13	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	12	flat	_	Translit=yuwan
 14	ᡥᡡᡞ	ᡥᡡᡞ	NOUN	_	_	13	flat	_	Translit=hvi
@@ -18381,7 +18310,6 @@
 9	ᡤᡠᠪᠴᡞ	ᡤᡠᠪᠴᡞ	PRON	_	PronType=Tot	10	det	_	Translit=gubci
 10	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	11	nmod	_	Translit=gurun
 11	ᡪᡝᡢᠰᡞᠶᡝ	ᡪᡝᡢᠰᡞᠶᡝ	NOUN	_	_	12	nmod	_	Translit=jengsiye
-12-13	ᠸᡝᡞ ᠶᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 12	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	17	nsubj	_	Translit=wei
 13	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	12	flat	_	Translit=yuwan
 14	ᡨᡠᡧᠠᠨ	ᡨᡠᡧᠠᠨ	NOUN	_	_	17	obj	_	Translit=tušan
@@ -18535,7 +18463,6 @@
 8	ᠪᡞᠯᡤᠠᠨ	ᠪᡞᠯᡤᠠᠨ	NOUN	_	_	11	nmod	_	Translit=bilgan
 9	ᡤᡠᠪᠴᡞ	ᡤᡠᠪᠴᡞ	PRON	_	PronType=Tot	10	det	_	Translit=gubci
 10	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	11	nmod	_	Translit=gurun
-11-13	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 11	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	16	nmod	_	Translit=wei
 12	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	11	flat	_	Translit=yuwan
 13	ᡥᡡᡞ	ᡥᡡᡞ	NOUN	_	_	12	flat	_	Translit=hvi
@@ -18561,12 +18488,10 @@
 6	ᠪᡞᠯᡤᠠ	ᠪᡞᠯᡤᠠ	NOUN	_	_	13	nmod	_	Translit=bilga
 7	ᡤᡠᠪᠴᡞ	ᡤᡠᠪᠴᡞ	PRON	_	PronType=Tot	8	det	_	Translit=gubci
 8	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	9	nmod	_	Translit=gurun
-9-11	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 9	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	13	nmod	_	Translit=wei
 10	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	9	flat	_	Translit=yuwan
 11	ᡥᡡᡞ	ᡥᡡᡞ	NOUN	_	_	10	flat	_	Translit=hvi
 12	ᡨᠣᡣᡨᠣᡥᠣ	ᡨᠣᡣᡨᠣᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	13	acl	_	Translit=toktoho
-13-15	ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 13	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	17	obj	_	Translit=wei
 14	ᠶᡠᠸᠠᠨ	ᠶᡠᠸᠠᠨ	X	_	_	13	flat	_	Translit=yuwan
 15	ᡥᡡᡞ	ᡥᡡᡞ	NOUN	_	_	14	flat	_	Translit=hvi
@@ -18869,7 +18794,6 @@
 18	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	17	case	_	Translit=be
 19	ᡣᡞᠮᠴᡞᠮᡝ	ᡣᡞᠮᠴᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	20	advcl	_	Translit=kimcime
 20	ᠪᠠᡞᠴᠠᠷᠠ	ᠪᠠᡞᠴᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	21	acl	_	Translit=baicara
-21-22	ᡩᡞᠶᠠᠨ ᡥᡡᠸᠠ	_	_	_	_	_	_	_	_
 21	ᡩᡞᠶᠠᠨ	ᡩᡞᠶᠠᠨ	NOUN	_	_	11	appos	_	Translit=diyan
 22	ᡥᡡᠸᠠ	ᡥᡡᠸᠠ	NOUN	_	_	21	flat	_	Translit=hvwa
 23	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	11	case	_	Translit=be
@@ -18877,7 +18801,6 @@
 25	ᡩᡝᠷᡞᠪᡠᠮᡝ	ᡩᡝᠷᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	58	advcl	_	Translit=deribume
 26	,	,	PUNCT	_	_	25	punct	_	Translit=,
 27	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	28	det	_	Translit=ere
-28-29	ᡩᡞᠶᠠᠨ ᡥᡡᠸᠠ	_	_	_	_	_	_	_	_
 28	ᡩᡞᠶᠠᠨ	ᡩᡞᠶᠠᠨ	NOUN	_	_	31	obj	_	Translit=diyan
 29	ᡥᡡᠸᠠ	ᡥᡡᠸᠠ	NOUN	_	_	28	flat	_	Translit=hvwa
 30	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	28	case	_	Translit=be
@@ -18918,7 +18841,6 @@
 1	ᠶᠠᠰᠠᡞ	ᠶᠠᠰᠠ	NOUN	_	Case=Gen	2	nmod	_	Translit=yasai
 2	ᡪᡠᠯᡝᠷᡞ	ᡪᡠᠯᡝᠷᡞ	NOUN	_	_	36	obl:tmod	_	Translit=juleri
 3	,	,	PUNCT	_	_	2	punct	_	Translit=,
-4-5	ᡩᠠ ᠰᡞᡢ	_	_	_	_	_	_	_	_
 4	ᡩᠠ	ᡩᠠ	PROPN	_	_	9	nmod	_	Translit=da
 5	ᠰᡞᡢ	ᠰᡞᡢ	PROPN	_	_	4	flat	_	Translit=sing
 6	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	7	nmod	_	Translit=gurun
@@ -19011,7 +18933,6 @@
 35	ᡤᡠᠪᠴᡞ	ᡤᡠᠪᠴᡞ	PRON	_	PronType=Tot	36	det	_	Translit=gubci
 36	ᡤᡠᠷᡠᠨ	ᡤᡠᠷᡠᠨ	NOUN	_	_	37	nmod	_	Translit=gurun
 37	ᡰᡝᠨᡩᠠ	ᡰᡝᠨᡩᠠ	NOUN	_	_	38	nmod	_	Translit=zenda
-38-40	ᠴᠠᡢ ᠸᡝᡞ ᡥᡡᡞ	_	_	_	_	_	_	_	_
 38	ᠴᠠᡢ	ᠴᠠᡢ	X	_	_	42	nsubj	_	Translit=cang
 39	ᠸᡝᡞ	ᠸᡝᡞ	X	_	_	38	flat	_	Translit=wei
 40	ᡥᡡᡞ	ᡥᡡᡞ	NOUN	_	_	39	flat	_	Translit=hvi
@@ -19084,7 +19005,6 @@
 56	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	57	obj	_	Translit=niyalma
 57	ᠪᡞᠮᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	68	advcl	_	Translit=bime
 58	、	、	PUNCT	_	_	57	punct	_	Translit=、
-59-60	ᡫᠠᠯᡤᠠ ᠰᠣ	_	_	_	_	_	_	_	_
 59	ᡫᠠᠯᡤᠠ	ᡫᠠᠯᡤᠠ	NOUN	_	_	61	obj	_	Translit=falga
 60	ᠰᠣ	ᠰᠣ	X	_	_	59	flat	_	Translit=so
 61	ᠪᡞᠮᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	68	advcl	_	Translit=bime
@@ -19117,7 +19037,6 @@
 # text = ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ  ᡞ ᡣᠠᠷᠮᠠᡨᠠᠷᠠᡢᡤᡝ ᠶᠠᠶᠠ ᠨᡞᠶᡝᠷᡝ ᡪᠠᡞ ᠰᠠᠷᠪᠠᡥᡡᠨ ᠣᠮᡝ ᠣᡪᠣᠷᡣᡡ 。
 # text[trans] = bo u guwan i karmatarangge yaya niyere jai sarbahvn ome ojorkv ‫.‬
 # text[eng] = There must be no weakening or slackening of museum protection.
-1-3	ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 1	ᠪᠣ	ᠪᠣ	X	_	_	5	nsubj	_	Translit=bo
 2	ᡠ	ᡠ	NOUN	_	_	1	flat	_	Translit=u
 3	ᡤᡠᠸᠠᠨ	ᡤᡠᠸᠠᠨ	NOUN	_	_	2	flat	_	Translit=guwan
@@ -19140,7 +19059,6 @@
 3	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	5	obl:tmod	_	Translit=aniya
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᠣᠶᠣᡢᡤᠣᡢᡤᡝ	ᠣᠶᠣᡢᡤᠣᡢᡤᡝ	NOUN	_	_	40	nsubj	_	Translit=oyonggongge
-6-8	ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 6	ᠪᠣ	ᠪᠣ	X	_	_	10	nmod	_	Translit=bo
 7	ᡠ	ᡠ	NOUN	_	_	6	flat	_	Translit=u
 8	ᡤᡠᠸᠠᠨ	ᡤᡠᠸᠠᠨ	NOUN	_	_	7	flat	_	Translit=guwan
@@ -19155,7 +19073,6 @@
 17	,	,	PUNCT	_	_	16	punct	_	Translit=,
 18	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	19	det	_	Translit=ere
 19	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	32	obl:tmod	_	Translit=aniya
-20-22	ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 20	ᠪᠣ	ᠪᠣ	X	_	_	29	nmod	_	Translit=bo
 21	ᡠ	ᡠ	NOUN	_	_	20	flat	_	Translit=u
 22	ᡤᡠᠸᠠᠨ	ᡤᡠᠸᠠᠨ	NOUN	_	_	21	flat	_	Translit=guwan
@@ -19170,7 +19087,6 @@
 31	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	30	case	_	Translit=be
 32	ᠨᡝᠮᡧᡝᠮᡝ	ᠨᡝᠮᡧᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	40	advcl	_	Translit=nemšeme
 33	,	,	PUNCT	_	_	32	punct	_	Translit=,
-34-36	ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 34	ᠪᠣ	ᠪᠣ	X	_	_	38	nmod	_	Translit=bo
 35	ᡠ	ᡠ	NOUN	_	_	34	flat	_	Translit=u
 36	ᡤᡠᠸᠠᠨ	ᡤᡠᠸᠠᠨ	NOUN	_	_	35	flat	_	Translit=guwan
@@ -19184,7 +19100,6 @@
 # text = ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ ᠨᡝᠨᡝᠮᡝ ᠣᠴᡞ ᡧᡠ ᠸᡝᠨ ᠸᡝᠷᡞᡥᡝ ᡥᡝᡨᡥᡝ ᡧᠠᡢᡤᠠᠰᡠᠨ , ᡝᠯᡝ ᠣᠴᡞ ᠸᡝᡞᠷᡞᡥᡝ ᠣᠷᠣᠨ ᡩᡠᠸᠠᠯᡞᡢᡤᡝ ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ ᡪᠠᡞ ᡫᡝ ᡞᠯᡞᠪᡠᠷᠠᠨ ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ , ᡨᡝᠷᡝ ᠪᡝ ᡣᠠᠷᠮᠠᡨᠠᠷᠠᡢᡤᡝ ᠣᠴᡞ ᡠᡪᡠᡞ ᠣᠷᠣᠨ ᡩᡝ ᠪᡞᠮᡝ , ᠶᠠᠶᠠ ᠨᡞᠶᡝᠷᡝ ᠣᠮᡝ ᡪᠠᡞ ᠰᠠᠷᠪᠠᡥᡡᠨ ᠣᡪᠣᠷᡣᡡ 。
 # text[trans] = bo u guwan neneme oci šu wen werihe hethe šanggasun , ele oci weirihe oron duwalingge bo u guwan jai fe iliburan bo u guwan , tere be karmatarangge oci ujui oron de bime , yaya niyere ome jai sarbahvn ojorkv ‫.‬
 # text[eng] = Museums are first of all cultural heritage institutions, especially relic museums and ancient architectural museums. Its protection is the first, and there can be no weakening or slack.
-1-3	ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 1	ᠪᠣ	ᠪᠣ	X	_	_	10	nsubj	_	Translit=bo
 2	ᡠ	ᡠ	NOUN	_	_	1	flat	_	Translit=u
 3	ᡤᡠᠸᠠᠨ	ᡤᡠᠸᠠᠨ	NOUN	_	_	2	flat	_	Translit=guwan
@@ -19201,14 +19116,12 @@
 14	ᠸᡝᡞᠷᡞᡥᡝ	ᠸᡝᠷᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	15	acl	_	Translit=weirihe
 15	ᠣᠷᠣᠨ	ᠣᠷᠣᠨ	NOUN	_	_	16	compound	_	Translit=oron
 16	ᡩᡠᠸᠠᠯᡞᡢᡤᡝ	ᡩᡠᠸᠠᠯᡞᡢᡤᡝ	ADJ	_	_	17	amod	_	Translit=duwalingge
-17-19	ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 17	ᠪᠣ	ᠪᠣ	X	_	_	41	parataxis	_	Translit=bo
 18	ᡠ	ᡠ	NOUN	_	_	17	flat	_	Translit=u
 19	ᡤᡠᠸᠠᠨ	ᡤᡠᠸᠠᠨ	NOUN	_	_	18	flat	_	Translit=guwan
 20	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	23	cc	_	Translit=jai
 21	ᡫᡝ	ᡫᡝ	ADJ	_	_	22	amod	_	Translit=fe
 22	ᡞᠯᡞᠪᡠᠷᠠᠨ	ᡞᠯᡞᠪᡠᠷᠠᠨ	NOUN	_	_	23	nmod	_	Translit=iliburan
-23-25	ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ	_	_	_	_	_	_	_	_
 23	ᠪᠣ	ᠪᠣ	X	_	_	17	conj	_	Translit=bo
 24	ᡠ	ᡠ	NOUN	_	_	23	flat	_	Translit=u
 25	ᡤᡠᠸᠠᠨ	ᡤᡠᠸᠠᠨ	NOUN	_	_	24	flat	_	Translit=guwan
@@ -19272,7 +19185,6 @@
 # text = ᠠᡞ ᡪᡝᡢ ᠨᡞᠮᡝᡣᡠ ᡩᡝ ᡝᠯᡪᡝᠷᡝ ᠣᡣᡨᠣ ᠪᡝ ᡩᠠᡞᡫᡠᠷᠠᠷᠠ ᠠᡣᡩᡠᠯᠠᠷᠠ ᡩᡝ ᡩᠣᠰᡞᠪᡠᠷᡝᡢᡤᡝ ᡩᠠᠮᡠ ᡠᡪᡠᡞ ᠣᡣᠰᠣᠨ , ᡥᠠᠴᡞᠨ ᠮᡝᠶᡝᠨ  ᡞ ᡫᡞᡩᡝᠮᡝ ᡨᡝᡣᠰᡞᠯᡝᠷᡝᡢᡤᡝ ᡤᡝᠯᡞ ᡩᠠᠮᡠ ᡩᠣᠰᡞᠮᡝ ᡨᡠᠴᡞᠷᡝᡢᡤᡝ ᠠᡣᡡ ᠣᠴᡞ ᠣᡪᠣᠷᡣᡡ , ᡝᠷᡝ ᠠᠨᡞᠶᠠ ᡩᠠᡞᡫᡠᠷᠠᠷᠠ ᠪᡝ ᠠᡣᡩᡠᠯᠠᠷᠠ ᡩᡝ ᡝᡞᡨᡝᠷᡝᠮᡝ ᡥᠣᠯᡨᠣᠷᠣᡢᡤᡝ ᠣᠴᡞ ᡩᠠᡞᡫᡠᠷᠠᠮᡝ ᡩᠠᠰᠠᠷᠠ ᠪᡝ ᠠᡣᡩᡠᠯᠠᠷᠠ ᡠᡪᡠᡞ ᠠᠮᠪᠠ ᠪᠠᡞᡨᠠ 。
 # text[trans] = ai jeng nimeku de eljere okto be daifurara akdulara de dosiburengge damu ujui okson , hacin meyen i fideme teksilerengge geli damu dosime tucirengge akv oci ojorkv , ere aniya daifurara be akdulara de eitereme holtorongge oci daifurame dasara be akdulara ujui amba baita ‫.‬
 # text[eng] = The entry of anti-cancer drugs into medical insurance is only the first step, and the catalogue adjustment cannot be limited to entry. Fighting against fraudulent insurance is the top priority of medical insurance this year.
-1-2	ᠠᡞ ᡪᡝᡢ	_	_	_	_	_	_	_	_
 1	ᠠᡞ	ᠠᡞ	NOUN	_	_	3	nmod	_	Translit=ai
 2	ᡪᡝᡢ	ᡪᡝᡢ	X	_	_	1	flat	_	Translit=jeng
 3	ᠨᡞᠮᡝᡣᡠ	ᠨᡞᠮᡝᡣᡠ	NOUN	_	_	5	obl	_	Translit=nimeku
