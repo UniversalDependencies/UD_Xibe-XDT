@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Xibe-XDT:
-commit 255b0af024d4185038b63ca4c1c9e1914e3f0f37
+commit b15c350ac00b85b68876b2700c66c809c1e3eb67
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 9 12:34:24 2023 +0200
+Date:   Mon Nov 6 13:14:36 2023 +0100
 Size: counted 15401 of 15401 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.46886488475266.
 Size: maximum value 13.815511 is for 1000000 words or more.
