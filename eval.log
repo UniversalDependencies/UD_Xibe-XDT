@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Xibe-XDT:
-commit b15c350ac00b85b68876b2700c66c809c1e3eb67
+commit dc6df9bc8ae2bd4fa40802cfa89729bdc00806ee
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 6 13:14:36 2023 +0100
+Date:   Sun May 5 13:40:43 2024 +0200
 Size: counted 15401 of 15401 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.46886488475266.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -25,10 +25,13 @@ Udapi: found 886 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 15401 words.
 Genres: found 2 out of 17 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sjo --max-err=10 UD_Xibe-XDT/sjo_xdt-ud-test.conllu
+[Line 1224 Sent grammarbook_sjo_p1_95 Node 3]: [L3 Warning leaf-clf] 'clf' not expected to have children (3:ᡫᡠᠯᡥᡡ:clf --> 2:ᡝᠮᡠ:nummod)
+[Line 1386 Sent grammarbook_sjo_p1_109 Node 3]: [L3 Warning leaf-clf] 'clf' not expected to have children (3:ᡫᡝᠮᡦᡞ:clf --> 2:ᡝᠮᡠ:nummod)
 [Line 3267 Sent grammarbook_sjo_p4_17 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [12, 13] not subtyped as ':outer'. Outer subjects are allowed if a clause acts as the predicate of another clause.
 [Line 6131 Sent grammarbook_sjo_p5_55 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [2, 6] not subtyped as ':outer'.
 [Line 11551 Sent 20190104P2_6 Node 75]: [L3 Syntax too-many-subjects] Multiple subjects [60, 71] not subtyped as ':outer'.
 Syntax errors: 3
+Warnings: 2
 *** FAILED *** with 3 errors
 Exit code: 1
 Validity: 0.01
