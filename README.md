@@ -34,6 +34,7 @@ If you use this treebank in your work, please cite:
 Data available since: UD v2.9
 License: CC BY-NC-SA 3.0
 Includes text: yes
+Parallel: no
 Genre: grammar-examples news
 Lemmas: manual native
 UPOS: manual native
