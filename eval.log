@@ -1,11 +1,15 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Xibe-XDT:
-commit d26c0d16ccc20833b337ae2b039cc436406fdabb
+commit fb96714c5ebff9ae9442af0d9842259aa8c279b8
+Merge: 31ed85a add314d
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Mon Nov 11 16:50:38 2024 +0100
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'sjo_xdt'
+Language code (from CoNLL-U file name) = 'sjo'
+Found the following data files: sjo_xdt-ud-test.conllu
 Size: counted 15401 of 15401 words (nodes).
 Size: min(0, log((N/1000)**2)) = 5.46886488475266.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,39 +23,45 @@ Features: 6308 out of 15401 total words have one or more features.
 Features: source of annotation (from README) factor is 1.
 Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi:
-               TOTAL        876
-Udapi: found 876 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 15401 words.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sjo --max-err=10 UD_Xibe-XDT/sjo_xdt-ud-test.conllu
-[Line 1224 Sent grammarbook_sjo_p1_95 Node 3]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:ᡫᡠᠯᡥᡡ:clf --> 2:ᡝᠮᡠ:nummod)
-[Line 1386 Sent grammarbook_sjo_p1_109 Node 3]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:ᡫᡝᠮᡦᡞ:clf --> 2:ᡝᠮᡠ:nummod)
-[Line 3150 Sent grammarbook_sjo_p4_10 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ᡨᡠᠮᡝᠨ ᡩᡝ' does not have the 'ExtPos' feature
-[Line 3165 Sent grammarbook_sjo_p4_11 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ᡨᡠᠮᡝᠨ ᡩᡝ' does not have the 'ExtPos' feature
-[Line 3267 Sent grammarbook_sjo_p4_17 Node 16]: [L3 Syntax too-many-subjects] Multiple subjects [12, 13] not subtyped as ':outer'.
-[Line 4098 Sent grammarbook_sjo_p2_92 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'ᡩᡞᠶᠠᠨ ᠨᠠᡠ' does not have the 'ExtPos' feature
-[Line 4102 Sent grammarbook_sjo_p2_92 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'ᠠᠮᠪᠠ ᠮᡠᠷᡠ' does not have the 'ExtPos' feature
-[Line 6131 Sent grammarbook_sjo_p5_55 Node 7]: [L3 Syntax too-many-subjects] Multiple subjects [2, 6] not subtyped as ':outer'.
-[Line 11240 Sent 20190104P2_1 Node 12]: [L3 Warning fixed-without-extpos] Fixed expression 'ᠴᡞ ᠶᡝ' does not have the 'ExtPos' feature
-[Line 11368 Sent 20190104P2_3 Node 34]: [L3 Warning fixed-without-extpos] Fixed expression 'ᠴᡞ ᠶᡝ' does not have the 'ExtPos' feature
-[Line 11404 Sent 20190104P2_4 Node 21]: [L3 Warning fixed-without-extpos] Fixed expression 'ᠴᡞ ᠶᡝ' does not have the 'ExtPos' feature
-[Line 11551 Sent 20190104P2_6 Node 75]: [L3 Syntax too-many-subjects] Multiple subjects [60, 71] not subtyped as ':outer'.
-[Line 13969 Sent 20190111P2_8 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'ᡝᠮᡠ ᠠᡩᠠᠯᡞ' does not have the 'ExtPos' feature
-[Line 13969 Sent 20190111P2_8 Node 10]: [L3 Syntax rel-upos-case] 'case' should not be 'NUM' word 'ᡝᠮᡠ'
-Syntax errors: 6
-Warnings: 8
-*** FAILED *** with 6 errors
+[Line 50 Sent grammarbook_sjo_p1_4]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝᠪᡞ bihebi' lacks the 'Mood' feature
+[Line 288 Sent grammarbook_sjo_p1_21]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᡪᠣᡠ joo' lacks the 'Mood' feature
+[Line 396 Sent grammarbook_sjo_p1_30]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᠮᠪᡞ bimbi' lacks the 'Mood' feature
+[Line 405 Sent grammarbook_sjo_p1_31]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠮᠠᡣᠰᡞᠮᠠᡥᠠᠪᡞ maksimahabi' lacks the 'Mood' feature
+[Line 441 Sent grammarbook_sjo_p1_34]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝ bihe' lacks the 'Mood' feature
+[Line 455 Sent grammarbook_sjo_p1_35]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝᠪᡞ bihebi' lacks the 'Mood' feature
+[Line 467 Sent grammarbook_sjo_p1_36]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝᠪᡞ bihebi' lacks the 'Mood' feature
+[Line 478 Sent grammarbook_sjo_p1_37]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᡤᡝᠨᡝᡥᡝ genehe' lacks the 'Mood' feature
+[Line 492 Sent grammarbook_sjo_p1_38]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᡨᡠᠴᡞᡣᡝ tucike' lacks the 'Mood' feature
+[Line 505 Sent grammarbook_sjo_p1_39]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠰᠣᠷᠣᡣᠣ soroko' lacks the 'Mood' feature
+...suppressing further errors regarding Warning
+[Line 700 Sent grammarbook_sjo_p1_54]: [L3 Syntax too-many-objects] Multiple direct objects [2, 5] ('ᠮᡠᡨᡝᡧᠠᠨ Mutešan', 'ᡪᠠᠰᡞᡤᠠᠨ jasigan') under the predicate 'ᡠᡢᡤᡞᠪᡠᡥᡝ unggibuhe'.
+[Line 715 Sent grammarbook_sjo_p1_55]: [L3 Syntax too-many-objects] Multiple direct objects [3, 7] ('ᠣᠮᠣᠯᠣ omolo', 'ᡨᠠᠴᡞᠪᠴᡝᠨ tacibcen') under the predicate 'ᡥᡡᠯᠠᠪᡠᠮᠪᡞ hvlabumbi'.
+[Line 726 Sent grammarbook_sjo_p1_56]: [L3 Syntax too-many-objects] Multiple direct objects [1, 4] ('ᡨᠠᠴᡞᠰᡞ tacisi', 'ᡩᡠᠷᡠᠨ durun') under the predicate 'ᡨᡠᠸᠠᡣᡞᠶᠠᠪᡠᠮᠪᡞ tuwakiyabumbi'.
+[Line 1224 Sent grammarbook_sjo_p1_95]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:ᡫᡠᠯᡥᡡ:clf --> 2:ᡝᠮᡠ:nummod)
+[Line 1386 Sent grammarbook_sjo_p1_109]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:ᡫᡝᠮᡦᡞ:clf --> 2:ᡝᠮᡠ:nummod)
+[Line 3267 Sent grammarbook_sjo_p4_17]: [L3 Syntax too-many-subjects] Multiple subjects [12, 13] ('ᠰᡠᠸᡝ suwe', 'ᠨᡞᠶᠠᠯᠮᠠ niyalma') under the predicate 'ᠪᡝᠯᡥᡝ belhe' not subtyped as ':outer'.
+
+Outer subjects are allowed if a clause acts as the predicate of another clause.
+
+[Line 3302 Sent grammarbook_sjo_p4_20]: [L3 Syntax too-many-objects] Multiple direct objects [1, 5] ('ᡨᠠᠴᡞᠨ tacin', 'ᡠᡪᡠ uju') under the predicate 'ᡤᠠᡞᠮᠪᡞ gaimbi'.
+[Line 6131 Sent grammarbook_sjo_p5_55]: [L3 Syntax too-many-subjects] Multiple subjects [2, 6] ('ᡠᠪᠠ uba', 'ᠨᠣᠷᠣ noro') under the predicate 'ᠪᡞᡥᡝ bihe' not subtyped as ':outer'.
+[Line 8558 Sent 20190101P1_2]: [L3 Syntax too-many-objects] Multiple direct objects [20, 38] ('ᠰᠠᡞᡢᡤᡞ sainggi', 'ᡥᡞᡩᠠ hida') under the predicate 'ᠨᡝᡞᡥᡝᠪᡞ neihebi'.
+[Line 11551 Sent 20190104P2_6]: [L3 Syntax too-many-subjects] Multiple subjects [60, 71] ('ᠴᡞ ci', 'ᡥᡡᠰᡠᠨ hvsun') under the predicate 'ᡥᠠᠨᠴᡞᡩᠠᠮᡝ hancidame' not subtyped as ':outer'.
+...suppressing further errors regarding Syntax
+Syntax errors: 16
+Warnings: 704
+*** FAILED *** with 16 errors
 Exit code: 1
 Validity: 0.01
-(weight=0.0769230769230769) * (score{features}=0.5) = 0.0384615384615385
-(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.39584964028709) = 0.101499907765921
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=1) = 0.0769230769230769
-(weight=0.307692307692308) * (score{udapi}=0.43120576585936) = 0.132678697187495
-(weight=0.0769230769230769) * (score{udeprels}=0.810810810810811) = 0.0623700623700624
-(TOTAL score=0.514839265614077) * (availability=1) * (validity=0.01) = 0.00514839265614077
+(weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.39584964028709) = 0.146610977884108
+(weight=0.0740740740740741) * (score{split}=0.34) = 0.0251851851851852
+(weight=0.111111111111111) * (score{tags}=1) = 0.111111111111111
+(weight=0.111111111111111) * (score{udeprels}=0.810810810810811) = 0.0900900900900901
+(TOTAL score=0.552009709949506) * (availability=1) * (validity=0.01) = 0.00552009709949506
 STARS = 0
-UD_Xibe-XDT	0.00514839265614077	0
+UD_Xibe-XDT	0.00552009709949506	0
