@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Xibe-XDT:
-commit fb96714c5ebff9ae9442af0d9842259aa8c279b8
-Merge: 31ed85a add314d
+commit d8fabc154aafa987e268ddfe99a4ef9f696a7541
+Merge: 351e063 19ea2ec
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'sjo_xdt'
@@ -25,34 +25,39 @@ Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang sjo --max-err=10 UD_Xibe-XDT/sjo_xdt-ud-test.conllu
-[Line 50 Sent grammarbook_sjo_p1_4]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝᠪᡞ bihebi' lacks the 'Mood' feature
-[Line 288 Sent grammarbook_sjo_p1_21]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᡪᠣᡠ joo' lacks the 'Mood' feature
-[Line 396 Sent grammarbook_sjo_p1_30]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᠮᠪᡞ bimbi' lacks the 'Mood' feature
-[Line 405 Sent grammarbook_sjo_p1_31]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠮᠠᡣᠰᡞᠮᠠᡥᠠᠪᡞ maksimahabi' lacks the 'Mood' feature
-[Line 441 Sent grammarbook_sjo_p1_34]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝ bihe' lacks the 'Mood' feature
-[Line 455 Sent grammarbook_sjo_p1_35]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝᠪᡞ bihebi' lacks the 'Mood' feature
-[Line 467 Sent grammarbook_sjo_p1_36]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝᠪᡞ bihebi' lacks the 'Mood' feature
-[Line 478 Sent grammarbook_sjo_p1_37]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᡤᡝᠨᡝᡥᡝ genehe' lacks the 'Mood' feature
-[Line 492 Sent grammarbook_sjo_p1_38]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᡨᡠᠴᡞᡣᡝ tucike' lacks the 'Mood' feature
-[Line 505 Sent grammarbook_sjo_p1_39]: [L3 Warning verbform-fin-without-mood] Finite verb 'ᠰᠣᠷᠣᡣᠣ soroko' lacks the 'Mood' feature
-...suppressing further errors regarding Warning
-[Line 700 Sent grammarbook_sjo_p1_54]: [L3 Syntax too-many-objects] Multiple direct objects [2, 5] ('ᠮᡠᡨᡝᡧᠠᠨ Mutešan', 'ᡪᠠᠰᡞᡤᠠᠨ jasigan') under the predicate 'ᡠᡢᡤᡞᠪᡠᡥᡝ unggibuhe'.
-[Line 715 Sent grammarbook_sjo_p1_55]: [L3 Syntax too-many-objects] Multiple direct objects [3, 7] ('ᠣᠮᠣᠯᠣ omolo', 'ᡨᠠᠴᡞᠪᠴᡝᠨ tacibcen') under the predicate 'ᡥᡡᠯᠠᠪᡠᠮᠪᡞ hvlabumbi'.
-[Line 726 Sent grammarbook_sjo_p1_56]: [L3 Syntax too-many-objects] Multiple direct objects [1, 4] ('ᡨᠠᠴᡞᠰᡞ tacisi', 'ᡩᡠᠷᡠᠨ durun') under the predicate 'ᡨᡠᠸᠠᡣᡞᠶᠠᠪᡠᠮᠪᡞ tuwakiyabumbi'.
-[Line 1224 Sent grammarbook_sjo_p1_95]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:ᡫᡠᠯᡥᡡ:clf --> 2:ᡝᠮᡠ:nummod)
-[Line 1386 Sent grammarbook_sjo_p1_109]: [L3 Syntax leaf-clf] 'clf' not expected to have children (3:ᡫᡝᠮᡦᡞ:clf --> 2:ᡝᠮᡠ:nummod)
-[Line 3267 Sent grammarbook_sjo_p4_17]: [L3 Syntax too-many-subjects] Multiple subjects [12, 13] ('ᠰᡠᠸᡝ suwe', 'ᠨᡞᠶᠠᠯᠮᠠ niyalma') under the predicate 'ᠪᡝᠯᡥᡝ belhe' not subtyped as ':outer'.
-
-Outer subjects are allowed if a clause acts as the predicate of another clause.
-
-[Line 3302 Sent grammarbook_sjo_p4_20]: [L3 Syntax too-many-objects] Multiple direct objects [1, 5] ('ᡨᠠᠴᡞᠨ tacin', 'ᡠᡪᡠ uju') under the predicate 'ᡤᠠᡞᠮᠪᡞ gaimbi'.
-[Line 6131 Sent grammarbook_sjo_p5_55]: [L3 Syntax too-many-subjects] Multiple subjects [2, 6] ('ᡠᠪᠠ uba', 'ᠨᠣᠷᠣ noro') under the predicate 'ᠪᡞᡥᡝ bihe' not subtyped as ':outer'.
-[Line 8558 Sent 20190101P1_2]: [L3 Syntax too-many-objects] Multiple direct objects [20, 38] ('ᠰᠠᡞᡢᡤᡞ sainggi', 'ᡥᡞᡩᠠ hida') under the predicate 'ᠨᡝᡞᡥᡝᠪᡞ neihebi'.
-[Line 11551 Sent 20190104P2_6]: [L3 Syntax too-many-subjects] Multiple subjects [60, 71] ('ᠴᡞ ci', 'ᡥᡡᠰᡠᠨ hvsun') under the predicate 'ᡥᠠᠨᠴᡞᡩᠠᠮᡝ hancidame' not subtyped as ':outer'.
-...suppressing further errors regarding Syntax
-Syntax errors: 16
-Warnings: 704
-*** FAILED *** with 16 errors
+[Line 50 Sent grammarbook_sjo_p1_4]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝᠪᡞ bihebi' lacks the 'Mood' feature
+[Line 288 Sent grammarbook_sjo_p1_21]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᡪᠣᡠ joo' lacks the 'Mood' feature
+[Line 396 Sent grammarbook_sjo_p1_30]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᠪᡞᠮᠪᡞ bimbi' lacks the 'Mood' feature
+[Line 405 Sent grammarbook_sjo_p1_31]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᠮᠠᡣᠰᡞᠮᠠᡥᠠᠪᡞ maksimahabi' lacks the 'Mood' feature
+[Line 441 Sent grammarbook_sjo_p1_34]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝ bihe' lacks the 'Mood' feature
+[Line 455 Sent grammarbook_sjo_p1_35]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝᠪᡞ bihebi' lacks the 'Mood' feature
+[Line 467 Sent grammarbook_sjo_p1_36]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᠪᡞᡥᡝᠪᡞ bihebi' lacks the 'Mood' feature
+[Line 478 Sent grammarbook_sjo_p1_37]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᡤᡝᠨᡝᡥᡝ genehe' lacks the 'Mood' feature
+[Line 492 Sent grammarbook_sjo_p1_38]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᡨᡠᠴᡞᡣᡝ tucike' lacks the 'Mood' feature
+[Line 505 Sent grammarbook_sjo_p1_39]: [L3 WARNING verbform-fin-without-mood] Finite verb 'ᠰᠣᠷᠣᡣᠣ soroko' lacks the 'Mood' feature
+...suppressing further messages regarding WARNING/MORPHO
+[Line 700 Sent grammarbook_sjo_p1_54]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 5] ('ᠮᡠᡨᡝᡧᠠᠨ Mutešan', 'ᡪᠠᠰᡞᡤᠠᠨ jasigan') under the predicate 'ᡠᡢᡤᡞᠪᡠᡥᡝ unggibuhe'.
+[Line 715 Sent grammarbook_sjo_p1_55]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 7] ('ᠣᠮᠣᠯᠣ omolo', 'ᡨᠠᠴᡞᠪᠴᡝᠨ tacibcen') under the predicate 'ᡥᡡᠯᠠᠪᡠᠮᠪᡞ hvlabumbi'.
+[Line 726 Sent grammarbook_sjo_p1_56]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 4] ('ᡨᠠᠴᡞᠰᡞ tacisi', 'ᡩᡠᠷᡠᠨ durun') under the predicate 'ᡨᡠᠸᠠᡣᡞᠶᠠᠪᡠᠮᠪᡞ tuwakiyabumbi'.
+[Line 952 Sent grammarbook_sjo_p1_71]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'ᠠᠮᠠ ama') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1224 Sent grammarbook_sjo_p1_95]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (3:ᡫᡠᠯᡥᡡ:clf --> 2:ᡝᠮᡠ:nummod)
+[Line 1245 Sent grammarbook_sjo_p1_97]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'ᡫᠣᠨᡪᡞᠨ fonjin') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 1386 Sent grammarbook_sjo_p1_109]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (3:ᡫᡝᠮᡦᡞ:clf --> 2:ᡝᠮᡠ:nummod)
+[Line 2339 Sent grammarbook_sjo_p2_47]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'ᡨᠠᠴᡞᠰᡞ tacisi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 3150 Sent grammarbook_sjo_p4_10]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᡨᡠᠮᡝᠨ ᡩᡝ' does not have the 'ExtPos' feature
+[Line 3165 Sent grammarbook_sjo_p4_11]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᡨᡠᠮᡝᠨ ᡩᡝ' does not have the 'ExtPos' feature
+[Line 3267 Sent grammarbook_sjo_p4_17]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 13] ('ᠪᠣᡠᠷᠠᠨ boolan', 'ᠨᡞᠶᠠᠯᠮᠠ niyalma') under the predicate 'ᠪᡝᠯᡥᡝ belhe'.
+[Line 3302 Sent grammarbook_sjo_p4_20]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 5] ('ᡨᠠᠴᡞᠨ tacin', 'ᡠᡪᡠ uju') under the predicate 'ᡤᠠᡞᠮᠪᡞ gaimbi'.
+...suppressing further messages regarding ERROR/SYNTAX
+[Line 4098 Sent grammarbook_sjo_p2_92]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᡩᡞᠶᠠᠨ ᠨᠠᡠ' does not have the 'ExtPos' feature
+[Line 4102 Sent grammarbook_sjo_p2_92]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᠠᠮᠪᠠ ᠮᡠᠷᡠ' does not have the 'ExtPos' feature
+[Line 11240 Sent 20190104P2_1]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᠴᡞ ᠶᡝ' does not have the 'ExtPos' feature
+[Line 11368 Sent 20190104P2_3]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᠴᡞ ᠶᡝ' does not have the 'ExtPos' feature
+[Line 11404 Sent 20190104P2_4]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᠴᡞ ᠶᡝ' does not have the 'ExtPos' feature
+[Line 13969 Sent 20190111P2_8]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᡝᠮᡠ ᠠᡩᠠᠯᡞ' does not have the 'ExtPos' feature
+Warnings: 687
+SYNTAX errors: 30
+*** FAILED *** with 30 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
