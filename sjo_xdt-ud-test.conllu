@@ -3130,7 +3130,7 @@
 
 # sent_id = grammarbook_sjo_p4_9
 # text = ᡠᠪᠠ ᠴᡞ ᡪᡞᡠ ! ᡠᠮᡝ ᡨᡠᠪᠠ ᡩᡝ ᡤᡝᠨᡝᠷᡝ 。
-# text[phon] = uba ci jiu! ume tuba de genere. 
+# text[phon] = uba ci jiu! ume tuba de genere.
 # text[eng] = Come here! Don't go there.
 1	ᡠᠪᠠ	ᡠᠪᠠ	PRON	_	PronType=Dem	3	obl	_	Translit=uba
 2	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	1	case	_	Translit=ci
@@ -3261,7 +3261,7 @@
 10	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	9	case	_	Translit=be
 11	,	,	PUNCT	_	_	12	punct	_	Translit=,
 12	ᠰᡠᠸᡝ	ᠰᡠᠸᡝ	PRON	_	Number=Plur|Person=2|PronType=Prs	16	nsubj	_	Translit=suwe
-13	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	16	nsubj	_	Translit=niyalma
+13	ᠨᡞᠶᠠᠯᠮᠠ	ᠨᡞᠶᠠᠯᠮᠠ	NOUN	_	_	16	obj	_	Translit=niyalma
 14	ᡨᠣᠮᡝ	ᡨᠣᠮᡝ	PRON	_	PronType=Tot	13	det	_	Translit=tome
 15	ᡝᠮᡣᡝᠨ	ᡝᠮᡣᡝᠨ	NUM	_	_	12	appos	_	Translit=emken
 16	ᠪᡝᠯᡥᡝ	ᠪᡝᠯᡥᡝᠮᠪᡞ	VERB	_	Mood=Imp|Tense=Pres|VerbForm=Fin	0	root	_	Translit=belhe
@@ -6127,7 +6127,7 @@
 3	ᠸᠠᡥᡡᠨ	ᠸᠠᡥᡡᠨ	ADJ	_	_	4	amod	_	Translit=wahvn
 4	ᠯᡞᡫᠠᡥᠠᠨ	ᠯᡞᡫᠠᡥᠠᠨ	NOUN	_	_	6	nmod	_	Translit=lifahan
 5	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
-6	ᠨᠣᠷᠣ	ᠨᠣᠷᠣ	NOUN	_	_	7	nsubj	_	Translit=noro
+6	ᠨᠣᠷᠣ	ᠨᠣᠷᠣ	NOUN	_	_	7	obl	_	Translit=noro
 7	ᠪᡞᡥᡝ	ᠪᡞᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	0	root	_	Translit=bihe
 8	,	,	PUNCT	_	_	7	punct	_	Translit=,
 9	ᠨᡝ	ᠨᡝ	NOUN	_	_	11	obl	_	Translit=ne
@@ -8478,7 +8478,7 @@
 # sent_id = 20190101P1_1
 # text = ᡞᠯᡞ ᡪᡠᠸᠠᠨ ᡞᠯᠠᠴᡞ ᠪᡞᠯᡤᠠᠨ “ ᠨᡞᠮᠠᡢᡤᡞ ᠪᡠᠶᡝᠨᡞᠨ ” ᡪᡠᡥᡝ ᠨᡞᠮᠠᡢᡤᡞ ᡧᡠ ᠸᡝᠨ ᡤᡝᡢᡧᡝᠮᡝ ᠰᠠᠷᡧᠠᠷᠠ ᠰᠠᡞᡢᡤᡞ ᡪᠠᡞ ᠴᠠᠪᠴᠠᠯ ᠰᡞᠶᠠᠨ ᠶᠠᡩᠠᡥᡡᠨ ᠪᡝ ᠸᡝᡥᡞᠶᡝᠮᡝ ᡨᠠᠴᡞᠨ ᡩᡝ ᠠᡞᠰᡞᠯᠠᠷᠠ ᡪᡠᡥᡝ ᠨᡞᠮᠠᡢᡤᡞ ᡧᡠ ᠸᡝᠨ ᡤᡝᡢᡧᡝᠮᡝ ᠰᠠᠷᡧᠠᠷᠠ ᠰᠠᡞᡢᡤᡞ ᡥᡞᡩᠠ ᠨᡝᡞᡥᡝᠪᡞ
 # text[trans] = ili juwan ilaci bilgan " nimanggi buyenin " juhe nimanggi šu wen gengšeme saršara sainggi jai cabcal siyan yadahvn be wehiyeme tacin de aisilara juhe nimanggi šu wen gengšeme saršara sainggi hida neihebi
-# text[eng] = The 13th "Love of Snow" Ice Culture Tourism Festival and Cabcal County Ice Culture Tourism Festival for Poverty Alleviation and Education Construction opened 
+# text[eng] = The 13th "Love of Snow" Ice Culture Tourism Festival and Cabcal County Ice Culture Tourism Festival for Poverty Alleviation and Education Construction opened
 1	ᡞᠯᡞ	ᡞᠯᡞ	PROPN	_	_	15	nmod	_	Translit=ili
 2	ᡪᡠᠸᠠᠨ	ᡪᡠᠸᠠᠨ	NUM	_	NumType=Card	4	nummod	_	Translit=juwan
 3	ᡞᠯᠠᠴᡞ	ᡞᠯᠠᠴᡞ	NUM	_	NumType=Ord	2	flat	_	Translit=ilaci
@@ -8561,7 +8561,7 @@
 # sent_id = 20190101P1_3
 # text = ᡥᡞᡩᠠ ᠨᡝᡞᠷᡝ ᡩᠣᠷᠣᠯᠣᠨ ᠪᡝ ᠴᠠᠪᠴᠠᠯ ᠰᡞᠶᠠᠨ ᠶᡠᠸᠠᠨ ᡦᡠ ᠶᡠᠸᠠᠨ ᡩᡝ ᠶᠠᠪᡠᠪᡠᡫᡞ ︐ ᡞᠯᡞ ᡪᡝᡠ ᡞᠯᡥᡞ ᡪᡝᡠ ᡪᠠᡢ ᡪᠠᡢ ᡪᡞᡠᡞ ᡪᠠᡞ ᡪᡝᡠ ᡩᡝ ᡨᠣᠨᡩᠣᡣᠣᠨ ᡣᠠᡩᠠᠯᠠᠪᡠᠷᡝ ᠣᠷᠣᠨ ᡞ᠋ ᡨᡠᡧᠠᠨᡠᠰᡞ ︐ ᠰᡞᠶᠠᠨ ᡩᡠᡞᠨ ᠶᠣᡥᡞ ᠪᠠᠨᠰᡝᡞ ᠶᠠᠷᡥᡡᡩᠠᠰᡞ ᡩᠣᠷᠣᠯᠣᠨ ᡩᡝ ᡨᡝᡣᡠᠯᡝᡥᡝᠪᡞ ︒
 # text[trans] = hida neire dorolon be cabcal siyan yuwan pu yuwan de yabubufi , ili jeu ilhi jeu jang jang jiui jai jeu de tondokon kadalabure oron i tušanusi , siyan duin yohi bansei yarhvdasi dorolon de tekulehebi .
-# text[eng] = The opening ceremony was held in the Yuanpuyuan Garden, the vice governor of Yili Prefecture Zhang Ju, the person in charge of direct administration of prefecture and the leaders of the four sets of leading groups of Cabcal attended the ceremony.   
+# text[eng] = The opening ceremony was held in the Yuanpuyuan Garden, the vice governor of Yili Prefecture Zhang Ju, the person in charge of direct administration of prefecture and the leaders of the four sets of leading groups of Cabcal attended the ceremony.
 1	ᡥᡞᡩᠠ	ᡥᡞᡩᠠ	NOUN	_	_	2	obj	_	Translit=hida
 2	ᠨᡝᡞᠷᡝ	ᠨᡝᡞᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	3	acl	_	Translit=neire
 3	ᡩᠣᠷᠣᠯᠣᠨ	ᡩᠣᠷᠣᠯᠣᠨ	NOUN	_	_	11	obj	_	Translit=dorolon
@@ -8850,7 +8850,7 @@
 # sent_id = 20190101P1_9
 # text = ᡞᠴᡝ ᠠᠨᡞᠶᠠ ᡞ᠋ ᠣᡢᡤᠣᠯᠣ ᡩᠣᠪᠣᠷᡞ ︐ ᡤᡠᠷᡠᠨ ᠪᠣᠣ ᡪᡠᠰᡞ ᠰᡞ ᡪᡞᠨ ᡦᡞᡢ ᡪᡠᡢᠶᠠᡢ ᡤᡠᠸᠠᡢᠪᠣ ᡩᡞᠶᠠᠨᡧᡞ ᡠᡥᡝᠷᡞᠯᡝᡥᡝ ᡨᠠᡞ ᡪᠠᡞ ᠠᠰᡠᠷᠠᠨ ᠪᡝ ᡩᡠᠯᡝᠮᠪᡠᡫᡞ ︐ ᡪᡠᠸᡝ ᠮᡞᡢᡤᠠᠨ ᡪᡠᠸᠠᠨ ᡠᠶᡠᠴᡞ ᠠᠨᡞᠶᠠ ᡞ᠋ ᡞᠴᡝ ᠠᠨᡞᠶᠠ ᠪᡝ ᡠᠷᡤᡠᠯᡝᠷᡝ ᡤᡞᠰᡠᠨ ᠪᡝ ᡤᡞᠰᡠᠷᡝᡥᡝ ︒
 # text[trans] = ice aniya i onggolo dobori , gurun boo jusi si jin ping jungyang guwangbo diyanši uherilehe tai jai asuran be dulembufi , juwe minggan juwan uyuci aniya i ice aniya be urgulere gisun be gisurehe .
-# text[eng] = Chinese President Xi Jinping delivered 2019 New Year speech via the China Media Group on New Year's Eve. 
+# text[eng] = Chinese President Xi Jinping delivered 2019 New Year speech via the China Media Group on New Year's Eve.
 1	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	2	amod	_	Translit=ice
 2	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	5	nmod	_	Translit=aniya
 3	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	2	case	_	Translit=i
@@ -10233,7 +10233,7 @@
 # sent_id = 20190101P2_26
 # text = ᠠᡧᡧᠠᠨ ᡤᡡᠰᠠ ᡞ᠋ ᠰᡝᡢᡤᡝ ᠨᡞᠶᠠᠯᠮᠠ ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ ᡤᠠᡪᡞᠮᡝ ᡪᡞᡥᡝ ᠮᠠᡣᠰᡞᠨ ︽ ᡩᠠᡢ ᠨᡞ ᡣᡞᠷᡠ ᡠᠮᡝᠰᡞ ᡝᠯᡩᡝᡢᡤᡝ ᠰᠠᡞᡣᠠᠨ ︾ ᡩᠣᠯᠣ ᡥᡞᡩᠠ ᡨᠠᡨᠠᠮᡝ ︐ ᡩᠠᠶᡝ ᠠᠮᡣᡝ ᠰᠠ ᠮᠠᡣᠰᡞᠷᡝ ᡩᡝ ᠠᠰᡞᡤᠠᠨ ᠨᡞᠶᠠᠯᠮᠠ ᡩᡝ ᡝᡨᡝᠪᡠᠷᡣᡡ ︐ ᠮᡠᡪᡞᠯᡝᠨ ᠠᠷᠪᡠᠨ ᡠᠮᡝᠰᡞ ᠰᠠᡞᠨ ︐ ᠰᡠᡣᡩᡠᠨ ᠠᠷᠪᡠᠨ ᡠᠮᡝᠰᡞ ᠰᠠᡞᠨ ︐ ᡨᠠᡞᠰᡝ ᡫᡝᡪᡝᠷᡤᡞ ᡞ᠋ ᡨᡠᠸᠠᠷᠠ ᠨᡞᠶᠠᠯᠮᠠ ᡤᡝᠮᡠ ᠮᡠᡪᡞᠯᡝᠨ ᡤᡞᠷᡣᡡᠷᡝ ᡞ᠋ ᠠᠮᡨᠠᠨ ᡞ᠋ ᠰᡝᠪᡪᡝᠯᡝᠮᡝ ︐ ᡤᡝᠯᡞ ᡣᠣᠮᠰᠣ ᠠᡣᡡ ᡨᠣᡣᠰᠣᡞ ᡞᠷᡤᡝᠨ ᡧᡝᠣ ᡪᡞ ᡪᠠᡫᠠᡫᡞ ᡨᡝᠰᡝ ᠪᡝ ᡪᠣᠣᠯᠠᠮᡝ ᠪᡠᠮᡝ ᡝᡪᡝᡨᡠᠯᡝᠮᡝ ︐ ᠪᡝᠶᡝ ᡪᠠᡞ ᡤᡠᠴᡠᠰᠠ ᡩᡝ ᡝᠮᡠ ᡫᡝᠯᡝ ᠰᠠᡞᡣᠠᠨ ᡥᠣᡪᠣ ᠮᡝᠷᡣᡞᠷᡝ ᠪᡝ ᠸᡝᠷᡞᠮᡝ ᠪᡠᡥᡝᠪᡞ ︒
 # text[trans] = aššan gvsa i sengge niyalma wei yuwan hvi gajime jihe maksin < dang ni kiru umesi eldengge saikan > dolo hida tatame , daye amke sa maksire de asigan niyalma de eteburkv , mujilen arbun umesi sain , sukdun arbun umesi sain , taise fejergi i tuwara niyalma gemu mujilen girkvre i amtan i sebjeleme , geli komso akv toksoi irgen šeo ji jafafi tese be joolame bume ejetuleme , beye jai gucusa de emu fele saikan hojo merkire be werime buhebi .
-# text[eng] = Activities started in the dance "The Party Flag is really magnificent" brought by the township committee for the elder people, they were in a good mood and the atmasphere was very good, the audience were all absorbed and interested in watching the show, many people also took photos with their mobile phones to leave a wonderful memory for themselves and their friends.  
+# text[eng] = Activities started in the dance "The Party Flag is really magnificent" brought by the township committee for the elder people, they were in a good mood and the atmasphere was very good, the audience were all absorbed and interested in watching the show, many people also took photos with their mobile phones to leave a wonderful memory for themselves and their friends.
 1	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	22	nsubj	_	Translit=aššan
 2	ᡤᡡᠰᠠ	ᡤᡡᠰᠠ	NOUN	_	_	6	nmod	_	Translit=gvsa
 3	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	2	case	_	Translit=i
@@ -10668,7 +10668,7 @@
 # sent_id = 20190104P1_12
 # text = ᠰᡞ ᡪᡞᠨ ᡦᡞᡢ ᡪᠣᠷᡞᠮᡝ ᡨᡠᠴᡞᠪᡠᠮᡝ ︐ ᠰᡠᡩᡠᠷᡞ ᠪᡝ ᠮᠠᠷᡞᠮᡝ ᡨᡠᠸᠠᠷᠠᡢᡤᡝ ︐ ᠣᠴᡞ ᡝᠨᡝᡢᡤᡞ ᠪᡝ ᠨᡝᡞᠯᡝᠮᡝ ︑ ᠴᡞᠮᠠᠷᡞ ᠪᡝ ᡤᡝᡨᡠᡣᡝᠨ ᡞᠯᡝᡨᡠᠯᡝᠷᡝ ᡪᠠᠯᡞᠨ ︒
 # text[trans] = si jin ping jorime tucibume , suduri be marime tuwarangge , oci enenggi be neileme , cimari be getuken iletulere jalin .
-# text[eng] = Xi Jinping stresses, by reviewing the past, we can draw inspiration for both the present and the future. 
+# text[eng] = Xi Jinping stresses, by reviewing the past, we can draw inspiration for both the present and the future.
 1	ᠰᡞ	ᠰᡞ	PROPN	_	_	5	nsubj	_	Translit=si
 2	ᡪᡞᠨ	ᡪᡞᠨ	PROPN	_	_	1	flat:name	_	Translit=jin
 3	ᡦᡞᡢ	ᡦᡞᡢ	PROPN	_	_	2	flat:name	_	Translit=ping
@@ -11146,7 +11146,7 @@
 # sent_id = 20190104P1_25
 # text = ᡥᠠᠨᠴᡞᡣᡞ ᡩᡝ ︐ ᡞᠯᡞ ᡪᡝᠣ ᡩᠠᡢ ᠸᡝᡞ ᡪᡞᠶᠠᡢᠨᠠᠰᡞ ᡫᠠᠯᡞᠨ ᡨᡠᠷᡠᠯᠠᠮᡝ ᠠᠴᠠᠮᡝ ᡧᠠᡢᡤᠠᡥᠠ ᡥᠠᠯᠠᠨ ᠨᡝᡞᠯᡝᠨ 40 ᠪᠠᠷᡠᠨᡞᠶᠠ ᠪᡝ ᡠᠷᡤᡠᠯᡝᠷᡝ ᡞᠷᡤᡝᠨ ᡨᡠᠷᡠᠯᠠᠮᡝ ︐ ᡠᠯᠠᠮᡝ ᡪᡞᠶᠠᡢᠨᠠᠷᠠᡢᡤᡝ ᠴᠠᠪᠴᠠᠯ ᠰᡞᠶᠠᠨ ᠰᡠᠨᡪᠠᠴᡞ ᠨᡞᠷᡠ ᡪᡝᠨ ᡩᡝ ᡞᠴᡞᡥᡞᠶᠠᡥᠠᠪᡞ ︒
 # text[trans] = hanciki de , ili jeo dang wei jiyangnasi falin turulame acame šanggaha halan neilen 40 baruniya be urgulere irgen turulame , ulame jiyangnarangge cabcal siyan sunjaci niru jen de icihiyahabi .
-# text[eng] = Recently, the Party secretary of Ili Prefecture led an organization to celebrate the 40th anniversary of Reform and Opening Policy, the speech was held in Sunjaci Niru town of Cabcal County. 
+# text[eng] = Recently, the Party secretary of Ili Prefecture led an organization to celebrate the 40th anniversary of Reform and Opening Policy, the speech was held in Sunjaci Niru town of Cabcal County.
 1	ᡥᠠᠨᠴᡞᡣᡞ	ᡥᠠᠨᠴᡞᡣᡞ	ADJ	_	_	30	obl:tmod	_	Translit=hanciki
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	︐	︐	PUNCT	_	_	1	punct	_	Translit=,
@@ -11473,7 +11473,7 @@
 # sent_id = 20190104P2_6
 # text = ᡤᡠᡢᠰᡟ 2018 ᠴᡞ ᠠᠨᡞᠶᠠ 6 ᠪᡞᠶᠠ ᡩᡝ ᠠᠷᠠᠮᡨᡠᠴᡞᠪᡠᠮᡝ ᡩᡝᠷᡞᠪᡠᠮᡝ ︐ ᠣᠶᠣᡢᡤᠣ ᡨᡝᠪᡠᠨᡝᠨ 200 ᡨᠠᡞ ᠮᠠᠰᡞᠨᠠ ︑ 5 ᡨᠠᡞ ᡞᠯᡥᠠ ᡩᡠᠷᡠᡤᠠᡢᡤᠠ ᡧᡠᡢᡤᡞᡨᡠᠨ ︑ 10 ᡨᠠᡞ ᠮᡠᡨᡠᠨ ᠪᡝ ᡨᡠᠴᡞᠪᡠᠷᡝ ᡧᡠᡢᡤᡞᡨᡠᠨ ︑ 25 ᡨᠠᡞ ᡨᡝᡣᠰᡞᠯᡝᠮᡝ ᡫᡞᠶᠠᠨᠠᠷᠠᠷᠠ ᡧᡠᡢᡤᡞᡨᡠᠨ ︑ ᡝᠮᡠ ᡨᠠᡞ ᡞᠯᡥᠠ ᡧᡝᠣᠯᡝᠷᡝ ᡧᡠᡢᡤᡞᡨᡠᠨ ︐ ᡝᠮᡠ ᡨᠠᡞ ᡪᡞᠨ ᡧᡠ ᠶᠠᠨ ᡪᡝᠨ ᡧᡠᡢᡤᡞᡨᡠᠨ ︐ 5 ᡨᠠᡞ ᡦᠣᠣ ᡤᠣᠸᠠᡢ ᡧᡠᡢᡤᡞᡨᡠᠨ ᠪᡞ ︐ ᠶᠠᠰᠠᡞ ᡪᡠᠯᡝᠷᡞ ᡩᡝ ᠴᡞ ᠶᡝ ᡝᠮᡤᡝᠷᡞ ᠰᡠᠮᡝ ᠯᠠᠰᡥᠠᠯᠠᡥᠠ ᡨᡝᠰᡠ ᠪᠠ ᡞ᠋ ᡫᡠᠯᡠ ᡫᡠᠨᠴᡝᡥᡝ ᡪᠣᠪᠣᡨᡝᠨ ᡥᡡᠰᡠᠨ 150 ᠨᡞᠶᠠᠯᠮᠠ ᡩᡝ ᡥᠠᠨᠴᡞᡩᠠᠮᡝ ︐ ᡩᠠᡥᠠᠪᡠᡫᡞ ᡤᡝᠯᡞ ᠰᡞᠷᠠᠨᡩᡠᡥᠠᡞ 400 ᡩᡠᠯᡝᠷᡝ ᡪᠣᠪᠣᡨᡝᠨ ᡥᡡᠰᡠᠨ ᠪᡝ ᡤᠣᠴᡞᠮᡝ ᡩᠣᠰᡞᠪᡠᠮᠪᡞ ᠰᡝᠮᠪᡞ ︒
 # text[trans] = gungsy 2018 ci aniya 6 biya de aramtucibume deribume , oyonggo tebunen 200 tai masina , 5 tai ilha durugangga šunggitun , 10 tai mutun be tucibure šunggitun , 25 tai teksileme fiyanarara šunggitun , emu tai ilha šeolere šunggitun , emu tai jin šu yan jen šunggitun , 5 tai poo gowang šunggitun bi , yasai juleri de ci ye emgeri sume lashalaha tesu ba i fulu funcehe joboten hvsun 150 niyalma de hancidame , dahabufi geli siranduhai 400 dulere joboten hvsun be gocime dosibumbi sembi .
-# text[eng] = The company started producing since June 2018 and mainly installed 200 sewing machines, 5 pattern machines, 10 sampling machines, 25 ironing machines, 1 embroidery machine, 1 metal needle detector and 5 polishing machines, at present, the company has absorbed more than 150 local surplus labor, and following that attracted 400 and more labor resource.  
+# text[eng] = The company started producing since June 2018 and mainly installed 200 sewing machines, 5 pattern machines, 10 sampling machines, 25 ironing machines, 1 embroidery machine, 1 metal needle detector and 5 polishing machines, at present, the company has absorbed more than 150 local surplus labor, and following that attracted 400 and more labor resource.
 1	ᡤᡠᡢᠰᡟ	ᡤᡠᡢᠰᡟ	NOUN	_	_	9	nsubj	_	Translit=gungsy
 2	2018	2018	NUM	_	NumType=Card	4	nummod	_	Translit=2018
 3	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	2	case	_	Translit=ci
@@ -11533,7 +11533,7 @@
 57	ᠶᠠᠰᠠᡞ	ᠶᠠᠰᠠ	NOUN	_	Case=Gen	58	nmod	_	Translit=yasai
 58	ᡪᡠᠯᡝᠷᡞ	ᡪᡠᠯᡝᠷᡞ	NOUN	_	_	75	obl:tmod	_	Translit=juleri
 59	ᡩᡝ	ᡩᡝ	ADP	_	Case=Acc	58	case	_	Translit=de
-60	ᠴᡞ	ᠴᡞ	X	_	_	75	nsubj	_	Translit=ci
+60	ᠴᡞ	ᠴᡞ	X	_	_	64	nsubj	_	Translit=ci
 61	ᠶᡝ	ᠶᡝ	X	_	_	60	flat	_	Translit=ye
 62	ᡝᠮᡤᡝᠷᡞ	ᡝᠮᡤᡝᠷᡞ	ADV	_	_	64	advmod	_	Translit=emgeri
 63	ᠰᡠᠮᡝ	ᠰᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	64	advcl	_	Translit=sume
@@ -11689,7 +11689,7 @@
 # sent_id = 20190104P2_10
 # text = ᠰᡞᠶᠠᠨ ᡣᡝᠰᡞᠶᡝ ᡪᡠᠰᡞ ᠪᠣᠯᠠᡨᡞ ᡪᠠᡞ ᠰᡞᠶᠠᠨ ᠪᡠᡪᠠᠨ ᡥᡝᡨᡥᡝ ᠶᠠᠮᡠᠨ ᡬᠠᠮᠪᡠ ᡧᡞ ᡪᡞᠶᡠᠨ ᠯᡠᡢ ᡪᡠᠸᡝ ᠰᡝᡫᡠ ᠴᠣᡥᠣᡨᠣᡞ ᡪᠣᠷᡞᡢᡤᠠ ᡞ᠋ ᡣᡞᠴᡝᠨ ᡪᡞᠶᠠᡢᠨᠠᠷᠠ ᠪᡝ ᠶᠠᠪᡠᠪᡠᠮᡝ ︐ 120 ᡩᡠᠯᡝᠷᡝ ᡠᠰᡞᠨ ᠠᡩᡠᠯᠠᠷᠠ ᡞᠷᡤᡝᠨ ᡠᠷᡝᠪᡠᠮᡝ ᡨᠠᠴᡞᠪᡠᠷᡝ ᡩᡝ ᠠᡩᠠᠨᠠᡥᠠᠪᡞ ︒
 # text[trans] = siyan kesiye jusi bolati jai siyan bujan hethe yamun cgambu ši jiyun lung juwe sefu cohotoi joringga i kicen jiyangnara be yabubume , 120 dulere usin adulara irgen urebume tacibure de adanahabi .
-# text[eng] = 
+# text[eng] =
 1	ᠰᡞᠶᠠᠨ	ᠰᡞᠶᠠᠨ	NOUN	_	_	2	nmod	_	Translit=siyan
 2	ᡣᡝᠰᡞᠶᡝ	ᡣᡝᠰᡞᠶᡝ	NOUN	_	Abbr=Yes	3	nmod	_	Translit=kesiye
 3	ᡪᡠᠰᡞ	ᡪᡠᠰᡞ	NOUN	_	_	22	nsubj	_	Translit=jusi
@@ -11987,7 +11987,7 @@
 # sent_id = 20190104P2_15
 # text = ᡝᡩᡝᠷᡞ ᠠᠮᠠᠰᡞ ᡠᠷᡠᠨᠠᡣᡡ ᡩᠠᡢ ᠨᡞ ᡪᡠᠸᠠᠨ ᡠᠶᡠᠴᡞ ᠪᡞᠯᡤᠠᠨ ᡫᡠᠨᡩᡝᠰᡞ ᠠᠮᠪᠠ ᡞᠰᠠᠨ ᠣᠣᠷᡞ ᠰᡠᡣᡩᡠᠨ ︑ ᡞᠷᡤᡝᠨ ᠪᡝ ᡨᡠᠸᠠᡧᠠᠷᠠ ᡪᡝᡢᡯᡝ ︑ ᠺᠣᡨᠠᠴᡞᠨ ᡫᡠᠰᡝᠨᡝᠪᡠᠮᡝ ᡠᡪᡞᠷᡝ ᡪᠠᡞ ᡨᠠᠷᡞᠮᡝ ᡨᡝᠪᡠᠷᡝ ︑ ᠪᠣᡩᠣᠮᡞᠨ ᠪᡞᠮᡝ ᡪᡠᠰᡝ ᡠᡪᡞᠷᡝ ︑ ᡫᠠᡫᡠᠨ ᡣᠣᠣᠯᡞ ᡪᡝᠷᡤᡞ ᠰᠠᠷᠠᠰᡠ ᠪᡝ ᡨᠣᠷᡥᠣᡫᡞ ᡠᠷᡝᠪᡠᠮᡝ ᡨᠠᠴᡞᠪᡠᠷᡝ ᠪᡝ ᠰᠠᠷᡞᠪᡠᠮᡝ ︐ ᡞᠷᡤᡝᠰᡝ ᠶᠠᠷᡤᡞᠶᠠᠰᡥᡡᠨ ᠪᠠᡞᡨᠠᠯᠠᠷᠠ ᡪᠠᠯᡞᠨ ᡨᠠᠴᡞᠮᡝ ︐ ᠪᠠᠶᠠᠨᠠᠷᠠ ᡪᡠᡤᡡᠨ ᠪᡝ ᠣᠨᠴᠣᠯᠣᠮᡝ ︐ ᠴᡞᠶᡠᡢᠪᡠᠯᠠᡣ ᡪᡝᠨ ᡪᡞᡢᡪᡞ ᡤᡝᠷᡝᠨᡠᠰᡠ ᡣᠠᡨᡠᠨ ᡤᡠᡞᡤᡠ ᡞ᠋ ᠰᡞᠷᠠᠨᡩᡠᡥᠠᡞ ᡥᡡᡩᡠᠯᠠᠮᡝ ᠪᠠᡩᠠᠷᠠᠷᠠ ᡪᠠᠯᡞᠨ ᡫᡠᠯᡠ ᠰᠠᡞᠨ ᡫᠠᡣᠰᡞ ᡝᠷᡩᡝᠮᡠ ᡫᡠᠯᡝᡥᡝ ᠪᡝ ᡨᠠᠨᡨᠠᠮᠪᡠᡥᡝᠪᡞ ︒
 # text[trans] = ederi amasi urunakv dang ni juwan uyuci bilgan fundesi amba isan oori sukdun , irgen be tuwašara jengdze , ckotacin fusenebume ujire jai tarime tebure , bodomin bime juse ujire , fafun kooli jergi sarasu be torhofi urebume tacibure be saribume , irgese yargiyashvn baitalara jalin tacime , bayanara jugvn be oncolome , ciyungbulak jen jingji gerenusu katun guigu i siranduhai hvdulame badarara jalin fulu sain faksi erdemu fulehe be tantambuhebi .
-# text[eng] = 
+# text[eng] =
 1	ᡝᡩᡝᠷᡞ	ᡝᡩᡝᠷᡞ	ADV	_	_	41	advmod	_	Translit=ederi
 2	ᠠᠮᠠᠰᡞ	ᠠᠮᠠᠰᡞ	ADV	_	_	1	compound	_	Translit=amasi
 3	ᡠᠷᡠᠨᠠᡣᡡ	ᡠᠷᡠᠨᠠᡣᡡ	ADV	_	_	41	advmod	_	Translit=urunakv
@@ -12085,7 +12085,7 @@
 # sent_id = 20190109P1_2
 # text = ᡥᠠᠨᠴᡞᡣᡞ ᡩᡝ ︐ ᡤᠣᡥᠣᠮᠴᡞ ᡨᠣᡣᠰᠣᡞ ᡧᡠ ᠸᡝᠨ ᠠᡧᡧᠠᠨ ᠨᡞᠶᠠᠮᠠᠨ ᡩᡠᠯᡞᠮᠪᠠ ᡪᡠᠸᠠᠨ ᡫᡠᠨ ᡞ᠋ ᠸᡝᠨᡪᡝᡥᡠᠨ ︐ ᡨᠣᡣᠰᠣ ᡩᡝ ᡨᡝᡥᡝ ᠸᡝᡞᠯᡝᠷᠠᠨ ᠮᡝᠶᡝᠨ ︑ ᡨᠣᡣᠰᠣᡞ ᡬᠠᠮᠪᡠ ᡪᠠᡞ ᡨᠣᡣᠰᠣᡞ ᡞᠷᡤᡝᠨ ᡠᡥᡝᠷᡞ 150 ᡩᡠᠯᡝᠷᡝ ᠨᡞᠶᠠᠯᠮᠠ ᡝᠮᡠ ᡨᠠᡢᡤᡞᠨ ᡩᡝ ᠯᡝᡣᠰᡝᡞ ᡞᠰᠠᠨᡩᡠᡫᡞ ︐ ᡞᠴᡝ ᠠᠨᡞᠶᠠ ᠪᡝ ᠣᡣᡩᠣᠷᠣ ᡠᠷᡤᡠᠨᡪᡝᠷᡝ ᠠᠷᠪᡠᠨ ᡩᠣᠯᠣ ᠣᡥᠣ ︐ 2018 ᠴᡞ ᠠᠨᡞᠶᠠᡞ ᡠᡥᡝᠷᡞᠯᡝᠮᡝ ᡧᠣᡧᠣᠮᡝ ᡥᡠᠸᡝᡣᡞᠶᡝᠮᠪᡠᠷᡝ ᡞᠰᠠᠨ ᠪᡝ ᡝᠯᠪᡞᠮᡝ ᠨᡝᡞᡥᡝᠪᡞ ︒
 # text[trans] = hanciki de , gohomci toksoi šu wen aššan niyaman dulimba juwan fun i wenjehun , tokso de tehe weileran meyen , toksoi cgambu jai toksoi irgen uheri 150 dulere niyalma emu tanggin de leksei isandufi , ice aniya be okdoro urgunjere arbun dolo oho , 2018 ci aniyai uherileme šošome huwekiyembure isan be elbime neihebi .
-# text[eng] = Recently, it was very lively in the Culture Activity Center at Gohomci Village, more than 150 people including villagers, village cadre and village-stationed working staffs gathering together, in an atmosphere of welcoming the New Year, held the 2018 Wrap-up and Commendation Meeting. 
+# text[eng] = Recently, it was very lively in the Culture Activity Center at Gohomci Village, more than 150 people including villagers, village cadre and village-stationed working staffs gathering together, in an atmosphere of welcoming the New Year, held the 2018 Wrap-up and Commendation Meeting.
 1	ᡥᠠᠨᠴᡞᡣᡞ	ᡥᠠᠨᠴᡞᡣᡞ	ADJ	_	_	55	obl:tmod	_	Translit=hanciki
 2	ᡩᡝ	ᡩᡝ	ADP	_	_	1	case	_	Translit=de
 3	︐	︐	PUNCT	_	_	1	punct	_	Translit=,
@@ -12220,7 +12220,7 @@
 # sent_id = 20190109P1_4
 # text = ᡥᡠᠸᡝᡣᡞᠶᡝᠮᠪᡠᠨ ᠪᡝ ᠠᠯᡞᡥᠠ ᠶᠠᡩᠠᡥᡡᠨ ᠪᠣᡞᡤᠣᠨ ᡠᠰᡠᡫᡠᡪᡞᠶᠠᡢ ᠠᠴᡞᡢᡤᡞᠶᠠᠪᡠᠮᡝ ᡤᡞᠰᡠᠷᡝᠮᡝ ︐ ᡝᠨᡝᡢᡤᡞ ᠪᡞ ᠶᠠᡩᠠᡥᡡᠨ ᡩᡝᠷᡞ ᡠᡣᠴᠠᠮᡝ ᠪᠠᠶᠠᠨᠠᠷᠠ ᡤᠠᠯᠠ ᡩᡝ ᠰᠣᠨᡪᠣᠪᡠᡥᠠ ︐ ᡨᠠᡞᠰᡝ ᡩᡝ ᡨᠠᡫᠠᠨᠠᡫᡞ ᡥᡠᠸᡝᡣᡞᠶᡝᠮᠪᡠᠨ ᠪᡝ ᡤᠠᡞᡥᠠ ︒
 # text[trans] = huwekiyembun be aliha yadahvn boigon usufujiyang acinggiyabume gisureme , enenggi bi yadahvn deri ukcame bayanara gala de sonjobuha , taise de tafanafi huwekiyembun be gaiha .
-# text[eng] = Usufujiang, one of the award-winning poor households, said excitedly, today I chose to lift myself out of poverty and get rich with both hands, got on the podium to receive this prize. 
+# text[eng] = Usufujiang, one of the award-winning poor households, said excitedly, today I chose to lift myself out of poverty and get rich with both hands, got on the podium to receive this prize.
 1	ᡥᡠᠸᡝᡣᡞᠶᡝᠮᠪᡠᠨ	ᡥᡠᠸᡝᡣᡞᠶᡝᠮᠪᡠᠨ	NOUN	_	_	3	obj	_	Translit=huwekiyembun
 2	ᠪᡝ	ᠪᡝ	ADP	_	Case=Acc	1	case	_	Translit=be
 3	ᠠᠯᡞᡥᠠ	ᠠᠯᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Vnoun	5	acl:relcl	_	Translit=aliha
@@ -12251,7 +12251,7 @@
 # sent_id = 20190109P1_5
 # text = ᡩᠠᡢ ᡪᠠᡞ ᡩᠠᠰᠠᠨ ᠶᠠᠮᡠᠨ ᡞ᠋ ᠰᠠᡞᠨ ᡩᠠᠰᠠᠨ ᠠᠷᡤᠠ ᡩᡝ ᡪᡞᡢᡣᡞᠨᡞ ᠪᠠᠨᡞᡥᠠᠯᠠᠮᡝ ︐ ᠸᡝᡞᠯᡝᠷᠠᠨ ᠮᡝᠶᡝᠨ ᡝᠮᡠ ᠠᠨᡞᠶᠠ ᠴᡞ ᡝᠪᠰᡞ ᠮᡠᡪᡞᠯᡝᠨ ᡨᠠᡨᠠᡧᠠᠮᡝ ᡪᠠᡞ ᠠᡞᠰᡞᠯᠠᡥᠠ ᡩᡝ ᠪᠠᠨᡞᡥᠠᠯᠠᠮᡝ ︐ ᠮᡠᠰᡝᡞ ᠪᠠᠨᡪᡞᠨᠸᡝᠨ ᡝᠯᡝᡞ ᡪᡞᠮᡝ ᡝᠯᡝᡞ ᠰᠠᡞᠨ ᠣᡥᠣ ︒
 # text[trans] = dang jai dasan yamun i sain dasan arga de jingkini banihalame , weileran meyen emu aniya ci ebsi mujilen tatašame jai aisilaha de banihalame , musei banjinwen elei jime elei sain oho .
-# text[eng] = Thanks to the good policy of the Party and government, thanks to the working team's care and help over the past year, our life has become better and better. 
+# text[eng] = Thanks to the good policy of the Party and government, thanks to the working team's care and help over the past year, our life has become better and better.
 1	ᡩᠠᡢ	ᡩᠠᡢ	NOUN	_	_	8	nmod	_	Translit=dang
 2	ᡪᠠᡞ	ᡪᠠᡞ	CCONJ	_	_	4	cc	_	Translit=jai
 3	ᡩᠠᠰᠠᠨ	ᡩᠠᠰᠠᠨ	NOUN	_	_	4	compound	_	Translit=dasan
@@ -12306,7 +12306,7 @@
 # sent_id = 20190109P1_7
 # text = ᠴᡝᠨ ᠴᡞᠣᠸᠠᠨ ᡬᠣ ᡯᡞᡲᡞᠴᡞᠣᡞ ᡩᠠᡢ ᠸᡝᡞ ᠠᠰᡠᠷᠠᠨ ᡝᠯᡥᡝ ᠨᡝᠯᡥᡝ ᡪᠠᡞ ᠮᡝᡩᡝᡤᡝ ᡩᡠᠷᡠᡢᡤᡝ ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ ᡞᠰᠠᠨ ᠪᡝ ᡩᠠᠯᠠᠮᡝ ᠨᡝᡞᡥᡝᠪᡞ
 # text[trans] = cen ciowan cgo dzijycioi dang wei asuran elhe nelhe jai medege durungge wei yuwan hvi isan be dalame neihebi
-# text[eng] = Chen Quanguo presided over the meeting of the Network Security and Informatization Committee of the Autonomous Region Party Committee 
+# text[eng] = Chen Quanguo presided over the meeting of the Network Security and Informatization Committee of the Autonomous Region Party Committee
 1	ᠴᡝᠨ	ᠴᡝᠨ	PROPN	_	_	19	nsubj	_	Translit=cen
 2	ᠴᡞᠣᠸᠠᠨ	ᠴᡞᠣᠸᠠᠨ	PROPN	_	_	1	flat:name	_	Translit=ciowan
 3	ᡬᠣ	ᡬᠣ	PROPN	_	_	2	flat:name	_	Translit=cgo
@@ -12330,7 +12330,7 @@
 # sent_id = 20190109P1_8
 # text = 1 ᠪᡞᠶᠠᡞ ᡞᠴᡝ 4 ᡩᡝ ︐ ᡯᡞᡲᡞᠴᡞᠣᡞ ᡩᠠᡢ ᠸᡝᡞ ᡧᡠᡪᡞ ︑ ᡯᡞᡲᡞᠴᡞᠣᡞ ᡩᠠᡢ ᠸᡝᡞ ᠠᠰᡠᠷᠠᠨ ᡝᠯᡥᡝ ᠨᡝᠯᡥᡝ ᡪᠠᡞ ᠮᡝᡩᡝᡤᡝ ᡩᡠᠷᡠᡢᡤᡝ ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ ᡪᡠᡰᡝᠨ ᠴᡝᠨ ᠴᡞᠣᠸᠠᠨ ᡬᠣ ᡯᡞᡲᡞᠴᡞᠣᡞ ᡩᠠᡢ ᠸᡝᡞ ᠠᠰᡠᠷᠠᠨ ᡝᠯᡥᡝ ᠨᡝᠯᡥᡝ ᡪᠠᡞ ᠮᡝᡩᡝᡤᡝ ᡩᡠᠷᡠᡢᡤᡝ ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡥᡡᡞ ᡞᠰᠠᠨ ᠪᡝ ᡩᠠᠯᠠᠮᡝ ᠨᡝᡞᡥᡝᠪᡞ ︒
 # text[trans] = 1 biyai ice 4 de , dzijycioi dang wei šuji , dzijycioi dang wei asuran elhe nelhe jai medege durungge wei yuwan hvi juzen cen ciowan cgo dzijycioi dang wei asuran elhe nelhe jai medege durungge wei yuwan hvi isan be dalame neihebi .
-# text[eng] = On January 4, Chen Quanguo, secretary of the Party Committee of the Autonomous Region and director of the Network Security and Informatization Committee of the Autonomous Region Party Committee, presided over the meeting of the Network Security and Informatization Committee of the Autonomous Region Party Committee. 
+# text[eng] = On January 4, Chen Quanguo, secretary of the Party Committee of the Autonomous Region and director of the Network Security and Informatization Committee of the Autonomous Region Party Committee, presided over the meeting of the Network Security and Informatization Committee of the Autonomous Region Party Committee.
 1	1	1	NUM	_	_	2	nummod	_	Translit=1
 2	ᠪᡞᠶᠠᡞ	ᠪᡞᠶᠠ	NOUN	_	Case=Gen	4	nmod	_	Translit=biyai
 3	ᡞᠴᡝ	ᡞᠴᡝ	ADJ	_	_	4	amod	_	Translit=ice
@@ -12924,7 +12924,7 @@
 # sent_id = 20190109P2_6
 # text = ᠴᠠᠪᠴᠠᠯ ᡪᡝᠨ ᡞᠷᡤᡝᠨ ᡠᠯᠠᠮᡝ ᡪᡞᠶᠠᡢᠨᠠᠰᡞ ᡧᠠᡞᠪᠠᠮᡠ ᠴᠠᠪᠴᠠᠯ ᠰᡞᠶᠠᠨ ᡤᡝᠷᡝᡤᠠᠰᡠ ᡞ᠋ ᠶᠠᠷᡤᡞᠶᠠᠰᡥᡡᠨ ᠠᠷᠪᡠᠨ ᡩᡝ ᠠᠴᠠᠪᡠᠮᡝ ︐ ︽ ᠰᡞᠨᡪᡞᠶᠠᡢ ᡠᡞᡤᡠᠷ ᡯᡞᡲᡞᠴᡞᠣᡞ ᡨᡝᠨ ᡩᡠᠪᡝ ᡩᡠᠷᡠᡢᡤᡝ ᡩᡝ ᡝᠯᡪᡝᠷᡝ ᡨᡞᠶᠣᠣ ᠯᡞ ︾ ᡩᡝ ᠠᠴᠠᠪᡠᡫᡞ ᠪᡝᠶᡝᡞ ᡨᠠᡣᠠᠪᡠᡥᠠ ᠪᡝ ᠯᡝᠣᠯᡝᠴᡝᡥᡝᠪᡞ ︒
 # text[trans] = cabcal jen irgen ulame jiyangnasi šaibamu cabcal siyan geregasu i yargiyashvn arbun de acabume , < sinjiyang uigur dzijycioi ten dube durungge de eljere tiyoo li > de acabufi beyei takabuha be leolecehebi .
-# text[eng] = šaibamu, a representative speaker of Cabcal Town, went to the scene and talked about his understanding of the Regulations of the Xinjiang Uygur Autonomous Region on Deradicalization.  
+# text[eng] = šaibamu, a representative speaker of Cabcal Town, went to the scene and talked about his understanding of the Regulations of the Xinjiang Uygur Autonomous Region on Deradicalization.
 1	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	2	compound	_	Translit=cabcal
 2	ᡪᡝᠨ	ᡪᡝᠨ	NOUN	_	_	5	nmod	_	Translit=jen
 3	ᡞᠷᡤᡝᠨ	ᡞᠷᡤᡝᠨ	NOUN	_	_	5	nmod	_	Translit=irgen
@@ -12963,7 +12963,7 @@
 # sent_id = 20190109P2_7
 # text = ᡫᠣᠷᠣᠮᡝ ᡪᠣᡩᠣᠷᠣ ᡝᡨᡠᡣᡠ ᠠᡩᡠ ᠠᠷᠠᠮᡨᡠᠴᡞᠪᡠᠷᡝ ᡥᡝᡨᡥᡝ ᠶᠠᡫᠠᠨ ᠠᡣᡝᠮᡞ ᡝᡨᡠᡣᡠ ᠠᡩᡠ ᡞᠣ ᠰᡞᠶᠠᠨ ᡨᡠᡧᠠᠨᡠᠷᡝ ᡤᡠᡢᠰᡟ ᠸᡝᡞᠯᡝᠷᠠᠰᡞ ᠰᡞᠶᠠᠮᡞᠰᡞᠯᠨᡠᠨ · ᡰᡠᡰᠠᡥᡡᡢ ︐ ᡤᡝᠷᡝᠨᠣᡫᡞ ᡞ᠋ ᠪᠠᠷᡠ ᡤᡡᡞᡩᠠᡥᠠᡣᡡ ᡩᡝ ᠶᠠᡫᠠᠨ ᠴᡞᠣᡞ ᡞ᠋ ᡫᠣᠷᠣᠮᡝ ᡪᠣᡩᠣᠷᠣ ᠴᡞ ᠶᡝ ᡞ᠋ ᠸᡝᡞᠯᡝᠷᠠᠰᡞ ᠪᡝ ᡫᡠᠨᡩᡝᠯᡝᡫᡞ ᡤᡝᠮᡠᠨ ᡥᡝᠴᡝᠨ ᠪᡝᡞᡪᡞᡢ ᡩᡝ ᡤᡝᠨᡝᠮᡝ ᡤᡠᠷᡠᠨ ᡣᡞᠷᡠ ᠮᡠᡣᡩᡝᠪᡠᠷᡝ ᡩᠣᠷᠣᠯᠣᠨ ᡩᡝ ᠠᡩᠠᠨᠠᡥᠠ ᡩᡠᠯᡝᠮᠪᡠᠨ ᡪᠠᡞ ᠰᡝᠷᡝᠪᡠᠨ ᠪᡝ ᡨᠠᡣᠠᠪᡠᡥᠠᠪᡞ ︒
 # text[trans] = forome jodoro etuku adu aramtucibure hethe yafan akemi etuku adu io siyan tušanure gungsy weilerasi siyamisilnun - zuzahvng , gerenofi i baru gvidahakv de yafan cioi i forome jodoro ci ye i weilerasi be fundelefi gemun hecen beijing de geneme gurun kiru mukdebure dorolon de adanaha dulembun jai serebun be takabuhabi .
-# text[eng] = Siyamisilnun Zuzahvng, a worker from Akemi Garment Co., Ltd. in the texitile and apparel industrial park, representing textile workers, told everyone about his experience and feelings of attending the flag-raising ceremony at the capital of Beijing not long ago. 
+# text[eng] = Siyamisilnun Zuzahvng, a worker from Akemi Garment Co., Ltd. in the texitile and apparel industrial park, representing textile workers, told everyone about his experience and feelings of attending the flag-raising ceremony at the capital of Beijing not long ago.
 1	ᡫᠣᠷᠣᠮᡝ	ᡫᠣᠷᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	2	advcl	_	Translit=forome
 2	ᡪᠣᡩᠣᠷᠣ	ᡪᠣᡩᠣᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	6	acl	_	Translit=jodoro
 3	ᡝᡨᡠᡣᡠ	ᡝᡨᡠᡣᡠ	NOUN	_	_	5	obj	_	Translit=etuku
@@ -13151,7 +13151,7 @@
 # sent_id = 20190111P1_3
 # text = ᠠᠰᡠᠷᠠᠨ ᡞ᠋ ᠰᠠᠷᡞᠪᡠᠨ ᡩᡝ ᡥᡝᠷᡤᡝᠨ ︑ ᠨᡞᠷᡠᡤᠠᠨ ︑ ᡧᡞᡦᡞᠨ ᡪᠠᡞ 3D ᡩᡠᠷᡠᡤᠠᠨ ᡨᡠᠰᠠᠯᡞ ᠪᡝ ᠠᠴᠠᠪᡠᡥᠠᡩᡝ ︐ ᠮᡠᠰᡝ ᠪᡝ ᠠᠰᡠᠷᠠᠨ ᡞ᠋ ᡩᠣᠯᠣ ᠪᡝᠶᡝ ᠨᡞᡣᡝᠨᡝᠮᡝ ᡩᠣᠰᡞᡥᠠ ᡤᡝᠰᡝ ᡝᠮᡠ ᡥᠠᠯᠠᠨ ᠨᡝᡞᠯᡝᠨ 40 ᠠᠨᡞᠶᠠ ᡞ᠋ ᠠᠮᠪᠠ ᡩᡠᠷᡠᡤᠠᠨ ᠰᠠᠷᡞᠪᡠᠨ ᡩᡝ ᠶᠠᠪᡠᠮᡝ ᡩᠣᠰᡞᠪᡠᡥᠠ ︒
 # text[trans] = asuran i saribun de hergen , nirugan , šipin jai 3D durugan tusali be acabuhade , muse be asuran i dolo beye nikeneme dosiha gese emu halan neilen 40 aniya i amba durugan saribun de yabume dosibuha .
-# text[eng] = Combined with the text, pictures, videos and 3D effects of the online exhibition, we participated in the Reform and Openning-up 40 Years Large Exhibition like getting into the network. 
+# text[eng] = Combined with the text, pictures, videos and 3D effects of the online exhibition, we participated in the Reform and Openning-up 40 Years Large Exhibition like getting into the network.
 1	ᠠᠰᡠᠷᠠᠨ	ᠠᠰᡠᠷᠠᠨ	NOUN	_	_	3	nmod	_	Translit=asuran
 2	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	1	case	_	Translit=i
 3	ᠰᠠᠷᡞᠪᡠᠨ	ᠰᠠᠷᡞᠪᡠᠨ	NOUN	_	_	15	obl:lmod	_	Translit=saribun
@@ -13648,7 +13648,7 @@
 # sent_id = 20190111P2_2
 # text = ᠪᡝᡞᡣᡠᠸᡝᠨ ᡨᡠᠸᡝᠷᡞ ᡩᠣᠰᡞᡥᠠ ᡩᡝ ︐ ᡠᠯᠠᠪᡠᠨ ᡞ᠋ ᡨᡝᠪᡠᠨᡝᠪᡠᠨ ᠪᡝ ᡩᠠᡥᠠᠮᡝ ︐ “ ᡨᡠᠸᡝᠷᡞ ᡧᠣᠯᠣ ᡠᠴᡠᠷᡞ ” ᠣᠴᡞ ᡠᠰᡞᠰᡞ “ ᠮᠠᡪᡞᡤᡝ ᡝᠷᡤᡝᠷᡝ ” ︑ “ ᡝᠮᡠ ᠠᡢᡤᠠ ᡝᠷᡤᡝᠨ ᡥᡡᠯᠠᡧᠠᠷᠠ ” ᡝᠷᡞᠨ ᡞᠨᡠ ︒
 # text[trans] = beikuwen tuweri dosiha de , ulabun i tebunebun be dahame , " tuweri šolo ucuri " oci usisi " majige ergere " , " emu angga ergen hvlašara " erin inu .
-# text[eng] = Stepping into the cold winter, according to the traditional arrangement, the "winter vacation" is a time for farmers to "take a short rest" and "take a breath". 
+# text[eng] = Stepping into the cold winter, according to the traditional arrangement, the "winter vacation" is a time for farmers to "take a short rest" and "take a breath".
 1	ᠪᡝᡞᡣᡠᠸᡝᠨ	ᠪᡝᡞᡣᡠᠸᡝᠨ	ADJ	_	_	2	amod	_	Translit=beikuwen
 2	ᡨᡠᠸᡝᠷᡞ	ᡨᡠᠸᡝᠷᡞ	NOUN	_	_	3	obj	_	Translit=tuweri
 3	ᡩᠣᠰᡞᡥᠠ	ᡩᠣᠰᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	30	obl:tmod	_	Translit=dosiha
@@ -13966,7 +13966,7 @@
 7	·	·	PUNCT	_	_	6	punct	_	Translit=・
 8	ᡥᠣᡪᡞᠶᠠᠪᠣᠣᡩᡠᠨ	ᡥᠣᡪᡞᠶᠠᠪᠣᠣᡩᡠᠨ	PROPN	_	_	6	flat:name	_	Translit=hojiyaboodun
 9	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	6	case	_	Translit=i
-10	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	6	case	_	Translit=emu
+10	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	6	nummod	_	Translit=emu
 11	ᠠᡩᠠᠯᡞ	ᠠᡩᠠᠯᡞ	ADP	_	_	10	fixed	_	Translit=adali
 12	ᡠᠰᡞᠰᡞ	ᡠᠰᡞᠰᡞ	NOUN	_	_	20	nsubj	_	Translit=usisi
 13	ᠠᡩᡠᠯᠠᠰᡞ	ᠠᡩᡠᠯᠠᠰᡞ	NOUN	_	_	12	conj	_	Translit=adulasi
@@ -19053,7 +19053,7 @@
 # sent_id = 20190306P1_24
 # text = ᠪᡝ ᡝᠷᡝ ᠠᠨᡞᠶᠠ ᡩᡝ ᠣᠶᠣᡢᡤᠣᡢᡤᡝ ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ ᡨᡠᡧᠠᠨ ᠮᡠᡨᡝᠨ ᠣᠷᠣᠨ ᡨᠣᡣᡨᠣᠪᡠᠷᡝ ᠪᡝ ᡥᠠᡥᡞ ᠴᡞᠷᠠᠯᠠᠮᡝ ᡪᠠᡫᠠᡫᡞ , ᡝᠷᡝ ᠠᠨᡞᠶᠠ ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ  ᡞ ᡥᠠᠯᠠᠨ ᠶᠠᠪᡠᠪᡠᠷᡝ ᠶᠠᠷᡤᡞᠶᠠᠯᠠᠮᡝ ᠶᠠᠪᡠᠪᡠᠷᡝ ᠪᠠᡩᠠᠷᠠᠷᠠ ᡤᡡᠨᡞᡤᠠᠨ ᡨᡠᠴᡞᠪᡠᠷᡝ ᠪᡝ ᠨᡝᠮᡧᡝᠮᡝ , ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ ᡞᠴᡝ ᠪᠠᡞᠪᡠᠰᡥᡡᠨ ᠪᡝ ᡪᠠᠯᡠᡣᡞᠶᠠᠮᠪᡞ 。
 # text[trans] = be ere aniya de oyonggongge bo u guwan tušan muten oron toktobure be hahi ciralame jafafi , ere aniya bo u guwan i halan yabubure yargiyalame yabubure badarara gvnigan tucibure be nemšeme , bo u guwan ice baibushvn be jalukiyambi ‫.‬
-# text[eng] = 
+# text[eng] =
 1	ᠪᡝ	ᠪᡝ	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	5	obl	_	Translit=be
 2	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	3	det	_	Translit=ere
 3	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	5	obl:tmod	_	Translit=aniya
