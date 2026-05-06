@@ -99,7 +99,7 @@
     <dep name="amod">551</dep>
     <dep name="appos">91</dep>
     <dep name="aux">73</dep>
-    <dep name="case">1849</dep>
+    <dep name="case">1848</dep>
     <dep name="cc">106</dep>
     <dep name="ccomp">63</dep>
     <dep name="clf">66</dep>
@@ -119,11 +119,11 @@
     <dep name="mark:rel">5</dep>
     <dep name="nmod">1553</dep>
     <dep name="nmod:poss">115</dep>
-    <dep name="nsubj">943</dep>
+    <dep name="nsubj">941</dep>
     <dep name="nsubj:pass">7</dep>
-    <dep name="nummod">339</dep>
-    <dep name="obj">1101</dep>
-    <dep name="obl">725</dep>
+    <dep name="nummod">340</dep>
+    <dep name="obj">1102</dep>
+    <dep name="obl">726</dep>
     <dep name="obl:lmod">103</dep>
     <dep name="obl:tmod">132</dep>
     <dep name="parataxis">118</dep>
