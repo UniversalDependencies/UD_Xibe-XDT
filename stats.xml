@@ -91,10 +91,10 @@
     <feat name="Voice" value="Rcp" upos="VERB">11</feat><!-- ᡞᠰᠠᠨᡩᡠᠮᡝ, ᡫᠠᠯᡞᠨᡩᡠᠮᡝ, ᠠᠴᠠᠨᡩᡠᡥᠠ, ᠠᡞᠰᡞᠯᠠᠨᡩᡠᠴᡞ, ᠠᡧᡧᠠᠨᡩᡠᠪᡠᠷᡝ, ᡞᠰᠠᠨᡩᡠᡫᡞ, ᡥᠠᡞᠷᠠᠨᡩᡠᠮᡝ, ᡨᠠᡣᠠᠨᡩᡠᠪᡠᠮᡝ, ᡫᠠᠯᡞᠨᡩᡠᠷᡝ -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="39">
+  <deps unique="40">
     <dep name="acl">293</dep>
     <dep name="acl:relcl">256</dep>
-    <dep name="advcl">1345</dep>
+    <dep name="advcl">1346</dep>
     <dep name="advmod">704</dep>
     <dep name="amod">551</dep>
     <dep name="appos">91</dep>
@@ -117,15 +117,16 @@
     <dep name="mark:adv">50</dep>
     <dep name="mark:plur">5</dep>
     <dep name="mark:rel">5</dep>
-    <dep name="nmod">1553</dep>
+    <dep name="nmod">1567</dep>
     <dep name="nmod:poss">115</dep>
+    <dep name="nmod:tmod">2</dep>
     <dep name="nsubj">941</dep>
     <dep name="nsubj:pass">7</dep>
     <dep name="nummod">340</dep>
     <dep name="obj">1102</dep>
-    <dep name="obl">726</dep>
+    <dep name="obl">711</dep>
     <dep name="obl:lmod">103</dep>
-    <dep name="obl:tmod">132</dep>
+    <dep name="obl:tmod">130</dep>
     <dep name="parataxis">118</dep>
     <dep name="punct">1895</dep>
     <dep name="root">810</dep>

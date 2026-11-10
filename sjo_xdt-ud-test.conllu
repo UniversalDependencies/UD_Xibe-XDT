@@ -949,7 +949,7 @@
 1	ᡝᠮᡝ	ᡝᠮᡝ	NOUN	_	_	4	nsubj	_	Translit=eme
 2	ᡤᠠᡞᡨᠠᡞ	ᡤᠠᡞᡨᠠᡞ	ADV	_	_	4	advmod	_	Translit=gaitai
 3	ᠨᡞᠮᡝᡣᡠᡢᡤᡝ	ᠨᡞᠮᡝᡣᡠᡢᡤᡝ	ADJ	_	Degree=Pos	4	xcomp	_	Translit=nimekungge
-4	ᠣᡥᠣ	ᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	6	obl	_	Translit=oho
+4	ᠣᡥᠣ	ᠣᠮᠪᡞ	VERB	_	Tense=Past|VerbForm=Fin	6	advcl	_	Translit=oho
 5	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	4	case	_	Translit=de
 6	ᠠᠮᠠ	ᠠᠮᠠ	NOUN	_	_	7	nsubj	_	Translit=ama
 7	ᠰᡝᠰᡠᠯᡝᡫᡞ	ᠰᡝᠰᡠᠯᡝᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Conv	12	advcl	_	Translit=sesulefi
@@ -1242,7 +1242,7 @@
 # text = ᡨᠠᠴᡞᠨ ᡩᡝ ᠮᠠᡢᡤᠠ ᡫᠣᠨᡪᡞᠨ ᠪᡞ ᠣᠴᡞ , ᠰᡝᡫᡠ ᠪᡝ ᠪᠠᡞᠰᡠ 。
 # text[phon] = tacin de mangga fonjin bi oci , sefu be baisu.
 # text[eng] = If you have problem in study, please ask teacher for help.
-1	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	4	obl	_	Translit=tacin
+1	ᡨᠠᠴᡞᠨ	ᡨᠠᠴᡞᠨ	NOUN	_	_	4	nmod	_	Translit=tacin
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᠮᠠᡢᡤᠠ	ᠮᠠᡢᡤᠠ	ADJ	_	Degree=Pos	4	amod	_	Translit=mangga
 4	ᡫᠣᠨᡪᡞᠨ	ᡫᠣᠨᡪᡞᠨ	NOUN	_	_	5	obj	_	Translit=fonjin
@@ -2336,7 +2336,7 @@
 # text = ᡨᠠᠴᡞᡣᡡ ᡩᡝ ᡨᠠᠴᡞᠮᠠᡥᠠ ᡨᠠᠴᡞᠰᡞ ᡤᡝᠮᡠ ᡣᡠᠪᡠᠨ ᡨᡠᡢᡤᡞᠶᡝᠮᡝ ᡤᡝᠨᡝᡥᡝ 。
 # text[phon] = tacikv de tacimaha tacisi gemu kubun tunggiyeme genehe.
 # text[eng] = All on-campus students went to pick cotton.
-1	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	4	obl	_	Translit=tacikv
+1	ᡨᠠᠴᡞᡣᡡ	ᡨᠠᠴᡞᡣᡡ	NOUN	_	_	4	nmod	_	Translit=tacikv
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᡨᠠᠴᡞᠮᠠᡥᠠ	ᡨᠠᠴᡞᠮᠪᡞ	VERB	_	Aspect=Prog|VerbForm=Part	4	acl:relcl	_	Translit=tacimaha
 4	ᡨᠠᠴᡞᠰᡞ	ᡨᠠᠴᡞᠰᡞ	NOUN	_	_	8	nsubj	_	Translit=tacisi
@@ -3484,7 +3484,7 @@
 # text[eng] = North to Cabcal and south to Ining, the river flowing from east to west is called Ili River.
 1	ᠴᠠᠪᠴᠠᠯ	ᠴᠠᠪᠴᠠᠯ	PROPN	_	_	3	nmod	_	Translit=cabcal
 2	ᡞ	ᡞ	ADP	_	Case=Gen	1	case	_	Translit=i
-3	ᠠᠮᠠᠷᡤᡞ	ᠠᠮᠠᠷᡤᡞ	NOUN	_	_	12	obl	_	Translit=amargi
+3	ᠠᠮᠠᠷᡤᡞ	ᠠᠮᠠᠷᡤᡞ	NOUN	_	_	12	nmod	_	Translit=amargi
 4	ᡤᡡᠯᡪᠠ	ᡤᡡᠯᡪᠠ	PROPN	_	_	6	nmod	_	Translit=gvlja
 5	ᡞ	ᡞ	ADP	_	Case=Gen	4	case	_	Translit=i
 6	ᡪᡠᠯᡝᠷᡤᡞ	ᡪᡠᠯᡝᠷᡤᡞ	NOUN	_	_	3	conj	_	Translit=julergi
@@ -4070,7 +4070,7 @@
 # text[eng] = My sister has more than fifty chicken and ducks, almost 60 sheep and almost 20 cows.
 1	ᠮᡞᠨᡞ	ᠮᡞᠨᡞ	PRON	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	Translit=mini
 2	ᡝᠶᡠᠨ	ᡝᠶᡠᠨ	NOUN	_	_	3	nmod	_	Translit=eyun
-3	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	7	obl	_	Translit=boo
+3	ᠪᠣᡠ	ᠪᠣᡠ	NOUN	_	_	7	nmod	_	Translit=boo
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᠰᡠᠰᠠᡞ	ᠰᡠᠰᠠᡞ	NUM	_	NumType=Card	6	obj	_	Translit=susai
 6	ᡫᡠᠨᠴᡝᠷᡝ	ᡫᡠᠨᠴᡝᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Part	7	acl:relcl	_	Translit=funcere
@@ -5135,7 +5135,7 @@
 # text[phon] = emu banse i dorgi de, embici fulu sain tacirengge, embici labdu calaburengge, gemu beyei hvsutulere kemun i haran kai.
 # text[eng] = In one class, studying well or not all depends on how hard one works.
 1	ᡝᠮᡠ	ᡝᠮᡠ	NUM	_	NumType=Card	2	nummod	_	Translit=emu
-2	ᠪᠠᠨᠰᡝ	ᠪᠠᠨᠰᡝ	NOUN	_	_	4	obl	_	Translit=banse
+2	ᠪᠠᠨᠰᡝ	ᠪᠠᠨᠰᡝ	NOUN	_	_	4	nmod	_	Translit=banse
 3	ᡞ	ᡞ	ADP	_	Case=Gen	2	case	_	Translit=i
 4	ᡩᠣᠷᡤᡞ	ᡩᠣᠷᡤᡞ	NOUN	_	_	19	obl	_	Translit=dorgi
 5	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	4	case	_	Translit=de
@@ -7777,7 +7777,7 @@
 4	ᡞ	ᡞ	ADP	_	Case=Gen	2	case	_	Translit=i
 5	ᡠᡩᡠ	ᡠᡩᡠ	DET	_	PronType=Dem	6	det	_	Translit=udu
 6	ᠮᡞᡢᡤᠠᠨ	ᠮᡞᡢᡤᠠᠨ	NUM	_	NumType=Card	7	nummod	_	Translit=minggan
-7	ᠠᠨᡞᠶᠠᠴᡞ	ᠠᠨᡞᠶᠠ	NOUN	_	Case=Abl	13	obl	_	Translit=aniyaci
+7	ᠠᠨᡞᠶᠠᠴᡞ	ᠠᠨᡞᠶᠠ	NOUN	_	Case=Abl	13	nmod	_	Translit=aniyaci
 8	ᡠᠯᠠᠪᡠᠮᡝ	ᡠᠯᠠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv|Voice=Cau	9	advcl	_	Translit=ulabume
 9	ᡪᡞᡥᡝ	ᡪᡞᠮᠪᡞ	VERB	_	Aspect=Perf|VerbForm=Part	13	acl:relcl	_	Translit=jihe
 10	ᡫᡠᠯᡠ	ᡫᡠᠯᡠ	ADJ	_	_	11	compound	_	Translit=fulu
@@ -8737,7 +8737,7 @@
 45	ᠰᡞᡩᡝᠨ	ᠰᡞᡩᡝᠨ	NOUN	_	_	70	obl:tmod	_	Translit=siden
 46	︐	︐	PUNCT	_	_	45	punct	_	Translit=,
 47	ᠠᡧᡧᠠᠨ	ᠠᡧᡧᠠᠨ	NOUN	_	_	48	nmod	_	Translit=aššan
-48	ᡠᠴᡠᠷᡞ	ᡠᠴᡠᠷᡞ	NOUN	_	_	53	obl:tmod	_	Translit=ucuri
+48	ᡠᠴᡠᠷᡞ	ᡠᠴᡠᠷᡞ	NOUN	_	_	53	nmod:tmod	_	Translit=ucuri
 49	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	48	case	_	Translit=i
 50	ᡠᠴᡝ	ᡠᠴᡝ	NOUN	_	_	51	nmod	_	Translit=uce
 51	ᡦᡞᠶᠣᠣ	ᡦᡞᠶᠣᠣ	NOUN	_	_	53	nmod	_	Translit=piyoo
@@ -9093,7 +9093,7 @@
 10	ᡠᠯᠠ	ᡠᠯᠠ	NOUN	_	_	13	nmod	_	Translit=ula
 11	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	10	case	_	Translit=i
 12	ᡪᡠᠸᡝ	ᡪᡠᠸᡝ	NUM	_	NumType=Card	13	nummod	_	Translit=juwe
-13	ᡝᡣᠴᡞᠨ	ᡝᡣᠴᡞᠨ	NOUN	_	_	16	obl	_	Translit=ekcin
+13	ᡝᡣᠴᡞᠨ	ᡝᡣᠴᡞᠨ	NOUN	_	_	16	nmod	_	Translit=ekcin
 14	ᡩᡝ	ᡩᡝ	ADP	_	Case=Loc	13	case	_	Translit=de
 15	ᠨᡞᠶᡝᡢᠨᡞᠶᡝᠷᡞ	ᠨᡞᠶᡝᡢᠨᡞᠶᡝᠷᡞ	NOUN	_	_	16	nmod	_	Translit=niyengniyeri
 16	ᠰᡠᡣᡩᡠᠨ	ᠰᡠᡣᡩᡠᠨ	NOUN	_	_	17	nsubj	_	Translit=sukdun
@@ -13135,7 +13135,7 @@
 37	ᡥᠠᠯᠠᠨ	ᡥᠠᠯᠠᠨ	NOUN	_	_	40	nmod	_	Translit=halan
 38	ᠨᡝᡞᠯᡝᠨ	ᠨᡝᡞᠯᡝᠨ	NOUN	_	_	37	conj	_	Translit=neilen
 39	40	40	NUM	_	NumType=Card	40	nummod	_	Translit=40
-40	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	48	obl	_	Translit=aniya
+40	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	48	nmod	_	Translit=aniya
 41	ᠴᡞ	ᠴᡞ	ADP	_	Case=Abl	40	case	_	Translit=ci
 42	ᡝᠪᠰᡞ	ᡝᠪᠰᡞ	ADP	_	_	40	case	_	Translit=ebsi
 43	ᠮᠠᡫᠠᡤᡠᠷᡠᠨ	ᠮᠠᡫᠠᡤᡠᠷᡠᠨ	NOUN	_	_	47	nmod	_	Translit=mafagurun
@@ -13962,7 +13962,7 @@
 3	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	20	obl:tmod	_	Translit=aniya
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	︐	︐	PUNCT	_	_	3	punct	_	Translit=,
-6	ᠰᡟᡨᡞᠸᠠᡩᡞ	ᠰᡟᡨᡞᠸᠠᡩᡞ	PROPN	_	_	12	obl	_	Translit=sytiwadi
+6	ᠰᡟᡨᡞᠸᠠᡩᡞ	ᠰᡟᡨᡞᠸᠠᡩᡞ	PROPN	_	_	12	nmod	_	Translit=sytiwadi
 7	·	·	PUNCT	_	_	6	punct	_	Translit=・
 8	ᡥᠣᡪᡞᠶᠠᠪᠣᠣᡩᡠᠨ	ᡥᠣᡪᡞᠶᠠᠪᠣᠣᡩᡠᠨ	PROPN	_	_	6	flat:name	_	Translit=hojiyaboodun
 9	ᡞ᠋	ᡞ᠋	ADP	_	Case=Gen	6	case	_	Translit=i
@@ -16877,7 +16877,7 @@
 # text = ᠸᡝᡞᠯᡝᠷᠠᠨ ᡩᡝ ᡥᠠᠷᡨᡠᡢᡤᠠ ᡨᡠᠷᡤᡠᠨᡩᡝ ︐ ᡤᡠᠸᠠᠨ ᠯᡞ ᡪᡞᠣᡞ ᡠᠰᡞᠰᡞ ᡞ᠋ ᠪᠠᡞᠪᡠᠰᡥᡡᠨ ᠪᡝ ᡨᠠᡣᠠᠮᡝ ︐ ᡩᠠᠮᡠ ᡞ ᡝᠮᡩᠠᠨ ᡤᠠᡧᠠᠨ ᠴᡞ ᡝᠪᡠᡥᡝᡩᡝ ︐ ᡠᠰᡞᠰᡞ ᠰᠠ ᡤᡝᠮᡠ ᡞᠮᠪᡝ ᡨᠠᡨᠠᠮᡝ ᠮᡝᡞᠮᡝᠨᡞ ᠪᠣᠣᡩᡝ ᡨᠠᠷᡞᡥᠠ ᡪᠠᡣᠠᠰᡠ ᠪᡝ ᡨᡠᠸᠠᠪᡠᠷᡝᡩᡝ ︐ ᡞ ᡣᡞᠷᡞᠪᠠ ᠮᡠᡪᡞᠨ ᡞ᠋ ᡠᠰᡞᠰᡞ ᡞ᠋ ᡫᠣᠨᡪᡞᡥᠠ ᡫᠣᠨᡪᡞᠨ ᠪᡝ ᠰᡠᠮᡝ ᡪᠠᠪᡠᠮᠪᡞ ︐ ᡨᡝᠰᡝ ᡩᡝ ᡨᡠᠰᠠ ᠪᡞᠰᡞᠷᡝ ᡨᡝᠪᡠᠨᡝᠪᡠᠮᡝ ᡞᠴᡞᡥᡞᠶᠠᠷᠠ ᠠᠷᡤᠠ ᠪᡝ ᡨᠠᠴᡞᠪᡠᠮᠪᡞ ︒
 # text[trans] = weileran de hartungga turgunde , guwan li jioi usisi i baibushvn be takame , damu i emdan gašan ci ebuhede , usisi sa gemu imbe tatame meimeni boode tariha jakasu be tuwaburede , i kiriba mujin i usisi i fonjiha fonjin be sume jabumbi , tese de tusa bisire tebunebume icihiyara arga be tacibumbi .
 # text[eng] = Due to various reasons at work, Guan Liju cares about the needs of farmers. As long as she arrives in the village, the farmers will hold her to show her their own plants. She patiently answers the questions asked by the farmers and teaches them advantageous methods of operation.
-1	ᠸᡝᡞᠯᡝᠷᠠᠨ	ᠸᡝᡞᠯᡝᠷᠠᠨ	NOUN	_	_	4	obl	_	Translit=weileran
+1	ᠸᡝᡞᠯᡝᠷᠠᠨ	ᠸᡝᡞᠯᡝᠷᠠᠨ	NOUN	_	_	4	nmod	_	Translit=weileran
 2	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	1	case	_	Translit=de
 3	ᡥᠠᠷᡨᡠᡢᡤᠠ	ᡥᠠᠷᡨᡠᡢᡤᠠ	PRON	_	PronType=Tot	4	det	_	Translit=hartungga
 4	ᡨᡠᠷᡤᡠᠨᡩᡝ	ᡨᡠᠷᡤᡠᠨ	NOUN	_	Case=Dat	13	obl	_	Translit=turgunde
@@ -18299,7 +18299,7 @@
 # text = ᡝᠷᡝᠴᡞ ᠠᠮᠠᠰᡞ 10 ᡞᠨᡝᡢᡤᡞ ᡩᠣᠯᠣ , 2000 ᡩᡠᠯᡝᠷᡝ ᡤᡠᠪᠴᡞ ᡤᡠᠷᡠᠨ ᡪᡝᡢᠰᡞᠶᡝ ᠸᡝᡞ ᠶᡠᠸᠠᠨ ᡨᡠᡧᠠᠨ ᠪᡝ ᡠᠨᡝᡢᡤᡞᠯᡝᠮᡝ ᠶᠠᠪᡠᠪᡠᠮᡝ , ᠪᡞᠷᡝᡨᡝᡞ ᠮᡠᡪᡞᠯᡝᠨ ᠪᡝ ᠪᠠᡣᡪᠠᠮᡝ ᡥᡡᠰᡠᠨ ᠪᡝ ᡞᠰᠠᠪᡠᠮᡝ , ᠠᡫᠠᠪᡠᡥᠠ ᡥᡝᠰᡝ ᡠᠨᡠᠨ ᡨᡠᡧᠠᠨ ᠪᡝ ᡝᡨᡠᡥᡠᠯᡝᠮᡝ , ᠶᡝᠪᡣᡝᠨ ᡤᡝᠷᡝᠨᡠᠰᡠ ᠪᡝ ᡤᡠᠪᠴᡞ ᡩᡝᠷᡝᡞ ᡞᠯᡞᠪᡠᠮᡝ ᠠᠷᠠᠷᠠ ᡩᡝ ᠯᠠᠰᡥᠠᡨᠠᡞ  ᡝᡨᡝᠨ ᠪᠠᡥᠠᠷᠠ 、 ᡞᠴᡝ ᡝᠷᡞᠨ ᡪᠠᠯᠠᠨ ᡪᡠᡢᡬᠣ ᠴᠣᡥᠣᡨᠣᠰᡥᡡᠨ ᠪᡞᠰᡞᠷᡝ ᡧᡝᡥᡡᡞ ᡪᡠᠠᡞ ᡥᠣᠷᠣᡢᡤᠣ ᠠᠮᠪᠠᠯᡞᡢᡤᡡ ᡝᡨᡝᠨ ᠪᡝ ᠨᡝᠮᡧᡝᠮᡝ ᠪᠠᡥᠠᠷᠠ ᡪᠠᠯᡞᠨ ᡞᠴᡝ ᠪᡞᠮᡝ ᡝᠯᡝ ᠠᠮᠪᠠ ᠠᠯᡞᠪᡠᠨ ᠪᡝ ᠠᠯᡞᠪᡠᠮᠪᡞ 。
 # text[trans] = ereci amasi 10 inenggi dolo , 2000 dulere gubci gurun jengsiye wei yuwan tušan be unenggileme yabubume , biretei mujilen be bakjame hvsun be isabume , afabuha hese unun tušan be etuhuleme , yebken gerenusu be gubci derei ilibume arara de lashatai eten bahara 、 ice erin jalan jungcgo cohotoshvn bisire šehvi ju-i horonggo ambalinggv eten be nemšeme bahara jalin ice bime ele amba alibun be alibumbi ‫.‬
 # text[eng] = In the next 10 days, more than 2,000 members of the CPPCC National Committee will earnestly perform their duties, concentrate their efforts extensively, strengthen their mission, and make new and greater contributions to the decisive victory in building a well-off society in all respects and the victory of socialism with Chinese characteristics in the new era.
-1	ᡝᠷᡝᠴᡞ	ᡝᠷᡝᠴᡞ	DET	_	Case=Abl|PronType=Dem	4	obl	_	Translit=ereci
+1	ᡝᠷᡝᠴᡞ	ᡝᠷᡝᠴᡞ	DET	_	Case=Abl|PronType=Dem	4	nmod	_	Translit=ereci
 2	ᠠᠮᠠᠰᡞ	ᠠᠮᠠᠰᡞ	ADV	_	_	3	advmod	_	Translit=amasi
 3	10	10	NUM	_	NumType=Card	4	nummod	_	Translit=10
 4	ᡞᠨᡝᡢᡤᡞ	ᡞᠨᡝᡢᡤᡞ	NOUN	_	_	5	nmod	_	Translit=inenggi
@@ -18958,7 +18958,7 @@
 9	ᡩᡠᠯᡞᠮᠪᠠ	ᡩᡠᠯᡞᠮᠪᠠ	NOUN	_	_	8	compound	_	Translit=dulimba
 10	ᡞᠯᡞᠪᡠᠮᡝ	ᡞᠯᡞᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	70	advcl	_	Translit=ilibume
 11	,	,	PUNCT	_	_	10	punct	_	Translit=,
-12	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	15	obl	_	Translit=jungyang
+12	ᡪᡠᡢᠶᠠᡢ	ᡪᡠᡢᠶᠠᡢ	NOUN	_	_	15	nmod	_	Translit=jungyang
 13	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Abl	12	case	_	Translit=deri
 14	ᡨᠣᡣᠰᠣ	ᡨᠣᡣᠰᠣ	NOUN	_	_	15	nmod	_	Translit=tokso
 15	ᠰᡞᡩᡝᠨ	ᠰᡞᡩᡝᠨ	NOUN	_	_	19	nsubj	_	Translit=siden
@@ -19054,9 +19054,9 @@
 # text = ᠪᡝ ᡝᠷᡝ ᠠᠨᡞᠶᠠ ᡩᡝ ᠣᠶᠣᡢᡤᠣᡢᡤᡝ ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ ᡨᡠᡧᠠᠨ ᠮᡠᡨᡝᠨ ᠣᠷᠣᠨ ᡨᠣᡣᡨᠣᠪᡠᠷᡝ ᠪᡝ ᡥᠠᡥᡞ ᠴᡞᠷᠠᠯᠠᠮᡝ ᡪᠠᡫᠠᡫᡞ , ᡝᠷᡝ ᠠᠨᡞᠶᠠ ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ  ᡞ ᡥᠠᠯᠠᠨ ᠶᠠᠪᡠᠪᡠᠷᡝ ᠶᠠᠷᡤᡞᠶᠠᠯᠠᠮᡝ ᠶᠠᠪᡠᠪᡠᠷᡝ ᠪᠠᡩᠠᠷᠠᠷᠠ ᡤᡡᠨᡞᡤᠠᠨ ᡨᡠᠴᡞᠪᡠᠷᡝ ᠪᡝ ᠨᡝᠮᡧᡝᠮᡝ , ᠪᠣ ᡠ ᡤᡠᠸᠠᠨ ᡞᠴᡝ ᠪᠠᡞᠪᡠᠰᡥᡡᠨ ᠪᡝ ᡪᠠᠯᡠᡣᡞᠶᠠᠮᠪᡞ 。
 # text[trans] = be ere aniya de oyonggongge bo u guwan tušan muten oron toktobure be hahi ciralame jafafi , ere aniya bo u guwan i halan yabubure yargiyalame yabubure badarara gvnigan tucibure be nemšeme , bo u guwan ice baibushvn be jalukiyambi ‫.‬
 # text[eng] =
-1	ᠪᡝ	ᠪᡝ	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	5	obl	_	Translit=be
+1	ᠪᡝ	ᠪᡝ	PRON	_	Clusivity=In|Number=Plur|Person=1|PronType=Prs	5	nmod	_	Translit=be
 2	ᡝᠷᡝ	ᡝᠷᡝ	DET	_	PronType=Dem	3	det	_	Translit=ere
-3	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	5	obl:tmod	_	Translit=aniya
+3	ᠠᠨᡞᠶᠠ	ᠠᠨᡞᠶᠠ	NOUN	_	_	5	nmod:tmod	_	Translit=aniya
 4	ᡩᡝ	ᡩᡝ	ADP	_	Case=Dat	3	case	_	Translit=de
 5	ᠣᠶᠣᡢᡤᠣᡢᡤᡝ	ᠣᠶᠣᡢᡤᠣᡢᡤᡝ	NOUN	_	_	40	nsubj	_	Translit=oyonggongge
 6	ᠪᠣ	ᠪᠣ	X	_	_	10	nmod	_	Translit=bo
@@ -19298,7 +19298,7 @@
 7	ᡝᠪᠰᡞᡥᡝᡞ	ᡝᠪᠰᡞᡥᡝᡞ	ADV	_	_	8	advmod	_	Translit=ebsihei
 8	ᠶᠠᠪᡠᠮᡝ	ᠶᠠᠪᡠᠮᠪᡞ	VERB	_	Aspect=Imp|VerbForm=Conv	21	advcl	_	Translit=yabume
 9	,	,	PUNCT	_	_	8	punct	_	Translit=,
-10	ᡩᡝᠷᡞᠪᡠᠨ	ᡩᡝᠷᡞᠪᡠᠨ	NOUN	_	_	12	obl	_	Translit=deribun
+10	ᡩᡝᠷᡞᠪᡠᠨ	ᡩᡝᠷᡞᠪᡠᠨ	NOUN	_	_	12	nmod	_	Translit=deribun
 11	ᡩᡝᠷᡞ	ᡩᡝᠷᡞ	ADP	_	Case=Abl	10	case	_	Translit=deri
 12	ᡩᡠᠪᡝᠨ	ᡩᡠᠪᡝᠨ	NOUN	_	_	13	nmod	_	Translit=duben
 13	ᠰᡞᡩᡝᠨ	ᠰᡞᡩᡝᠨ	NOUN	_	_	17	obl	_	Translit=siden
