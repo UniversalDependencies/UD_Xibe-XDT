@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Xibe-XDT:
-commit d8fabc154aafa987e268ddfe99a4ef9f696a7541
-Merge: 351e063 19ea2ec
+commit e5838f01f9101ab7529055045d0229c5482fd9f1
+Merge: f96d2ac af885e7
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'sjo_xdt'
@@ -39,25 +39,25 @@ Genres: found 2 out of 18 known.
 [Line 700 Sent grammarbook_sjo_p1_54]: [L3 SYNTAX too-many-objects] Multiple direct objects [2, 5] ('ᠮᡠᡨᡝᡧᠠᠨ Mutešan', 'ᡪᠠᠰᡞᡤᠠᠨ jasigan') under the predicate 'ᡠᡢᡤᡞᠪᡠᡥᡝ unggibuhe'.
 [Line 715 Sent grammarbook_sjo_p1_55]: [L3 SYNTAX too-many-objects] Multiple direct objects [3, 7] ('ᠣᠮᠣᠯᠣ omolo', 'ᡨᠠᠴᡞᠪᠴᡝᠨ tacibcen') under the predicate 'ᡥᡡᠯᠠᠪᡠᠮᠪᡞ hvlabumbi'.
 [Line 726 Sent grammarbook_sjo_p1_56]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 4] ('ᡨᠠᠴᡞᠰᡞ tacisi', 'ᡩᡠᠷᡠᠨ durun') under the predicate 'ᡨᡠᠸᠠᡣᡞᠶᠠᠪᡠᠮᠪᡞ tuwakiyabumbi'.
-[Line 952 Sent grammarbook_sjo_p1_71]: [L3 SYNTAX obl-should-be-nmod] The parent (node [6] 'ᠠᠮᠠ ama') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 1224 Sent grammarbook_sjo_p1_95]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (3:ᡫᡠᠯᡥᡡ:clf --> 2:ᡝᠮᡠ:nummod)
-[Line 1245 Sent grammarbook_sjo_p1_97]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'ᡫᠣᠨᡪᡞᠨ fonjin') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 1386 Sent grammarbook_sjo_p1_109]: [L3 SYNTAX leaf-clf] 'clf' not expected to have children (3:ᡫᡝᠮᡦᡞ:clf --> 2:ᡝᠮᡠ:nummod)
-[Line 2339 Sent grammarbook_sjo_p2_47]: [L3 SYNTAX obl-should-be-nmod] The parent (node [4] 'ᡨᠠᠴᡞᠰᡞ tacisi') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
 [Line 3150 Sent grammarbook_sjo_p4_10]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᡨᡠᠮᡝᠨ ᡩᡝ' does not have the 'ExtPos' feature
 [Line 3165 Sent grammarbook_sjo_p4_11]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᡨᡠᠮᡝᠨ ᡩᡝ' does not have the 'ExtPos' feature
 [Line 3267 Sent grammarbook_sjo_p4_17]: [L3 SYNTAX too-many-objects] Multiple direct objects [9, 13] ('ᠪᠣᡠᠷᠠᠨ boolan', 'ᠨᡞᠶᠠᠯᠮᠠ niyalma') under the predicate 'ᠪᡝᠯᡥᡝ belhe'.
 [Line 3302 Sent grammarbook_sjo_p4_20]: [L3 SYNTAX too-many-objects] Multiple direct objects [1, 5] ('ᡨᠠᠴᡞᠨ tacin', 'ᡠᡪᡠ uju') under the predicate 'ᡤᠠᡞᠮᠪᡞ gaimbi'.
-...suppressing further messages regarding ERROR/SYNTAX
 [Line 4098 Sent grammarbook_sjo_p2_92]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᡩᡞᠶᠠᠨ ᠨᠠᡠ' does not have the 'ExtPos' feature
 [Line 4102 Sent grammarbook_sjo_p2_92]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᠠᠮᠪᠠ ᠮᡠᠷᡠ' does not have the 'ExtPos' feature
+[Line 8558 Sent 20190101P1_2]: [L3 SYNTAX too-many-objects] Multiple direct objects [20, 38] ('ᠰᠠᡞᡢᡤᡞ sainggi', 'ᡥᡞᡩᠠ hida') under the predicate 'ᠨᡝᡞᡥᡝᠪᡞ neihebi'.
 [Line 11240 Sent 20190104P2_1]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᠴᡞ ᠶᡝ' does not have the 'ExtPos' feature
 [Line 11368 Sent 20190104P2_3]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᠴᡞ ᠶᡝ' does not have the 'ExtPos' feature
 [Line 11404 Sent 20190104P2_4]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᠴᡞ ᠶᡝ' does not have the 'ExtPos' feature
+[Line 11643 Sent 20190104P2_8]: [L3 SYNTAX too-many-objects] Multiple direct objects [37, 47] ('ᠨᡞᠶᠠᠯᠮᠠ niyalma', 'ᡪᡠᡤᡡᠨ jugvn') under the predicate 'ᠶᠠᠪᡠᠪᡠᠮᠠᡥᠠᠪᡞ yabubumahabi'.
+[Line 13449 Sent 20190111P1_10]: [L3 SYNTAX too-many-objects] Multiple direct objects [8, 12] ('ᠸᡝᡞᠯᡝᠷᠠᠨ weileran', 'ᠶᠠᠷᡥᡡᡩᠠᠷᠠ yarhvdara') under the predicate 'ᡝᡨᡠᡥᡠᠯᡝᠮᡝ etuhuleme'.
 [Line 13969 Sent 20190111P2_8]: [L3 WARNING fixed-without-extpos] Fixed expression 'ᡝᠮᡠ ᠠᡩᠠᠯᡞ' does not have the 'ExtPos' feature
+...suppressing further messages regarding ERROR/SYNTAX
 Warnings: 687
-SYNTAX errors: 30
-*** FAILED *** with 30 errors
+SYNTAX errors: 13
+*** FAILED *** with 13 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.111111111111111) * (score{features}=0.5) = 0.0555555555555556
